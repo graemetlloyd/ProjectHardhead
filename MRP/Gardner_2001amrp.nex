@@ -1,0 +1,25 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=12 NCHAR=10;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Balanerpeton     0000000000
+Dendrerpeton     0000000001
+Apateon          0000000011
+Doleserpeton     0000000111
+Apoda            0000011111
+Eocaecilia       0000011111
+Urodela          0011101111
+Karauridae       0011101111
+Anura            0101101111
+Triadobatrachus  0101101111
+Albanerpeton     1000101111
+Celtedens        1000101111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

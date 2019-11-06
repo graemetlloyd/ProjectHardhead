@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Anderson, J. S.</List>
+			<List>Henrici, A. C.</List>
+			<List>Sumida, S. S.</List>
+			<List>Martens, T.</List>
+			<List>Berman, D. S.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title><em>Georgenthalia clavinasica</em>, a new genus and species of dissorophoid temnospondyl from the Early Permian of Germany, and the relationships of the family Amphibamidae</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>28</Volume>
+		<Pages>61-75</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton_acadianum</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus_haeuseri</List>
+		<List recon_name="Eryopidae" recon_no="37007">Eryopidae</List>
+		<List recon_name="Micromelerpeton_credneri" recon_no="341560">Micromelerpeton_credneri</List>
+		<List recon_name="Amphibamus_grandiceps" recon_no="229305">Amphibamus_grandiceps</List>
+		<List recon_name="Platyrhinops_lyelli" recon_no="345482">Platyrhinops_lyelli</List>
+		<List recon_name="Doleserpeton_annectens" recon_no="140536">Doleserpeton_annectens</List>
+		<List recon_name="Eoscopus_lockardi" recon_no="229322">Eoscopus_lockardi</List>
+		<List recon_name="Micropholis_stowi" recon_no="255226">Micropholis_stowi</List>
+		<List recon_name="Tersomius_sp_MCZ_1415" recon_no="37035">Tersomius_sp</List>
+		<List recon_name="Ecolsonia_cutlerensis" recon_no="229320">Ecolsonia_cutlerensis</List>
+		<List recon_name="Trematopidae" recon_no="123219">Trematopidae</List>
+		<List recon_name="Dissorophinae" recon_no="123220">Dissorophinae</List>
+		<List recon_name="Cacopinae" recon_no="123221">Cacopinae</List>
+		<List recon_name="Georgenthalia_clavinasica" recon_no="123084">Georgenthalia_clavinasica</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="53">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Anderson_etal_2008b</Filename>
+	<Parent>Schoch_et_Rubidge_2005a</Parent>
+	<Sibling/>
+</SourceTree>

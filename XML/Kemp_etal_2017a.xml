@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Kemp, A.</List>
+			<List>Cavin, L.</List>
+			<List>Huinot, G.</List>
+		</Author>
+		<Year>2017</Year>
+		<Title>Evolutionary history of lungfishes with a new phylogeny of post-Devonian genera</Title>
+		<Journal>Palaeogeography, Palaeoclimatology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List recon_name="Dipterus" recon_no="34888">Dipterus</List>
+		<List recon_name="Chirodipterus" recon_no="34883">Chirodipterus</List>
+		<List recon_name="Sagenodus" recon_no="137509">Sagenodus</List>
+		<List recon_name="Ctenodus" recon_no="209443">Ctenodus</List>
+		<List recon_name="Gnathorhiza" recon_no="90709">Gnathorhiza</List>
+		<List recon_name="Ceratodus" recon_no="54495">Ceratodus</List>
+		<List recon_name="Ferganoceratodus" recon_no="197863">Ferganoceratodus</List>
+		<List recon_name="Ptychoceratodus" recon_no="65066">Ptychoceratodus</List>
+		<List recon_name="Lepidosiren" recon_no="256136">Lepidosiren</List>
+		<List recon_name="Protopterus" recon_no="91688">Protopterus</List>
+		<List recon_name="Mioceratodus" recon_no="321037">Mioceratodus</List>
+		<List recon_name="Neoceratodus" recon_no="91691">Neoceratodus</List>
+		<List recon_name="Gosfordia" recon_no="213310">Gosfordia</List>
+		<List recon_name="Persephonichthys" recon_no="306765">Persephonichthys</List>
+		<List recon_name="Uronemus" recon_no="209500">Uronemus</List>
+		<List recon_name="Paraceratodus" recon_no="194435">Paraceratodus</List>
+		<List recon_name="Conchopoma" recon_no="259451">Conchopoma</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="74">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Kemp_etal_2017a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

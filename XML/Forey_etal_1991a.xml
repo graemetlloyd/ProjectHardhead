@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Forey, P. L.</List>
+			<List>Gardiner, B. G.</List>
+			<List>Patterson, C.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>The lungfish, the coelacanth, and the cow revisited</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>145-172</Pages>
+		<Booktitle>Origins of Major Groups of Tetrapods: Controversies and Consensus</Booktitle>
+		<Publisher>Cornell University Press</Publisher>
+		<City>Ithaca</City>
+		<Editor>
+			<List>Schultze, H.-P.</List>
+			<List>Trueb, L.</List>
+		</Editor>
+	</Source>
+	<Taxa number="9">
+		<List recon_name="Actinopterygii" recon_no="67345">Actinopterygians</List>
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
+		<List recon_name="Porolepiformes" recon_no="149970">Porolepiforms</List>
+		<List recon_name="Youngolepis" recon_no="34962">Youngolepis</List>
+		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis</List>
+		<List recon_name="Dipnoi" recon_no="57668">Lungfishes</List>
+		<List recon_name="Coelacanthimorpha" recon_no="266393">Coelacanths</List>
+		<List recon_name="Tetrapoda" recon_no="137279">Tetrapods</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="43">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Forey_etal_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

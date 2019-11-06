@@ -1,0 +1,27 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=14 NCHAR=14;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Loxomma                       00000000000000
+Baphetes                      00000000000001
+Balanerpeton_woodi            00000000000111
+Capetus_palustris             00000000001011
+Saharastega_moradiensis       00000000011111
+Edops_craigi                  00000001111111
+Procochleosaurus_jarrowensis  00000011111111
+Adamanterpeton_ohioensis      00000111111111
+Cochleosaurus_bohemicus       00111111111111
+Cochleosaurus_florensis       00011111111111
+Nigerpeton_ricqlesi           01101111111111
+Chenoprosopus_milleri         11101111111111
+Chenoprosopus_lewisi          11101111111111
+Eryops_megacephalus           00000000111111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

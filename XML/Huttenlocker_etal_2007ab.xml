@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Huttenlocker, A. K.</List>
+			<List>Pardo, J. D.</List>
+			<List>Small, B. J.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title><em>Plemmyradytes shintoni</em>, gen. et sp. nov., an Early Permian amphibamid (Temnospondyli: Dissorophoidea) from the Eskridge Formation, Nebraska</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>27</Volume>
+		<Pages>316-328</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
+		<List recon_name="Eryopidae" recon_no="37007">Eryopidae</List>
+		<List recon_name="Branchiosaurus" recon_no="37039">Branchiosaurus</List>
+		<List recon_name="Apateon" recon_no="37038">Apateon</List>
+		<List recon_name="Micromelerpeton" recon_no="37044">Micromelerpeton</List>
+		<List recon_name="Amphibamus" recon_no="37019">Amphibamus</List>
+		<List recon_name="Platyrhinops" recon_no="123089">Platyrhinops</List>
+		<List recon_name="Doleserpeton" recon_no="37046">Doleserpeton</List>
+		<List recon_name="Eoscopus" recon_no="123090">Eoscopus</List>
+		<List recon_name="Micropholis" recon_no="37033">Micropholis</List>
+		<List recon_name="Tersomius_sp_MCZ_1415" recon_no="37035">Tersomius_sp</List>
+		<List recon_name="Tersomius_mosesi" recon_no="90714">Tersomius_mosesi</List>
+		<List recon_name="Plemmyradytes" recon_no="193398">Plemmyradytes</List>
+		<List recon_name="Ecolsonia" recon_no="37028">Ecolsonia</List>
+		<List recon_name="Trematopidae" recon_no="123219">Trematopidae</List>
+		<List recon_name="Dissorophinae" recon_no="123220">Dissorophinae</List>
+		<List recon_name="Cacopinae" recon_no="123221">Cacopinae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="67">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Huttenlocker_etal_2007ab</Filename>
+	<Parent>Schoch_et_Rubidge_2005a</Parent>
+	<Sibling/>
+</SourceTree>

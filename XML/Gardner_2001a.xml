@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gardner, J. D.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Monophyly and affinities of albanerpetontid amphibians (Temnospondyli; Lissamphibia)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>131</Volume>
+		<Pages>309-352</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List recon_name="Balanerpeton" recon_no="227174">Balanerpeton</List>
+		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
+		<List recon_name="Apateon" recon_no="37038">Apateon</List>
+		<List recon_name="Doleserpeton" recon_no="37046">Doleserpeton</List>
+		<List recon_name="Apoda" recon_no="106732">Apoda</List>
+		<List recon_name="Eocaecilia" recon_no="156676">Eocaecilia</List>
+		<List recon_name="Urodela" recon_no="137499">Urodela</List>
+		<List recon_name="Karauridae" recon_no="37341">Karauridae</List>
+		<List recon_name="Anura" recon_no="150288">Anura</List>
+		<List recon_name="Triadobatrachus" recon_no="37421">Triadobatrachus</List>
+		<List recon_name="Albanerpeton" recon_no="37345">Albanerpeton</List>
+		<List recon_name="Celtedens" recon_no="156364">Celtedens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="59">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gardner_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

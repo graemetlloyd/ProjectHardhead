@@ -1,0 +1,28 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=13 NCHAR=16;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Balanerpeton_woodi           0000000000000000
+Cochleosaurus_bohemicus      1000000000000000
+Micropholis_stowi            1110000000100000
+Acanthostomatops_vorax       1110000000100000
+Iberospondylus_schultzei     1010000000000000
+Eryops_megacephalus          1011100001010000
+Onchiodon_labyrinthicus      1011100001010000
+Remigiusberg_mandible        1010000001111111
+Sclerocephalus_haeuseri      1010110001001000
+Glanochthon_angusta          1010111001001100
+Intasuchus_silvicola         1010111101001110
+Archegosaurus_decheni        1010111111001111
+Platyoposaurus_stuckenbergi  1010111111001111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

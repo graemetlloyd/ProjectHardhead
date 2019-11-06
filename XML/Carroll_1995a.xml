@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carroll, R. L.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>Problems of the phylogenetic analysis of Paleozoic choanates</Title>
+		<Journal>Bulletin du Museum national d'Histoire naturelle, Paris, 4e ser.</Journal>
+		<Volume>17</Volume>
+		<Pages>389-445</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">eusthenopteron</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">panderichthys</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">acanthostega</List>
+		<List recon_name="Ichthyostega" recon_no="36965">ichthyostega</List>
+		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">crassigyrinus</List>
+		<List recon_name="Loxommatidae" recon_no="36969">loxommatids</List>
+		<List recon_name="Anthracosauridae" recon_no="37199">anthracosaurs</List>
+		<List recon_name="Seymouriamorpha" recon_no="37206">seymouriamorphs</List>
+		<List recon_name="Westlothiana_lizziae" recon_no="179032">westlothiana</List>
+		<List recon_name="Diadectomorpha" recon_no="95313">diadectomorphs</List>
+		<List recon_name="Amniota" recon_no="53189">amniotes</List>
+		<List recon_name="Colosteidae" recon_no="36975">colosteids</List>
+		<List recon_name="Temnospondyli" recon_no="36320">temnospondyls</List>
+		<List recon_name="Nectridea" recon_no="156892">nectrideans</List>
+		<List recon_name="Microsauria" recon_no="37278">microsaurs</List>
+		<List recon_name="Adelogyrinidae" recon_no="37325">adelogyrinids</List>
+		<List recon_name="Lysorophidae" recon_no="37320">lysorophids</List>
+		<List recon_name="Aistopoda" recon_no="37251">aistopods</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="184">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carroll_1995a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

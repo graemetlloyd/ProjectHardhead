@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Pawley, K.</List>
+			<List>Warren, A.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A terrestrial stereospondyl from the Lower Triassic of South Africa: the postcranial skeleton of <em>Lydekkerina huxleyi</em> (Amphibia: Temnospondyli)</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>48</Volume>
+		<Pages>281-298</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="16">
+		<List recon_name="Eryops" recon_no="37011">Eryops</List>
+		<List recon_name="Trematopidae" recon_no="123219">Trematopidae</List>
+		<List recon_name="Dissorophidae" recon_no="37017">Dissorophidae</List>
+		<List recon_name="Sclerocephalus" recon_no="37015">Sclerocephalus</List>
+		<List recon_name="Archegosaurus" recon_no="37058">Archegosaurus</List>
+		<List recon_name="Platyoposaurus" recon_no="37060">Platyoposaurus</List>
+		<List recon_name="Peltobatrachus" recon_no="37084">Peltobatrachus</List>
+		<List recon_name="Rhinesuchidae" recon_no="37065">Rhinesuchidae</List>
+		<List recon_name="Lydekkerina" recon_no="37078">Lydekkerina</List>
+		<List recon_name="Eryosuchus_pronus" recon_no="172539">Eryosuchus_pronus</List>
+		<List recon_name="Mastodonsaurus" recon_no="37108">Mastodonsaurus</List>
+		<List recon_name="Benthosuchus" recon_no="37087">Benthosuchus</List>
+		<List recon_name="Trematosauridae" recon_no="37124">Trematosauridae</List>
+		<List recon_name="Buettneria" recon_no="53043">Buettneria</List>
+		<List recon_name="Rhytidosteidae" recon_no="37110">Rhytidosteidae</List>
+		<List recon_name="Pelorocephalus" recon_no="37160">Pelorocephalus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="146">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Pawley_et_Warren_2005a</Filename>
+	<Parent>Yates_et_Warren_2000a</Parent>
+	<Sibling/>
+</SourceTree>

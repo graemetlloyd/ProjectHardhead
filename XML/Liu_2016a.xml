@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+    <Source>
+        <Author>
+            <List>Liu, J.</List>
+        </Author>
+        <Year>2016</Year>
+        <Title><em>Yuanansuchus maopingchangensis</em> sp. nov., the second capitosauroid temnospondyl from the Middle Triassic Badong Formation of Yuanan, Hubei, China</Title>
+        <Journal>PeerJ</Journal>
+        <Volume>4</Volume>
+        <Pages>e1903</Pages>
+        <Booktitle/>
+        <Publisher/>
+        <City/>
+        <Editor/>
+    </Source>
+	<Taxa number="30">
+		<List recon_name="Lydekkerina_huxleyi" recon_no="255237">Lydekkerina_huxleyi</List>
+		<List recon_name="Uranocentrodon_senekalensis" recon_no="255236">Uranocentrodon_senekalensis</List>
+		<List recon_name="Rhineceps_nyasaensis" recon_no="267022">Rhineceps_nyasaensis</List>
+		<List recon_name="Angusaurus" recon_no="58499">Angusaurus_spp</List>
+		<List recon_name="Benthosuchus_sushkini" recon_no="269989">Benthosuchus_sushkini</List>
+		<List recon_name="Calmasuchus_acri" recon_no="174775">Calmasuchus_acri</List>
+		<List recon_name="Cherninia_denwai" recon_no="269998">Cherninis_denwai</List>
+		<List recon_name="Cyclotosaurus_robustus" recon_no="57085">Cyclotosaurus_robustus</List>
+		<List recon_name="Edingerella_madagascariensis" recon_no="251497">Edingerella_madagascariensis</List>
+		<List recon_name="Eocyclotosaurus" recon_no="37096">Eocyclotosaurus_spp</List>
+		<List recon_name="Eryosuchus_garjainovi" recon_no="169905">Eryosuchus_garjainovi</List>
+		<List recon_name="Mastodonsaurus_giganteus" recon_no="150365">Mastodonsaurus_giganteus</List>
+		<List recon_name="Odenwaldia_heidelbergensis" recon_no="202715">Odenwaldia_heidelbergensis</List>
+		<List recon_name="Paracyclotosaurus_crookshanki" recon_no="270188">Paracyclotosaurus_crooshkanki</List>
+		<List recon_name="Parotosuchus_orenburgensis" recon_no="265669">Parotosuchus_orenburgensis</List>
+		<List recon_name="Procyclotosaurus_stantonensis" recon_no="57087">Procyclotosaurus_stantonensis</List>
+		<List recon_name="Quasicyclotosaurus_campi" recon_no="165258">Quasicyclotosaurus_campi</List>
+		<List recon_name="Tatrasuchus_wildi" recon_no="270204">Tatrasuchus_wildi</List>
+		<List recon_name="Thoosuchus_yakovlevi" recon_no="362936">Thoosuchus_yakovlevi</List>
+		<List recon_name="Trematosaurus_brauni" recon_no="248613">Trematosaurus_brauni</List>
+		<List recon_name="Stanocephalosaurus_birdi" recon_no="165248">Stanocephalosaurus_birdi</List>
+		<List recon_name="Stanocephalosaurus_pronus" recon_no="251492">Stanocephalosaurus_pronus</List>
+		<List recon_name="Vladlenosaurus_alexeyevi" recon_no="367543">Vladlenosaurus_alexeyevi</List>
+		<List recon_name="Watsonisuchus" recon_no="251273">Watsonisuchus_spp</List>
+		<List recon_name="Wetlugasaurus_angustifrons" recon_no="270206">Wetlugasaurus_angustifrons</List>
+		<List recon_name="Xenotosuchus_africanus" recon_no="264119">Xenotosuchus_africanus</List>
+		<List recon_name="Antarctosuchus_polyodon" recon_no="324881">Antarctosuchus_polyodon</List>
+		<List recon_name="Yuanansuchus_laticeps" recon_no="170523">Yuanansuchus_laticeps</List>
+		<List recon_name="Yuanansuchus_maopingchangensis" recon_no="367548">Yuanansuchus_maopingchangensis_1</List>
+		<List recon_name="Yuanansuchus_maopingchangensis" recon_no="367548">Yuanansuchus_maopingchangensis_2</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Liu_2016a</Filename>
+    <Parent>Fortuny_etal_2011a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Frobisch, N. B.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new Lower Permian amphibamid (Dissorophoidea, Temnospondyli) from the fissure fill deposits near Richards Spur, Oklahoma</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>28</Volume>
+		<Pages>1015-1030</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
+		<List recon_name="Sclerocephalus" recon_no="37015">Sclerocephalus</List>
+		<List recon_name="Eryopidae" recon_no="37007">Eryopidae</List>
+		<List recon_name="Micromelerpeton" recon_no="37044">Micromelerpeton</List>
+		<List recon_name="Amphibamus" recon_no="37019">Amphibamus</List>
+		<List recon_name="Platyrhinops" recon_no="123089">Platyrhinops</List>
+		<List recon_name="Doleserpeton" recon_no="37046">Doleserpeton</List>
+		<List recon_name="Eoscopus" recon_no="123090">Eoscopus</List>
+		<List recon_name="Micropholis" recon_no="37033">Micropholis</List>
+		<List recon_name="Tersomius" recon_no="37035">Tersomius</List>
+		<List recon_name="Ecolsonia" recon_no="37028">Ecolsonia</List>
+		<List recon_name="Trematopidae" recon_no="123219">Trematopidae</List>
+		<List recon_name="Dissorophinae" recon_no="123220">Dissorophinae</List>
+		<List recon_name="Cacopinae" recon_no="123221">Cacopinae</List>
+		<List recon_name="Pasawioops" recon_no="152838">Pasawioops</List>
+		<List recon_name="Plemmyradytes" recon_no="193398">Plemmyradytes</List>
+		<List recon_name="Georgenthalia" recon_no="123078">Georgenthalia</List>
+		<List recon_name="Gerobatrachus" recon_no="153287">Gerobatrachus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="62">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Frobisch_et_Reisz_2008b</Filename>
+	<Parent>Schoch_et_Rubidge_2005a</Parent>
+	<Sibling/>
+</SourceTree>

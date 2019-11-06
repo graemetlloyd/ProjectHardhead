@@ -1,0 +1,21 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=8 NCHAR=6;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Actinopterygii   000000
+Tetrapoda        001111
+Panderichthyida  001111
+Osteolepiformes  000111
+Porolepiformes   000011
+Diabolepis       110001
+Dipnoi           110001
+Actinistia       010001
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

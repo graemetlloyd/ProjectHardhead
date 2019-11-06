@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Cisneros, J. C.</List>
+			<List>Marsicano, C.</List>
+			<List>Angielczyk, K. D.</List>
+			<List>Smith, R. M. H.</List>
+			<List>Richter, M.</List>
+			<List>Frobisch, J.</List>
+			<List>Kammerer, C. F.</List>
+			<List>Sadleir, R. W.</List>
+		</Author>
+		<Year>2015</Year>
+		<Title>New Permian fauna from tropical Gondwana</Title>
+		<Journal>Nature Communications</Journal>
+		<Volume>6</Volume>
+		<Pages>8676</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="17">
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops_megacephalus</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus_hauseri</List>
+		<List recon_name="Archegosaurus_decheni" recon_no="255841">Archegosaurus_decheni</List>
+		<List recon_name="Benthosuchus_sushkini" recon_no="269989">Benthosuchus_sushkini</List>
+		<List recon_name="Rhinesuchidae" recon_no="37065">Rhinesuchidae</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton_acadianum</List>
+		<List recon_name="Trimerorhachis_insignis" recon_no="90711">Trimerorhachis_insignis</List>
+		<List recon_name="Neldasaurus_wrightae" recon_no="229335">Neldasaurus_wrightae</List>
+		<List recon_name="Perryella_olsoni" recon_no="242727">Perryella_olsoni</List>
+		<List recon_name="Isodectes_punctulatus" recon_no="313050">Isodectes_punctulatus</List>
+		<List recon_name="Acroplous_vorax" recon_no="255215">Acroplous_vorax</List>
+		<List recon_name="Dvinosaurus_primus" recon_no="56905">Dvinosaurus_primus</List>
+		<List recon_name="Slaugenhopia_texensis" recon_no="349879">Slaugenhopia_texensis</List>
+		<List recon_name="Tupilakosaurus" recon_no="36321">Tupilakosaurus_sp</List>
+		<List recon_name="Thabanchuia_oomie" recon_no="242829">Thabanchuia_oomie</List>
+		<List recon_name="Timonya_anneae" recon_no="345832">Timonya_anneae</List>
+		<List recon_name="Procuhy_nazariensis" recon_no="345834">Procuhy_nazariensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="115">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cisneros_etal_2015b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

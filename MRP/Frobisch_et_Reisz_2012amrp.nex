@@ -1,0 +1,32 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=17 NCHAR=14;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Sclerocephalus_haeuseri   00000000000000
+Cacops_morrisi            11111110000000
+Cacops_woehri             11111110000000
+Broiliellus_brevis        01111110000000
+Conjunctio_sp             00111110000000
+Aspidosaurus_binasser     00111110000000
+Eoscopus_lockardi         00011110000001
+Micropholis_stowi         00001110000001
+Micromelerpeton_credneri  00000110000000
+Phonerpeton_pricei        00000011000000
+Acheloma_cumminsi         00000011110000
+Acheloma_dunni            00000011110000
+Actiobates_peabodyi       00000011011000
+Ecolsonia_cutlerensis     00000011011100
+Tambachia_trogallas       00000011011110
+Anconastes_vesperus       00000011011110
+Dissorophus_multicinctus  11111110000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

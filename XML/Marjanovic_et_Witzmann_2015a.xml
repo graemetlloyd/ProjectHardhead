@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Marjanovic, D.</List>
+			<List>Witzmann, F.</List>
+		</Author>
+		<Year>2015</Year>
+		<Title>Extremely peramorphic newt (Urodela: Salamandridae: Pleurodelini) from the latest Oligocene of Germany, and a new phylogenetic analysis of extant and extinct salamandrids</Title>
+		<Journal>PLOS One</Journal>
+		<Volume>10</Volume>
+		<Pages>e0137068</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="36">
+		<List recon_name="DELETE" recon_no="-1">Ambystoma</List>
+		<List recon_name="DELETE" recon_no="-1">Dicamptodon</List>
+		<List recon_name="DELETE" recon_no="-1">Salamandra</List>
+		<List recon_name="DELETE" recon_no="-1">Chioglossa</List>
+		<List recon_name="DELETE" recon_no="-1">Salamandrina</List>
+		<List recon_name="DELETE" recon_no="-1">Tylototriton</List>
+		<List recon_name="DELETE" recon_no="-1">Echinotriton</List>
+		<List recon_name="DELETE" recon_no="-1">Pleurodeles</List>
+		<List recon_name="Notophthalmus_viridescens" recon_no="110839">Notophthalmus_viridescens</List>
+		<List recon_name="DELETE" recon_no="-1">Taricha_torosa_et_granulosa</List>
+		<List recon_name="DELETE" recon_no="-1">Euproctus</List>
+		<List recon_name="DELETE" recon_no="-1">Cynops</List>
+		<List recon_name="DELETE" recon_no="-1">Paramesotriton</List>
+		<List recon_name="DELETE" recon_no="-1">Pachytriton</List>
+		<List recon_name="DELETE" recon_no="-1">Neurergus</List>
+		<List recon_name="DELETE" recon_no="-1">Ommatotriton</List>
+		<List recon_name="DELETE" recon_no="-1">Calotriton</List>
+		<List recon_name="Triturus_marmoratus" recon_no="252937">Triturus_marmoratus</List>
+		<List recon_name="DELETE" recon_no="-1">Triturus_Triturus</List>
+		<List recon_name="DELETE" recon_no="-1">Lissotriton_vulgaris</List>
+		<List recon_name="DELETE" recon_no="-1">Lissotriton_montandoni</List>
+		<List recon_name="DELETE" recon_no="-1">Lissotriton_italicus</List>
+		<List recon_name="DELETE" recon_no="-1">Lissotriton_helveticus</List>
+		<List recon_name="DELETE" recon_no="-1">Lissotriton_boscai</List>
+		<List recon_name="DELETE" recon_no="-1">Ichthyosaura_alpestris</List>
+		<List recon_name="DELETE" recon_no="-1">Ichthyosaura_randeckensis</List>
+		<List recon_name="DELETE" recon_no="-1">Carpathotriton</List>
+		<List recon_name="DELETE" recon_no="-1">Archaeotriton</List>
+		<List recon_name="DELETE" recon_no="-1">MB_dot_Am_dot_45</List>
+		<List recon_name="DELETE" recon_no="-1">Enspel_slash_Randeck_Chelotriton</List>
+		<List recon_name="DELETE" recon_no="-1">Brachycormus</List>
+		<List recon_name="Triturus_roehrsi" recon_no="269999">Triturus_roehrsi</List>
+		<List recon_name="DELETE" recon_no="-1">Taricha_miocenica</List>
+		<List recon_name="Notophthalmus_crassus" recon_no="110709">Notophthalmus_crassus</List>
+		<List recon_name="Notophthalmus_robustus" recon_no="279397">Notophthalmus_robustus</List>
+		<List recon_name="DELETE" recon_no="-1">Koalliella</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="98">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Marjanovic_et_Witzmann_2015a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

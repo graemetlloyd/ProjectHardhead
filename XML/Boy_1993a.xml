@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Boy, J. A.</List>
+		</Author>
+		<Year>1993</Year>
+		<Title>On some representatives of the Eryopoidea (Amphibia: Temnospondyli) from the European Rotliegend (?uppermost Carboniferous - Permian). 4. <em>Cheliderpeton latirostre</em></Title>
+		<Journal>Palaontologische Zeitschrift</Journal>
+		<Volume>67</Volume>
+		<Pages>123-143</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="13">
+		<List recon_name="DELETE" recon_no="0">Ancestor</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops</List>
+		<List recon_name="Clamorosaurus" recon_no="37010">Clamorosaurus</List>
+		<List recon_name="Syndyodosuchus_tetricus" recon_no="142539">Syndyodosuchus</List>
+		<List recon_name="Intasuchus_silvicola" recon_no="142538">Intasuchus</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus_haeuseri</List>
+		<List recon_name="Sclerocephalus_jogischneideri" recon_no="345848">Sclerocephalus_jogischneideri</List>
+		<List recon_name="Cheliderpeton_latirostre" recon_no="345886">Cheliderpeton_latirostre</List>
+		<List recon_name="Archegosaurus_decheni" recon_no="255841">Archegosaurus_decheni</List>
+		<List recon_name="Platyoposaurus_stuckenbergi" recon_no="142452">Platyoposaurus</List>
+		<List recon_name="Collidosuchus_tchudinovi" recon_no="345884">Collidosuchus</List>
+		<List recon_name="Melosaurus_uralensis" recon_no="357485">Melosaurus</List>
+		<List recon_name="Konzhukovia_vetusta" recon_no="357495">Konzhukovia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="44">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Boy_1993a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

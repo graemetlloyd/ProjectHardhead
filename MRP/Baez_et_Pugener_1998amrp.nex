@@ -1,0 +1,27 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=14 NCHAR=12;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Discoglossus       000000000000
+Pelobates          000000000011
+Rhinophrynus       000000001111
+Chelomophrynus     000000001111
+Palaeobatrachus    000000010101
+Xenopus            000011110101
+Silurana           000011110101
+Shelania_pascuali  000101110101
+Pipa               111000110101
+Eoxenopoides       011000110101
+Hymenochirini      111000110101
+Saltenia           001000110101
+Xenopus_romeri     000101110101
+Shelania_laurenti  000101110101
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
