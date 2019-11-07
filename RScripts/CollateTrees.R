@@ -1,4 +1,4 @@
-# SCRIPT TO COLLATE TREES POST TNT INFERENCE
+# SCRIPT TO COLLATE TREES POST TNT INFERENCE AND PRE STRAT CONGRUENCE
 
 # Load metatree library:
 library(metatree)
@@ -20,36 +20,36 @@ HypothesisFiveSTRMPTs <- ape::read.tree(text = gsub(" ", "", HypothesisFiveSTRMP
 HypothesisSixSTRMPTs <- ape::read.tree(text = gsub(" ", "", HypothesisSixSTRMPTs[which(unlist(lapply(strsplit(HypothesisSixSTRMPTs, ""), function(x) x[1] == "(")))]))
 
 # Write STR trees to file:
-write.tree(HypothesisOneSTRMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/Trees/STRTrees.tre")
-write.tree(HypothesisTwoSTRMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/Trees/STRTrees.tre")
-write.tree(HypothesisThreeSTRMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/Trees/STRTrees.tre")
-write.tree(HypothesisFourSTRMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/Trees/STRTrees.tre")
-write.tree(HypothesisFiveSTRMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/Trees/STRTrees.tre")
-write.tree(HypothesisSixSTRMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/Trees/STRTrees.tre")
+write.tree(HypothesisOneSTRMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/Trees/STRTrees.tre")
+write.tree(HypothesisTwoSTRMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/Trees/STRTrees.tre")
+write.tree(HypothesisThreeSTRMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/Trees/STRTrees.tre")
+write.tree(HypothesisFourSTRMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/Trees/STRTrees.tre")
+write.tree(HypothesisFiveSTRMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/Trees/STRTrees.tre")
+write.tree(HypothesisSixSTRMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/Trees/STRTrees.tre")
 
 # Read in STR tables:
-HypothesisOneSTRTable <- read.table("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/MetatreeFiles/STR.txt", header = TRUE, stringsAsFactors = FALSE)
-HypothesisTwoSTRTable <- read.table("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/MetatreeFiles/STR.txt", header = TRUE, stringsAsFactors = FALSE)
-HypothesisThreeSTRTable <- read.table("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/MetatreeFiles/STR.txt", header = TRUE, stringsAsFactors = FALSE)
-HypothesisFourSTRTable <- read.table("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/MetatreeFiles/STR.txt", header = TRUE, stringsAsFactors = FALSE)
-HypothesisFiveSTRTable <- read.table("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/MetatreeFiles/STR.txt", header = TRUE, stringsAsFactors = FALSE)
-HypothesisSixSTRTable <- read.table("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/MetatreeFiles/STR.txt", header = TRUE, stringsAsFactors = FALSE)
+HypothesisOneSTRTable <- read.table("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/STR.txt", header = TRUE, stringsAsFactors = FALSE)
+HypothesisTwoSTRTable <- read.table("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/STR.txt", header = TRUE, stringsAsFactors = FALSE)
+HypothesisThreeSTRTable <- read.table("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/STR.txt", header = TRUE, stringsAsFactors = FALSE)
+HypothesisFourSTRTable <- read.table("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/STR.txt", header = TRUE, stringsAsFactors = FALSE)
+HypothesisFiveSTRTable <- read.table("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/STR.txt", header = TRUE, stringsAsFactors = FALSE)
+HypothesisSixSTRTable <- read.table("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/STR.txt", header = TRUE, stringsAsFactors = FALSE)
 
 # Safely reinsert the missing taxa to generate full trees:
-Claddis::SafeTaxonomicReinsertion(treefile.in = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/Trees/STRTrees.tre", treefile.out = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/Trees/FullTrees.tre", str.list = HypothesisOneSTRTable, multi.placements = "random")
-Claddis::SafeTaxonomicReinsertion(treefile.in = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/Trees/STRTrees.tre", treefile.out = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/Trees/FullTrees.tre", str.list = HypothesisTwoSTRTable, multi.placements = "random")
-Claddis::SafeTaxonomicReinsertion(treefile.in = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/Trees/STRTrees.tre", treefile.out = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/Trees/FullTrees.tre", str.list = HypothesisThreeSTRTable, multi.placements = "random")
-Claddis::SafeTaxonomicReinsertion(treefile.in = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/Trees/STRTrees.tre", treefile.out = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/Trees/FullTrees.tre", str.list = HypothesisFourSTRTable, multi.placements = "random")
-Claddis::SafeTaxonomicReinsertion(treefile.in = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/Trees/STRTrees.tre", treefile.out = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/Trees/FullTrees.tre", str.list = HypothesisFiveSTRTable, multi.placements = "random")
-Claddis::SafeTaxonomicReinsertion(treefile.in = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/Trees/STRTrees.tre", treefile.out = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/Trees/FullTrees.tre", str.list = HypothesisSixSTRTable, multi.placements = "random")
+Claddis::SafeTaxonomicReinsertion(treefile.in = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/Trees/STRTrees.tre", treefile.out = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/Trees/FullTrees.tre", str.list = HypothesisOneSTRTable, multi.placements = "random")
+Claddis::SafeTaxonomicReinsertion(treefile.in = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/Trees/STRTrees.tre", treefile.out = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/Trees/FullTrees.tre", str.list = HypothesisTwoSTRTable, multi.placements = "random")
+Claddis::SafeTaxonomicReinsertion(treefile.in = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/Trees/STRTrees.tre", treefile.out = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/Trees/FullTrees.tre", str.list = HypothesisThreeSTRTable, multi.placements = "random")
+Claddis::SafeTaxonomicReinsertion(treefile.in = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/Trees/STRTrees.tre", treefile.out = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/Trees/FullTrees.tre", str.list = HypothesisFourSTRTable, multi.placements = "random")
+Claddis::SafeTaxonomicReinsertion(treefile.in = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/Trees/STRTrees.tre", treefile.out = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/Trees/FullTrees.tre", str.list = HypothesisFiveSTRTable, multi.placements = "random")
+Claddis::SafeTaxonomicReinsertion(treefile.in = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/Trees/STRTrees.tre", treefile.out = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/Trees/FullTrees.tre", str.list = HypothesisSixSTRTable, multi.placements = "random")
 
 # Read full trees in:
-HypothesisOneFullMPTs <- read.tree("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/Trees/FullTrees.tre")
-HypothesisTwoFullMPTs <- read.tree("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/Trees/FullTrees.tre")
-HypothesisThreeFullMPTs <- read.tree("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/Trees/FullTrees.tre")
-HypothesisFourFullMPTs <- read.tree("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/Trees/FullTrees.tre")
-HypothesisFiveFullMPTs <- read.tree("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/Trees/FullTrees.tre")
-HypothesisSixFullMPTs <- read.tree("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/Trees/FullTrees.tre")
+HypothesisOneFullMPTs <- read.tree("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/Trees/FullTrees.tre")
+HypothesisTwoFullMPTs <- read.tree("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/Trees/FullTrees.tre")
+HypothesisThreeFullMPTs <- read.tree("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/Trees/FullTrees.tre")
+HypothesisFourFullMPTs <- read.tree("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/Trees/FullTrees.tre")
+HypothesisFiveFullMPTs <- read.tree("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/Trees/FullTrees.tre")
+HypothesisSixFullMPTs <- read.tree("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/Trees/FullTrees.tre")
 
 # Ladderize each tree and drop allzero outgroup:
 HypothesisOneFullMPTs <- lapply(HypothesisOneFullMPTs, function(x) ape::drop.tip(ape::ladderize(x, right = FALSE), "allzero"))
@@ -63,12 +63,12 @@ HypothesisSixFullMPTs <- lapply(HypothesisSixFullMPTs, function(x) ape::drop.tip
 class(HypothesisOneFullMPTs) <- class(HypothesisTwoFullMPTs) <- class(HypothesisThreeFullMPTs) <- class(HypothesisFourFullMPTs) <- class(HypothesisFiveFullMPTs) <- class(HypothesisSixFullMPTs) <- "multiPhylo"
 
 # Write out reformatted trees:
-write.tree(HypothesisOneFullMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/Trees/FullTrees.tre")
-write.tree(HypothesisTwoFullMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/Trees/FullTrees.tre")
-write.tree(HypothesisThreeFullMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/Trees/FullTrees.tre")
-write.tree(HypothesisFourFullMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/Trees/FullTrees.tre")
-write.tree(HypothesisFiveFullMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/Trees/FullTrees.tre")
-write.tree(HypothesisSixFullMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/Trees/FullTrees.tre")
+write.tree(HypothesisOneFullMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/Trees/FullTrees.tre")
+write.tree(HypothesisTwoFullMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/Trees/FullTrees.tre")
+write.tree(HypothesisThreeFullMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/Trees/FullTrees.tre")
+write.tree(HypothesisFourFullMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/Trees/FullTrees.tre")
+write.tree(HypothesisFiveFullMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/Trees/FullTrees.tre")
+write.tree(HypothesisSixFullMPTs, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/Trees/FullTrees.tre")
 
 # Make consensus trees:
 HypothesisOneFullSC <- consensus(HypothesisOneFullMPTs)
@@ -79,7 +79,7 @@ HypothesisFiveFullSC <- consensus(HypothesisFiveFullMPTs)
 HypothesisSixFullSC <- consensus(HypothesisSixFullMPTs)
 
 # Build PDF of consensus trees for visualisation:
-pdf("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/PDFTrees/ConstraintConsensusTrees.pdf", width = 10, height = 25)
+pdf("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/PDFTrees/ConstraintConsensusTrees.pdf", width = 10, height = 25)
 plot(HypothesisOneFullSC, cex = 0.3, main = "1. Monophyletic Lissamphibia inside Temnospondyli")
 plot(HypothesisTwoFullSC, cex = 0.3, main = "2. Monophyletic Lissamphibia inside Lepospondyli")
 plot(HypothesisThreeFullSC, cex = 0.3, main = "3. Diphyletic Lissamphibia (Batrachia inside Temnospondyli and Gymnophiona inside Lepospondyli)")
