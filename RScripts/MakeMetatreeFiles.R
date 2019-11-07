@@ -1,5 +1,5 @@
 # SCRIPT TO BUILD XML AND MRP FILES AND THEN GENERATE METATREE FILES FROM THEM
-# ALSO CLEARS OUT DIRECORIES FIRST ALLOWING CONTINUOUS UPDATING
+# ALSO CLEARS OUT DIRECTORIES FIRST ALLOWING CONTINUOUS UPDATING
 
 # Load metatree library:
 library(metatree)
@@ -8,31 +8,31 @@ library(metatree)
 InclusiveDataList <- sort(unique(c(GetFilesForClade(c("matrsarc.html", "matramph.html")), "Gauthier_etal_1988b", "Lu_etal_2016c", "deBraga_et_Rieppel_1997a", "Giles_etal_2015a", "Davis_etal_2012a")))
 
 # Build vector of vectors to clear out (assuming we are redoing the tree):
-DirectoriesToClear <- c("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/MetatreeFiles", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/MetatreeFiles", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/MetatreeFiles", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/MetatreeFiles", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/MetatreeFiles", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/MetatreeFiles")
+DirectoriesToClear <- c("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/XML", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MRP", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles", "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles")
 
 # Clear out all the directories:
 x <- lapply(as.list(DirectoriesToClear), function(x) {setwd(x); file.remove(list.files())})
 
 # Copy just inclusive XML data sets from main directory to project one:
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Homepage/www.graemetlloyd.com/xml/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/XML/", x, ".xml", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Homepage/www.graemetlloyd.com/xml/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = "")))
 
 # Copy just inclusive MRP data sets from main directory to project one:
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Homepage/www.graemetlloyd.com/mrp/", x, "mrp.nex", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/MRP/", x, "mrp.nex", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Homepage/www.graemetlloyd.com/mrp/", x, "mrp.nex", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/MRP/", x, "mrp.nex", sep = "")))
 
 # Standard exclusive data list (supertrees and the like):
 ExclusiveDataList <- c("Averianov_2016a", "Bravo_et_Gaete_2015a", "Brocklehurst_etal_2013a", "Brocklehurst_etal_2015aa", "Brocklehurst_etal_2015ab", "Brocklehurst_etal_2015ac", "Brocklehurst_etal_2015ad", "Brocklehurst_etal_2015ae", "Brocklehurst_etal_2015af", "Bronzati_etal_2012a", "Bronzati_etal_2015ab", "Brusatte_etal_2009ba", "Campbell_etal_2016ab", "Carr_et_Williamson_2004a", "Carr_etal_2017ab", "Frederickson_et_Tumarkin-Deratzian_2014aa", "Frederickson_et_Tumarkin-Deratzian_2014ab", "Frederickson_et_Tumarkin-Deratzian_2014ac", "Frederickson_et_Tumarkin-Deratzian_2014ad", "Garcia_etal_2006a", "Gatesy_etal_2004ab", "Grellet-Tinner_2006a", "Grellet-Tinner_et_Chiappe_2004a", "Grellet-Tinner_et_Makovicky_2006a", "Jin_etal_2010a", "Knoll_2008a", "Kurochkin_1996a", "Lopez-Martinez_et_Vicens_2012a", "Lu_etal_2014aa", "Norden_etal_2018a", "Pisani_etal_2002a", "Ruiz-Omenaca_etal_1997a", "Ruta_etal_2003ba", "Ruta_etal_2003bb", "Ruta_etal_2007a", "Selles_et_Galobart_2016a", "Sereno_1993a", "Sidor_2001a", "Skutschas_etal_2019a", "Tanaka_etal_2011a", "Toljagic_et_Butler_2013a", "Tsuihiji_etal_2011aa", "Varricchio_et_Jackson_2004a", "Vila_etal_2017a", "Wilson_2005aa", "Wilson_2005ab", "Zelenitsky_et_Therrien_2008a")
 
 # Build amphibia metatree:
-Amphibia <- Metatree(MRPDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/MRP", XMLDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/XML", TargetClade = "Tetrapoda", InclusiveDataList = InclusiveDataList, ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE)
+Amphibia <- Metatree(MRPDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/MRP", XMLDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML", TargetClade = "Tetrapoda", InclusiveDataList = InclusiveDataList, ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE)
 
 # Build taxonomy tree (for basic checks ahead of building constraint trees):
-pdf("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/PDFTrees/TaxonomyTree.pdf", width = 30, height = 50)
+pdf("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/PDFTrees/TaxonomyTree.pdf", width = 30, height = 50)
 plot(Amphibia$TaxonomyTree, cex = 0.3)
 nodelabels(Amphibia$TaxonomyTree$node.label, cex = 0.5)
 dev.off()
 
 # Build vector of anuran (frog) taxa:
-AnuriTaxa <- Amphibia$TaxonomyTree$tip.label[strap::FindDescendants(n = Ntip(Amphibia$TaxonomyTree) + which(Amphibia$TaxonomyTree$node.label == "Anuri"), tree = Amphibia$TaxonomyTree)]
+AnuriTaxa <- Amphibia$TaxonomyTree$tip.label[strap::FindDescendants(n = Ntip(Amphibia$TaxonomyTree) + which(Amphibia$TaxonomyTree$node.label == "Anura"), tree = Amphibia$TaxonomyTree)]
 
 # Build vector of cadudatan (salamander) taxa:
 CaudataTaxa <- Amphibia$TaxonomyTree$tip.label[strap::FindDescendants(n = Ntip(Amphibia$TaxonomyTree) + which(Amphibia$TaxonomyTree$node.label == "Caudata"), tree = Amphibia$TaxonomyTree)]
@@ -82,7 +82,7 @@ TriphyleticLissamphibiaAnuriAndCaudataInsideTemnospondyliGymnophionaInsideLeposp
 TriphyleticLissamphibiaAnuriAndCaudataInsideTemnospondyliGymnophionaInsideLepospondyliCrownLissamphibiaParaphyleticWithRespectToAmniota <- ape::collapse.singles(ape::read.tree(text = paste("(", paste(paste("(", paste(paste("(", paste(paste(LepospondyliTaxa, collapse = ","), paste("(", paste(GymnophionaTaxa, collapse = ","), ")", sep = ""), sep = ","), ")", sep = ""), paste("(", paste(AmniotaTaxa, collapse = ","), ")", sep = ""), sep = ","), ")", sep = ""), paste("(", paste(paste(TemnospondyliTaxa, collapse = ","), paste("(", paste(AnuriTaxa, collapse = ","), ")", sep = ""), paste("(", paste(CaudataTaxa, collapse = ","), ")", sep = ""), sep = ","), ")", sep = ""), sep = ","), ");", sep = "")))
 
 # Build PDF of constraint trees for visualisation:
-pdf("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/PDFTrees/ConstraintTrees.pdf", width = 10, height = 20)
+pdf("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/PDFTrees/ConstraintTrees.pdf", width = 10, height = 20)
 plot(MonophyleticLissamphibiaInsideTemnospondyli, cex = 0.3, main = "1. Monophyletic Lissamphibia inside Temnospondyli")
 plot(MonophyleticLissamphibiaInsideLepospondyli, cex = 0.3, main = "2. Monophyletic Lissamphibia inside Lepospondyli")
 plot(DiphyleticLissamphibiaBatrachiaInsideTemnospondyliGymnophionaInsideLepospondyli, cex = 0.3, main = "3. Diphyletic Lissamphibia (Batrachia inside Temnospondyli and Gymnophiona inside Lepospondyli)")
@@ -120,7 +120,7 @@ FormattedSubgeneraOTUNames <- unlist(lapply(as.list(SubgeneraOTUs), function(x) 
 RegularOTUs <- sort(setdiff(unique(c(rownames(HypothesisOneMRP$Matrix_1$Matrix), rownames(HypothesisTwoMRP$Matrix_1$Matrix), rownames(HypothesisThreeMRP$Matrix_1$Matrix), rownames(HypothesisFourMRP$Matrix_1$Matrix), rownames(HypothesisFiveMRP$Matrix_1$Matrix), rownames(HypothesisSixMRP$Matrix_1$Matrix))), c(IndeterminateOTUs, SubgeneraOTUs)))
 
 # Build matrix of all taxonomic reconciliation from XML:
-AllXML <- do.call(rbind, lapply(as.list(InclusiveDataList), function(x) metatree::ReadMetatreeXML(paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/XML/", x, ".xml", sep = ""))$SourceTree$Taxa$TagContents))
+AllXML <- do.call(rbind, lapply(as.list(InclusiveDataList), function(x) metatree::ReadMetatreeXML(paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""))$SourceTree$Taxa$TagContents))
 
 # Get vector of recon numbers for OTU names:
 IndeterminateOTUReconNumbers <- AllXML[match(IndeterminateOTUs, AllXML[, "recon_name"]), "recon_no"]
@@ -135,7 +135,7 @@ ReconTable <- cbind(c(RegularOTUs, SubgeneraOTUs, IndeterminateOTUs), c(unlist(l
 colnames(ReconTable) <- c("OTUName", "ReconNumber", "ReconName")
 
 # Set working directory to XMLs:
-setwd("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/XML")
+setwd("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML")
 
 # Read in first XML to use as template:
 EmptyXML <- metatree::ReadMetatreeXML(list.files()[1])
@@ -182,108 +182,108 @@ HypothesisSixXML$SourceTree$Characters$Other$TagSupplement[, "Value"] <- as.char
 HypothesisOneXML$SourceTree$Filename <- HypothesisTwoXML$SourceTree$Filename <- HypothesisThreeXML$SourceTree$Filename <- HypothesisFourXML$SourceTree$Filename <- HypothesisFiveXML$SourceTree$Filename <- HypothesisSixXML$SourceTree$Filename <- list(TagContents = paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), TagSupplements = list(NULL))
 
 # Create copies of XML files to each hypothesis folder:
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/XML/", x, ".xml", sep = "")))
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/XML/", x, ".xml", sep = "")))
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/XML/", x, ".xml", sep = "")))
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/XML/", x, ".xml", sep = "")))
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/XML/", x, ".xml", sep = "")))
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/XML/", x, ".xml", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/XML/", x, ".xml", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/XML/", x, ".xml", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/XML/", x, ".xml", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/XML/", x, ".xml", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/XML/", x, ".xml", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/XML/", x, ".xml", sep = "")))
 
 # Create copies of MRP files to each hypothesis folder:
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/MRP/", x, "mrp.nex", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/MRP/", x, "mrp.nex", sep = "")))
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/MRP/", x, "mrp.nex", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/MRP/", x, "mrp.nex", sep = "")))
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/MRP/", x, "mrp.nex", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/MRP/", x, "mrp.nex", sep = "")))
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/MRP/", x, "mrp.nex", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/MRP/", x, "mrp.nex", sep = "")))
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/MRP/", x, "mrp.nex", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/MRP/", x, "mrp.nex", sep = "")))
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/MRP/", x, "mrp.nex", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/MRP/", x, "mrp.nex", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/MRP/", x, "mrp.nex", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MRP/", x, "mrp.nex", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/MRP/", x, "mrp.nex", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MRP/", x, "mrp.nex", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/MRP/", x, "mrp.nex", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MRP/", x, "mrp.nex", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/MRP/", x, "mrp.nex", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MRP/", x, "mrp.nex", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/MRP/", x, "mrp.nex", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MRP/", x, "mrp.nex", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/MRP/", x, "mrp.nex", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MRP/", x, "mrp.nex", sep = "")))
 
 # Write out constraint MRPs:
-Claddis::WriteMorphNexus(HypothesisOneMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
-Claddis::WriteMorphNexus(HypothesisTwoMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
-Claddis::WriteMorphNexus(HypothesisThreeMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
-Claddis::WriteMorphNexus(HypothesisFourMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
-Claddis::WriteMorphNexus(HypothesisFiveMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
-Claddis::WriteMorphNexus(HypothesisSixMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
+Claddis::WriteMorphNexus(HypothesisOneMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
+Claddis::WriteMorphNexus(HypothesisTwoMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
+Claddis::WriteMorphNexus(HypothesisThreeMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
+Claddis::WriteMorphNexus(HypothesisFourMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
+Claddis::WriteMorphNexus(HypothesisFiveMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
+Claddis::WriteMorphNexus(HypothesisSixMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
 
 # Write out XML files for each hypthesis:
-metatree::WriteMetatreeXML(HypothesisOneXML, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/XML/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), ".xml", sep = ""))
-metatree::WriteMetatreeXML(HypothesisTwoXML, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/XML/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), ".xml", sep = ""))
-metatree::WriteMetatreeXML(HypothesisThreeXML, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/XML/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), ".xml", sep = ""))
-metatree::WriteMetatreeXML(HypothesisFourXML, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/XML/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), ".xml", sep = ""))
-metatree::WriteMetatreeXML(HypothesisFiveXML, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/XML/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), ".xml", sep = ""))
-metatree::WriteMetatreeXML(HypothesisSixXML, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/XML/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), ".xml", sep = ""))
+metatree::WriteMetatreeXML(HypothesisOneXML, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/XML/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), ".xml", sep = ""))
+metatree::WriteMetatreeXML(HypothesisTwoXML, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/XML/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), ".xml", sep = ""))
+metatree::WriteMetatreeXML(HypothesisThreeXML, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/XML/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), ".xml", sep = ""))
+metatree::WriteMetatreeXML(HypothesisFourXML, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/XML/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), ".xml", sep = ""))
+metatree::WriteMetatreeXML(HypothesisFiveXML, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/XML/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), ".xml", sep = ""))
+metatree::WriteMetatreeXML(HypothesisSixXML, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/XML/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), ".xml", sep = ""))
 
 # Build meattree datasets for each hypothesis:
-HypothesisOne <- metatree::Metatree(MRPDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/MRP", XMLDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/XML", TargetClade = "Tetrapoda", InclusiveDataList = c(), ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE, BackboneConstraint = paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""))
-HypothesisTwo <- metatree::Metatree(MRPDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/MRP", XMLDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/XML", TargetClade = "Tetrapoda", InclusiveDataList = c(), ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE, BackboneConstraint = paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""))
-HypothesisThree <- metatree::Metatree(MRPDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/MRP", XMLDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/XML", TargetClade = "Tetrapoda", InclusiveDataList = c(), ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE, BackboneConstraint = paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""))
-HypothesisFour <- metatree::Metatree(MRPDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/MRP", XMLDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/XML", TargetClade = "Tetrapoda", InclusiveDataList = c(), ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE, BackboneConstraint = paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""))
-HypothesisFive <- metatree::Metatree(MRPDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/MRP", XMLDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/XML", TargetClade = "Tetrapoda", InclusiveDataList = c(), ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE, BackboneConstraint = paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""))
-HypothesisSix <- metatree::Metatree(MRPDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/MRP", XMLDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/XML", TargetClade = "Tetrapoda", InclusiveDataList = c(), ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE, BackboneConstraint = paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""))
+HypothesisOne <- metatree::Metatree(MRPDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MRP", XMLDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/XML", TargetClade = "Tetrapoda", InclusiveDataList = c(), ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE, BackboneConstraint = paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""))
+HypothesisTwo <- metatree::Metatree(MRPDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MRP", XMLDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/XML", TargetClade = "Tetrapoda", InclusiveDataList = c(), ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE, BackboneConstraint = paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""))
+HypothesisThree <- metatree::Metatree(MRPDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MRP", XMLDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/XML", TargetClade = "Tetrapoda", InclusiveDataList = c(), ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE, BackboneConstraint = paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""))
+HypothesisFour <- metatree::Metatree(MRPDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MRP", XMLDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/XML", TargetClade = "Tetrapoda", InclusiveDataList = c(), ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE, BackboneConstraint = paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""))
+HypothesisFive <- metatree::Metatree(MRPDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MRP", XMLDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/XML", TargetClade = "Tetrapoda", InclusiveDataList = c(), ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE, BackboneConstraint = paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""))
+HypothesisSix <- metatree::Metatree(MRPDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MRP", XMLDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/XML", TargetClade = "Tetrapoda", InclusiveDataList = c(), ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE, BackboneConstraint = paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""))
 
 # Write out full matrix as NEXUS:
-Claddis::WriteMorphNexus(HypothesisOne$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/MetatreeFiles/TetrapodaFull.nex")
-Claddis::WriteMorphNexus(HypothesisTwo$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/MetatreeFiles/TetrapodaFull.nex")
-Claddis::WriteMorphNexus(HypothesisThree$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/MetatreeFiles/TetrapodaFull.nex")
-Claddis::WriteMorphNexus(HypothesisFour$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/MetatreeFiles/TetrapodaFull.nex")
-Claddis::WriteMorphNexus(HypothesisFive$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/MetatreeFiles/TetrapodaFull.nex")
-Claddis::WriteMorphNexus(HypothesisSix$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/MetatreeFiles/TetrapodaFull.nex")
+Claddis::WriteMorphNexus(HypothesisOne$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/TetrapodaFull.nex")
+Claddis::WriteMorphNexus(HypothesisTwo$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/TetrapodaFull.nex")
+Claddis::WriteMorphNexus(HypothesisThree$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/TetrapodaFull.nex")
+Claddis::WriteMorphNexus(HypothesisFour$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/TetrapodaFull.nex")
+Claddis::WriteMorphNexus(HypothesisFive$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/TetrapodaFull.nex")
+Claddis::WriteMorphNexus(HypothesisSix$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/TetrapodaFull.nex")
 
 # Write out full matrix as TNT:
-Claddis::WriteMorphTNT(HypothesisOne$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/MetatreeFiles/TetrapodaFull.tnt")
-Claddis::WriteMorphTNT(HypothesisTwo$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/MetatreeFiles/TetrapodaFull.tnt")
-Claddis::WriteMorphTNT(HypothesisThree$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/MetatreeFiles/TetrapodaFull.tnt")
-Claddis::WriteMorphTNT(HypothesisFour$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/MetatreeFiles/TetrapodaFull.tnt")
-Claddis::WriteMorphTNT(HypothesisFive$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/MetatreeFiles/TetrapodaFull.tnt")
-Claddis::WriteMorphTNT(HypothesisSix$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/MetatreeFiles/TetrapodaFull.tnt")
+Claddis::WriteMorphTNT(HypothesisOne$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/TetrapodaFull.tnt")
+Claddis::WriteMorphTNT(HypothesisTwo$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/TetrapodaFull.tnt")
+Claddis::WriteMorphTNT(HypothesisThree$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/TetrapodaFull.tnt")
+Claddis::WriteMorphTNT(HypothesisFour$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/TetrapodaFull.tnt")
+Claddis::WriteMorphTNT(HypothesisFive$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/TetrapodaFull.tnt")
+Claddis::WriteMorphTNT(HypothesisSix$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/TetrapodaFull.tnt")
 
 # Write out STR matrix as NEXUS:
-Claddis::WriteMorphNexus(HypothesisOne$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/MetatreeFiles/TetrapodaSTR.nex")
-Claddis::WriteMorphNexus(HypothesisTwo$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/MetatreeFiles/TetrapodaSTR.nex")
-Claddis::WriteMorphNexus(HypothesisThree$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/MetatreeFiles/TetrapodaSTR.nex")
-Claddis::WriteMorphNexus(HypothesisFour$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/MetatreeFiles/TetrapodaSTR.nex")
-Claddis::WriteMorphNexus(HypothesisFive$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/MetatreeFiles/TetrapodaSTR.nex")
-Claddis::WriteMorphNexus(HypothesisSix$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/MetatreeFiles/TetrapodaSTR.nex")
+Claddis::WriteMorphNexus(HypothesisOne$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/TetrapodaSTR.nex")
+Claddis::WriteMorphNexus(HypothesisTwo$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/TetrapodaSTR.nex")
+Claddis::WriteMorphNexus(HypothesisThree$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/TetrapodaSTR.nex")
+Claddis::WriteMorphNexus(HypothesisFour$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/TetrapodaSTR.nex")
+Claddis::WriteMorphNexus(HypothesisFive$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/TetrapodaSTR.nex")
+Claddis::WriteMorphNexus(HypothesisSix$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/TetrapodaSTR.nex")
 
 # Write out STR matrix as TNT:
-Claddis::WriteMorphTNT(HypothesisOne$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/MetatreeFiles/TetrapodaSTR.tnt")
-Claddis::WriteMorphTNT(HypothesisTwo$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/MetatreeFiles/TetrapodaSTR.tnt")
-Claddis::WriteMorphTNT(HypothesisThree$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/MetatreeFiles/TetrapodaSTR.tnt")
-Claddis::WriteMorphTNT(HypothesisFour$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/MetatreeFiles/TetrapodaSTR.tnt")
-Claddis::WriteMorphTNT(HypothesisFive$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/MetatreeFiles/TetrapodaSTR.tnt")
-Claddis::WriteMorphTNT(HypothesisSix$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/MetatreeFiles/TetrapodaSTR.tnt")
+Claddis::WriteMorphTNT(HypothesisOne$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/TetrapodaSTR.tnt")
+Claddis::WriteMorphTNT(HypothesisTwo$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/TetrapodaSTR.tnt")
+Claddis::WriteMorphTNT(HypothesisThree$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/TetrapodaSTR.tnt")
+Claddis::WriteMorphTNT(HypothesisFour$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/TetrapodaSTR.tnt")
+Claddis::WriteMorphTNT(HypothesisFive$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/TetrapodaSTR.tnt")
+Claddis::WriteMorphTNT(HypothesisSix$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/TetrapodaSTR.tnt")
 
 # Write out taxonomy trees:
-ape::write.tree(HypothesisOne$TaxonomyTree, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/MetatreeFiles/Taxonomy.tre")
-ape::write.tree(HypothesisTwo$TaxonomyTree, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/MetatreeFiles/Taxonomy.tre")
-ape::write.tree(HypothesisThree$TaxonomyTree, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/MetatreeFiles/Taxonomy.tre")
-ape::write.tree(HypothesisFour$TaxonomyTree, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/MetatreeFiles/Taxonomy.tre")
-ape::write.tree(HypothesisFive$TaxonomyTree, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/MetatreeFiles/Taxonomy.tre")
-ape::write.tree(HypothesisSix$TaxonomyTree, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/MetatreeFiles/Taxonomy.tre")
+ape::write.tree(HypothesisOne$TaxonomyTree, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/Taxonomy.tre")
+ape::write.tree(HypothesisTwo$TaxonomyTree, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/Taxonomy.tre")
+ape::write.tree(HypothesisThree$TaxonomyTree, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/Taxonomy.tre")
+ape::write.tree(HypothesisFour$TaxonomyTree, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/Taxonomy.tre")
+ape::write.tree(HypothesisFive$TaxonomyTree, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/Taxonomy.tre")
+ape::write.tree(HypothesisSix$TaxonomyTree, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/Taxonomy.tre")
 
 # Write out STR data:
-write.table(HypothesisOne$SafelyRemovedTaxa, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/MetatreeFiles/STR.txt", row.names = FALSE)
-write.table(HypothesisTwo$SafelyRemovedTaxa, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/MetatreeFiles/STR.txt", row.names = FALSE)
-write.table(HypothesisThree$SafelyRemovedTaxa, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/MetatreeFiles/STR.txt", row.names = FALSE)
-write.table(HypothesisFour$SafelyRemovedTaxa, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/MetatreeFiles/STR.txt", row.names = FALSE)
-write.table(HypothesisFive$SafelyRemovedTaxa, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/MetatreeFiles/STR.txt", row.names = FALSE)
-write.table(HypothesisSix$SafelyRemovedTaxa, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/MetatreeFiles/STR.txt", row.names = FALSE)
+write.table(HypothesisOne$SafelyRemovedTaxa, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/STR.txt", row.names = FALSE)
+write.table(HypothesisTwo$SafelyRemovedTaxa, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/STR.txt", row.names = FALSE)
+write.table(HypothesisThree$SafelyRemovedTaxa, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/STR.txt", row.names = FALSE)
+write.table(HypothesisFour$SafelyRemovedTaxa, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/STR.txt", row.names = FALSE)
+write.table(HypothesisFive$SafelyRemovedTaxa, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/STR.txt", row.names = FALSE)
+write.table(HypothesisSix$SafelyRemovedTaxa, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/STR.txt", row.names = FALSE)
 
 # Write out removed data sets:
-write(HypothesisOne$RemovedSourceData, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/MetatreeFiles/RemovedSourceData.txt")
-write(HypothesisTwo$RemovedSourceData, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/MetatreeFiles/RemovedSourceData.txt")
-write(HypothesisThree$RemovedSourceData, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/MetatreeFiles/RemovedSourceData.txt")
-write(HypothesisFour$RemovedSourceData, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/MetatreeFiles/RemovedSourceData.txt")
-write(HypothesisFive$RemovedSourceData, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/MetatreeFiles/RemovedSourceData.txt")
-write(HypothesisSix$RemovedSourceData, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/MetatreeFiles/RemovedSourceData.txt")
+write(HypothesisOne$RemovedSourceData, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/RemovedSourceData.txt")
+write(HypothesisTwo$RemovedSourceData, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/RemovedSourceData.txt")
+write(HypothesisThree$RemovedSourceData, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/RemovedSourceData.txt")
+write(HypothesisFour$RemovedSourceData, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/RemovedSourceData.txt")
+write(HypothesisFive$RemovedSourceData, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/RemovedSourceData.txt")
+write(HypothesisSix$RemovedSourceData, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/RemovedSourceData.txt")
 
 # Write out veil years:
-write(HypothesisOne$CurrentVeilYear, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisOne/MetatreeFiles/VeilYear.txt")
-write(HypothesisTwo$CurrentVeilYear, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisTwo/MetatreeFiles/VeilYear.txt")
-write(HypothesisThree$CurrentVeilYear, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisThree/MetatreeFiles/VeilYear.txt")
-write(HypothesisFour$CurrentVeilYear, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFour/MetatreeFiles/VeilYear.txt")
-write(HypothesisFive$CurrentVeilYear, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisFive/MetatreeFiles/VeilYear.txt")
-write(HypothesisSix$CurrentVeilYear, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/Metatree/HypothesisSix/MetatreeFiles/VeilYear.txt")
+write(HypothesisOne$CurrentVeilYear, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/VeilYear.txt")
+write(HypothesisTwo$CurrentVeilYear, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/VeilYear.txt")
+write(HypothesisThree$CurrentVeilYear, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/VeilYear.txt")
+write(HypothesisFour$CurrentVeilYear, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/VeilYear.txt")
+write(HypothesisFive$CurrentVeilYear, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/VeilYear.txt")
+write(HypothesisSix$CurrentVeilYear, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/VeilYear.txt")
 
 # Write out STR matrix as TNT:
 Claddis::WriteMorphTNT(HypothesisOne$STRMRPMatrix, "~/HypothesisOneSTR.tnt", add.analysis.block = FALSE)
