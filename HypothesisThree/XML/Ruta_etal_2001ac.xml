@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruta, M.</List>
+			<List>Milner, A. R.</List>
+			<List>Coates, M. I.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>The tetrapod <em>Caerorhachis bairdi</em> Holmes and Carroll from the Lower Carboniferous of Scotland</Title>
+		<Journal>Transactions of the Royal Society of Edinburgh: Earth Sciences</Journal>
+		<Volume>92</Volume>
+		<Pages>229-261</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Ichthyostega" recon_no="36965">Ichthyostega</List>
+		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
+		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greererpeton</List>
+		<List recon_name="Balanerpeton" recon_no="227174">Balanerpeton</List>
+		<List recon_name="Megalocephalus" recon_no="36972">Megalocephalus</List>
+		<List recon_name="Loxomma" recon_no="36971">Loxomma</List>
+		<List recon_name="Baphetes" recon_no="36970">Baphetes</List>
+		<List recon_name="Spathicephalus" recon_no="36973">Spathicephalus</List>
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
+		<List recon_name="Pholiderpeton" recon_no="37193">Pholiderpeton</List>
+		<List recon_name="Whatcheeria_deltae" recon_no="92128">Whatcheeria</List>
+		<List recon_name="Dendrerpeton" recon_no="36995">Dendrepeton</List>
+		<List recon_name="Caerorhachis" recon_no="36993">Caerorhachis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="88">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruta_etal_2001ac</Filename>
+	<Parent>Clack_1997a</Parent>
+	<Sibling/>
+</SourceTree>

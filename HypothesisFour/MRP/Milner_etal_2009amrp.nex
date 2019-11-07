@@ -1,0 +1,26 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=13 NCHAR=20;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Acanthostega                  00000000000000000000
+Crassigyrinus                 00000000000000000011
+Baphetes_kirkbyi              00000000111111111101
+Baphetes_orientalis           00000011001111111101
+Baphetes_orientalis_juv       00000011001111111101
+Eucritta_melanolimnetes       00000000000000000111
+Kyrinion_martilli             01111100110000111101
+Loxomma_acutirhinus           00001100110001111101
+Loxomma_allmanni              10010100110011111101
+Loxomma_lintonensis           10010100110011111101
+Megalocephalus_lineolatus     00111100110000011101
+Megalocephalus_pachycephalus  01111100110000111101
+Spathicephalus_mirus          00000001010100001101
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

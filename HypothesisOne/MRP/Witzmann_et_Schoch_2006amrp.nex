@@ -1,0 +1,31 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=18 NCHAR=16;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Colosteidae                    0000000000000000
+Dendrerpeton_acadianum         0000000000000001
+Trimerorhachis_insignis        0000000000000111
+Dvinosaurus_primus             0000000000000111
+Dissorophidae                  0000000000111011
+Amphibamidae                   0000000000111011
+Eryopidae                      0000000000011011
+Sclerocephalus_haeuseri        0000000001001011
+Archegosaurus_decheni          0000000011001011
+Australerpeton_cosgriffi       0000000111001011
+Uranocentrodon_senekalensis    0000001111001011
+Gerrothorax_pustuloglomeratus  0000111111001011
+Plagiosuchus_pustuliferus      0000111111001011
+Siderops_kehli                 0011011111001011
+Mastodonsaurus_giganteus       0111011111001011
+Paracyclotosaurus_davidi       0111011111001011
+Ladinian_trematosaurid         1001011111001011
+Metoposaurus_ouazzoui          1001011111001011
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

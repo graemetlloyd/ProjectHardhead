@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Werneburg, R.</List>
+			<List>Berman, D. S.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Revision of the aquatic eryopid temnospondyl <em>Glaukerpeton avinoffi</em> Romer, 1952, from the Upper Pennsylvanian of North America</Title>
+		<Journal>Annals of Carnegie Museum</Journal>
+		<Volume>81</Volume>
+		<Pages>33-60</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="4">
+		<List recon_name="Sclerocephalus" recon_no="37015">Sclerocephalus</List>
+		<List recon_name="Glaukerpeton" recon_no="345492">Glaukerpeton</List>
+		<List recon_name="Onchiodon" recon_no="37013">Onchiodon</List>
+		<List recon_name="Eryops" recon_no="37011">Eryops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="21">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Werneburg_et_Berman_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ahlberg, P. E.</List>
+		</Author>
+		<Year>1989</Year>
+		<Title>Paired fin skeletons and relationships of the fossil group Porolepiformes (Osteichthyes: Sarcopterygii)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>96</Volume>
+		<Pages>119-166</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="6">
+		<List recon_name="Osteolepiformes" recon_no="149977">Osteolepiformes</List>
+		<List recon_name="Tetrapoda" recon_no="137279">Tetrapoda</List>
+		<List recon_name="Rhizodontida" recon_no="250268">Rhizodontida</List>
+		<List recon_name="Porolepiformes" recon_no="149970">Porolepiformes</List>
+		<List recon_name="Actinistia" recon_no="67349">Actinistia</List>
+		<List recon_name="Dipnoi" recon_no="57668">Dipnoi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="14">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ahlberg_1989a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

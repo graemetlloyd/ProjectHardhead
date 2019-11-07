@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Henderson, S. A. C.</List>
+			<List>Challands, T. J.</List>
+		</Author>
+		<Year>2018</Year>
+		<Title>The cranial endocast of the Upper Devonian dipnoan '<em>Chirodipterus</em>' <em>australis</em></Title>
+		<Journal>PeerJ</Journal>
+		<Volume>6</Volume>
+		<Pages>e5148</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="11">
+		<List recon_name="Diplocercides_kayseri" recon_no="226297">Diplocercides_kayseri</List>
+		<List recon_name="Chirodipterus_wildungensis" recon_no="372973">Chirodipterus_wildungensis</List>
+		<List recon_name="Dipnorhynchus_suessmilchi" recon_no="372947">Dipnorhynchus_sussmilchi</List>
+		<List recon_name="Dipterus_valenciennesi" recon_no="259292">Dipterus_valenciennesi</List>
+		<List recon_name="Rhinodipterus_kimberleyensis" recon_no="391611">Rhinodipterus_kimberleyensis</List>
+		<List recon_name="DELETE" recon_no="-1">Youngolepis_praecursor</List>
+		<List recon_name="Gogonasus_andrewsae" recon_no="242714">Gogonasus_andrewsae</List>
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron_foordi</List>
+		<List recon_name="Neoceratodus_forsteri" recon_no="194486">Neoceratodus_forsteri</List>
+		<List recon_name="Qingmenodus_yui" recon_no="377673">Qingmenodus</List>
+		<List recon_name="Chirodipterus_australis" recon_no="377761">Chirodipterus_australis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="21">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Henderson_et_Challands_2018a</Filename>
+	<Parent>Clement_etal_2016a</Parent>
+	<Sibling/>
+</SourceTree>

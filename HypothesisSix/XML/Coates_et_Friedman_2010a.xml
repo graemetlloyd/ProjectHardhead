@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Coates, M. I.</List>
+			<List>Friedman, M.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title><em>Litoptychus bryanti</em> and characteristics of stem tetrapod neurocrania</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>389-416</Pages>
+		<Booktitle>Morphology, Phylogeny and Paleobiogeography of Fossil Fishes</Booktitle>
+		<Publisher>Verlag Dr Friedrich Pfeil</Publisher>
+		<City>Munchen</City>
+		<Editor>
+			<List>Elliott, D. K.</List>
+			<List>Maisey, J. G.</List>
+			<List>Yu, X.</List>
+			<List>Miao, D.</List>
+		</Editor>
+ 	</Source>
+	<Taxa number="19">
+		<List recon_name="DELETE" recon_no="-1">Diplocercides</List>
+		<List recon_name="DELETE" recon_no="-1">Glyptolepis</List>
+		<List recon_name="DELETE" recon_no="-1">Ligulalepis</List>
+		<List recon_name="DELETE" recon_no="-1">Youngolepis</List>
+		<List recon_name="DELETE" recon_no="-1">Acanthostega</List>
+		<List recon_name="DELETE" recon_no="-1">Archeria</List>
+		<List recon_name="DELETE" recon_no="-1">Cladarosymblema</List>
+		<List recon_name="DELETE" recon_no="-1">Ectosteorachis</List>
+		<List recon_name="DELETE" recon_no="-1">Eusthenopteron</List>
+		<List recon_name="DELETE" recon_no="-1">Gogonasus</List>
+		<List recon_name="DELETE" recon_no="-1">Ichthyostega</List>
+		<List recon_name="DELETE" recon_no="-1">Jarvikina</List>
+		<List recon_name="DELETE" recon_no="-1">Litoptychus</List>
+		<List recon_name="DELETE" recon_no="-1">Mandageria</List>
+		<List recon_name="DELETE" recon_no="-1">Medoevia</List>
+		<List recon_name="DELETE" recon_no="-1">Panderichthys</List>
+		<List recon_name="DELETE" recon_no="-1">Platycephalichthys</List>
+		<List recon_name="DELETE" recon_no="-1">Osteolepis</List>
+		<List recon_name="DELETE" recon_no="-1">Rhizodopsis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="37">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Coates_et_Friedman_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

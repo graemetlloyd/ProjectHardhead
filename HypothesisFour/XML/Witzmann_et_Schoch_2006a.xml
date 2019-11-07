@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Witzmann, F.</List>
+			<List>Schoch, R. R.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>The postcranium of <em>Archegosaurus decheni</em>, and a phylogenetic analysis of temnospondyl postcrania</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>49</Volume>
+		<Pages>1211-1235</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List recon_name="Colosteidae" recon_no="36975">Colosteidae</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton_acadianum</List>
+		<List recon_name="Trimerorhachis_insignis" recon_no="90711">Trimerorhachis_insignis</List>
+		<List recon_name="Dvinosaurus_primus" recon_no="56905">Dvinosaurus_primus</List>
+		<List recon_name="Dissorophidae" recon_no="37017">Dissorophidae</List>
+		<List recon_name="Amphibamidae" recon_no="123081">Amphibamidae</List>
+		<List recon_name="Eryopidae" recon_no="37007">Eryopidae</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus_haeuseri</List>
+		<List recon_name="Archegosaurus_decheni" recon_no="255841">Archegosaurus_decheni</List>
+		<List recon_name="Australerpeton_cosgriffi" recon_no="255235">Australerpeton_cosgriffi</List>
+		<List recon_name="Uranocentrodon_senekalensis" recon_no="255236">Uranocentrodon_senekalensis</List>
+		<List recon_name="Plagiosuchus_pustuloglomeratus" recon_no="180699">Gerrothorax_pustuloglomeratus</List>
+		<List recon_name="Plagiosuchus_pustuliferus" recon_no="179398">Plagiosuchus_pustuliferus</List>
+		<List recon_name="Siderops_kehli" recon_no="251254">Siderops_kehli</List>
+		<List recon_name="Mastodonsaurus_giganteus" recon_no="150365">Mastodonsaurus_giganteus</List>
+		<List recon_name="Paracyclotosaurus_davidi" recon_no="57042">Paracyclotosaurus_davidi</List>
+		<List recon_name="Trematolestes_hagdorni" recon_no="179389">Ladinian_trematosaurid</List>
+		<List recon_name="Metoposaurus_ouazzoui" recon_no="64936">Metoposaurus_ouazzoui</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="52">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Witzmann_et_Schoch_2006a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

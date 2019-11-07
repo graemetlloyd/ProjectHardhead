@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruta, M.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Phylogenetic signal and character compatability in the appendicular skeleton of early tetrapods</Title>
+		<Journal>Special Papers in Palaeontology</Journal>
+		<Volume>86</Volume>
+		<Pages>31-43</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="44">
+		<List recon_name="Onychodus" recon_no="34942">Onychodus</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Archeria" recon_no="37196">Archeria</List>
+		<List recon_name="Asaphestera" recon_no="37281">Asaphestera</List>
+		<List recon_name="Balanerpeton" recon_no="227174">Balanerpeton</List>
+		<List recon_name="Baphetes" recon_no="36970">Baphetes</List>
+		<List recon_name="Barameda" recon_no="224776">Barameda</List>
+		<List recon_name="Caerorhachis" recon_no="36993">Caerorhachis</List>
+		<List recon_name="Tetrapoda_indet_ANSP_21350" recon_no="137279">Catskill_humerus</List>
+		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
+		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
+		<List recon_name="Eoherpeton_watsoni" recon_no="229321">Eoherpeton</List>
+		<List recon_name="Eucritta" recon_no="229323">Eucritta</List>
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
+		<List recon_name="Glyptolepis" recon_no="34920">Glyptolepis</List>
+		<List recon_name="Gogonasus" recon_no="242713">Gogonasus</List>
+		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greererpeton</List>
+		<List recon_name="Hynerpeton" recon_no="295090">Hynerpeton</List>
+		<List recon_name="Ichthyostega" recon_no="36965">Ichthyostega</List>
+		<List recon_name="Marsdenichthys" recon_no="242717">Marsdenichthys</List>
+		<List recon_name="Medoevia" recon_no="224857">Medoevia</List>
+		<List recon_name="Megalichthys" recon_no="209470">Megalichthys</List>
+		<List recon_name="Ossinodus" recon_no="242723">Ossinodus</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
+		<List recon_name="Pederpes_finneyae" recon_no="179035">Pederpes</List>
+		<List recon_name="Pholiderpeton" recon_no="37193">Pholiderpeton</List>
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
+		<List recon_name="Ptyonius" recon_no="37274">Ptyonius</List>
+		<List recon_name="Rhizodopsis" recon_no="260154">Rhizodopsis</List>
+		<List recon_name="Rhizodus" recon_no="34950">Rhizodus</List>
+		<List recon_name="Sauripterus" recon_no="224769">Sauripterus</List>
+		<List recon_name="Sauropleura" recon_no="37275">Sauropleura</List>
+		<List recon_name="Saxonerpeton_geinitzi" recon_no="338105">Saxonerpeton</List>
+		<List recon_name="Scincosaurus" recon_no="37269">Scincosaurus</List>
+		<List recon_name="Silvanerpeton_miripedes" recon_no="243094">Silvanerpeton</List>
+		<List recon_name="Sterropterygion" recon_no="295103">Sterropterygion</List>
+		<List recon_name="Strepsodus" recon_no="224851">Strepsodus</List>
+		<List recon_name="Tiktaalik_roseae" recon_no="77136">Tiktaalik</List>
+		<List recon_name="Trimerorhachis" recon_no="36991">Trimerorhachis</List>
+		<List recon_name="Tuditanus_punctulatus" recon_no="227062">Tuditanus</List>
+		<List recon_name="Tulerpeton_curtum" recon_no="230695">Tulerpeton</List>
+		<List recon_name="Urocordylus" recon_no="37276">Urocordylus</List>
+		<List recon_name="Westlothiana_lizziae" recon_no="179032">Westlothiana</List>
+		<List recon_name="Whatcheeria_deltae" recon_no="92128">Whatcheeria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="157">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruta_2011a</Filename>
+	<Parent>Ruta_et_Coates_2007a</Parent>
+	<Sibling/>
+</SourceTree>

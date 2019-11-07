@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Scott, E.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A phylogeny of ranid frogs (Anura: Ranoidea: Ranidae), based on a simultaneous analysis of morphological and molecular data</Title>
+		<Journal>Cladistics</Journal>
+		<Volume>21</Volume>
+		<Pages>507-574</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="74">
+		<List recon_name="DELETE" recon_no="-1">Heleophryne_purcelli</List>
+		<List recon_name="DELETE" recon_no="-1">Afrana_angolensis</List>
+		<List recon_name="DELETE" recon_no="-1">Afrana_fuscigula</List>
+		<List recon_name="DELETE" recon_no="-1">Afrixalus_fornasinii</List>
+		<List recon_name="DELETE" recon_no="-1">Amnirana_albolabris</List>
+		<List recon_name="DELETE" recon_no="-1">Amolops_ricketti</List>
+		<List recon_name="DELETE" recon_no="-1">Anhydrophryne_rattrayi</List>
+		<List recon_name="DELETE" recon_no="-1">Arthroleptella_hewitti</List>
+		<List recon_name="DELETE" recon_no="-1">Arthroleptella_landdrosia</List>
+		<List recon_name="DELETE" recon_no="-1">Arthroleptides_martiensseni</List>
+		<List recon_name="DELETE" recon_no="-1">Arthroleptis_stenodactylus</List>
+		<List recon_name="DELETE" recon_no="-1">Arthroleptis_variabilis</List>
+		<List recon_name="DELETE" recon_no="-1">Astylosternus_diadematus</List>
+		<List recon_name="DELETE" recon_no="-1">Aubria_subsigillata</List>
+		<List recon_name="DELETE" recon_no="-1">Batrachylodes_vertebralis</List>
+		<List recon_name="DELETE" recon_no="-1">Breviceps_mossambicus</List>
+		<List recon_name="DELETE" recon_no="-1">Cacosternum_boettgeri</List>
+		<List recon_name="DELETE" recon_no="-1">Cacosternum_capense</List>
+		<List recon_name="DELETE" recon_no="-1">Cacosternum_nanum</List>
+		<List recon_name="DELETE" recon_no="-1">Cardioglossa_escalaerae</List>
+		<List recon_name="DELETE" recon_no="-1">Cardioglossa_gracilis</List>
+		<List recon_name="DELETE" recon_no="-1">Chiromantis_xerampelina</List>
+		<List recon_name="DELETE" recon_no="-1">Conraua_crassipes</List>
+		<List recon_name="DELETE" recon_no="-1">Conraua_goliath</List>
+		<List recon_name="DELETE" recon_no="-1">Dimorphognathus_africanus</List>
+		<List recon_name="DELETE" recon_no="-1">Discodeles_bufoniformis</List>
+		<List recon_name="DELETE" recon_no="-1">Ericabatrachus_baleensis</List>
+		<List recon_name="DELETE" recon_no="-1">Euphlyctis_cyanophlyctis</List>
+		<List recon_name="DELETE" recon_no="-1">Hemisus_marmoratus</List>
+		<List recon_name="DELETE" recon_no="-1">Hildebrandtia_ornata</List>
+		<List recon_name="DELETE" recon_no="-1">Hoplobatrachus_occipitalis</List>
+		<List recon_name="DELETE" recon_no="-1">Hydrophylax_galamensis</List>
+		<List recon_name="DELETE" recon_no="-1">Hyperolius_marmoratus</List>
+		<List recon_name="DELETE" recon_no="-1">Kassina_senegalensis</List>
+		<List recon_name="DELETE" recon_no="-1">Leptodactylodon_ventrimarmoratus</List>
+		<List recon_name="DELETE" recon_no="-1">Leptopelis_mossambicus</List>
+		<List recon_name="DELETE" recon_no="-1">Leptopelis_vermiculatus</List>
+		<List recon_name="DELETE" recon_no="-1">Limnonectes_blythii</List>
+		<List recon_name="DELETE" recon_no="-1">Mantella_aurantiaca</List>
+		<List recon_name="DELETE" recon_no="-1">Mantidactylus_femoralis</List>
+		<List recon_name="DELETE" recon_no="-1">Microbatrachella_capensis</List>
+		<List recon_name="DELETE" recon_no="-1">Nannophrys_ceylonensis</List>
+		<List recon_name="DELETE" recon_no="-1">Nanorana_parkeri</List>
+		<List recon_name="DELETE" recon_no="-1">Natalobatrachus_bonebergi</List>
+		<List recon_name="DELETE" recon_no="-1">Nothophryne_broadleyi</List>
+		<List recon_name="DELETE" recon_no="-1">Nyctibates_corrugatus</List>
+		<List recon_name="DELETE" recon_no="-1">Pantherana_pipiens</List>
+		<List recon_name="DELETE" recon_no="-1">Petropedetes_cameronensis</List>
+		<List recon_name="DELETE" recon_no="-1">Petropedetes_natator</List>
+		<List recon_name="DELETE" recon_no="-1">Petropedetes_newtoni</List>
+		<List recon_name="DELETE" recon_no="-1">Petropedetes_parkeri</List>
+		<List recon_name="DELETE" recon_no="-1">Philautus_surdus</List>
+		<List recon_name="DELETE" recon_no="-1">Phrynobatrachus_acridoides</List>
+		<List recon_name="DELETE" recon_no="-1">Phrynobatrachus_cricogaster</List>
+		<List recon_name="DELETE" recon_no="-1">Phrynobatrachus_krefftii</List>
+		<List recon_name="DELETE" recon_no="-1">Phrynobatrachus_natalensis</List>
+		<List recon_name="DELETE" recon_no="-1">Phrynobatrachus_plicatus</List>
+		<List recon_name="DELETE" recon_no="-1">Phrynodon_sandersoni</List>
+		<List recon_name="DELETE" recon_no="-1">Phrynoglossus_laevis</List>
+		<List recon_name="DELETE" recon_no="-1">Phrynomantis_bifasciatus</List>
+		<List recon_name="DELETE" recon_no="-1">Platymantis_corrugatus</List>
+		<List recon_name="DELETE" recon_no="-1">Poyntonia_paludicola</List>
+		<List recon_name="DELETE" recon_no="-1">Ptychadena_anchietae</List>
+		<List recon_name="DELETE" recon_no="-1">Ptychadena_mascareniensis</List>
+		<List recon_name="DELETE" recon_no="-1">Pyxicephalus_adspersus</List>
+		<List recon_name="DELETE" recon_no="-1">Pyxicephalus_edulis</List>
+		<List recon_name="DELETE" recon_no="-1">Schoutedenella_taeniata</List>
+		<List recon_name="DELETE" recon_no="-1">Scotobleps_gabonicus</List>
+		<List recon_name="DELETE" recon_no="-1">Sooglossus_sechellensis</List>
+		<List recon_name="DELETE" recon_no="-1">Staurois_natator</List>
+		<List recon_name="DELETE" recon_no="-1">Strongylopus_grayii</List>
+		<List recon_name="DELETE" recon_no="-1">Tomopterna_marmorata</List>
+		<List recon_name="DELETE" recon_no="-1">Tomopterna_tandyi</List>
+		<List recon_name="DELETE" recon_no="-1">Trichobatrachus_robustus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="178">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Scott_2005a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

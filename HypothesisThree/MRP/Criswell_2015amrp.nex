@@ -1,0 +1,32 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=17 NCHAR=15;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Dipterus_valenciennesi    000000000000000
+Arganodus_atlantis        111110000000001
+Asiatoceratodus_sharovi   011110000000001
+Beltanodus_ambilobensis   000011100000000
+Ceratodus_sturii          001110010000001
+Ferganoceratodus_martini  001110000000000
+Gnathorhiza_spp           000011100000000
+Gosfordia_truncata        111110001000001
+Lepidosiren_paradoxa      111110001110001
+Neoceratodus_forsteri     001110010000000
+Paraceratodus_germaini    000110000000000
+Protopterus_annectens     111110001111111
+Protopterus_amphibius     111110001110111
+Protopterus_aethiopicus   111110001111111
+Protopterus_dolloi        111110001110011
+Ptychoceratodus_serratus  111110001010001
+Sagenodus_spp             000010100000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

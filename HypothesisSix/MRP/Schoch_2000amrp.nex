@@ -1,0 +1,31 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=18 NCHAR=16;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Balanerpeton                   0000000000000000
+Sclerocephalus                 0000000000000001
+Uranocentrodon                 0000000000000011
+Wetlugasaurus                  0000000000001111
+Benthosuchus                   0000000000011111
+Thoosuchus                     0000000000111111
+Trematosaurus                  0000000000111111
+Parotosuchus_madagascariensis  0000000001000111
+Parotosuchus_nasutus           0000000111000111
+Parotosuchus_orenburgensis     0000000111000111
+Mastodonsaurus                 0000011011000111
+Eryosuchus                     0000011011000111
+Wellesaurus                    0001101011000111
+Parotosuchus_pronus            0001101011000111
+Kupferzellia                   1110101011000111
+Eocyclotosaurus                0010101011000111
+Quasicyclotosaurus             0110101011000111
+Cyclotosaurus                  1110101011000111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

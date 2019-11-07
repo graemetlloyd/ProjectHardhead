@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Marsicano, C. A.</List>
+			<List>Warren, A.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>The first Palaeozoic rhytidosteid: <em>Trucheosaurus major</em> (Woodward, 1909) from the Late Permian of Australia, and a reassessment of the Rhytidosteidae (Amphibia, Temnospondyli)</Title>
+		<Journal>Bulletin of the Natural History Museum of London (Geology)</Journal>
+		<Volume>54</Volume>
+		<Pages>147-154</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="12">
+		<List recon_name="Trimerorhachidae" recon_no="36985">Trimerorhachidae</List>
+		<List recon_name="Lydekkerina_huxleyi" recon_no="255237">Lydekkerina</List>
+		<List recon_name="Chomatobatrachus_halei" recon_no="251647">Chomatobatrachus</List>
+		<List recon_name="Rhytidosteus_capensis" recon_no="251509">Rhytidosteus_capensis</List>
+		<List recon_name="Peltostega_erici" recon_no="251517">Peltostega_sp</List>
+		<List recon_name="Laidleria_gracilis" recon_no="251506">Laidleria_gracilis</List>
+		<List recon_name="Indobrachyops_panchetensis" recon_no="251613">Indobrachyops_panchetensis</List>
+		<List recon_name="Deltasaurus_kimberleyensis" recon_no="251512">Deltasaurus_kimberleyensis</List>
+		<List recon_name="Rewana_quadricuneata" recon_no="251267">Rewana_quadricuneata</List>
+		<List recon_name="Derwentia_warreni" recon_no="251504">Derwentia_warreni</List>
+		<List recon_name="Arcadia_myriadens" recon_no="251270">Arcadia_myriadens</List>
+		<List recon_name="Boreopelta_vavilovi" recon_no="251511">Boreopelta_vavilovi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Marsicano_et_Warren_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,20 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=7 NCHAR=6;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Actinopterygii  000000
+Actinistia      000011
+Amniota         111111
+Anura           111111
+Caudata         001111
+Dipnoi          000101
+Apoda           011111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

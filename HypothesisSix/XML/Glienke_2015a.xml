@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Glienke, S.</List>
+		</Author>
+		<Year>2015</Year>
+		<Title>Two new species of the genus Batropetes (Tetrapoda, Lepospondyli) from the Central European Rotliegend (basal Permian) in Germany</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>35</Volume>
+		<Pages>e918041</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="9">
+		<List recon_name="Pantylus" recon_no="37291">Pantylus</List>
+		<List recon_name="Altenglanerpeton_schroederi" recon_no="340225">Altenglanerpeton</List>
+		<List recon_name="Batropetes_appelensis" recon_no="340815">Batropetes_appelensis</List>
+		<List recon_name="Batropetes_fritschia" recon_no="137990">Batropetes_fritschi</List>
+		<List recon_name="Batropetes_niederkirchensis" recon_no="340813">Batropetes_niederkirchensis</List>
+		<List recon_name="Batropetes_palatinus" recon_no="340814">Batropetes_palatinus</List>
+		<List recon_name="Carrolla" recon_no="37316">Carrolla</List>
+		<List recon_name="Quasicaecilia" recon_no="227371">Quasicaecilia</List>
+		<List recon_name="Saxonerpeton_geinitzi" recon_no="338105">Saxonerpeton</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="58">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Glienke_2015a</Filename>
+	<Parent>Glienke_2012a</Parent>
+	<Sibling/>
+</SourceTree>

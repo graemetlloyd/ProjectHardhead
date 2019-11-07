@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Jia, J.</List>
+			<List>Gao, K.-Q.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A new stem hynobiid salamander (Urodela, Cryptobranchoidea) from the Upper Jurassic (Oxfordian) of Liaoning Province, China</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="34">
+		<List recon_name="Karaurus_sharovi" recon_no="202227">Karaurus</List>
+		<List recon_name="DELETE" recon_no="-1">Cryptobranchus</List>
+		<List recon_name="DELETE" recon_no="-1">Andrias</List>
+		<List recon_name="DELETE" recon_no="-1">Hynobius</List>
+		<List recon_name="DELETE" recon_no="-1">Onychodactylus</List>
+		<List recon_name="DELETE" recon_no="-1">Plethodon</List>
+		<List recon_name="DELETE" recon_no="-1">Desmognathus</List>
+		<List recon_name="DELETE" recon_no="-1">Amphiuma</List>
+		<List recon_name="DELETE" recon_no="-1">Proamphiuma</List>
+		<List recon_name="DELETE" recon_no="-1">Rhyacotriton</List>
+		<List recon_name="DELETE" recon_no="-1">Siren</List>
+		<List recon_name="DELETE" recon_no="-1">Pseudobranchus</List>
+		<List recon_name="DELETE" recon_no="-1">Habrosaurus</List>
+		<List recon_name="DELETE" recon_no="-1">Necturus</List>
+		<List recon_name="DELETE" recon_no="-1">Proteus</List>
+		<List recon_name="DELETE" recon_no="-1">Salamandra</List>
+		<List recon_name="DELETE" recon_no="-1">Taricha</List>
+		<List recon_name="DELETE" recon_no="-1">Tylototriton</List>
+		<List recon_name="DELETE" recon_no="-1">Dicamptodon</List>
+		<List recon_name="DELETE" recon_no="-1">Ambystoma</List>
+		<List recon_name="Valdotriton_gracilis" recon_no="111405">Valdotriton</List>
+		<List recon_name="Jeholotriton_paradoxus" recon_no="134851">Jeholotriton</List>
+		<List recon_name="Liaoxitriton_zhongjiani" recon_no="156375">Liaoxitriton_zhongjiani</List>
+		<List recon_name="Pangerpeton_sinensis" recon_no="176036">Pangerpeton</List>
+		<List recon_name="Chunerpeton_tianyiensis" recon_no="137502">Chunerpeton</List>
+		<List recon_name="Beiyanerpeton_jianpingensis" recon_no="242132">Beiyanerpeton</List>
+		<List recon_name="Iridotriton_hechti" recon_no="118174">Iridotriton</List>
+		<List recon_name="DELETE" recon_no="-1">Qinglongtriton</List>
+		<List recon_name="DELETE" recon_no="-1">Linglongtriton</List>
+		<List recon_name="DELETE" recon_no="-1">Liua</List>
+		<List recon_name="DELETE" recon_no="-1">Pseudohynobius</List>
+		<List recon_name="Nuominerpeton_aquilonaris" recon_no="371246">Nuominerpeton</List>
+		<List recon_name="Regalerpeton_weichangensis" recon_no="156378">Regalerpeton</List>
+		<List recon_name="Liaoxitriton_daohugouensis" recon_no="156374">Liaoxitriton_daohugouensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="120">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Jia_et_Gao_inpressa</Filename>
+	<Parent>Jia_et_Gao_2016a</Parent>
+	<Sibling/>
+</SourceTree>

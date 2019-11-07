@@ -1,0 +1,33 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=20 NCHAR=22;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Youngolepis_praecursor        0000000000000000000000
+Diabolepis_speratus           0000000000000000000001
+Chirodipterus_australis       0000000000000000111111
+Chirodipterus_liangchengi     0000000001111111011111
+Chirodipterus_wildungensis    0000001111111111011111
+Dipnorhynchus_kurikae         0000010000000000000011
+Dipnorhynchus_sussmilchi      0000010000000000000011
+Dipterus_valenciennesi        0000000010111111011111
+Gogodipterus_paddyensis       0000000000000000111111
+Griphognathus_minutidens      0111101111111111011111
+Griphognathus_whitei          0011101111111111011111
+Holodipterus_gogoensis        0001101111111111011111
+Melanognathus_canadensis      0000000110000111001111
+Orlovichthys_limnatis         1000101111111111011111
+Pillararhynchus_longi         0000000000001001011111
+Rhinodipterus_kimberleyensis  1000101111111111011111
+Soederberghia_groenlandica    0111101111111111011111
+Sorbitorhynchus_deleaskitus   0000000000011011011111
+Stomiahykus_thalodus          0000000000000000000111
+Uranolophus_wyomingensis      0000000000000000000111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

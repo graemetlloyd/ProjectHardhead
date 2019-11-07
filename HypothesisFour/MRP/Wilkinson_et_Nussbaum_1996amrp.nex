@@ -1,0 +1,31 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=16 NCHAR=14 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Ancestral_state  00000000000000
+Epicrionops      11000000000000
+Rhinatrema       11000000000000
+Ichthyophis      10111000000000
+Caudacaecilia    10111000000000
+Uraeotyphlus     10110000000000
+Scolecomorphus   10100100000000
+Typhlonectes     10100111111000
+Schistometopum   10100111111100
+Siphonops        10100111111111
+Oscaecilia       10100111111110
+Hypogeophis      10100111100000
+Dermophis        10100111111111
+Gegeneophis      10100111000000
+Boulengerula     10100110000000
+Praslinia        10100111110000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ 	TYPESET * UNTITLED  = unord: 1-14;
+END;
+

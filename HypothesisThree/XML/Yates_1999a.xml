@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Yates, A. M.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>The Lapillopsidae: a new family of small temnospondyls from the Early Triassic of Australia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>19</Volume>
+		<Pages>302-320</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="12">
+		<List recon_name="DELETE" recon_no="0">ancestor</List>
+		<List recon_name="Dissorophoidea" recon_no="175854">Dissorophoidea</List>
+		<List recon_name="Eryopidae" recon_no="37007">Eryopidae</List>
+		<List recon_name="Dvinosauria" recon_no="140809">Dvinosauria</List>
+		<List recon_name="Archegosauroidea" recon_no="148320">Archegosauroidea</List>
+		<List recon_name="Peltobatrachus" recon_no="37084">Peltobatrachus</List>
+		<List recon_name="Lapillopsis" recon_no="150340">Lapillopsis</List>
+		<List recon_name="Rotaurisaurus_contundo" recon_no="251290">Rotaurisaurus</List>
+		<List recon_name="Rhinesuchidae" recon_no="37065">Rhinesuchidae</List>
+		<List recon_name="Lydekkerinidae" recon_no="37072">Lydekkerinidae</List>
+		<List recon_name="Capitosauroidea" recon_no="255238">Capitosauroidea</List>
+		<List recon_name="Trematosauria" recon_no="150349">Trematosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="68">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Yates_1999a</Filename>
+	<Parent>Yates_et_Warren_2000a</Parent>
+	<Sibling/>
+</SourceTree>

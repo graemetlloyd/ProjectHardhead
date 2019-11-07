@@ -1,0 +1,30 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=15 NCHAR=12 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Rhineceps_nyasaensis         000000000000
+Trimerorhachis_insignis      110000000000
+Eryops_megacephalus          110000000000
+Metoposaurus_diagnosticus    101111111100
+Metoposaurus_krasiejowensis  101111111100
+Metoposaurus_algarvensis     101111111100
+Koskinonodon_maleriensis     101111111000
+Arganasaurus_azerouali       101111000010
+Koskinonodon_perfectus       101111100001
+Koskinonodon_bakeri          101111110000
+Apachesaurus_gregorii        101111100001
+Arganasaurus_lyazidi         101111000010
+Dutuitosaurus_ouazzoui       101110000000
+Callistomordax_kugleri       101100000000
+Almasaurus_habazzi           101000000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ 	TYPESET * UNTITLED  = unord: 1-12;
+END;
+

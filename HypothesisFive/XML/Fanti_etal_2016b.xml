@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Fanti, F.</List>
+			<List>Conte, G. L.</List>
+			<List>Angelicola, L.</List>
+			<List>Cau, A.</List>
+		</Author>
+		<Year>2016</Year>
+		<Title>Why so many dipnoans? A multidisciplinary approach on the Lower Cretaceous lungfish record from Tunisia</Title>
+		<Journal>Palaeogeography, Palaeoclimatology, Palaeoecology</Journal>
+		<Volume>449</Volume>
+		<Pages>255-265</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="54">
+		<List recon_name="DELETE" recon_no="-1">QM_F2108_M_wollanstoni</List>
+		<List recon_name="DELETE" recon_no="-1">ZPAL_ABbIII2393_P_roemeri</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21920</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21913</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21912_indet</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21914</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21915</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21916</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21917</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21918</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21919</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21921</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21922</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21923</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21924</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21925</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21926</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21927</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21928</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21929</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21930</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21931</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD1</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD2</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD3</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD4</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD5</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD6</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD7</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD8</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD9</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD10</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD11</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD12</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD13</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD14</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD15</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD16</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD17</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD18</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD19</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD20</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD21</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD22</List>
+		<List recon_name="DELETE" recon_no="-1">CPHNAMA_VT830_E_schultzei</List>
+		<List recon_name="DELETE" recon_no="-1">CPHNAMA_VT831_E_schultzei</List>
+		<List recon_name="DELETE" recon_no="-1">ROM_47626_L_humei</List>
+		<List recon_name="DELETE" recon_no="-1">ROM_47627_L_humei</List>
+		<List recon_name="DELETE" recon_no="-1">UFMA_1_40_454_A_tiguidiensis</List>
+		<List recon_name="DELETE" recon_no="-1">HGS_64_A_tiguidiensis</List>
+		<List recon_name="DELETE" recon_no="-1">HGN51_N_africanus</List>
+		<List recon_name="DELETE" recon_no="-1">HGS115_N_africanus</List>
+		<List recon_name="DELETE" recon_no="-1">1_13_12217_F_jurassicus</List>
+		<List recon_name="DELETE" recon_no="-1">MGCT_644_C_africanus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="45">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fanti_etal_2016b</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

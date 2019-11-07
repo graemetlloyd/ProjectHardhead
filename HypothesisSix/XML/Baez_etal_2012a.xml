@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Baez, A. M.</List>
+			<List>Gomez, R. O.</List>
+			<List>Taglioretti, M. L.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The archaic ilial morphology of an enigmatic pipid frog from the upper Pleistocene of the South American pampas</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>32</Volume>
+		<Pages>304-314</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="22">
+		<List recon_name="DELETE" recon_no="-1">Ascaphus_truei</List>
+		<List recon_name="Avitabatrachus_uliana" recon_no="199258">Avitabatrachus_uliana</List>
+		<List recon_name="DELETE" recon_no="-1">Bombina_variegata</List>
+		<List recon_name="DELETE" recon_no="-1">Discoglossus_pictus</List>
+		<List recon_name="Eoxenopoides_reuningi" recon_no="156614">Eoxenopoides_reuningi</List>
+		<List recon_name="DELETE" recon_no="-1">Hymenochirus_boettgeri</List>
+		<List recon_name="Llankibatrachus_truebae" recon_no="135386">Llankibatrachus_truebae</List>
+		<List recon_name="Pelobates_cultripes" recon_no="387462">Pelobates_cultripes</List>
+		<List recon_name="DELETE" recon_no="-1">Pipa_carvalhoi</List>
+		<List recon_name="DELETE" recon_no="-1">Pipa_pipa</List>
+		<List recon_name="DELETE" recon_no="-1">Platyplectrum_ornatum</List>
+		<List recon_name="DELETE" recon_no="-1">Pseudhymenochirus_merlini</List>
+		<List recon_name="Rhinophrynus_dorsalis" recon_no="108650">Rhinophrynus_dorsalis</List>
+		<List recon_name="Saltenia_ibanezi" recon_no="156615">Saltenia_ibanezi</List>
+		<List recon_name="Shelania_laurenti" recon_no="135373">Shelania_laurenti</List>
+		<List recon_name="Shelania_pascuali" recon_no="135372">Shelania_pascuali</List>
+		<List recon_name="DELETE" recon_no="-1">Silurana_tropicalis</List>
+		<List recon_name="Vulcanobatrachus_mandelai" recon_no="68502">Vulcanobatrachus_mandelai</List>
+		<List recon_name="DELETE" recon_no="-1">Xenopus_laevis</List>
+		<List recon_name="DELETE" recon_no="-1">Xenopus_wittei</List>
+		<List recon_name="Xenopus_romeri" recon_no="113803">Xenopus_romeri</List>
+		<List recon_name="DELETE" recon_no="-1">Daireaux_pipid_MMP_M_dash_5121</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="76">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Baez_etal_2012a</Filename>
+	<Parent>Baez_etal_2007a</Parent>
+	<Sibling/>
+</SourceTree>

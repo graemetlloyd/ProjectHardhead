@@ -1,0 +1,31 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=16 NCHAR=13;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Rhinesuchidae                  0000000000000
+Eocyclotosaurus                1111111000000
+Eryosuchus                     0000001000000
+Kupferzellia                   0000011000000
+Mastodonsaurus_cappelensis     0011111100000
+Mastodonsaurus_giganteus       0011111100000
+Paracyclotosaurus_crookshanki  0001111000000
+Procyclotosaurus               0000111000000
+Quasicyclotosaurus             1111111000000
+Cyclotosaurus_robustus         0111111010000
+Cyclotosaurus_ebrachensis      0111111011110
+Cyclotosaurus_intermedius      0111111011110
+Cyclotosaurus_mordax           0111111010110
+Cyclotosaurus_posthumus        0111111010111
+Cyclotosaurus_hemprichi        0111111010111
+Cyclotosaurus_buechneri        0111111010010
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

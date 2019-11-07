@@ -1,0 +1,25 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=12 NCHAR=12;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Actinopterygii     000000000000
+Onychodontia       000000000111
+Actinistia         000000001011
+Tetrapoda          000011111101
+Panderichthyiidae  000011111101
+Osteolepiformes    000001111101
+Rhizodontida       000000111101
+Porolepiformes     000100011101
+Powichthys         001100011101
+Youngolepis        011100011101
+Diabolepis         111100011101
+Dipnoi             111100011101
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

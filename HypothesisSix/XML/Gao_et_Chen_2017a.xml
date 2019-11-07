@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Gao, K.-Q.</List>
+			<List>Chen, J.-Y.</List>
+		</Author>
+		<Year>2017</Year>
+		<Title>A new crown-group frog (Amphibia: Anura) from the Early Cretaceous of Northeastern Inner Mongolia, China</Title>
+		<Journal>American Museum Novitates</Journal>
+		<Volume>3876</Volume>
+		<Pages>1-39</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="51">
+		<List recon_name="Triadobatrachus_massinoti" recon_no="156397">Triadobatrachus_massinoti</List>
+		<List recon_name="Czatkobatrachus_polonicus" recon_no="57093">Czatkobatrachus_polonicus</List>
+		<List recon_name="Prosalirus_bitis" recon_no="156391">Prosalirus_bitis</List>
+		<List recon_name="Vieraella_herbstii" recon_no="156518">Vieraella_herbsti</List>
+		<List recon_name="Notobatrachus_degiustoi" recon_no="156510">Notobatrachus_degiustoi</List>
+		<List recon_name="DELETE" recon_no="-1">Ascaphus_truei</List>
+		<List recon_name="DELETE" recon_no="-1">Leiopelma_hochstetteri</List>
+		<List recon_name="Alytes_obstetricans" recon_no="387461">Alytes_obstetricans</List>
+		<List recon_name="DELETE" recon_no="-1">Barbourula_busuangensis</List>
+		<List recon_name="DELETE" recon_no="-1">Bombina_orientalis</List>
+		<List recon_name="DELETE" recon_no="-1">Discoglossus_pictus</List>
+		<List recon_name="Eodiscoglossus_santonjae" recon_no="57536">Eodiscoglossus_santonjae</List>
+		<List recon_name="Callobatrachus_sanyanensis" recon_no="81737">Callobatrachus_sanyanensis</List>
+		<List recon_name="Mesophryne_beipiaoensis" recon_no="156581">Mesophryne_beipiaoensis</List>
+		<List recon_name="DELETE" recon_no="-1">Pipa_pipa</List>
+		<List recon_name="DELETE" recon_no="-1">Xenopus</List>
+		<List recon_name="Rhinophrynus_dorsalis" recon_no="108650">Rhinophrynus_dorsalis</List>
+		<List recon_name="DELETE" recon_no="-1">Palaeobatrachus_diluvianus</List>
+		<List recon_name="Neusibatrachus_wilferti" recon_no="202008">Neusibatrachus_wilferti</List>
+		<List recon_name="DELETE" recon_no="-1">Hyla</List>
+		<List recon_name="DELETE" recon_no="-1">Limnodynastes_peronii</List>
+		<List recon_name="Yizhoubatrachus_macilentus" recon_no="197697">Yizhoubatrachus_macilentus</List>
+		<List recon_name="DELETE" recon_no="-1">Pelodytes_caucasicus</List>
+		<List recon_name="Pelodytes_punctatus" recon_no="387463">Pelodytes_punctatus</List>
+		<List recon_name="DELETE" recon_no="-1">Pelodytes_ibericus</List>
+		<List recon_name="Aerugoamnis_paulus" recon_no="352718">Aerugoamnis_paulus</List>
+		<List recon_name="Tephrodytes_brassicarvalis" recon_no="348801">Tephrodytes_brassicarvalis</List>
+		<List recon_name="DELETE" recon_no="-1">Megophrys_nasuta</List>
+		<List recon_name="Elkobatrachus_brocki" recon_no="242716">Elkobatrachus_brocki</List>
+		<List recon_name="Prospea_holoserisca" recon_no="334354">Prospea_holoserisca</List>
+		<List recon_name="Spea_multiplicata" recon_no="249616">Spea_multiplicata</List>
+		<List recon_name="Spea_hammondii" recon_no="249617">Spea_hammondii</List>
+		<List recon_name="Spea_intermontana" recon_no="249614">Spea_intermontana</List>
+		<List recon_name="Spea_bombifrons" recon_no="110936">Spea_bombifrons</List>
+		<List recon_name="DELETE" recon_no="-1">Scaphiopus_hurterii</List>
+		<List recon_name="Scaphiopus_holbrookii" recon_no="362476">Scaphiopus_holbrookii</List>
+		<List recon_name="Scaphiopus_couchii" recon_no="362475">Scaphiopus_couchii</List>
+		<List recon_name="DELETE" recon_no="-1">Scaphiopus_skinneri</List>
+		<List recon_name="DELETE" recon_no="-1">Scaphiopus_guthriei</List>
+		<List recon_name="Macropelobates_osborni" recon_no="156321">Macropelobates_osborni</List>
+		<List recon_name="DELETE" recon_no="-1">Pelobates_decheni</List>
+		<List recon_name="DELETE" recon_no="-1">Pelobates_varaldii</List>
+		<List recon_name="Pelobates_cultripes" recon_no="387462">Pelobates_cultripes</List>
+		<List recon_name="DELETE" recon_no="-1">Pelobates_fuscus</List>
+		<List recon_name="DELETE" recon_no="-1">Pelobates_syriacus</List>
+		<List recon_name="Gobiates_spinari" recon_no="202824">Gobiates_spinari</List>
+		<List recon_name="Eopelobates_anthracinus" recon_no="99654">Eopelobates_anthracinus</List>
+		<List recon_name="Eopelobates_bayeri" recon_no="99655">Eopelobates_bayeri</List>
+		<List recon_name="DELETE" recon_no="-1">Eopelobates_deani</List>
+		<List recon_name="Eopelobates_grandis" recon_no="99653">Eopelobates_grandis</List>
+		<List recon_name="Genibatrachus_baoshanensis" recon_no="371248">Gennibatrachus_baoshanensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="97">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gao_et_Chen_2017a</Filename>
+	<Parent>Chen_etal_2016a</Parent>
+	<Sibling/>
+</SourceTree>

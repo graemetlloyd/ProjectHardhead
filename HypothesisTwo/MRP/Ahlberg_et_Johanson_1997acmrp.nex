@@ -1,0 +1,21 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=8 NCHAR=6;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+OG3                 000000
+Tristichopterus     000001
+Eusthenopteron      000011
+Jarvikina           000111
+Platycephalichthys  001111
+Eusthenodon         111111
+Mandageria          111111
+Cabonnichthys       011111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

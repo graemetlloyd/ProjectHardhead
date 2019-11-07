@@ -1,0 +1,20 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=7 NCHAR=5;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Primitive       00000
+Hapsidopareion  00011
+Trematopsidae   00111
+Dissorophidae   00111
+Anura           11001
+Caudata         11001
+Gymnophiona     01001
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

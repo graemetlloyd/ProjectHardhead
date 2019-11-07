@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhu, M.</List>
+			<List>Zhao, W.-J.</List>
+			<List>Jia, L.-T.</List>
+			<List>Lu, J.</List>
+			<List>Qiao, T.</List>
+			<List>Qu, Q.-M.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>The oldest articulated osteichthyan reveals mosaic gnathostome characters</Title>
+		<Journal>Nature</Journal>
+		<Volume>458</Volume>
+		<Pages>469-474</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List recon_name="Akmonistion" recon_no="248784">Akmonistion</List>
+		<List recon_name="Acanthodes" recon_no="157017">Acanthodes</List>
+		<List recon_name="Dicksonosteus" recon_no="226309">Dicksonosteus</List>
+		<List recon_name="Lophosteus" recon_no="35022">Lophosteus</List>
+		<List recon_name="Andreolepis" recon_no="34968">Andreolepis</List>
+		<List recon_name="Guiyu_oneiros" recon_no="144008">Guiyu</List>
+		<List recon_name="Ligulalepis" recon_no="35021">Ligulalepis</List>
+		<List recon_name="Dialipina" recon_no="34998">Dialipina</List>
+		<List recon_name="Cheirolepis" recon_no="209435">Cheirolepis</List>
+		<List recon_name="Osorioichthys" recon_no="35031">Osorioichthys</List>
+		<List recon_name="Howqualepis" recon_no="218882">Howqualepis</List>
+		<List recon_name="Mimia" recon_no="35024">Mimia</List>
+		<List recon_name="Moythomasia" recon_no="35025">Moythomasia</List>
+		<List recon_name="Meemania" recon_no="219187">Meemannia</List>
+		<List recon_name="Psarolepis_romeri" recon_no="377272">Psarolepis</List>
+		<List recon_name="Achoania_jarvikii" recon_no="307008">Achoania</List>
+		<List recon_name="Onychodus" recon_no="34942">Onychodus</List>
+		<List recon_name="Miguashaia" recon_no="34937">Miguashaia</List>
+		<List recon_name="Styloichthys_changae" recon_no="219196">Styloichthys</List>
+		<List recon_name="Youngolepis" recon_no="34962">Youngolepis</List>
+		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis</List>
+		<List recon_name="Powichthys" recon_no="34948">Powichthys</List>
+		<List recon_name="Kenichthys_campbelli" recon_no="377767">Kenichthys</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="153">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhu_etal_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

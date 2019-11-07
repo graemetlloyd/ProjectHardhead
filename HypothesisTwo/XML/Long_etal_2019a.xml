@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Long, J. A.</List>
+			<List>Clement, A. M.</List>
+			<List>Choo, B.</List>
+		</Author>
+		<Year>2019</Year>
+		<Title>New insights into the origins and radiation of the mid-Palaeozoic Gondwanan stem tetrapods</Title>
+		<Journal>Earth and Environmental Science Transactions of the Royal Society of Edinburgh</Journal>
+		<Volume>109</Volume>
+		<Pages>139-155</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List recon_name="DELETE" recon_no="-1">Youngolepis</List>
+		<List recon_name="DELETE" recon_no="-1">Diabolepis</List>
+		<List recon_name="DELETE" recon_no="-1">Powichthys</List>
+		<List recon_name="DELETE" recon_no="-1">Porolepis</List>
+		<List recon_name="DELETE" recon_no="-1">Glyptolepis</List>
+		<List recon_name="DELETE" recon_no="-1">Tungsenia</List>
+		<List recon_name="DELETE" recon_no="-1">Kenichthys</List>
+		<List recon_name="DELETE" recon_no="-1">Gooloogongia</List>
+		<List recon_name="DELETE" recon_no="-1">Sauripterus</List>
+		<List recon_name="DELETE" recon_no="-1">Barameda</List>
+		<List recon_name="DELETE" recon_no="-1">Screbinodus</List>
+		<List recon_name="DELETE" recon_no="-1">Rhizodus</List>
+		<List recon_name="DELETE" recon_no="-1">Strepsodus</List>
+		<List recon_name="DELETE" recon_no="-1">Gyroptychius</List>
+		<List recon_name="DELETE" recon_no="-1">Osteolepis</List>
+		<List recon_name="DELETE" recon_no="-1">Gogonasus</List>
+		<List recon_name="DELETE" recon_no="-1">Medoevia</List>
+		<List recon_name="DELETE" recon_no="-1">Cladarosymblema</List>
+		<List recon_name="DELETE" recon_no="-1">Megalichthys</List>
+		<List recon_name="DELETE" recon_no="-1">Ectosteorhachis</List>
+		<List recon_name="DELETE" recon_no="-1">Beelarongia</List>
+		<List recon_name="DELETE" recon_no="-1">Canowindra</List>
+		<List recon_name="DELETE" recon_no="-1">Koharalepis</List>
+		<List recon_name="DELETE" recon_no="-1">Marsdenichthys</List>
+		<List recon_name="DELETE" recon_no="-1">Spodichthys</List>
+		<List recon_name="DELETE" recon_no="-1">Tristichopterus</List>
+		<List recon_name="DELETE" recon_no="-1">Eusthenopteron</List>
+		<List recon_name="DELETE" recon_no="-1">Jarvikina</List>
+		<List recon_name="DELETE" recon_no="-1">Platycephalichthys</List>
+		<List recon_name="DELETE" recon_no="-1">Cabonnichthys</List>
+		<List recon_name="DELETE" recon_no="-1">Mandageria</List>
+		<List recon_name="DELETE" recon_no="-1">Eusthenodon</List>
+		<List recon_name="DELETE" recon_no="-1">Hongyu</List>
+		<List recon_name="DELETE" recon_no="-1">Panderichthys</List>
+		<List recon_name="DELETE" recon_no="-1">Elpistostege</List>
+		<List recon_name="DELETE" recon_no="-1">Tiktaalik</List>
+		<List recon_name="DELETE" recon_no="-1">Acanthostega</List>
+		<List recon_name="DELETE" recon_no="-1">Ichthyostega</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="169">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Long_etal_2019a</Filename>
+	<Parent>Zhu_etal_2017a</Parent>
+	<Sibling/>
+</SourceTree>

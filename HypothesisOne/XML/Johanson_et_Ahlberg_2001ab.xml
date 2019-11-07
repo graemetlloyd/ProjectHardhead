@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Johanson, Z.</List>
+			<List>Ahlberg, P. E.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Devonian rhizodontids and tristichopterids (Sarcopterygii; Tetrapodomorpha) from East Gondwana</Title>
+		<Journal>Transactions of the Royal Society of Edinburgh: Earth Sciences</Journal>
+		<Volume>92</Volume>
+		<Pages>43-74</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List recon_name="Glyptolepis" recon_no="34920">Glyptolepis</List>
+		<List recon_name="Gooloogongia" recon_no="224759">Gooloogongia</List>
+		<List recon_name="Aztecia" recon_no="224768">Aztecia</List>
+		<List recon_name="Sauripterus" recon_no="224769">Sauripterus</List>
+		<List recon_name="Barameda" recon_no="224776">Barameda</List>
+		<List recon_name="Rhizodus" recon_no="34950">Rhizodus</List>
+		<List recon_name="Screbinodus" recon_no="224848">Screbinodus</List>
+		<List recon_name="Strepsodus" recon_no="224851">Strepsodus</List>
+		<List recon_name="Medoevia" recon_no="224857">Medoevia</List>
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Johanson_et_Ahlberg_2001ab</Filename>
+	<Parent>Johanson_et_Ahlberg_1998a</Parent>
+	<Sibling/>
+</SourceTree>

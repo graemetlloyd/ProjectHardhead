@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Marsicano, C. A.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>Chigutisaurid amphibians from the Upper Triassic of Argentina and their phylogenetic relationships</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>42</Volume>
+		<Pages>545-565</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="7">
+		<List recon_name="Trimerorhachidae" recon_no="36985">Trimerorhachidae</List>
+		<List recon_name="Brachyopidae" recon_no="37146">Brachyopidae</List>
+		<List recon_name="Pelorocephalus" recon_no="37160">Pelorocephalus</List>
+		<List recon_name="Siderops" recon_no="37155">Siderops</List>
+		<List recon_name="Keratobrachyops" recon_no="37159">Keratobrachyops</List>
+		<List recon_name="Kuttycephalus" recon_no="251481">Kuttycephalus</List>
+		<List recon_name="Compsocerops" recon_no="251479">Compsocerops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="19">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Marsicano_1999a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

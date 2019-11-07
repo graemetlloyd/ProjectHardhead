@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Apesteguia, S.</List>
+			<List>Agnolin, F. L.</List>
+			<List>Claeson, K.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>Review of Cretaceous dipnoans from Argentina (Sarcopterygii: Dipnoi) with descriptions of new species</Title>
+		<Journal>Revista del Museo Argentino de Ciencias Naturales, nueva serie</Journal>
+		<Volume>9</Volume>
+		<Pages>27-40</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="9">
+		<List recon_name="Protopterus_annectens" recon_no="321124">Protopterus_annectens</List>
+		<List recon_name="DELETE" recon_no="-1">Chaoceratodus_portezuelensis</List>
+		<List recon_name="Ceratodus_sturii" recon_no="194433">Ceratodus_sturii</List>
+		<List recon_name="DELETE" recon_no="-1">Ameghinoceratodus_iheringi</List>
+		<List recon_name="Ptychoceratodus_serratus" recon_no="194441">Ptychoceratodus_serratus</List>
+		<List recon_name="Metaceratodus_wollastoni" recon_no="321104">Metaceratodus_wollastoni</List>
+		<List recon_name="Neoceratodus_forsteri" recon_no="194486">Neoceratodus_forsteri</List>
+		<List recon_name="DELETE" recon_no="-1">Neoceratodus_brasiliensis</List>
+		<List recon_name="Mioceratodus_anemosyrus" recon_no="321121">Mioceratodus_anemosyrus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="28">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Apesteguia_etal_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

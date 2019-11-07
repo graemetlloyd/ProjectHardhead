@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Matsumoto, R.</List>
+			<List>Evans, S. E.</List>
+		</Author>
+		<Year>2018</Year>
+		<Title>The first record of albanerpetontid amphibians (Amphibia: Albanerpetontidae) from East Asia</Title>
+		<Journal>PLOS One</Journal>
+		<Volume>13</Volume>
+		<Pages>e0189767</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="15">
+		<List recon_name="DELETE" recon_no="0">Hypothetical_ancestor</List>
+		<List recon_name="Anoualerpeton_priscus" recon_no="244724">Anoualerpeton_priscus</List>
+		<List recon_name="Anoualerpeton_unicus" recon_no="156363">Anoualerpeton_unicus</List>
+		<List recon_name="Celtedens_ibericus" recon_no="245182">Celtedens_ibericus</List>
+		<List recon_name="Albanerpeton_arthridion" recon_no="114401">Albanerpeton_arthridion</List>
+		<List recon_name="Albanerpeton_gracilis" recon_no="156366">Albanerpeton_gracilis</List>
+		<List recon_name="Albanerpeton_galaktion" recon_no="114403">Albanerpeton_galaktion</List>
+		<List recon_name="Albanerpeton_cifellii" recon_no="156365">Albanerpeton_cifellii</List>
+		<List recon_name="Albanerpeton_nexuosus" recon_no="67753">Albanerpeton_nexuosus</List>
+		<List recon_name="Albanerpeton_inexpectatum" recon_no="114402">Albanerpeton_inexpectatum</List>
+		<List recon_name="Albanerpeton_pannonicus" recon_no="254990">Albanerpeton_pannonicus</List>
+		<List recon_name="Albanerpeton_sp_UALVP_Unnumbered" recon_no="37345">Paskapoo_species</List>
+		<List recon_name="Wesserpeton_evansae" recon_no="246330">Wesserpeton_evansae</List>
+		<List recon_name="Albanerpetontidae_indet_FUB_A1" recon_no="63053">Una_albanerpetontid</List>
+		<List recon_name="Shirerpeton_isajii" recon_no="366952">Shirerpeton_isaji</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="34">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Matsumoto_et_Evans_2018a</Filename>
+	<Parent>Venczel_et_Gardner_2005a</Parent>
+	<Sibling/>
+</SourceTree>

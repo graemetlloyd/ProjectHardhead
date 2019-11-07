@@ -1,0 +1,37 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=24 NCHAR=18;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Dipnorhynchus           000000000000000000
+Ceratodus_sturii        000001111111111111
+Ctenodus                000010001111111111
+Dipterus_valenciennesi  001100000000000111
+gnathorizids            000000000111111111
+lepidosirenids          010001111111111111
+Neoceratodus            010001111111111111
+rhycnhodipterids        000000000000011111
+Sagenodus               000010011111111111
+Straitonia              000000111111111111
+Uranolophus             000000000000000011
+Chirodipterus           001100000000000111
+Conchopoma              000000000000111111
+Fleurantia              000000000000011111
+holodipterids           000000000000011111
+Jarvikia                000000000001011111
+Microceratodus          000001111111111111
+Oervigia                100100000000001111
+Paraceratodus           000001111111111111
+phaneropleurids         100100000000001111
+Rhinodipterus           001100000000000111
+Speonesydrion           000000000000000001
+Tranodis                000000000111111111
+Uronemus                000000000011111111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

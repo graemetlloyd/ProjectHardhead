@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Venczel, M.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new salamandrid amphibian from the Middle Miocene of Hungary and its phylogenetic relationships</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>6</Volume>
+		<Pages>41-59</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="15">
+		<List recon_name="DELETE" recon_no="0">Hypotheticalancestor</List>
+		<List recon_name="Salamandra_salamandra" recon_no="393926">Salamandra_salamandra</List>
+		<List recon_name="Pleurodeles_waltl" recon_no="393935">Pleurodeles_waltl</List>
+		<List recon_name="DELETE" recon_no="-1">Tylototriton</List>
+		<List recon_name="DELETE" recon_no="-1">Echinotriton</List>
+		<List recon_name="DELETE" recon_no="-1">Salamandrina</List>
+		<List recon_name="DELETE" recon_no="-1">Calotriton_asper</List>
+		<List recon_name="DELETE" recon_no="-1">Ommatotriton</List>
+		<List recon_name="DELETE" recon_no="-1">Lissotriton_helvetics</List>
+		<List recon_name="DELETE" recon_no="-1">Mesotriton</List>
+		<List recon_name="DELETE" recon_no="-1">Triturus</List>
+		<List recon_name="DELETE" recon_no="-1">Carpathotriton</List>
+		<List recon_name="DELETE" recon_no="-1">Archaeotriton</List>
+		<List recon_name="DELETE" recon_no="-1">Cynops_pyrrhogaster</List>
+		<List recon_name="DELETE" recon_no="-1">Paramesotriton</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="35">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Venczel_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Holmes, R.</List>
+			<List>Berman, D. S.</List>
+			<List>Anderson, J. S.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new dissorophid (Temnospondyli, Dissorophoidea) from the Early Permian of New Mexico (United States)</Title>
+		<Journal>Comptes Rendus Palevol</Journal>
+		<Volume>12</Volume>
+		<Pages>419-435</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
+		<List recon_name="Sclerocephalus" recon_no="37015">Sclerocephalus</List>
+		<List recon_name="Micromelerpeton" recon_no="37044">Micromelerpeton</List>
+		<List recon_name="Platyrhinops" recon_no="123089">Platyrhinops</List>
+		<List recon_name="Doleserpeton" recon_no="37046">Doleserpeton</List>
+		<List recon_name="Acheloma" recon_no="37048">Acheloma</List>
+		<List recon_name="Phonerpeton" recon_no="230700">Phonerpeton</List>
+		<List recon_name="Anconastes" recon_no="136411">Anconastes</List>
+		<List recon_name="Fedexia_striegeli" recon_no="344537">Fedexia</List>
+		<List recon_name="Tambachia" recon_no="152959">Tambachia</List>
+		<List recon_name="Ecolsonia" recon_no="37028">Ecolsonia</List>
+		<List recon_name="Aspidosaurus" recon_no="37021">Aspidosaurus</List>
+		<List recon_name="Platyhystrix_rugosus" recon_no="345923">Platyhistrix</List>
+		<List recon_name="Dissorophus" recon_no="37027">Dissorophus</List>
+		<List recon_name="Broiliellus_texensis" recon_no="255228">B_texensis</List>
+		<List recon_name="Broiliellus_brevis" recon_no="229313">B_brevis</List>
+		<List recon_name="Broiliellus_olsoni" recon_no="136990">B_olsoni</List>
+		<List recon_name="Brevidorsum" recon_no="37023">Brevidorsum</List>
+		<List recon_name="Conjunctio" recon_no="37026">Conjunctio</List>
+		<List recon_name="Scapanops_neglecta" recon_no="330108">ADMIRAL</List>
+		<List recon_name="Cacops_morrisi" recon_no="175857">Cacops_M</List>
+		<List recon_name="Cacops_aspidephorus" recon_no="56737">Cacops_A</List>
+		<List recon_name="Cacops_woehri" recon_no="362803">Cacops_W</List>
+		<List recon_name="Kamacops" recon_no="37031">Kamacops</List>
+		<List recon_name="Zygosaurus" recon_no="37036">Zygosaurus</List>
+		<List recon_name="Broiliellus_reiszi" recon_no="344543">new_taxon</List>
+		<List recon_name="Aspidosaurus_novomexicanus" recon_no="136991">RAT</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="71">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Holmes_etal_2013a</Filename>
+	<Parent>Schoch_2012a</Parent>
+	<Sibling/>
+</SourceTree>

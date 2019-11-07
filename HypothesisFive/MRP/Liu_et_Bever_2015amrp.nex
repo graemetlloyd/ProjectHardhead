@@ -1,0 +1,25 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=10 NCHAR=9;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Leposondyli   000000000
+Amniota       100000000
+Limnoscelis   110000000
+Tseajaia      111000000
+Ambedus       111100000
+Orobates      111110000
+Desmatodon    111111100
+Diasparactus  111111111
+Diadectes     111111111
+Alveusdectes  111110101
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

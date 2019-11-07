@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Krupina, N. I.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>Phylogeny of Devonian dipnoans, with special emphasis on forms from the Russian Platform</Title>
+		<Journal>Paleontological Journal</Journal>
+		<Volume>34</Volume>
+		<Pages>S147-S153</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List recon_name="Dipterus_valenciennesi" recon_no="259292">Dipterus_val</List>
+		<List recon_name="Jarvikia_arctica" recon_no="372958">Jarvikia</List>
+		<List recon_name="Oervigia_nordica" recon_no="372952">Oervigia</List>
+		<List recon_name="Fleurantia_denticulata" recon_no="372954">Fleurantia</List>
+		<List recon_name="Andreyevichthys_epitomus" recon_no="391618">Andreyevichthys</List>
+		<List recon_name="Rhinodipterus_secans" recon_no="377299">Rhnodipterus_se</List>
+		<List recon_name="Rhinodipterus_ulrichi" recon_no="377298">R_ulrichi</List>
+		<List recon_name="Rhinodipterus_stolbovi" recon_no="377297">R_Stolbovi</List>
+		<List recon_name="Orlovichthys_limnatis" recon_no="391612">Orlovichthys</List>
+		<List recon_name="Scaumenacia_curta" recon_no="372950">Scaumenacia</List>
+		<List recon_name="Chirodipterus" recon_no="34883">Chirodipterus</List>
+		<List recon_name="Soederberghia_groenlandica" recon_no="372956">Soedenberghia</List>
+		<List recon_name="Griphognathus_whitei" recon_no="377507">Griphagnathus_wh</List>
+		<List recon_name="DELETE" recon_no="-1">Griphagnathus_se</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="48">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Krupina_et_Reisz_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

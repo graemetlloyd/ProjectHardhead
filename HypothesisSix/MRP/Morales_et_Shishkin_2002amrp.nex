@@ -1,0 +1,22 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=7 NCHAR=7;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Wetlugasaurus               0000000
+Parotosuchus_orenburgensis  1111010
+Eryosuchus_tverdochlebovi   0111010
+Parotosuchus_pronus         1111001
+Xenotosuchus_africanus      0001000
+Wellesaurus_peabodyi        0011101
+Stenotosaurus_stantonensis  0011101
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

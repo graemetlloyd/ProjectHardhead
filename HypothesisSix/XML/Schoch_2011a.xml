@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Schoch, R. R.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A trematosauroid temnospondyl from the Middle Triassic of Jordan</Title>
+		<Journal>Fossil Record</Journal>
+		<Volume>14</Volume>
+		<Pages>119-127</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="22">
+		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
+		<List recon_name="Trimerorhachis" recon_no="36991">Trimerorhachis</List>
+		<List recon_name="Sclerocephalus" recon_no="37015">Sclerocephalus</List>
+		<List recon_name="Uranocentrodon_senekalensis" recon_no="255236">Uranocentrodon</List>
+		<List recon_name="Lydekkerina" recon_no="37078">Lydekkerina</List>
+		<List recon_name="Siderops" recon_no="37155">Siderops</List>
+		<List recon_name="Batrachosuchus" recon_no="150350">Batrachosuchus</List>
+		<List recon_name="Laidleria" recon_no="37115">Laidleria</List>
+		<List recon_name="Rhytidosteidae" recon_no="37110">Rhytidosteidae</List>
+		<List recon_name="Gerrothorax" recon_no="37170">Gerrothorax</List>
+		<List recon_name="Plagiosuchus" recon_no="37176">Plagiosuchus</List>
+		<List recon_name="Capitosauroidea" recon_no="255238">Capitosauroidea</List>
+		<List recon_name="Aphaneramma" recon_no="37125">Aphaneramma</List>
+		<List recon_name="Trematolestes" recon_no="179388">Trematolestes</List>
+		<List recon_name="Lyrocephaliscus" recon_no="37131">Lyrocephaliscus</List>
+		<List recon_name="Rileymillerus" recon_no="144437">Rileymillerus</List>
+		<List recon_name="Almasaurus" recon_no="37167">Almasaurus</List>
+		<List recon_name="Metoposaurus_diagnosticus" recon_no="130942">Metoposaurus</List>
+		<List recon_name="Callistomordax" recon_no="174471">Callistomordax</List>
+		<List recon_name="Inflectosaurus_amplus" recon_no="266627">Inflectosaurus_amplus</List>
+		<List recon_name="Microposaurus_casei" recon_no="202575">Microposaurus_casei</List>
+		<List recon_name="Trematosauroidea_indet_SMNS_81772" recon_no="37123">Jordan_taxon_SMNS_81772</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="102">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schoch_2011a</Filename>
+	<Parent>Schoch_2008a</Parent>
+	<Sibling/>
+</SourceTree>

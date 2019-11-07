@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Steyer, S.</List>
+			<List>Damiani, R.</List>
+			<List>Sidor, C. A.</List>
+			<List>O'Keefe, R.</List>
+			<List>Larsson, H. C. E.</List>
+			<List>Maga, A.</List>
+			<List>Ide, O.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>The vertebrate fauna of the Upper Permian of Niger. IV. <em>Nigerpeton ricqlesi</em> (Temnospondyli: Cochleosauridae), and the edopoid colonization of Gondwana</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>26</Volume>
+		<Pages>18-28</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List recon_name="Loxomma" recon_no="36971">Loxomma</List>
+		<List recon_name="Baphetes" recon_no="36970">Baphetes</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton_woodi</List>
+		<List recon_name="Capetus_palustris" recon_no="256954">Capetus_palustris</List>
+		<List recon_name="Saharastega_moradiensis" recon_no="91479">Saharastega_moradiensis</List>
+		<List recon_name="Edops_craigi" recon_no="252444">Edops_craigi</List>
+		<List recon_name="Procochleosaurus_jarrowensis" recon_no="204061">Procochleosaurus_jarrowensis</List>
+		<List recon_name="Adamanterpeton_ohioensis" recon_no="204060">Adamanterpeton_ohioensis</List>
+		<List recon_name="Cochleosaurus_bohemicus" recon_no="204052">Cochleosaurus_bohemicus</List>
+		<List recon_name="Cochleosaurus_florensis" recon_no="204062">Cochleosaurus_florensis</List>
+		<List recon_name="Nigerpeton_ricqlesi" recon_no="91477">Nigerpeton_ricqlesi</List>
+		<List recon_name="Chenoprosopus_milleri" recon_no="139020">Chenoprosopus_milleri</List>
+		<List recon_name="Chenoprosopus_lewisi" recon_no="204063">Chenoprosopus_lewisi</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops_megacephalus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="42">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Steyer_etal_2006a</Filename>
+	<Parent>Sidor_etal_2005a</Parent>
+	<Sibling/>
+</SourceTree>

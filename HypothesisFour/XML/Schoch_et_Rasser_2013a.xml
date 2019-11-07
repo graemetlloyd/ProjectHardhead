@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Schoch, R. R.</List>
+			<List>Rasser, M. W.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A new salamandrid from the Miocene Randeck Maar, Germany</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>58-66</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="14">
+		<List recon_name="DELETE" recon_no="-1">Salamandra</List>
+		<List recon_name="DELETE" recon_no="-1">Tylototriton</List>
+		<List recon_name="DELETE" recon_no="-1">Pleurodeles</List>
+		<List recon_name="DELETE" recon_no="-1">Notophthalmus</List>
+		<List recon_name="DELETE" recon_no="-1">Euproctus</List>
+		<List recon_name="DELETE" recon_no="-1">Cynops</List>
+		<List recon_name="DELETE" recon_no="-1">Ommatotriton</List>
+		<List recon_name="Triturus_marmoratus" recon_no="252937">Triturus_marmoratus</List>
+		<List recon_name="Triturus_cristatus" recon_no="332948">Triturus_cristatus</List>
+		<List recon_name="DELETE" recon_no="-1">Lissotriton_vulgaris</List>
+		<List recon_name="DELETE" recon_no="-1">Lissotriton_montandoni</List>
+		<List recon_name="DELETE" recon_no="-1">Lissotriton_italicus</List>
+		<List recon_name="DELETE" recon_no="-1">Ichthyosaura_alpestris</List>
+		<List recon_name="DELETE" recon_no="-1">Ichthyosaura_randeckensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="38">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schoch_et_Rasser_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

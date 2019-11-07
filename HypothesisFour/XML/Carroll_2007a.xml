@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carroll, R. L.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>The Palaeozoic ancestry of salamanders, frogs and caecilians</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>150</Volume>
+		<Pages>1-140</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Whatcheeriidae" recon_no="179034">Whatcheeridae</List>
+		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
+		<List recon_name="Anthracosauroidea" recon_no="99765">Anthracosauroidea</List>
+		<List recon_name="Baphetidae" recon_no="227378">Baphetidae</List>
+		<List recon_name="Caerorhachis" recon_no="36993">Caerorhachis</List>
+		<List recon_name="Colosteidae" recon_no="36975">Colosteidae</List>
+		<List recon_name="Euskelia" recon_no="150272">Basal_temnospondyls</List>
+		<List recon_name="Branchiosauridae" recon_no="37037">Branchiosauridae</List>
+		<List recon_name="Amphibamidae" recon_no="123081">Amphibamidae</List>
+		<List recon_name="Rhynchonkos" recon_no="37308">Rhynchonkos</List>
+		<List recon_name="Acherontiscus" recon_no="37331">Acherontiscus</List>
+		<List recon_name="Aistopoda" recon_no="37251">Aistopoda</List>
+		<List recon_name="Adelospondyli" recon_no="320812">Adelospondyli</List>
+		<List recon_name="Lysorophia" recon_no="37319">Lysorophia</List>
+		<List recon_name="Microsauria" recon_no="37278">Microsauria</List>
+		<List recon_name="Nectridea" recon_no="156892">Nectridea</List>
+		<List recon_name="Amniota" recon_no="53189">Early_amniotes</List>
+		<List recon_name="Albanerpetontidae" recon_no="63053">Albanerpetontidae</List>
+		<List recon_name="Urodela" recon_no="137499">Urodela</List>
+		<List recon_name="Triadobatrachidae" recon_no="156392">Triadobatrachidae</List>
+		<List recon_name="Anura" recon_no="150288">Anura</List>
+		<List recon_name="Gymnophiona" recon_no="37332">Caecilia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="118">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carroll_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

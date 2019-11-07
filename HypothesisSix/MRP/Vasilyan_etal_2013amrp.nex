@@ -1,0 +1,22 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=9 NCHAR=29;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Onychodactylus_fischeri           00000000000000000000000000000
+Andrias_japonicus                 00000000000001111111111111111
+Andrias_davidianus                00000000001111111111111111111
+Andrias_scheuchzeri               00000111110000000011111111111
+Ukrainurus_hypsognathus           00001000000000000000000000001
+Zaissanurus_beliajevae            01110001111110011100001111111
+Aviturus_exsecratus               10110110110110000100110011111
+Cryptobranchus_allegenianeiss     01000000000000101101010100111
+Cryptobranchus_saskatchewanensis  10011010010010000000000001011
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

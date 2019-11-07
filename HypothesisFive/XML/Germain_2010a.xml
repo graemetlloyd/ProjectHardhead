@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Germain, D.</List>
+		</Author>
+		<Year>2010</Year>
+		<Title>The Moroccan diplocaulid: the last lepospondyl, the single one on Gondwana</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>22</Volume>
+		<Pages>4-39</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List recon_name="Ptyonius" recon_no="37274">Ptyonius</List>
+		<List recon_name="Sauropleura" recon_no="37275">Sauropleura</List>
+		<List recon_name="Urocordylus" recon_no="37276">Urocordylus</List>
+		<List recon_name="Scincosaurus" recon_no="37269">Scincosaurus</List>
+		<List recon_name="Keraterpeton" recon_no="37266">Keraterpeton</List>
+		<List recon_name="Diceratosaurus" recon_no="37263">Diceratosaurus</List>
+		<List recon_name="Batrachiderpeton" recon_no="37262">Batrachiderpeton</List>
+		<List recon_name="Diplocaulus" recon_no="37264">Diplocaulus</List>
+		<List recon_name="Diplocaulus_minimus" recon_no="147909">D_minimus</List>
+		<List recon_name="Diploceraspis" recon_no="37265">Diploceraspis</List>
+		<List recon_name="Peronedon" recon_no="119361">Peronedon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="49">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Germain_2010a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

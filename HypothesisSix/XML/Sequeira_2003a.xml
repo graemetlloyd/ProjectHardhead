@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Sequeira, S. E. K.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>The skull of <em>Cochleosaurus bohemicus</em> Fric, a temnospondyl from the Czech Republic (Upper Carboniferous) and cochleosaurid interrelationships</Title>
+		<Journal>Transactions of the Royal Society of Edinburgh: Earth Sciences</Journal>
+		<Volume>94</Volume>
+		<Pages>21-43</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List recon_name="DELETE" recon_no="0">Outgroup</List>
+		<List recon_name="Baphetes" recon_no="36970">Baphetes</List>
+		<List recon_name="Loxomma" recon_no="36971">Loxomma</List>
+		<List recon_name="Eucritta" recon_no="229323">Eucritta</List>
+		<List recon_name="Edops" recon_no="37005">Edops</List>
+		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
+		<List recon_name="Balanerpeton" recon_no="227174">Balanerpeton</List>
+		<List recon_name="Procochleosaurus" recon_no="91480">Procochleosaurus</List>
+		<List recon_name="Adamanterpeton" recon_no="91481">Adamanterpeton</List>
+		<List recon_name="Cochleosaurus_bohemicus" recon_no="204052">Cochleosaurus_bohemicus</List>
+		<List recon_name="Cochleosaurus_florensis" recon_no="204062">Cochleosaurus_florensis</List>
+		<List recon_name="Chenoprosopus_milleri" recon_no="139020">Chenoprosopus_milleri</List>
+		<List recon_name="Chenoprosopus_lewisi" recon_no="204063">Chenoprosopus_lewisi</List>
+		<List recon_name="Acanthostomatops" recon_no="345488">Acanthostomatops</List>
+		<List recon_name="Zatrachys_serratus" recon_no="255221">Zatrachys</List>
+		<List recon_name="Trimerorhachis_sandovalensis" recon_no="345366">Trimerorhachis_sandovalensis</List>
+		<List recon_name="Trimerorhachis_insignis" recon_no="90711">Trimerorhachis_insignis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="61">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Sequeira_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

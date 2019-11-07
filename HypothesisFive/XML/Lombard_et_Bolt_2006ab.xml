@@ -1,0 +1,142 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lombard, R. E.</List>
+			<List>Bolt, J. R.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>The mandible of <em>Whatcheeria deltae</em>, an early tetrapod from the late Mississippian of Iowa</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>21-52</Pages>
+		<Booktitle>Amniote Paleobiology: Perspectives on the Evolution of Mammals, Birds, and Reptiles</Booktitle>
+		<Publisher>Chicago University Press</Publisher>
+		<City>Chicago</City>
+		<Editor>
+			<List>Carrano, M. T.</List>
+			<List>Gaudin, T. J.</List>
+			<List>Blob, R. W.</List>
+			<List>Wible, J. R.</List>
+		</Editor>
+	</Source>
+	<Taxa number="102">
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Acherontiscus" recon_no="37331">Acherontiscus</List>
+		<List recon_name="Adelogyrinus_simorhynchus" recon_no="227001">Adelogyrinus</List>
+		<List recon_name="Adelospondylus" recon_no="37327">Adelospondylus</List>
+		<List recon_name="Albanerpeton" recon_no="37345">Albanerpeton</List>
+		<List recon_name="Amphibamus" recon_no="37019">Amphibamus</List>
+		<List recon_name="Anthracosaurus" recon_no="37200">Anthracosaurus</List>
+		<List recon_name="Apateon" recon_no="37038">Apateon</List>
+		<List recon_name="Archeria" recon_no="37196">Archeria</List>
+		<List recon_name="Ariekanerpeton" recon_no="37208">Ariekanerpeton</List>
+		<List recon_name="Asaphestera" recon_no="37281">Asaphestera</List>
+		<List recon_name="Balanerpeton" recon_no="227174">Balanerpeton</List>
+		<List recon_name="Baphetes" recon_no="36970">Baphetes</List>
+		<List recon_name="Batrachiderpeton" recon_no="37262">Batrachiderpeton</List>
+		<List recon_name="Batropetes" recon_no="37513">Batropetes</List>
+		<List recon_name="Brachydectes" recon_no="227167">Brachydectes</List>
+		<List recon_name="Broiliellus" recon_no="37024">Broiliellus</List>
+		<List recon_name="Bruktererpeton_fiebigi" recon_no="229314">Bruktererpeton</List>
+		<List recon_name="Caerorhachis" recon_no="36993">Caerorhachis</List>
+		<List recon_name="Capetus" recon_no="256952">Capetus</List>
+		<List recon_name="Captorhinus" recon_no="37497">Captorhinus</List>
+		<List recon_name="Cardiocephalus" recon_no="37294">Cardiocephalus</List>
+		<List recon_name="Chenoprosopus" recon_no="37000">Chenoprosopus</List>
+		<List recon_name="Cochleosaurus" recon_no="37001">Cochleosaurus</List>
+		<List recon_name="Colosteus" recon_no="36976">Colosteus</List>
+		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
+		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
+		<List recon_name="Diadectes" recon_no="37247">Diadectes</List>
+		<List recon_name="Diceratosaurus" recon_no="37263">Diceratosaurus</List>
+		<List recon_name="Diplocaulus" recon_no="37264">Diplocaulus</List>
+		<List recon_name="Diploceraspis" recon_no="37265">Diploceraspis</List>
+		<List recon_name="Discosauriscus" recon_no="37209">Discosauriscus</List>
+		<List recon_name="Doleserpeton" recon_no="37046">Doleserpeton</List>
+		<List recon_name="Dolichopareias" recon_no="37328">Dolichopareias</List>
+		<List recon_name="Ecolsonia" recon_no="37028">Ecolsonia</List>
+		<List recon_name="Edops" recon_no="37005">Edops</List>
+		<List recon_name="Eocaecilia" recon_no="156676">Eocaecilia</List>
+		<List recon_name="Eogyrinus" recon_no="37189">Eogyrinus</List>
+		<List recon_name="Eoherpeton_watsoni" recon_no="229321">Eoherpeton</List>
+		<List recon_name="Eoscopus" recon_no="123090">Eoscopus</List>
+		<List recon_name="Eryops" recon_no="37011">Eryops</List>
+		<List recon_name="Eucritta" recon_no="229323">Eucritta</List>
+		<List recon_name="Euryodus" recon_no="37296">Euryodus</List>
+		<List recon_name="Gephyrostegus" recon_no="37205">Gephyrostegus</List>
+		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greererpeton</List>
+		<List recon_name="Hapsidopareion_lepton" recon_no="90683">Hapsidopareion</List>
+		<List recon_name="Hyloplesion" recon_no="37313">Hyloplesion</List>
+		<List recon_name="Ichthyostega" recon_no="36965">Ichthyostega</List>
+		<List recon_name="Isodectes" recon_no="36983">Isodectes</List>
+		<List recon_name="Karaurus_sharovi" recon_no="202227">Karaurus</List>
+		<List recon_name="Keraterpeton" recon_no="37266">Keraterpeton</List>
+		<List recon_name="Kotlassia" recon_no="37218">Kotlassia</List>
+		<List recon_name="Leptoropha" recon_no="37555">Leptoropha</List>
+		<List recon_name="Leptorophus" recon_no="229328">Leptorophus</List>
+		<List recon_name="Lethiscus" recon_no="37256">Lethiscus</List>
+		<List recon_name="Limnoscelis" recon_no="37232">Limnoscelis</List>
+		<List recon_name="Megalocephalus" recon_no="36972">Megalocephalus</List>
+		<List recon_name="Micraroter" recon_no="37302">Micraroter</List>
+		<List recon_name="Microbrachis" recon_no="37311">Microbrachis</List>
+		<List recon_name="Micromelerpeton" recon_no="37044">Micromelerpeton</List>
+		<List recon_name="Microphon" recon_no="37534">Microphon</List>
+		<List recon_name="Neldasaurus" recon_no="36989">Neldasaurus</List>
+		<List recon_name="Notobatrachus" recon_no="37424">Notobatrachus</List>
+		<List recon_name="Odonterpeton" recon_no="37318">Odonterpeton</List>
+		<List recon_name="Oestocephalus" recon_no="230697">Oestocephalus</List>
+		<List recon_name="Orobates" recon_no="154059">Orobates</List>
+		<List recon_name="Ossinodus" recon_no="242723">Ossinodus</List>
+		<List recon_name="Paleothyris" recon_no="37493">Paleothyris</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
+		<List recon_name="Pantylus" recon_no="37291">Pantylus</List>
+		<List recon_name="Pederpes_finneyae" recon_no="179035">Pederpes</List>
+		<List recon_name="Pelodosotis" recon_no="37304">Pelodosotis</List>
+		<List recon_name="Petrolacosaurus" recon_no="37771">Petrolacosaurus</List>
+		<List recon_name="Phlegethontia" recon_no="37259">Phlegethontia</List>
+		<List recon_name="Pholiderpeton" recon_no="37193">Pholiderpeton</List>
+		<List recon_name="Phonerpeton" recon_no="230700">Phonerpeton</List>
+		<List recon_name="Platyrhinops" recon_no="123089">Platyrhinops</List>
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
+		<List recon_name="Ptyonius" recon_no="37274">Ptyonius</List>
+		<List recon_name="Rhynchonkos" recon_no="37308">Rhynchonkos</List>
+		<List recon_name="Sauropleura" recon_no="37275">Sauropleura</List>
+		<List recon_name="Saxonerpeton_geinitzi" recon_no="338105">Saxonerpeton</List>
+		<List recon_name="Schoenfelderpeton" recon_no="37040">Schoenfelderpeton</List>
+		<List recon_name="Scincosaurus" recon_no="37269">Scincosaurus</List>
+		<List recon_name="Seymouria" recon_no="37223">Seymouria</List>
+		<List recon_name="Silvanerpeton_miripedes" recon_no="243094">Silvanerpeton</List>
+		<List recon_name="Solenodonsaurus" recon_no="37238">Solenodonsaurus</List>
+		<List recon_name="Stegotretus" recon_no="227374">Stegotretus</List>
+		<List recon_name="Trematops" recon_no="37050">Trematops</List>
+		<List recon_name="Triadobatrachus" recon_no="37421">Triadobatrachus</List>
+		<List recon_name="Trimerorhachis" recon_no="36991">Trimerorhachis</List>
+		<List recon_name="Tseajaia" recon_no="37240">Tseajaia</List>
+		<List recon_name="Tuditanus_punctulatus" recon_no="227062">Tuditanus</List>
+		<List recon_name="Tulerpeton_curtum" recon_no="230695">Tulerpeton</List>
+		<List recon_name="Urocordylus" recon_no="37276">Urocordylus</List>
+		<List recon_name="Utegenia_shpinari" recon_no="346161">Utegenia</List>
+		<List recon_name="Valdotriton" recon_no="111403">Valdotriton</List>
+		<List recon_name="Ventastega_curonica" recon_no="230696">Ventastega</List>
+		<List recon_name="Vieraella_herbstii" recon_no="156518">Viaerella</List>
+		<List recon_name="Westlothiana_lizziae" recon_no="179032">Westlothiana</List>
+		<List recon_name="Whatcheeria_deltae" recon_no="92128">Whatcheeria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="339">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lombard_et_Bolt_2006ab</Filename>
+	<Parent>Ruta_etal_2003a</Parent>
+	<Sibling/>
+</SourceTree>

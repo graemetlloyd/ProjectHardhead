@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Graf, J.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new Early Cretaceous coelacanth from Texas</Title>
+		<Journal>Historical Biology</Journal>
+		<Volume>24</Volume>
+		<Pages>441-452</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="35">
+		<List recon_name="Actinopterygii" recon_no="67345">Actinopterygians</List>
+		<List recon_name="Porolepiformes" recon_no="149970">Porolepiforms</List>
+		<List recon_name="Allenypterus" recon_no="34902">Allenypterus</List>
+		<List recon_name="Axelia" recon_no="34903">Axelia</List>
+		<List recon_name="Axelrodichthys" recon_no="134537">Axelrodichtys</List>
+		<List recon_name="Caridosuctor" recon_no="34905">Caridosuctor</List>
+		<List recon_name="Chinlea" recon_no="161891">Chinlea</List>
+		<List recon_name="Coccoderma" recon_no="34909">Coccoderma</List>
+		<List recon_name="Coelacanthus" recon_no="34911">Coelacanthus</List>
+		<List recon_name="Diplocercides" recon_no="34915">Diplocerides</List>
+		<List recon_name="Diplurus" recon_no="260052">Diplurus</List>
+		<List recon_name="Euporosteus" recon_no="34917">Euporosteus</List>
+		<List recon_name="Garnbergia" recon_no="34919">Garnbergia</List>
+		<List recon_name="Hadronector" recon_no="34925">Hadronector</List>
+		<List recon_name="Holophagus" recon_no="34928">Holophagus</List>
+		<List recon_name="Holopterygius" recon_no="35069">Holopterygius</List>
+		<List recon_name="Indocoelacanthus" recon_no="96962">Indocoelacanthus</List>
+		<List recon_name="Latimeria" recon_no="320869">Latimeria</List>
+		<List recon_name="Laugia" recon_no="34931">Laugia</List>
+		<List recon_name="Libys" recon_no="34932">Libys</List>
+		<List recon_name="Lochmocercus" recon_no="34934">Lochmocerus</List>
+		<List recon_name="Lualabaea" recon_no="260051">Lualabea</List>
+		<List recon_name="Macropoma" recon_no="34935">Macropoma</List>
+		<List recon_name="Mawsonia" recon_no="68074">Mawsonia</List>
+		<List recon_name="Miguashaia" recon_no="34937">Miguashaia</List>
+		<List recon_name="Polyosteorhynchus" recon_no="34946">Polyosteorhynchus</List>
+		<List recon_name="Rhabdoderma" recon_no="34949">Rhabdoderma</List>
+		<List recon_name="Sassenia" recon_no="34951">Sassenia</List>
+		<List recon_name="Spermatodus" recon_no="137510">Spermatodus</List>
+		<List recon_name="Ticinepomis" recon_no="34957">Ticinepomis</List>
+		<List recon_name="Undina" recon_no="34958">Undia</List>
+		<List recon_name="Wenzia" recon_no="321268">Wenzia</List>
+		<List recon_name="Whiteia" recon_no="34959">Whiteia</List>
+		<List recon_name="Wimania" recon_no="34960">Wimania</List>
+		<List recon_name="DELETE" recon_no="-1">Reidus_hilli</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="109">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Graf_2012a</Filename>
+	<Parent>Forey_1998aa</Parent>
+	<Sibling/>
+</SourceTree>

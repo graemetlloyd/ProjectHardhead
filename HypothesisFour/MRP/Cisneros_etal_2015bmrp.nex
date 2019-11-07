@@ -1,0 +1,32 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=17 NCHAR=16;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Eryops_megacephalus      0000000000000000
+Sclerocephalus_hauseri   1110000000000000
+Archegosaurus_decheni    0110000000000000
+Benthosuchus_sushkini    0011000000000000
+Rhinesuchidae            0011000000000000
+Dendrerpeton_acadianum   1110100000000000
+Trimerorhachis_insignis  1110111000000000
+Neldasaurus_wrightae     1110101100000000
+Perryella_olsoni         1110101111000000
+Isodectes_punctulatus    1110101111111011
+Acroplous_vorax          1110101111011011
+Dvinosaurus_primus       1110101111001001
+Slaugenhopia_texensis    1110101111111101
+Tupilakosaurus_sp        1110101111111101
+Thabanchuia_oomie        1110101111111101
+Timonya_anneae           1110101101000001
+Procuhy_nazariensis      1110111000000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

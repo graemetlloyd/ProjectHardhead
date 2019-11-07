@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clack, J. A.</List>
+			<List>Finney, S. M.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title><em>Pederpes finneyae</em>, an articulated tetrapod from the Tournaisian of Western Scotland</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>2</Volume>
+		<Pages>311-346</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eustheopteron</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Adelogyrinus_simorhynchus" recon_no="227001">Adelogyrinus</List>
+		<List recon_name="Balanerpeton" recon_no="227174">Balanerpeton</List>
+		<List recon_name="Baphetes" recon_no="36970">Baphetes</List>
+		<List recon_name="Caerorhachis" recon_no="36993">Caerorhachis</List>
+		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
+		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
+		<List recon_name="Eoherpeton_watsoni" recon_no="229321">Eoherpeton</List>
+		<List recon_name="Eucritta" recon_no="229323">Eucritta</List>
+		<List recon_name="Gephyrostegus" recon_no="37205">Gephyrostegus</List>
+		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greererpeton</List>
+		<List recon_name="Ichthyostega" recon_no="36965">Ichthyostega</List>
+		<List recon_name="Loxomma" recon_no="36971">Loxomma</List>
+		<List recon_name="Megalocephalus" recon_no="36972">Megalocephalus</List>
+		<List recon_name="Microbrachis" recon_no="37311">Microbrachis</List>
+		<List recon_name="Pederpes_finneyae" recon_no="179035">Pederpes</List>
+		<List recon_name="Pholiderpeton" recon_no="37193">Pholiderpeton</List>
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
+		<List recon_name="Ptyonius" recon_no="37274">Ptyonius</List>
+		<List recon_name="Saxonerpeton_geinitzi" recon_no="338105">Saxonerpeton</List>
+		<List recon_name="Seymouria" recon_no="37223">Seymouria</List>
+		<List recon_name="Silvanerpeton_miripedes" recon_no="243094">Silvanerpeton</List>
+		<List recon_name="Westlothiana_lizziae" recon_no="179032">Westlothiana</List>
+		<List recon_name="Whatcheeria_deltae" recon_no="92128">Whatcheeria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="195">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clack_et_Finney_2005ac</Filename>
+	<Parent>Ruta_etal_2003a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Warren, A.</List>
+			<List>Rozefelds, A. C.</List>
+			<List>Bull, S.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Tupilakosaur-like vertebrae in <em>Bothriceps australis</em>, an Australian brachyopid stereospondyl</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>31</Volume>
+		<Pages>738-753</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List recon_name="Eryops" recon_no="37011">Eryops</List>
+		<List recon_name="Acroplous" recon_no="36981">Acroplous</List>
+		<List recon_name="Isodectes" recon_no="36983">Isodectes</List>
+		<List recon_name="Trimerorhachis" recon_no="36991">Trimerorhachis</List>
+		<List recon_name="Dvinosaurus" recon_no="37145">Dvinosaurus</List>
+		<List recon_name="Tupilakosaurus" recon_no="36321">Tupilakosaurus</List>
+		<List recon_name="Thabanchuia" recon_no="242828">Thabanchuia</List>
+		<List recon_name="Neldasaurus" recon_no="36989">Neldasaurus</List>
+		<List recon_name="Sclerocephalus" recon_no="37015">Sclerocephalus</List>
+		<List recon_name="Lydekkerina" recon_no="37078">Lydekkerina</List>
+		<List recon_name="Rhineceps" recon_no="37068">Rhineceps</List>
+		<List recon_name="Watsonisuchus" recon_no="251273">Watsonisuchus</List>
+		<List recon_name="Derwentia" recon_no="37114">Derwentia</List>
+		<List recon_name="Bothriceps" recon_no="37151">Bothriceps</List>
+		<List recon_name="Keratobrachyops" recon_no="37159">Keratobrachyops</List>
+		<List recon_name="Xenobrachyops" recon_no="150352">Xenobrachyops</List>
+		<List recon_name="Banksiops" recon_no="251466">Banksiops</List>
+		<List recon_name="Batrachosuchus" recon_no="150350">Batrachosuchus</List>
+		<List recon_name="Vigilius_wellesi" recon_no="165309">Vigilius</List>
+		<List recon_name="Vanastega_plurimidens" recon_no="167338">Vanastega</List>
+		<List recon_name="Pelorocephalus" recon_no="37160">Pelorocephalus</List>
+		<List recon_name="Siderops" recon_no="37155">Siderops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="60">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Warren_etal_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

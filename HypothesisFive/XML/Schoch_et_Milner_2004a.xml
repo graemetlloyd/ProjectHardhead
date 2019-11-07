@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Schoch, R. R.</List>
+			<List>Milner, A. R.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Structure and implications of theories on the origin of lissamphibians</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>345-377</Pages>
+		<Booktitle>Recent Advances in the Origin and Early Radiation of Vertebrates</Booktitle>
+		<Publisher>Verlag Dr. Friedrich Pfeil</Publisher>
+		<City>Munchen</City>
+		<Editor>
+			<List>Arratia, G.</List>
+			<List>Wilson, M. V. H.</List>
+			<List>Cloutier, R.</List>
+		</Editor>
+ 	</Source>
+	<Taxa number="8">
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Brachydectes" recon_no="227167">Brachydectes</List>
+		<List recon_name="Batropetes" recon_no="37513">Batropetes</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Doleserpeton_annectens" recon_no="140536">Doleserpeton</List>
+		<List recon_name="Gymnophiona" recon_no="37332">Gymnophonia</List>
+		<List recon_name="Salamandridae" recon_no="37393">Caudata</List>
+		<List recon_name="Salientia" recon_no="57094">Salientia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="43">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schoch_et_Milner_2004a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

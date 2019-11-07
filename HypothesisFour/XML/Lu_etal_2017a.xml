@@ -1,0 +1,131 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+ 		<Author>
+			<List>Lu, J.</List>
+			<List>Giles, S.</List>
+			<List>Friedman, M.</List>
+			<List>Zhu, M.</List>
+		</Author>
+		<Year>2017</Year>
+		<Title>A new stem sarcopterygian illuminates patterns of character evolution in early bony fishes</Title>
+		<Journal>Nature Communications</Journal>
+		<Volume>8</Volume>
+		<Pages>1932</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+ 	</Source>
+	<Taxa number="94">
+		<List recon_name="Galeaspida" recon_no="204602">Galeaspida</List>
+		<List recon_name="Osteostraci" recon_no="117965">Osteostraci</List>
+		<List recon_name="Acanthodes" recon_no="157017">Acanthodes</List>
+		<List recon_name="Akmonistion" recon_no="248784">Akmonistion</List>
+		<List recon_name="Austroptyctodus" recon_no="256950">Austroptyctodus</List>
+		<List recon_name="Bothriolepis" recon_no="176322">Bothriolepis</List>
+		<List recon_name="Brachyacanthus" recon_no="226265">Brachyacanthus</List>
+		<List recon_name="Brindabellaspis" recon_no="34287">Brindabellaspis</List>
+		<List recon_name="Brochoadmones" recon_no="34872">Brochoadmones</List>
+		<List recon_name="Buchanosteus" recon_no="34314">Buchanosteus</List>
+		<List recon_name="Campbellodus" recon_no="34263">Campbellodus</List>
+		<List recon_name="Cassidiceps" recon_no="34851">Cassidiceps</List>
+		<List recon_name="Cheiracanthus" recon_no="209434">Cheiracanthus</List>
+		<List recon_name="Cheirolepis" recon_no="209435">Cheirolepis</List>
+		<List recon_name="Chondrenchelys" recon_no="34749">Chondrenchelys</List>
+		<List recon_name="Cladodoides" recon_no="245134">Cladodoides</List>
+		<List recon_name="Cladoselache" recon_no="34428">Cladoselache</List>
+		<List recon_name="Climatius" recon_no="258991">Climatius</List>
+		<List recon_name="Cobelodus" recon_no="34438">Cobelodus</List>
+		<List recon_name="Coccosteus" recon_no="209438">Coccosteus</List>
+		<List recon_name="DELETE" recon_no="-1">Cowralepis</List>
+		<List recon_name="Culmacanthus" recon_no="226270">Culmacanthus</List>
+		<List recon_name="Debeerius" recon_no="199087">Debeerius</List>
+		<List recon_name="Dialipina" recon_no="34998">Dialipina</List>
+		<List recon_name="Dicksonosteus" recon_no="226309">Dicksonosteus</List>
+		<List recon_name="Diplacanthus" recon_no="209448">Diplacanthus</List>
+		<List recon_name="Doliodus" recon_no="34864">Doliodus</List>
+		<List recon_name="DELETE" recon_no="-1">Entelognathus</List>
+		<List recon_name="DELETE" recon_no="-1">Eurycaraspis</List>
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
+		<List recon_name="Euthacanthus" recon_no="226275">Euthacanthus</List>
+		<List recon_name="DELETE" recon_no="-1">Gemuendina</List>
+		<List recon_name="Gladiobranchus" recon_no="34874">Gladiobranchus</List>
+		<List recon_name="DELETE" recon_no="-1">Glyptolepis</List>
+		<List recon_name="Gogonasus" recon_no="242713">Gogonasus</List>
+		<List recon_name="Guiyu_oneiros" recon_no="144008">Guiyu</List>
+		<List recon_name="DELETE" recon_no="-1">Gyracanthides</List>
+		<List recon_name="Hamiltonichthys" recon_no="207019">Hamiltonichthys</List>
+		<List recon_name="DELETE" recon_no="-1">Helodus</List>
+		<List recon_name="Homalacanthus" recon_no="226279">Homalacanthus</List>
+		<List recon_name="Howqualepis" recon_no="218882">Howqualepis</List>
+		<List recon_name="DELETE" recon_no="-1">Incisoscutum</List>
+		<List recon_name="Ischnacanthus" recon_no="34865">Ischnacanthus</List>
+		<List recon_name="DELETE" recon_no="-1">Jagorina</List>
+		<List recon_name="DELETE" recon_no="-1">Janusiscus</List>
+		<List recon_name="Kathemacanthus" recon_no="34856">Kathemacanthus</List>
+		<List recon_name="DELETE" recon_no="-1">Kentuckia</List>
+		<List recon_name="DELETE" recon_no="-1">Kujdanowiaspis</List>
+		<List recon_name="DELETE" recon_no="-1">Latviacanthus</List>
+		<List recon_name="Ligulalepis" recon_no="35021">Ligulalepis</List>
+		<List recon_name="DELETE" recon_no="-1">Lunaspis</List>
+		<List recon_name="Lupopsyrus" recon_no="34857">Lupopsyrus</List>
+		<List recon_name="Macropetalichthys" recon_no="34295">Macropetalichthys</List>
+		<List recon_name="Mesacanthus" recon_no="226283">Mesacanthus</List>
+		<List recon_name="DELETE" recon_no="-1">Mimipiscis</List>
+		<List recon_name="DELETE" recon_no="-1">Moythomasia</List>
+		<List recon_name="Obtusacanthus" recon_no="226263">Obtusacanthus</List>
+		<List recon_name="Onychodus" recon_no="34942">Onychodus</List>
+		<List recon_name="Onychoselache" recon_no="34504">Onychoselache</List>
+		<List recon_name="Orthacanthus" recon_no="55009">Orthacanthus</List>
+		<List recon_name="DELETE" recon_no="-1">Parayunnanolepis</List>
+		<List recon_name="Parexus" recon_no="256940">Parexus</List>
+		<List recon_name="Poracanthodes" recon_no="34868">Poracanthodes</List>
+		<List recon_name="Porolepis" recon_no="34947">Porolepis</List>
+		<List recon_name="Promesacanthus" recon_no="256943">Promesacanthus</List>
+		<List recon_name="Psarolepis_romeri" recon_no="377272">Psarolepis</List>
+		<List recon_name="Pterichthyodes" recon_no="256946">Pterichthyodes</List>
+		<List recon_name="Ptomacanthus" recon_no="256947">Ptomacanthus</List>
+		<List recon_name="DELETE" recon_no="-1">Pucapampella</List>
+		<List recon_name="Rhamphodopsis" recon_no="256949">Rhamphodopsis</List>
+		<List recon_name="DELETE" recon_no="-1">Ramirosuarezia</List>
+		<List recon_name="DELETE" recon_no="-1">Romundina</List>
+		<List recon_name="Styloichthys_changae" recon_no="219196">Styloichthys</List>
+		<List recon_name="Tamiobatis" recon_no="34444">Tamiobatis</List>
+		<List recon_name="Tetanopsyrus" recon_no="226289">Tetanopsyrus</List>
+		<List recon_name="Tristychius" recon_no="34519">Tristychius</List>
+		<List recon_name="DELETE" recon_no="-1">V_waynensis</List>
+		<List recon_name="DELETE" recon_no="-1">Yunnanolepis</List>
+		<List recon_name="Meemania_eos" recon_no="383857">Meemannia</List>
+		<List recon_name="DELETE" recon_no="-1">Youngolepis</List>
+		<List recon_name="DELETE" recon_no="-1">Powichthys</List>
+		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis</List>
+		<List recon_name="DELETE" recon_no="-1">Dipterus</List>
+		<List recon_name="DELETE" recon_no="-1">Diplocercides</List>
+		<List recon_name="DELETE" recon_no="-1">Miguashaia</List>
+		<List recon_name="Uranolophus_wyomingensis" recon_no="372944">Uranolophus</List>
+		<List recon_name="Gavinia_syntrips" recon_no="329096">Gavinia</List>
+		<List recon_name="Lawrenciella_schaefferi" recon_no="200049">Lawrenciella</List>
+		<List recon_name="DELETE" recon_no="-1">Kansasiella</List>
+		<List recon_name="Raynerius_splendens" recon_no="329405">Raynerius</List>
+		<List recon_name="DELETE" recon_no="-1">Ptyctolepis</List>
+		<List recon_name="Qingmenodus_yui" recon_no="377673">Qingmenodus</List>
+		<List recon_name="Achoania_jarvikii" recon_no="307008">Achoania</List>
+		<List recon_name="DELETE" recon_no="-1">Sparalepis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="278">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lu_etal_2017a</Filename>
+	<Parent>Lu_etal_2016c</Parent>
+	<Sibling/>
+</SourceTree>

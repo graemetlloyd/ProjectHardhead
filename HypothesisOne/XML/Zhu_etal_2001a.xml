@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhu, M.</List>
+			<List>Yu, X.-B.</List>
+			<List>Ahlberg, P. E.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A primitive sarcopterygian fish with an eyestalk</Title>
+		<Journal>Nature</Journal>
+		<Volume>410</Volume>
+		<Pages>82-84</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List recon_name="Acanthodes" recon_no="157017">Acanthodes</List>
+		<List recon_name="Achoania_jarvikii" recon_no="307008">Achoania</List>
+		<List recon_name="Osteichthyes_indet_AMF101607" recon_no="218963">AMF101607</List>
+		<List recon_name="Cheirolepis" recon_no="209435">Cheirolepis</List>
+		<List recon_name="Ctenacanthus" recon_no="34489">Ctenacanthus</List>
+		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis</List>
+		<List recon_name="Dicksonosteus" recon_no="226309">Dicksonosteus</List>
+		<List recon_name="Diplocercides" recon_no="34915">Diplocercides</List>
+		<List recon_name="Dipnorhynchus" recon_no="34887">Dipnorhynchus</List>
+		<List recon_name="Dipterus" recon_no="34888">Dipterus</List>
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
+		<List recon_name="Glyptolepis" recon_no="34920">Glyptolepis</List>
+		<List recon_name="Ichthyostega" recon_no="36965">Ichthyostega</List>
+		<List recon_name="Kenichthys_campbelli" recon_no="377767">Kenichthys</List>
+		<List recon_name="Miguashaia" recon_no="34937">Miguashaia</List>
+		<List recon_name="Mimia" recon_no="35024">Mimia</List>
+		<List recon_name="Moythomasia" recon_no="35025">Moythomasia</List>
+		<List recon_name="Onychodus" recon_no="34942">Onychodus</List>
+		<List recon_name="Osteolepis" recon_no="34943">Osteolepis</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
+		<List recon_name="Porolepis" recon_no="34947">Porolepis</List>
+		<List recon_name="Powichthys" recon_no="34948">Powichthys</List>
+		<List recon_name="Psarolepis_romeri" recon_no="377272">Psarolepis</List>
+		<List recon_name="Speonesydrion" recon_no="226305">Speonesydrion</List>
+		<List recon_name="Uranolophus_wyomingensis" recon_no="372944">Uranolophus</List>
+		<List recon_name="Youngolepis" recon_no="34962">Youngolepis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="158">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhu_etal_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

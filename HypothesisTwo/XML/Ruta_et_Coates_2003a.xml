@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruta, M.</List>
+			<List>Coates, M. I.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>Bones, molecules, and crown-tetrapod origins</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>224-262</Pages>
+		<Booktitle>Telling the Evolutionary Time: Molecular Clocks and the Fossil Record</Booktitle>
+		<Publisher>Taylor &amp; Francis</Publisher>
+		<City>London</City>
+		<Editor>
+			<List>Donoghue, P. C. J.</List>
+			<List>Smith, M. P.</List>
+		</Editor>
+	</Source>
+	<Taxa number="27">
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
+		<List recon_name="Elginerpeton_pancheni" recon_no="242709">Elginerpeton</List>
+		<List recon_name="Obruchevichthys_gracilis" recon_no="335524">Obruchevichthys</List>
+		<List recon_name="Ichthyostega" recon_no="36965">Ichthyostega</List>
+		<List recon_name="Ventastega_curonica" recon_no="230696">Ventastega</List>
+		<List recon_name="Metaxygnathus_denticulatus" recon_no="335531">Metaxygnathus</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Whatcheeria_deltae" recon_no="92128">Whatcheeria</List>
+		<List recon_name="Tulerpeton_curtum" recon_no="230695">Tulerpeton</List>
+		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
+		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greererpeton</List>
+		<List recon_name="Megalocephalus" recon_no="36972">Megalocephalus</List>
+		<List recon_name="Pholiderpeton" recon_no="37193">Pholiderpeton</List>
+		<List recon_name="Cochleosaurus" recon_no="37001">Cochleosaurus</List>
+		<List recon_name="Phonerpeton" recon_no="230700">Phonerpeton</List>
+		<List recon_name="Eoherpeton_watsoni" recon_no="229321">Eoherpeton</List>
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
+		<List recon_name="Gephyrostegus" recon_no="37205">Gephyrostegus</List>
+		<List recon_name="Balanerpeton" recon_no="227174">Balanerpeton</List>
+		<List recon_name="Platyrhinops" recon_no="123089">Platyrhinops</List>
+		<List recon_name="Microbrachis" recon_no="37311">Microbrachis</List>
+		<List recon_name="Discosauriscus" recon_no="37209">Discosauriscus</List>
+		<List recon_name="Eocaptorhinus" recon_no="37499">Eocaptorhinus</List>
+		<List recon_name="Diploceraspis" recon_no="37265">Diploceraspis</List>
+		<List recon_name="Sauropleura" recon_no="37275">Sauropleura</List>
+		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>
+		<List recon_name="Caerorhachis" recon_no="36993">Caerorhachis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="61">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruta_et_Coates_2003a</Filename>
+	<Parent>Ahlberg_et_Clack_1998a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,27 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=12 NCHAR=11 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Hypothetical_ancestor      00000000000
+Anoualerpeton_priscus      11000000000
+Anoualerpeton_unicus       11000000000
+Celtedens                  10100000000
+Albanerpeton_arthridion    10110000000
+Albanerpeton_gracilis      10111100000
+Albanerpeton_galaktion     10111111000
+Albanerpeton_cifellii      10111110000
+Albanerpeton_nexuosus      10111011100
+Albanerpeton_inexpectatum  10111011111
+Albanerpeton_pannonicus    10111011110
+Paskapoo_species           10111011111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ 	TYPESET * UNTITLED  = unord: 1-11;
+END;
+

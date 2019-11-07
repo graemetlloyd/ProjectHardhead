@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ahlberg, P. E.</List>
+			<List>Johanson, Z.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>Osteolepiforms and the ancestry of tetrapods</Title>
+		<Journal>Nature</Journal>
+		<Volume>395</Volume>
+		<Pages>792-794</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List recon_name="Porolepis" recon_no="34947">Porolepis</List>
+		<List recon_name="Powichthys" recon_no="34948">Powichthys</List>
+		<List recon_name="Youngolepis" recon_no="34962">Youngolepis</List>
+		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis</List>
+		<List recon_name="Dipterus" recon_no="34888">Dipterus</List>
+		<List recon_name="Cabonnichthys" recon_no="242667">Cabonnichthys</List>
+		<List recon_name="Mandageria" recon_no="242720">Mandageria</List>
+		<List recon_name="Eusthenodon" recon_no="242710">Eusthenodon</List>
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
+		<List recon_name="Platycephalichthys" recon_no="242814">Platyichthys</List>
+		<List recon_name="Jarvikina" recon_no="260056">Jarvikina</List>
+		<List recon_name="Tristichopterus" recon_no="242839">Tristichopterus</List>
+		<List recon_name="Koharalepis" recon_no="260057">Koharalepis</List>
+		<List recon_name="Canowindra" recon_no="242669">Canowindra</List>
+		<List recon_name="Beelarongia" recon_no="226294">Beelarongia</List>
+		<List recon_name="Gyroptychius" recon_no="34923">Gyroptychius</List>
+		<List recon_name="Medoevia" recon_no="224857">Medoevia</List>
+		<List recon_name="Gogonasus" recon_no="242713">Gogonasus</List>
+		<List recon_name="Osteolepis" recon_no="34943">Osteolepis</List>
+		<List recon_name="Megalichthys" recon_no="209470">Megalichthys</List>
+		<List recon_name="Ectosteorhachis" recon_no="34916">Ectosteorhachis</List>
+		<List recon_name="Cladarosymblema" recon_no="242673">Cladarosymblema</List>
+		<List recon_name="Barameda" recon_no="224776">Barameda</List>
+		<List recon_name="Gooloogongia" recon_no="224759">Gooloogongia</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Ichthyostega" recon_no="36965">Ichthyostega</List>
+		<List recon_name="Kenichthys_campbelli" recon_no="377767">Kenichthys</List>
+		<List recon_name="Glyptolepis" recon_no="34920">Glyptolepis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="99">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ahlberg_et_Johanson_1998a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

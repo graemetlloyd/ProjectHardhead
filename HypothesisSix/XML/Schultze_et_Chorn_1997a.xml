@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schultze, H.-P.</List>
+			<List>Chorn, J.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>The Permo-Carboniferous genus <em>Sagenodus</em> and the beginning of modern lungfish</Title>
+		<Journal>Contributions to Zoology</Journal>
+		<Volume>67</Volume>
+		<Pages>9-70</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List recon_name="Dipterus" recon_no="34888">Dipterus</List>
+		<List recon_name="Rhinodipterus" recon_no="34896">Rhinodipterus</List>
+		<List recon_name="Scaumenacia_curta" recon_no="372950">Scaumenacia</List>
+		<List recon_name="Phaneropleuron" recon_no="209233">Phaneropleuron</List>
+		<List recon_name="Conchopoma" recon_no="259451">Conchopoma</List>
+		<List recon_name="Delatitia_breviceps" recon_no="391463">Delatitia</List>
+		<List recon_name="Ctenodus" recon_no="209443">Ctenodus</List>
+		<List recon_name="Ganopristodus" recon_no="372961">Ganopristodus</List>
+		<List recon_name="Straitonia_waterstoni" recon_no="391446">Straitonia</List>
+		<List recon_name="Tranodis_castrensis" recon_no="391445">Tranodis</List>
+		<List recon_name="Sagenodus" recon_no="137509">Sagenodus</List>
+		<List recon_name="Megapleuron" recon_no="321059">Megapleuron</List>
+		<List recon_name="Palaeophichthys" recon_no="35070">Palaeophichthys</List>
+		<List recon_name="Gnathorhiza" recon_no="90709">Gnathoriza</List>
+		<List recon_name="Paraceratodus" recon_no="194435">Paraceratodus</List>
+		<List recon_name="Ptychoceratodus" recon_no="65066">Ptychoceratodus</List>
+		<List recon_name="Neoceratodus" recon_no="91691">Neoceratodus</List>
+		<List recon_name="Lepidosiren" recon_no="256136">Lepidosiren</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="47">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schultze_et_Chorn_1997a</Filename>
+	<Parent>Schultze_et_Marshall_1993a</Parent>
+	<Sibling/>
+</SourceTree>

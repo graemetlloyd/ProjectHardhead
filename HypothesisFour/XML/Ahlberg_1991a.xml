@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ahlberg, P. E.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>A re-examination of sarcopterygian interrelationships, with special reference to the Porolepiformes</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>103</Volume>
+		<Pages>241-287</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List recon_name="Actinopterygii" recon_no="67345">Actinopterygii</List>
+		<List recon_name="Onychodontia" recon_no="150290">Onychodontia</List>
+		<List recon_name="Actinistia" recon_no="67349">Actinistia</List>
+		<List recon_name="Tetrapoda" recon_no="137279">Tetrapoda</List>
+		<List recon_name="Panderichthyidae" recon_no="227381">Panderichthyiidae</List>
+		<List recon_name="Osteolepiformes" recon_no="149977">Osteolepiformes</List>
+		<List recon_name="Rhizodontida" recon_no="250268">Rhizodontida</List>
+		<List recon_name="Porolepiformes" recon_no="149970">Porolepiformes</List>
+		<List recon_name="Powichthys" recon_no="34948">Powichthys</List>
+		<List recon_name="Youngolepis" recon_no="34962">Youngolepis</List>
+		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis</List>
+		<List recon_name="Dipnoi" recon_no="57668">Dipnoi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="54">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ahlberg_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

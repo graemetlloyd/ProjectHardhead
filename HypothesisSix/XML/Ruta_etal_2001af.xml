@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruta, M.</List>
+			<List>Milner, A. R.</List>
+			<List>Coates, M. I.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>The tetrapod <em>Caerorhachis bairdi</em> Holmes and Carroll from the Lower Carboniferous of Scotland</Title>
+		<Journal>Transactions of the Royal Society of Edinburgh: Earth Sciences</Journal>
+		<Volume>92</Volume>
+		<Pages>229-261</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="44">
+		<List recon_name="Osteolepiformes" recon_no="149977">osteolepiformes</List>
+		<List recon_name="Panderichthyidae" recon_no="227381">panderichthyidae</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">acanthostega</List>
+		<List recon_name="Ichthyostega" recon_no="36965">ichthyostega</List>
+		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">crassigyrinus</List>
+		<List recon_name="Loxommatidae" recon_no="36969">loxommatidae</List>
+		<List recon_name="Colosteidae" recon_no="36975">colosteidae</List>
+		<List recon_name="Dendrerpeton" recon_no="36995">dendrerpeton</List>
+		<List recon_name="Eryops" recon_no="37011">eryops</List>
+		<List recon_name="Ecolsonia" recon_no="37028">ecolsonia</List>
+		<List recon_name="Tersomius" recon_no="37035">tersomius</List>
+		<List recon_name="Amphibamus" recon_no="37019">amphibamus</List>
+		<List recon_name="Apateon" recon_no="37038">apateon</List>
+		<List recon_name="Doleserpeton" recon_no="37046">doleserpeton</List>
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">proterogyrinus</List>
+		<List recon_name="Archeria" recon_no="37196">archeria</List>
+		<List recon_name="Gephyrostegidae" recon_no="37202">gephyrostegidae</List>
+		<List recon_name="Kotlassia" recon_no="37218">kotlassia</List>
+		<List recon_name="Seymouria" recon_no="37223">seymouria</List>
+		<List recon_name="Ariekanerpeton" recon_no="37208">ariekanerpeton</List>
+		<List recon_name="Westlothiana_lizziae" recon_no="179032">westlothiana</List>
+		<List recon_name="Aistopoda" recon_no="37251">aistopoda</List>
+		<List recon_name="Adelogyrinidae" recon_no="37325">adelogyrinidae</List>
+		<List recon_name="Nectridea" recon_no="156892">nectridea</List>
+		<List recon_name="Pantylus" recon_no="37291">pantylus</List>
+		<List recon_name="Rhynchonkos" recon_no="37308">rhynchonkos</List>
+		<List recon_name="Brachystelechidae" recon_no="37314">brachystelechida</List>
+		<List recon_name="Lysorophia" recon_no="37319">lysorophia</List>
+		<List recon_name="Triadobatrachus" recon_no="37421">triadobatrachus</List>
+		<List recon_name="Discoglossidae" recon_no="37426">discoglossidae</List>
+		<List recon_name="Pipidae" recon_no="37435">pipidae</List>
+		<List recon_name="Karaurus_sharovi" recon_no="202227">karaurus</List>
+		<List recon_name="Hynobiidae" recon_no="37349">hynobiidae</List>
+		<List recon_name="Sirenidae" recon_no="37412">sirenidae</List>
+		<List recon_name="Proteidae" recon_no="37354">proteidae</List>
+		<List recon_name="Eocaecilia" recon_no="156676">eocaecilia</List>
+		<List recon_name="Rhinatrematidae" recon_no="37338">rhinatrematidae</List>
+		<List recon_name="Ichthyophiidae" recon_no="37335">ichthyophiidae</List>
+		<List recon_name="Limnoscelis" recon_no="37232">limnoscelis</List>
+		<List recon_name="Diadectes" recon_no="37247">diadectes</List>
+		<List recon_name="Synapsida" recon_no="99791">synapsida</List>
+		<List recon_name="Captorhinidae" recon_no="37495">captorhinidae</List>
+		<List recon_name="Procolophonidae" recon_no="37522">procolophonidae</List>
+		<List recon_name="Caerorhachis" recon_no="36993">Caerorhachis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="155">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruta_etal_2001af</Filename>
+	<Parent>Laurin_1998a</Parent>
+	<Sibling/>
+</SourceTree>

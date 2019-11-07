@@ -1,0 +1,22 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=9 NCHAR=9;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Protopterus_annectens         000000000
+Chaoceratodus_portezuelensis  000000001
+Ceratodus_sturii              000000111
+Ameghinoceratodus_iheringi    000000011
+Ptychoceratodus_serratus      000001111
+Metaceratodus_wollastoni      000111111
+Neoceratodus_forsteri         111111111
+Neoceratodus_brasiliensis     011111111
+Mioceratodus_anemosyrus       101011111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

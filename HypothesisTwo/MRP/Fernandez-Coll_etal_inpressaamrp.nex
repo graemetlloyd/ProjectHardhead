@@ -1,0 +1,37 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=22 NCHAR=20 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Archegosaurus_decheni                             00000000000000000000
+Onchiodon_frossardi                               10000000000000000000
+Aphaneramma_gavialimimus                          11111111100000000000
+Aphaneramma_kokeni                                11111111110000000000
+Aphaneramma_rostratum                             11111111110000000000
+Benthosuchus_sushkini                             11110000000000000000
+Cosgriffius_campi                                 11111111000000000000
+Edingerella_madagascariensis                      11100000000000000000
+Inflectosaurus_amplus                             11111000001111110000
+Lyrocephaliscus_euri                              11111000001111111100
+Microposaurus_casei                               11111000001111100000
+Platystega_depressa                               11111000001111111000
+Thoosuchus_yakovlevi                              11111000001100000000
+Tertrema_acuta                                    11111000001111111100
+Trematolestes_hagdorni                            11111000001000000000
+Trematosaurus_brauni                              11111000001111000010
+Trematosuchus_sobeyi                              11111000001111000010
+Stoschiosaurus_nielseni                           11111100000000000000
+Syrtosuchus_samarensis                            11000000000000000000
+Wantzosaurus_elongatus                            11111110000000000000
+Angusaurus_dentatus_et_succedaneus_et_tsylmensis  11111000001110000001
+Prothoosuchus_blomi                               11111000001110000001
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ 	TYPESET * UNTITLED  = unord: 1-20;
+END;
+

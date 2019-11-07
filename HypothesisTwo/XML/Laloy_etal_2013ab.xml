@@ -1,0 +1,121 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Laloy, F.</List>
+			<List>Rage, J.-C.</List>
+			<List>Evans, S. E.</List>
+			<List>Boistel, R.</List>
+			<List>Lenoir, N.</List>
+			<List>Laurin, M.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>A re-interpretation of the Eocene anuran <em>Thaumastosaurus</em> based on microCT examination of a 'mummified' specimen</Title>
+		<Journal>PLOS ONE</Journal>
+		<Volume>8</Volume>
+		<Pages>e74874</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="82">
+		<List recon_name="Alytes" recon_no="94178">Alytes</List>
+		<List recon_name="Arariphrynus" recon_no="156431">Arariphrynus</List>
+		<List recon_name="DELETE" recon_no="-1">Arthroleptis_p</List>
+		<List recon_name="Bombina" recon_no="113813">Bombina</List>
+		<List recon_name="Ceratophrys" recon_no="37467">Ceratophrys</List>
+		<List recon_name="DELETE" recon_no="-1">Chiromantis</List>
+		<List recon_name="DELETE" recon_no="-1">Conraua</List>
+		<List recon_name="Cratia" recon_no="156435">Cratia</List>
+		<List recon_name="DELETE" recon_no="-1">Dermatonotus</List>
+		<List recon_name="Discoglossus" recon_no="37427">Discoglossus</List>
+		<List recon_name="Eurycephalella" recon_no="156433">Eurycephalella</List>
+		<List recon_name="DELETE" recon_no="-1">Gastrotheca</List>
+		<List recon_name="DELETE" recon_no="-1">Guibemantis</List>
+		<List recon_name="DELETE" recon_no="-1">Heleophryne</List>
+		<List recon_name="DELETE" recon_no="-1">Hylarana</List>
+		<List recon_name="DELETE" recon_no="-1">Hyperolius</List>
+		<List recon_name="DELETE" recon_no="-1">Hypsiboas</List>
+		<List recon_name="Lepidobatrachus" recon_no="118077">Lepidobatrachus</List>
+		<List recon_name="Leptodactylus" recon_no="37462">Leptodactylus</List>
+		<List recon_name="DELETE" recon_no="-1">Leptopelis</List>
+		<List recon_name="Litoria" recon_no="153545">Litoria</List>
+		<List recon_name="DELETE" recon_no="-1">Megophrys</List>
+		<List recon_name="DELETE" recon_no="-1">Melanophryniscus</List>
+		<List recon_name="DELETE" recon_no="-1">Mixophyes</List>
+		<List recon_name="DELETE" recon_no="-1">Nannophryne</List>
+		<List recon_name="Pelobates" recon_no="37453">Pelobates</List>
+		<List recon_name="Pelodytes" recon_no="58730">Pelodytes</List>
+		<List recon_name="DELETE" recon_no="-1">Phlyctimantis</List>
+		<List recon_name="Phrynobatrachus" recon_no="254055">Phrynobatrachus</List>
+		<List recon_name="DELETE" recon_no="-1">Phrynomantis</List>
+		<List recon_name="DELETE" recon_no="-1">Phyllomedusa</List>
+		<List recon_name="Platyplectrum" recon_no="254053">Platyplectrum</List>
+		<List recon_name="DELETE" recon_no="-1">Pleurodema</List>
+		<List recon_name="Pristimantis" recon_no="254054">Pristimantis</List>
+		<List recon_name="Ptychadena" recon_no="37480">Ptychadena</List>
+		<List recon_name="Rana" recon_no="37481">Rana</List>
+		<List recon_name="Scaphiopus" recon_no="37454">Scaphiopus</List>
+		<List recon_name="DELETE" recon_no="-1">Scinax</List>
+		<List recon_name="DELETE" recon_no="-1">Sooglossus</List>
+		<List recon_name="DELETE" recon_no="-1">Telmatobius</List>
+		<List recon_name="DELETE" recon_no="-1">Telmatobufo</List>
+		<List recon_name="DELETE" recon_no="-1">Thoropa</List>
+		<List recon_name="Beelzebufo" recon_no="118074">Beelzebufo</List>
+		<List recon_name="DELETE" recon_no="-1">Afrana</List>
+		<List recon_name="DELETE" recon_no="-1">Afrixalus</List>
+		<List recon_name="DELETE" recon_no="-1">Allophryne</List>
+		<List recon_name="DELETE" recon_no="-1">Amnirana</List>
+		<List recon_name="DELETE" recon_no="-1">Callulops</List>
+		<List recon_name="DELETE" recon_no="-1">Astylosternus</List>
+		<List recon_name="DELETE" recon_no="-1">Aubria</List>
+		<List recon_name="DELETE" recon_no="-1">Batrachophrynus</List>
+		<List recon_name="DELETE" recon_no="-1">Bufo_granulosus</List>
+		<List recon_name="Bufo_viridis" recon_no="94503">Bufo_viridis</List>
+		<List recon_name="DELETE" recon_no="-1">Cardioglossa</List>
+		<List recon_name="Calyptocephalella" recon_no="65654">Calyptocephalella</List>
+		<List recon_name="DELETE" recon_no="-1">Ceratobatrachus</List>
+		<List recon_name="Chacophrys" recon_no="118076">Chacophrys</List>
+		<List recon_name="DELETE" recon_no="-1">Cyclorana</List>
+		<List recon_name="DELETE" recon_no="-1">Dendrosophus</List>
+		<List recon_name="DELETE" recon_no="-1">Dyscophus</List>
+		<List recon_name="DELETE" recon_no="-1">Flectonotus</List>
+		<List recon_name="DELETE" recon_no="-1">Heleioporus</List>
+		<List recon_name="DELETE" recon_no="-1">Hemiphractus</List>
+		<List recon_name="DELETE" recon_no="-1">Hoplobatrachus</List>
+		<List recon_name="Hymenochirus" recon_no="135383">Hymenochirus</List>
+		<List recon_name="DELETE" recon_no="-1">Isthmohyla</List>
+		<List recon_name="Kassina" recon_no="541">Kassina</List>
+		<List recon_name="Limnodynastes" recon_no="153541">Limnodynastes</List>
+		<List recon_name="DELETE" recon_no="-1">Odontophrynus</List>
+		<List recon_name="DELETE" recon_no="-1">Opisthohylax</List>
+		<List recon_name="DELETE" recon_no="-1">Osteopilus</List>
+		<List recon_name="DELETE" recon_no="-1">Physalaemus</List>
+		<List recon_name="DELETE" recon_no="-1">Pseudis</List>
+		<List recon_name="DELETE" recon_no="-1">Pyxicephalus</List>
+		<List recon_name="Rhineoderma" recon_no="65714">Rhinoderma</List>
+		<List recon_name="Spea" recon_no="99680">Spea</List>
+		<List recon_name="DELETE" recon_no="-1">Schoudedenella</List>
+		<List recon_name="Thaumastosaurus" recon_no="57043">Thaumastosaurus</List>
+		<List recon_name="DELETE" recon_no="-1">Triprion</List>
+		<List recon_name="Xenopus" recon_no="37441">Xenopus</List>
+		<List recon_name="Baurubatrachus" recon_no="95401">Baurubatrachus</List>
+		<List recon_name="Wawelia" recon_no="37468">Wawelia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="74">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Laloy_etal_2013ab</Filename>
+	<Parent>Baez_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

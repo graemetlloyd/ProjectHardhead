@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Laurin, M.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>1995</Year>
+		<Title>A reevaluation of early amniote phylogeny</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>113</Volume>
+		<Pages>165-223</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List recon_name="Seymouria" recon_no="37223">Seymouria</List>
+		<List recon_name="Limnoscelidae" recon_no="37231">Limnoscelidae</List>
+		<List recon_name="Diadectidae" recon_no="37246">Diadectidae</List>
+		<List recon_name="Synapsida" recon_no="99791">Synapsida</List>
+		<List recon_name="Mesosauridae" recon_no="37578">Mesosauridae</List>
+		<List recon_name="Millerettidae" recon_no="37568">Millerettidae</List>
+		<List recon_name="Pareiasauria" recon_no="56750">Pareiasauria</List>
+		<List recon_name="Procolophonidae" recon_no="37522">Procolophonidae</List>
+		<List recon_name="Testudines" recon_no="56475">Testudines</List>
+		<List recon_name="Captorhinidae" recon_no="37495">Captorhinidae</List>
+		<List recon_name="Paleothyris" recon_no="37493">Paleothyris</List>
+		<List recon_name="Araeoscelidia" recon_no="99775">Araeoscelidia</List>
+		<List recon_name="Younginiformes" recon_no="92226">Younginiformes</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="124">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Laurin_et_Reisz_1995a</Filename>
+	<Parent>Gauthier_etal_1988b</Parent>
+	<Sibling/>
+</SourceTree>
