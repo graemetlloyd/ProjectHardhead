@@ -35,7 +35,7 @@
 		<List recon_name="Silurana" recon_no="108551">Silurana</List>
 		<List recon_name="Singidella" recon_no="135375">Singidella</List>
 		<List recon_name="Thoraciliacus" recon_no="37440">Thoraciliacus</List>
-		<List recon_name="Xenopus" recon_no="37441">Xenopus</List>
+		<List recon_name="Xenopus_laevis" recon_no="398794">Xenopus</List>
 		<List recon_name="Xenopus_romeri" recon_no="113803">Xenopus_romeri</List>
 	</Taxa>
 	<Characters>

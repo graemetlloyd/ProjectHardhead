@@ -27,14 +27,14 @@
 		<List recon_name="Eoscopus" recon_no="123090">Eoscopus</List>
 		<List recon_name="Tersomius" recon_no="37035">Tersomius</List>
 		<List recon_name="Ecolsonia" recon_no="37028">Ecolsonia</List>
-		<List recon_name="Trematopidae" recon_no="123219">Trematopidae</List>
+		<List recon_name="Trematops_milleri" recon_no="137365">Trematopidae</List>
 		<List recon_name="Dissorophinae" recon_no="123220">Dissorophinae</List>
 		<List recon_name="Cacopinae" recon_no="123221">Cacopinae</List>
 		<List recon_name="Micropholis" recon_no="37033">Micropholis</List>
-		<List recon_name="Pasawioops" recon_no="152838">Pasawioops</List>
-		<List recon_name="Plemmyradytes" recon_no="193398">Plemmyradytes</List>
-		<List recon_name="Georgenthalia" recon_no="123078">Georgenthalia</List>
-		<List recon_name="Gerobatrachus" recon_no="153287">Gerobatrachus</List>
+		<List recon_name="Pasawioops_mayi" recon_no="152839">Pasawioops</List>
+		<List recon_name="Plemmyradytes_shintoni" recon_no="344178">Plemmyradytes</List>
+		<List recon_name="Georgenthalia_clavinasica" recon_no="123084">Georgenthalia</List>
+		<List recon_name="Gerobatrachus_hottoni" recon_no="153288">Gerobatrachus</List>
 		<List recon_name="Apateon" recon_no="37038">Apateon</List>
 		<List recon_name="Tersomius_dolesensis" recon_no="344740">T_dolesensis</List>
 	</Taxa>
