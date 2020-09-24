@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Boy, J. A.</List>
 		</Author>
 		<Year>1989</Year>
@@ -13,7 +13,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="4">
 		<List recon_name="Acanthostomatops_vorax" recon_no="345489">Acanthostomatops_vorax</List>
 		<List recon_name="Zatrachys_serratus" recon_no="255221">Zatrachys_serratus</List>

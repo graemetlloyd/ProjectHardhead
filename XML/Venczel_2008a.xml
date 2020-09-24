@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Venczel, M.</List>
 		</Author>
 		<Year>2008</Year>
@@ -13,7 +13,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="15">
 		<List recon_name="DELETE" recon_no="0">Hypotheticalancestor</List>
 		<List recon_name="Salamandra_salamandra" recon_no="393926">Salamandra_salamandra</List>
@@ -27,7 +27,7 @@
 		<List recon_name="DELETE" recon_no="-1">Mesotriton</List>
 		<List recon_name="DELETE" recon_no="-1">Triturus</List>
 		<List recon_name="DELETE" recon_no="-1">Carpathotriton</List>
-		<List recon_name="DELETE" recon_no="-1">Archaeotriton</List>
+		<List recon_name="Archaeotriton_basalticus" recon_no="393938">Archaeotriton</List>
 		<List recon_name="DELETE" recon_no="-1">Cynops_pyrrhogaster</List>
 		<List recon_name="DELETE" recon_no="-1">Paramesotriton</List>
 	</Taxa>

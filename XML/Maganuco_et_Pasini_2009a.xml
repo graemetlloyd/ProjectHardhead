@@ -20,7 +20,7 @@
 		<List recon_name="Rhineceps_nyasaensis" recon_no="267022">Rhineceps_nyasaensis</List>
 		<List recon_name="Uranocentrodon_senekalensis" recon_no="255236">Uranocentrodon_senekalensis</List>
 		<List recon_name="Almasaurus_habbazi" recon_no="71421">Almasaurus_habbazi</List>
-		<List recon_name="Angusaurus" recon_no="58499">Angusaurus</List>
+		<List recon_name="Angusaurus_dentatus,Angusaurus_succedaneus,Angusaurus_tsylmensis" recon_no="375379;375418;375376">Angusaurus</List>
 		<List recon_name="Aphaneramma_rostratum" recon_no="266522">Aphaneramma_rostratum</List>
 		<List recon_name="Arcadia_myriadens" recon_no="251270">Arcadia_myriadens</List>
 		<List recon_name="Benthosuchus_sushkini" recon_no="269989">Benthosuchus_sushkini</List>
@@ -33,7 +33,7 @@
 		<List recon_name="Deltacephalus_whitei" recon_no="266413">Deltacephalus_whitei</List>
 		<List recon_name="Deltasaurus_kimberleyensis" recon_no="251512">Deltasaurus_kimberleyensis</List>
 		<List recon_name="Edingerella_madagascariensis" recon_no="251497">Edingerella_madagascariensis</List>
-		<List recon_name="Eocyclotosaurus" recon_no="37096">Eocyclotosaurus</List>
+		<List recon_name="Eocyclotosaurus_wellesi,Eocyclotosaurus_woschmidti" recon_no="165254;269996">Eocyclotosaurus</List>
 		<List recon_name="Eryosuchus_garjainovi" recon_no="169905">Eryosuchus_garjainovi</List>
 		<List recon_name="Plagiosuchus_pustuloglomeratus" recon_no="180699">Gerrothorax_pustuloglomeratus</List>
 		<List recon_name="Keratobrachyops_australis" recon_no="251264">Keratobrachyops_australis</List>

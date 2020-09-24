@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Coates, M. I.</List>
 			<List>Friedman, M.</List>
 		</Author>
@@ -19,24 +19,24 @@
 			<List>Yu, X.</List>
 			<List>Miao, D.</List>
 		</Editor>
- 	</Source>
+	</Source>
 	<Taxa number="19">
 		<List recon_name="DELETE" recon_no="-1">Diplocercides</List>
 		<List recon_name="DELETE" recon_no="-1">Glyptolepis</List>
 		<List recon_name="DELETE" recon_no="-1">Ligulalepis</List>
-		<List recon_name="DELETE" recon_no="-1">Youngolepis</List>
-		<List recon_name="DELETE" recon_no="-1">Acanthostega</List>
+		<List recon_name="Youngolepis_praecursor" recon_no="403358">Youngolepis</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
 		<List recon_name="DELETE" recon_no="-1">Archeria</List>
-		<List recon_name="DELETE" recon_no="-1">Cladarosymblema</List>
+		<List recon_name="Cladarosymblema_narrienense" recon_no="242674">Cladarosymblema</List>
 		<List recon_name="DELETE" recon_no="-1">Ectosteorachis</List>
-		<List recon_name="DELETE" recon_no="-1">Eusthenopteron</List>
-		<List recon_name="DELETE" recon_no="-1">Gogonasus</List>
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
+		<List recon_name="Gogonasus_andrewsae" recon_no="242714">Gogonasus</List>
 		<List recon_name="DELETE" recon_no="-1">Ichthyostega</List>
-		<List recon_name="DELETE" recon_no="-1">Jarvikina</List>
+		<List recon_name="Jarvikina_wenjukowi" recon_no="416097">Jarvikina</List>
 		<List recon_name="DELETE" recon_no="-1">Litoptychus</List>
-		<List recon_name="DELETE" recon_no="-1">Mandageria</List>
-		<List recon_name="DELETE" recon_no="-1">Medoevia</List>
-		<List recon_name="DELETE" recon_no="-1">Panderichthys</List>
+		<List recon_name="Mandageria_fairfaxi" recon_no="242721">Mandageria</List>
+		<List recon_name="Medoevia_lata" recon_no="401387">Medoevia</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
 		<List recon_name="DELETE" recon_no="-1">Platycephalichthys</List>
 		<List recon_name="DELETE" recon_no="-1">Osteolepis</List>
 		<List recon_name="DELETE" recon_no="-1">Rhizodopsis</List>

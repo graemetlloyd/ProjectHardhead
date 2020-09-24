@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Schoch, R. R.</List>
 			<List>Fastnacht, M.</List>
 			<List>Fichter, J.</List>
@@ -16,11 +16,11 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="19">
 		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton_acadianum</List>
 		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton_woodi</List>
-		<List recon_name="Dissorophidae" recon_no="37017">Dissorophidae</List>
+		<List recon_name="Cacops_aspidephorus,Dissorophus_multicinctus" recon_no="56737;255227">Dissorophidae</List>
 		<List recon_name="Acanthostomatops_vorax" recon_no="345489">Zatrachydidae</List>
 		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryopidae</List>
 		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus_haeuseri</List>
@@ -34,9 +34,9 @@
 		<List recon_name="Sclerothorax_hypselonotus" recon_no="248239">Sclerothorax_hypselonotus</List>
 		<List recon_name="Paracyclotosaurus_davidi" recon_no="57042">Paracyclotosaurus_davidi</List>
 		<List recon_name="Mastodonsaurus_giganteus" recon_no="150365">Mastodonsaurus_giganteus</List>
-		<List recon_name="Benthosuchus" recon_no="37087">Benthosuchus</List>
+		<List recon_name="Benthosuchus_sushkini" recon_no="269989">Benthosuchus</List>
 		<List recon_name="Trematolestes_hagdorni" recon_no="179389">Trematolestes_hagdorni</List>
-		<List recon_name="Metoposauridae" recon_no="37162">Metoposauridae</List>
+		<List recon_name="Apachesaurus_gregorii,Arganasaurus_lyazidi,Buettneria_perfecta,Dutuitosaurus_ouazzoui,Metoposaurus_bakeri,Metoposaurus_diagnosticus" recon_no="69036;391804;100583;366396;159205;130942">Metoposauridae</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

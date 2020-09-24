@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Cosgriff, J. W.</List>
 			<List>Zawiskie, J. M.</List>
 		</Author>
@@ -14,7 +14,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="12">
 		<List recon_name="DELETE" recon_no="0">Ancestor</List>
 		<List recon_name="Deltasaurus_kimberleyensis" recon_no="251512">Deltasaurus_kimberleyensis</List>

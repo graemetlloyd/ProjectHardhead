@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Dilkes, D.</List>
 		</Author>
 		<Year>2015</Year>
@@ -13,7 +13,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="73">
 		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus_scheelei</List>
 		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greererpeton_burkemorani</List>

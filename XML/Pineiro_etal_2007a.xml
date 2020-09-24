@@ -17,19 +17,19 @@
 		<Editor/>
 	</Source>
 	<Taxa number="13">
-		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
-		<List recon_name="Dvinosaurus" recon_no="37145">Dvinosaurus</List>
-		<List recon_name="Thabanchuia" recon_no="242828">Thabanchuia</List>
-		<List recon_name="Archegosauroidea" recon_no="148320">Archegosauroidea</List>
-		<List recon_name="Peltobatrachus" recon_no="37084">Peltobatrachus</List>
-		<List recon_name="Rhinesuchidae" recon_no="37065">Rhinesuchidae</List>
-		<List recon_name="Lydekkerina" recon_no="37078">Lydekkerina</List>
-		<List recon_name="Trematosauria" recon_no="150349">Trematosauria</List>
-		<List recon_name="Laidleria" recon_no="37115">Laidleria</List>
-		<List recon_name="Plagiosauridae" recon_no="37169">Plagiosauridae</List>
-		<List recon_name="Rhytidosteidae" recon_no="37110">Rhytidosteidae</List>
-		<List recon_name="Mastodonsauridae" recon_no="37107">Mastodonsauridae</List>
-		<List recon_name="Uruyiella" recon_no="140757">Uruyiella</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Dvinosaurus_primus" recon_no="56905">Dvinosaurus</List>
+		<List recon_name="Thabanchuia_oomie" recon_no="242829">Thabanchuia</List>
+		<List recon_name="Archegosaurus_decheni,Archegosaurus_dyscriton,Bashkirosaurus_tcherdyncevi,Collidosuchus_tchudinovi,Melosaurus_kamaensis,Melosaurus_uralensis,Platyoposaurus_rickardi,Platyoposaurus_stuckenbergi,Platyoposaurus_vjuschkovi,Platyoposaurus_watsoni,Prionosuchus_plummeri" recon_no="255841;345867;357483;345884;357486;357485;142451;142452;56481;142453;357484">Archegosauroidea</List>
+		<List recon_name="Peltobatrachus_pustulatus" recon_no="367348">Peltobatrachus</List>
+		<List recon_name="Rhinesuchus_whaitsi" recon_no="266926">Rhinesuchidae</List>
+		<List recon_name="Eolydekkerina_magna,Lydekkerina_huxleyi" recon_no="266406;255237">Lydekkerina</List>
+		<List recon_name="Cosgriffius_campi" recon_no="165271">Trematosauria</List>
+		<List recon_name="Laidleria_gracilis" recon_no="251506">Laidleria</List>
+		<List recon_name="Plagiobatrachus_australis,Plagiosternum_granulosum" recon_no="251271;252572">Plagiosauridae</List>
+		<List recon_name="Arcadia_myriadens" recon_no="251270">Rhytidosteidae</List>
+		<List recon_name="Cherninia_denwai,Cherninia_megarhina,Cyclotosaurus_ebrachensis,Cyclotosaurus_hemprichi,Cyclotosaurus_papilio,Cyclotosaurus_posthumus,Cyclotosaurus_robustus,Eryosuchus_pronus,Eryosuchus_rajareddyi,Eryosuchus_tverdochlebovi,Mastodonsaurus_cappelensis,Mastodonsaurus_giganteus,Mastodonsaurus_torvus,Paracyclotosaurus_crookshanki,Paracyclotosaurus_davidi,Parotosuchus_haughtoni,Parotosuchus_helgolandicus,Parotosuchus_komiensis,Parotosuchus_nasutus,Parotosuchus_orenburgensis,Parotosuchus_orientalis,Parotosuchus_sequester,Stenotosaurus_gracilis,Stenotosaurus_semiclausus,Stenotosaurus_stantonensis,Tatrasuchus_kulczyckii,Tatrasuchus_wildi,Watsonisuchus_aliciae,Watsonisuchus_gunganj,Watsonisuchus_magnus,Watsonisuchus_rewanensis,Wellesaurus_africanus,Wellesaurus_peabodyi,Wetlugasaurus_angustifrons,Wetlugasaurus_groenlandicus,Wetlugasaurus_malachovi,Wetlugasaurus_samarensis" recon_no="269998;172537;57082;57083;57081;57084;57085;172539;251718;169903;179487;150365;169907;270188;57042;270190;248281;270191;270192;265669;270196;270197;170673;170675;270200;270202;270204;251274;251275;251278;251276;270205;165269;270206;266515;270207;270208">Mastodonsauridae</List>
+		<List recon_name="Uruyiella_liminea" recon_no="140814">Uruyiella</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

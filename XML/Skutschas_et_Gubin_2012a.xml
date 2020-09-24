@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Skutschas, P. P.</List>
 			<List>Gubin, Y. M.</List>
 		</Author>
@@ -14,7 +14,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="22">
 		<List recon_name="Marmorerpeton_freemani,Marmorerpeton_kermacki" recon_no="156387;156386">Marmorerpeton</List>
 		<List recon_name="Liaoxitriton_daohugouensis,Liaoxitriton_zhongjiani" recon_no="156374;156375">Liaoxitriton</List>

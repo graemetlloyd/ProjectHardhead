@@ -18,21 +18,21 @@
 		<Editor/>
 	</Source>
 	<Taxa number="15">
-		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
-		<List recon_name="Amphibamus" recon_no="37019">Amphibamus</List>
-		<List recon_name="Doleserpeton" recon_no="37046">Doleserpeton</List>
-		<List recon_name="Eoscopus" recon_no="123090">Eoscopus</List>
-		<List recon_name="Micropholis" recon_no="37033">Micropholis</List>
-		<List recon_name="Tersomius" recon_no="37035">Tersomius</List>
-		<List recon_name="Anconastes" recon_no="136411">Anconastes</List>
-		<List recon_name="Tambachia" recon_no="152959">Tambachia</List>
-		<List recon_name="Phonerpeton" recon_no="230700">Phonerpeton</List>
-		<List recon_name="Acheloma" recon_no="37048">Acheloma</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Amphibamus_grandiceps" recon_no="229305">Amphibamus</List>
+		<List recon_name="Doleserpeton_annectens" recon_no="140536">Doleserpeton</List>
+		<List recon_name="Eoscopus_lockardi" recon_no="229322">Eoscopus</List>
+		<List recon_name="Micropholis_stowi" recon_no="255226">Micropholis</List>
+		<List recon_name="Tersomius_sp_MCZ_1415" recon_no="37035">Tersomius</List>
+		<List recon_name="Anconastes_vesperus" recon_no="136412">Anconastes</List>
+		<List recon_name="Tambachia_trogallas" recon_no="152960">Tambachia</List>
+		<List recon_name="Phonerpeton_pricei,Phonerpeton_whitei" recon_no="345308;345162">Phonerpeton</List>
+		<List recon_name="Acheloma_cumminsi" recon_no="81713">Acheloma</List>
 		<List recon_name="Fedexia_striegeli" recon_no="344537">Fedexia</List>
-		<List recon_name="Ecolsonia" recon_no="37028">Ecolsonia</List>
-		<List recon_name="Dissorophus" recon_no="37027">Dissorophus</List>
-		<List recon_name="Broiliellus" recon_no="37024">Broiliellus</List>
-		<List recon_name="Aspidosaurus" recon_no="37021">Aspidosaurus</List>
+		<List recon_name="Ecolsonia_cutlerensis" recon_no="229320">Ecolsonia</List>
+		<List recon_name="Dissorophus_multicinctus" recon_no="255227">Dissorophus</List>
+		<List recon_name="Broiliellus_texensis" recon_no="255228">Broiliellus</List>
+		<List recon_name="Aspidosaurus_binasser,Aspidosaurus_chiton" recon_no="345459;345458">Aspidosaurus</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

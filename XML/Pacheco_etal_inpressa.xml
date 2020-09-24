@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Pacheco, C. P.</List>
 			<List>Eltink, E.</List>
 			<List>Muller, R. T.</List>
@@ -16,13 +16,13 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="33">
 		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton_acadianum</List>
-		<List recon_name="Trematopidae" recon_no="123219">Trematopidae</List>
-		<List recon_name="Dissorophidae" recon_no="37017">Dissorophidae</List>
+		<List recon_name="Phonerpeton_pricei,Phonerpeton_sp_MCZ_2475" recon_no="345308;230700">Trematopidae</List>
+		<List recon_name="Dissorophus_multicinctus" recon_no="255227">Dissorophidae</List>
 		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops_megacephalus</List>
-		<List recon_name="Trimerorhachis" recon_no="36991">Trimerorhachis_spp</List>
+		<List recon_name="Trimerorhachis_insignis,Trimerorhachis_mesops,Trimerorhachis_sandovalensis" recon_no="90711;345111;345366">Trimerorhachis_spp</List>
 		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus_haueseri</List>
 		<List recon_name="Archegosaurus_decheni" recon_no="255841">Archegosaurus_decheni</List>
 		<List recon_name="Platyoposaurus_stuckenbergi" recon_no="142452">Platyoposaurus_stuchenbergi</List>
@@ -39,10 +39,10 @@
 		<List recon_name="Eryosuchus_pronus" recon_no="172539">Eryosuchus_pronus</List>
 		<List recon_name="Mastodonsaurus_giganteus" recon_no="150365">Mastodonsaurus_giganterus</List>
 		<List recon_name="Benthosuchus_sushkini" recon_no="269989">Benthosuchus_sushikini</List>
-		<List recon_name="Trematosauridae" recon_no="37124">Trematosauridae</List>
+		<List recon_name="Cosgriffius_campi" recon_no="165271">Trematosauridae</List>
 		<List recon_name="Koskinonodon_perfectus" recon_no="174684">Koskinonodon_perfectus</List>
-		<List recon_name="Rhytidosteidae" recon_no="37110">Rhytidosteidae</List>
-		<List recon_name="Pelorocephalus" recon_no="37160">Pelorocephalus_spp</List>
+		<List recon_name="Derwentia_warreni,Rewana_myriadens,Rewana_quadricuneata,Rhytidosteidae_indet_QM_F14490" recon_no="251504;251284;251267;37110">Rhytidosteidae</List>
+		<List recon_name="Pelorocephalus_cacheutensis,Pelorocephalus_mendozensis,Pelorocephalus_tenax" recon_no="251478;251472;251476">Pelorocephalus_spp</List>
 		<List recon_name="Konzhukovia_sangabrielensis" recon_no="345827">Konzhukovia_sangabrielensis</List>
 		<List recon_name="Konzhukovia_tarda" recon_no="357496">Konzhukovia_tarda</List>
 		<List recon_name="Melosaurus_kamaensis" recon_no="357486">Melosaurus_kamaensis</List>

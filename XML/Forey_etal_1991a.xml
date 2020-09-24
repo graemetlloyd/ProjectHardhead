@@ -20,15 +20,15 @@
 		</Editor>
 	</Source>
 	<Taxa number="9">
-		<List recon_name="Actinopterygii" recon_no="67345">Actinopterygians</List>
+		<List recon_name="Mimia_toombsi" recon_no="218914">Actinopterygians</List>
 		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
 		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
-		<List recon_name="Porolepiformes" recon_no="149970">Porolepiforms</List>
-		<List recon_name="Youngolepis" recon_no="34962">Youngolepis</List>
+		<List recon_name="Glyptolepis_groenlandica,Holoptychius_nobilissimus,Porolepis_sp_SMC_5554" recon_no="417062;260041;34947">Porolepiforms</List>
+		<List recon_name="Youngolepis_praecursor" recon_no="403358">Youngolepis</List>
 		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis</List>
-		<List recon_name="Dipnoi" recon_no="57668">Lungfishes</List>
-		<List recon_name="Coelacanthimorpha" recon_no="266393">Coelacanths</List>
-		<List recon_name="Tetrapoda" recon_no="137279">Tetrapods</List>
+		<List recon_name="Chirodipterus_australis,Griphognathus_whitei,Neoceratodus_forsteri,Uranolophus_wyomingensis" recon_no="377761;377507;194486;372944">Lungfishes</List>
+		<List recon_name="Latimeria_chalumnae,Miguashaia_bureaui,Rhabdoderma_alderingi,Rhabdoderma_ardrossense,Rhabdoderma_elegans,Rhabdoderma_exiguum,Rhabdoderma_huxleyi,Rhabdoderma_madagascariensis,Rhabdoderma_newelli,Rhabdoderma_tinglyense" recon_no="320877;320884;320889;320887;320885;320892;320888;320890;320891;320886">Coelacanths</List>
+		<List recon_name="Acanthostega_gunnari,Crassigyrinus_scoticus,Ichthyostega_stensioei" recon_no="227000;229317;229326">Tetrapods</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

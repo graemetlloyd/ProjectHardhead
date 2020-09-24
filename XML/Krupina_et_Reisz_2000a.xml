@@ -26,10 +26,10 @@
 		<List recon_name="Rhinodipterus_stolbovi" recon_no="377297">R_Stolbovi</List>
 		<List recon_name="Orlovichthys_limnatis" recon_no="391612">Orlovichthys</List>
 		<List recon_name="Scaumenacia_curta" recon_no="372950">Scaumenacia</List>
-		<List recon_name="Chirodipterus" recon_no="34883">Chirodipterus</List>
+		<List recon_name="Chirodipterus_australis" recon_no="377761">Chirodipterus</List>
 		<List recon_name="Soederberghia_groenlandica" recon_no="372956">Soedenberghia</List>
 		<List recon_name="Griphognathus_whitei" recon_no="377507">Griphagnathus_wh</List>
-		<List recon_name="DELETE" recon_no="-1">Griphagnathus_se</List>
+		<List recon_name="Griphognathus_sculpta" recon_no="377508">Griphagnathus_se</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

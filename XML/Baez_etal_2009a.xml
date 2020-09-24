@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Baez, A. M.</List>
 			<List>Moura, G. J. B.</List>
 			<List>Gomez, R. O.</List>
@@ -15,11 +15,11 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="42">
-		<List recon_name="DELETE" recon_no="-1">Bombina_variegata</List>
+		<List recon_name="Bombina_variegata" recon_no="401240">Bombina_variegata</List>
 		<List recon_name="Alytes_obstetricans" recon_no="387461">Alytes_obstetricans</List>
-		<List recon_name="DELETE" recon_no="-1">Discoglossus_pictus</List>
+		<List recon_name="Discoglossus_pictus" recon_no="401243">Discoglossus_pictus</List>
 		<List recon_name="Arariphrynus_placidoi" recon_no="156432">Arariphrynus_placidoi</List>
 		<List recon_name="DELETE" recon_no="-1">Arthroleptis_adolphifriederici</List>
 		<List recon_name="DELETE" recon_no="-1">Ceratophrys_ornata</List>

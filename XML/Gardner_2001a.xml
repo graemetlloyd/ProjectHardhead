@@ -15,18 +15,18 @@
 		<Editor/>
 	</Source>
 	<Taxa number="12">
-		<List recon_name="Balanerpeton" recon_no="227174">Balanerpeton</List>
-		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
-		<List recon_name="Apateon" recon_no="37038">Apateon</List>
-		<List recon_name="Doleserpeton" recon_no="37046">Doleserpeton</List>
-		<List recon_name="Apoda" recon_no="106732">Apoda</List>
-		<List recon_name="Eocaecilia" recon_no="156676">Eocaecilia</List>
-		<List recon_name="Urodela" recon_no="137499">Urodela</List>
-		<List recon_name="Karauridae" recon_no="37341">Karauridae</List>
-		<List recon_name="Anura" recon_no="150288">Anura</List>
-		<List recon_name="Triadobatrachus" recon_no="37421">Triadobatrachus</List>
-		<List recon_name="Albanerpeton" recon_no="37345">Albanerpeton</List>
-		<List recon_name="Celtedens" recon_no="156364">Celtedens</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Apateon_caducus,Apateon_pedestris" recon_no="345825;229308">Apateon</List>
+		<List recon_name="Doleserpeton_annectens" recon_no="140536">Doleserpeton</List>
+		<List recon_name="Dermophis_mexicanus,Epicrionops_petersi,Ichthyophis_glutinosus" recon_no="414547;414419;403576">Apoda</List>
+		<List recon_name="Eocaecilia_micropodia" recon_no="156677">Eocaecilia</List>
+		<List recon_name="Cryptobranchus_alleganiensis,Hynobius_boulengeri,Hynobius_naevius,Hynobius_retardatus,Onychodactylus_japonicus" recon_no="110601;414627;401232;414548;401226">Urodela</List>
+		<List recon_name="Karaurus_sharovi,Kokartus_honorarius" recon_no="202227;120626">Karauridae</List>
+		<List recon_name="Ascaphus_truei,Leiopelma_hochstetteri,Notobatrachus_degiustoi,Vieraella_herbstii" recon_no="401231;409508;156510;156518">Anura</List>
+		<List recon_name="Triadobatrachus_massinoti" recon_no="156397">Triadobatrachus</List>
+		<List recon_name="Albanerpeton_inexpectatum" recon_no="114402">Albanerpeton</List>
+		<List recon_name="Celtedens_ibericus" recon_no="245182">Celtedens</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

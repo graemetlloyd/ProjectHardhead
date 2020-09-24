@@ -25,19 +25,19 @@
 		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis</List>
 		<List recon_name="Dialipina" recon_no="34998">Dialipina</List>
 		<List recon_name="Dicksonosteus" recon_no="226309">Dicksonosteus</List>
-		<List recon_name="Howqualepis" recon_no="218882">Howqualepis</List>
+		<List recon_name="Howqualepis_rostridens" recon_no="218883">Howqualepis</List>
 		<List recon_name="Kenichthys_campbelli" recon_no="377767">Kenichthys</List>
 		<List recon_name="Ligulalepis" recon_no="35021">Ligulalepis</List>
-		<List recon_name="Meemania" recon_no="219187">Meemannia</List>
+		<List recon_name="Meemania_eos" recon_no="383857">Meemannia</List>
 		<List recon_name="Miguashaia" recon_no="34937">Miguashaia</List>
-		<List recon_name="Mimia" recon_no="35024">Mimia</List>
+		<List recon_name="Mimia_toombsi" recon_no="218914">Mimia</List>
 		<List recon_name="Moythomasia" recon_no="35025">Moythomasia</List>
 		<List recon_name="Onychodus" recon_no="34942">Onychodus</List>
 		<List recon_name="Osorioichthys" recon_no="35031">Osorioichthys</List>
-		<List recon_name="Powichthys" recon_no="34948">Powichthys</List>
+		<List recon_name="Powichthys_thorsteinssoni" recon_no="401819">Powichthys</List>
 		<List recon_name="Psarolepis_romeri" recon_no="377272">Psarolepis</List>
 		<List recon_name="Styloichthys_changae" recon_no="219196">Styloichthys</List>
-		<List recon_name="Youngolepis" recon_no="34962">Youngolepis</List>
+		<List recon_name="Youngolepis_praecursor" recon_no="403358">Youngolepis</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

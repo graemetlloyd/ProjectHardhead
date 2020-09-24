@@ -15,12 +15,12 @@
 		<Editor/>
 	</Source>
 	<Taxa number="6">
-		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
-		<List recon_name="Acanthostomatops" recon_no="345488">Acanthostomatops</List>
-		<List recon_name="Cheliderpeton" recon_no="37009">Cheliderpeton</List>
-		<List recon_name="Onchiodon" recon_no="37013">Onchiodon</List>
-		<List recon_name="Apateon" recon_no="37038">Apateon</List>
-		<List recon_name="Parotosuchus" recon_no="37100">Parotosuchus</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Acanthostomatops_vorax" recon_no="345489">Acanthostomatops</List>
+		<List recon_name="Cheliderpeton_vranyi" recon_no="345866">Cheliderpeton</List>
+		<List recon_name="Onchiodon_credneri,Onchiodon_langenhani,Onchiodon_manebachensis" recon_no="345806;345774;345775">Onchiodon</List>
+		<List recon_name="Apateon_pedestris" recon_no="229308">Apateon</List>
+		<List recon_name="Parotosuchus_nasutus" recon_no="270192">Parotosuchus</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Cloutier, R.</List>
 		</Author>
 		<Year>1991</Year>
@@ -17,7 +17,7 @@
 			<List>Liu, Y.-H.</List>
 			<List>Zhang, G.-R.</List>
 		</Editor>
- 	</Source>
+	</Source>
 	<Taxa number="28">
 		<List recon_name="DELETE" recon_no="0">Outgroup</List>
 		<List recon_name="Allenypterus_montanus" recon_no="199158">Allenypterus_nundanus</List>
@@ -29,20 +29,20 @@
 		<List recon_name="Diplocercides_kayseri" recon_no="226297">Diplocercides_kayseri</List>
 		<List recon_name="Diplocercides_jaekeli" recon_no="320873">Diplocercides_jaekeli</List>
 		<List recon_name="Diplurus_newarki" recon_no="320876">Diplurus_newarki</List>
-		<List recon_name="DELETE" recon_no="-1">Dumfregia_huxleyi</List>
+		<List recon_name="Dumfregia_huxleyi" recon_no="417006">Dumfregia_huxleyi</List>
 		<List recon_name="Euporosteus_eifeliensis" recon_no="320903">Euporodeus_eifelianus</List>
 		<List recon_name="Hadronector_donbairdi" recon_no="199156">Hadronector_dobairdi</List>
 		<List recon_name="Undina_penicillata" recon_no="99879">Holophagus_penicillatus</List>
 		<List recon_name="Laugia_groenlandica" recon_no="205719">Laugia_groenlandica</List>
 		<List recon_name="Lochmocercus_aciculodontus" recon_no="199159">Lochmocercus_aciculolontus</List>
 		<List recon_name="Miguashaia_bureaui" recon_no="320884">Miguashaia_bureaui</List>
-		<List recon_name="DELETE" recon_no="-1">Nesides_schmidti</List>
-		<List recon_name="DELETE" recon_no="-1">Nesides_heiligenstockensis</List>
+		<List recon_name="Nesides_schmidti" recon_no="419329">Nesides_schmidti</List>
+		<List recon_name="Nesides_heiligenstockiensis" recon_no="419330">Nesides_heiligenstockensis</List>
 		<List recon_name="Polyosteorhynchus_simplex" recon_no="199157">Polyosteorhynchus_simplex</List>
 		<List recon_name="Rhabdoderma_elegans" recon_no="320885">Rhabdoderma_elegans</List>
 		<List recon_name="Rhabdoderma_exiguum" recon_no="320892">Rhabdoderma_exiguum</List>
 		<List recon_name="Rhabdoderma_madagascariensis" recon_no="320890">Rhabdoderma_madagascariense</List>
-		<List recon_name="DELETE" recon_no="-1">Rhabdoderma_sp</List>
+		<List recon_name="Rhabdoderma_sp_HM_V8322" recon_no="34949">Rhabdoderma_sp</List>
 		<List recon_name="Spermatodus_pustulosus" recon_no="137511">Spermatodus_pustulosus</List>
 		<List recon_name="Synaptotylus_newelli" recon_no="321039">Synaptotylus_newelli</List>
 		<List recon_name="Whiteia_woodwardi" recon_no="276065">Whiteia_woodwardi</List>

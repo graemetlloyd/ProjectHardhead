@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Werneburg, R.</List>
 			<List>Berman, D. S.</List>
 		</Author>
@@ -14,12 +14,12 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="4">
-		<List recon_name="Sclerocephalus" recon_no="37015">Sclerocephalus</List>
-		<List recon_name="Glaukerpeton" recon_no="345492">Glaukerpeton</List>
-		<List recon_name="Onchiodon" recon_no="37013">Onchiodon</List>
-		<List recon_name="Eryops" recon_no="37011">Eryops</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus</List>
+		<List recon_name="Glaukerpeton_avinoffi" recon_no="345493">Glaukerpeton</List>
+		<List recon_name="Onchiodon_thuringiensis" recon_no="345776">Onchiodon</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

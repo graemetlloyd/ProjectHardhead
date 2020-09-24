@@ -16,26 +16,26 @@
 		<Editor/>
 	</Source>
 	<Taxa number="20">
-		<List recon_name="Archegosauridae" recon_no="37057">Archegosauridae</List>
-		<List recon_name="Rhinesuchidae" recon_no="37065">Rhinesuchidae</List>
-		<List recon_name="Almasaurus" recon_no="37167">Almasaurus</List>
-		<List recon_name="Angusaurus" recon_no="58499">Angusaurus</List>
-		<List recon_name="Aphaneramma" recon_no="37125">Aphaneramma</List>
-		<List recon_name="Benthosuchus" recon_no="37087">Benthosuchus</List>
-		<List recon_name="Cosgriffius" recon_no="165270">Cosgriffius</List>
-		<List recon_name="Luzocephalus" recon_no="37079">Luzocephalus</List>
-		<List recon_name="Lydekkerinidae" recon_no="37072">Lydekkerinidae</List>
-		<List recon_name="Lyrocephaliscus" recon_no="37131">Lyrocephaliscus</List>
-		<List recon_name="Metoposauridae" recon_no="37162">Metoposauridae</List>
-		<List recon_name="Microposaurus" recon_no="37133">Microposaurus</List>
-		<List recon_name="Parotosuchus" recon_no="37100">Parotosuchus</List>
-		<List recon_name="Platystega" recon_no="37134">Platystega</List>
-		<List recon_name="Rhytidosteidae" recon_no="37110">Rhytidosteidae</List>
-		<List recon_name="Tertrema" recon_no="37136">Tertrema</List>
-		<List recon_name="Thoosuchus" recon_no="37092">Thoosuchus</List>
-		<List recon_name="Trematosaurus" recon_no="37138">Trematosaurus</List>
-		<List recon_name="Watsonisuchus" recon_no="251273">Watsonisuchus</List>
-		<List recon_name="Wetlugasaurus" recon_no="37106">Wetlugasaurus</List>
+		<List recon_name="Archegosaurus_decheni,Archegosaurus_dyscriton,Australerpeton_cosgriffi,Bashkirosaurus_tcherdyncevi,Collidosuchus_tchudinovi,Kashmirosaurus_ornatus,Platyoposaurus_rickardi,Platyoposaurus_stuckenbergi,Platyoposaurus_watsoni,Prionosuchus_plummeri" recon_no="255841;345867;255235;357483;345884;345882;142451;142452;142453;357484">Archegosauridae</List>
+		<List recon_name="Gondwanosaurus_bijoriensis,Laccosaurus_watsoni,Muchocephalus_kitchingi,Phrynosuchus_whaitsi,Rhineceps_nyasaensis,Rhinesuchoides_tenuiceps,Rhinesuchus_africanus,Rhinesuchus_broomianus,Rhinesuchus_capensis,Rhinesuchus_wadiai,Rhinesuchus_whaitsi,Uranocentrodon_madagascarensis,Uranocentrodon_senekalensis" recon_no="267027;266936;267019;267014;267022;120919;266932;267026;266933;267029;266926;267031;255236">Rhinesuchidae</List>
+		<List recon_name="Almasaurus_habbazi" recon_no="71421">Almasaurus</List>
+		<List recon_name="Angusaurus_dentatus,Angusaurus_succedaneus" recon_no="375379;375418">Angusaurus</List>
+		<List recon_name="Aphaneramma_rostratum" recon_no="266522">Aphaneramma</List>
+		<List recon_name="Benthosuchus_sushkini" recon_no="269989">Benthosuchus</List>
+		<List recon_name="Cosgriffius_campi" recon_no="165271">Cosgriffius</List>
+		<List recon_name="Luzocephalus_blomi" recon_no="266414">Luzocephalus</List>
+		<List recon_name="Broomulus_dutoiti,Chomatobatrachus_halei,Deltacephalus_whitei,Eolydekkerina_magna,Limnoiketes_paludinatans,Luzocephalus_blomi,Luzocephalus_johanssoni,Luzocephalus_kochi,Lydekkerina_huxleyi,Lydekkerina_panchetensis" recon_no="266411;251647;266413;266406;266408;266414;266523;266419;255237;333092">Lydekkerinidae</List>
+		<List recon_name="Lyrocephaliscus_euri" recon_no="266625">Lyrocephaliscus</List>
+		<List recon_name="Anaschisma_brachygnatha,Anaschisma_browni,Apachesaurus_gregorii,Arganasaurus_lyazidi,Buettneria_major,Buettneria_perfecta,Dictyocephalus_elegans,Dutuitosaurus_ouazzoui,Eupelor_durus,Kalamoiketer_pinkleyi,Metopias_stuttgartensis,Metoposaurus_azerouali,Metoposaurus_bakeri,Metoposaurus_diagnosticus,Metoposaurus_fraasi,Metoposaurus_heimi,Metoposaurus_hoffmani,Metoposaurus_jonesi,Metoposaurus_santaecrucis" recon_no="64935;64934;69036;391804;251942;100583;70029;366396;182343;159201;180125;391808;159205;130942;133897;170548;180127;180126;378963">Metoposauridae</List>
+		<List recon_name="Microposaurus_casei" recon_no="202575">Microposaurus</List>
+		<List recon_name="Parotosuchus_haughtoni,Parotosuchus_helgolandicus,Parotosuchus_komiensis,Parotosuchus_nasutus,Parotosuchus_orenburgensis,Parotosuchus_orientalis,Parotosuchus_sequester" recon_no="270190;248281;270191;270192;265669;270196;270197">Parotosuchus</List>
+		<List recon_name="Platystega_depressa" recon_no="266623">Platystega</List>
+		<List recon_name="Boreopelta_vavilovi,Deltasaurus_kimberleyensis,Deltasaurus_pustulatus,Laidleria_gracilis,Mahavisaurus_australis,Mahavisaurus_dentatus,Peltostega_erici,Pneumatostega_potamia,Rhytidosteus_capensis,Trucheosaurus_major" recon_no="251511;251512;251513;251506;251516;251514;251517;251507;251509;251500">Rhytidosteidae</List>
+		<List recon_name="Tertrema_acuta" recon_no="266624">Tertrema</List>
+		<List recon_name="Thoosuchus_yakovlevi" recon_no="362936">Thoosuchus</List>
+		<List recon_name="Trematosaurus_brauni" recon_no="248613">Trematosaurus</List>
+		<List recon_name="Watsonisuchus_aliciae,Watsonisuchus_gunganj,Watsonisuchus_magnus,Watsonisuchus_rewanensis" recon_no="251274;251275;251278;251276">Watsonisuchus</List>
+		<List recon_name="Wetlugasaurus_angustifrons,Wetlugasaurus_groenlandicus,Wetlugasaurus_malachovi,Wetlugasaurus_samarensis,Wetlugasaurus_vjatkensis" recon_no="270206;266515;270207;270208;414214">Wetlugasaurus</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

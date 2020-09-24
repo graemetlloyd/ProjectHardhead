@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Witzmann, F.</List>
 		</Author>
 		<Year>2013</Year>
@@ -13,7 +13,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="13">
 		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton_woodi</List>
 		<List recon_name="Cochleosaurus_bohemicus" recon_no="204052">Cochleosaurus_bohemicus</List>

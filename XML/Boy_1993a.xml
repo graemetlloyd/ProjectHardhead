@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Boy, J. A.</List>
 		</Author>
 		<Year>1993</Year>
@@ -13,11 +13,11 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="13">
 		<List recon_name="DELETE" recon_no="0">Ancestor</List>
 		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops</List>
-		<List recon_name="Clamorosaurus" recon_no="37010">Clamorosaurus</List>
+		<List recon_name="Clamorosaurus_nocturnus" recon_no="345531">Clamorosaurus</List>
 		<List recon_name="Syndyodosuchus_tetricus" recon_no="142539">Syndyodosuchus</List>
 		<List recon_name="Intasuchus_silvicola" recon_no="142538">Intasuchus</List>
 		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus_haeuseri</List>

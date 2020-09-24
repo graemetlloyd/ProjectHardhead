@@ -21,18 +21,18 @@
 	<Taxa number="14">
 		<List recon_name="Psarolepis_romeri" recon_no="377272">Psarolepis</List>
 		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis</List>
-		<List recon_name="Diplocercides" recon_no="34915">Diplocercides</List>
-		<List recon_name="Dipterus" recon_no="34888">Dipterus</List>
+		<List recon_name="Diplocercides_davisi,Diplocercides_heiligenstockiensis,Diplocercides_jaekeli,Diplocercides_kayseri" recon_no="320874;226296;320873;226297">Diplocercides</List>
+		<List recon_name="Dipterus_valenciennesi" recon_no="259292">Dipterus</List>
 		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
-		<List recon_name="Glyptolepis" recon_no="34920">Glyptolepis</List>
-		<List recon_name="Ichthyostega" recon_no="36965">Ichthyostega</List>
-		<List recon_name="Mimia" recon_no="35024">Mimia</List>
-		<List recon_name="Osteolepis" recon_no="34943">Osteolepis</List>
+		<List recon_name="Glyptolepis_groenlandica" recon_no="417062">Glyptolepis</List>
+		<List recon_name="Ichthyostega_stensioei" recon_no="229326">Ichthyostega</List>
+		<List recon_name="Mimia_toombsi" recon_no="218914">Mimia</List>
+		<List recon_name="Osteolepis_macrolepidotus,Osteolepis_panderi" recon_no="260270;416065">Osteolepis</List>
 		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
-		<List recon_name="Porolepis" recon_no="34947">Porolepis</List>
-		<List recon_name="Powichthys" recon_no="34948">Powichthys</List>
+		<List recon_name="Porolepis_brevis,Porolepis_spitbergensis" recon_no="418236;418238">Porolepis</List>
+		<List recon_name="Powichthys_thorsteinssoni" recon_no="401819">Powichthys</List>
 		<List recon_name="Uranolophus_wyomingensis" recon_no="372944">Uranolophus</List>
-		<List recon_name="Youngolepis" recon_no="34962">Youngolepis</List>
+		<List recon_name="Youngolepis_praecursor" recon_no="403358">Youngolepis</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

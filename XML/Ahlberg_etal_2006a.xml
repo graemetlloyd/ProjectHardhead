@@ -17,15 +17,15 @@
 		<Editor/>
 	</Source>
 	<Taxa number="33">
-		<List recon_name="DELETE" recon_no="-1">Glyptolepis_groenlandica</List>
-		<List recon_name="DELETE" recon_no="-1">Youngolepis_praecursor</List>
+		<List recon_name="Glyptolepis_groenlandica" recon_no="417062">Glyptolepis_groenlandica</List>
+		<List recon_name="Youngolepis_praecursor" recon_no="403358">Youngolepis_praecursor</List>
 		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis_speratus</List>
 		<List recon_name="Dipnorhynchus_suessmilchi" recon_no="372947">Dipnorhynchus_sussmilchi</List>
 		<List recon_name="Speonesydrion_iani" recon_no="391456">Speonesydrion_iani</List>
 		<List recon_name="Ichnomylax_kurnai,Ichnomylax_karatajae" recon_no="377580;250142">Ichnomylax_kurnai_plus_karatajae</List>
 		<List recon_name="Uranolophus_wyomingensis" recon_no="372944">Uranolophus_wyomingensis</List>
 		<List recon_name="Tarachomylax_oepiki" recon_no="377284">Tarachomylax_oepiki</List>
-		<List recon_name="DELETE" recon_no="-1">Jessenia_concentrica</List>
+		<List recon_name="Jessenia_concentrica" recon_no="403363">Jessenia_concentrica</List>
 		<List recon_name="Stomiahykus_thlaodus" recon_no="377496">Stomiahykus_thlaodus</List>
 		<List recon_name="Holodipterus_gogoensis" recon_no="377505">Holodipterus_gogoensis</List>
 		<List recon_name="Holodipterus_longi" recon_no="377511">Holodipterus_longi</List>
@@ -43,7 +43,7 @@
 		<List recon_name="Barwickia_downunda" recon_no="377319">Barwickia_downunda</List>
 		<List recon_name="Scaumenacia_curta" recon_no="372950">Scaumenacia_curta</List>
 		<List recon_name="Sagenodus_inaequalis" recon_no="259440">Sagenodus_inequalis</List>
-		<List recon_name="Ctenodus" recon_no="209443">Ctenodus_spp</List>
+		<List recon_name="Ctenodus_cristatus,Ctenodus_interruptus,Ctenodus_murchisoni,Ctenodus_romeri" recon_no="210031;259437;259438;372964">Ctenodus_spp</List>
 		<List recon_name="Neoceratodus_forsteri" recon_no="194486">Neoceratodus_forsteri</List>
 		<List recon_name="Melanognathus_canadensis" recon_no="250697">Melanognathus_canadensis</List>
 		<List recon_name="Soederberghia_groenlandica" recon_no="372956">Soederberghia_groenlandica</List>

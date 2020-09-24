@@ -16,7 +16,7 @@
 		<City/>
 		<Editor/>
 	</Source>
-    <Taxa number="89">
+	<Taxa number="89">
 		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron_foordi</List>
 		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega_gunnari</List>
 		<List recon_name="Acherontiscus_caledoniae" recon_no="229304">Acherontiscus_caledoniae</List>
@@ -106,15 +106,15 @@
 		<List recon_name="Valdotriton_gracilis" recon_no="111405">Valdotriton_gracilis</List>
 		<List recon_name="Ventastega_curonica" recon_no="230696">Ventastega_curonica</List>
 		<List recon_name="Westlothiana_lizziae" recon_no="179032">Westlothiana_lizziae</List>
-    </Taxa>
-    <Characters>
-        <Molecular/>
-        <Morphological number="319">
-            <Type>Osteology</Type>
-        </Morphological>
-        <Behavioural/>
-        <Other/>
-    </Characters>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="319">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
 	<Analysis>
 		<Type>Maximum Parsimony</Type>
 	</Analysis>

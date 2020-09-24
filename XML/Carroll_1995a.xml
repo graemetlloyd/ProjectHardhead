@@ -18,21 +18,21 @@
 		<List recon_name="Eusthenopteron_foordi" recon_no="229325">eusthenopteron</List>
 		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">panderichthys</List>
 		<List recon_name="Acanthostega_gunnari" recon_no="227000">acanthostega</List>
-		<List recon_name="Ichthyostega" recon_no="36965">ichthyostega</List>
+		<List recon_name="Ichthyostega_stensioei" recon_no="229326">ichthyostega</List>
 		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">crassigyrinus</List>
-		<List recon_name="Loxommatidae" recon_no="36969">loxommatids</List>
-		<List recon_name="Anthracosauridae" recon_no="37199">anthracosaurs</List>
-		<List recon_name="Seymouriamorpha" recon_no="37206">seymouriamorphs</List>
+		<List recon_name="Baphetes_kirkbyi,Baphetes_lintonensis,Baphetes_planiceps,Loxomma_acutirhinus,Loxomma_allmanni,Loxomma_rankini,Megalocephalus_lineolatus,Megalocephalus_pachycephalus,Spathicephalus_mirus,Spathicephalus_pereger" recon_no="229310;334977;95780;334684;334683;334703;335653;345306;332435;332981">loxommatids</List>
+		<List recon_name="Bruktererpeton_fiebigi,Eoherpeton_watsoni,Gephyrostegus_bohemicus,Proterogyrinus_scheelei" recon_no="229314;229321;137955;137378">anthracosaurs</List>
+		<List recon_name="Ariekanerpeton_sigalovi,Discosauriscus_austriacus,Discosauriscus_pulcherrimus,Rhinosauriscus_jasykovii,Seymouria_baylorensis,Seymouria_grandis,Seymouria_sanjuanensis" recon_no="346286;362531;320955;362602;137488;346166;93510">seymouriamorphs</List>
 		<List recon_name="Westlothiana_lizziae" recon_no="179032">westlothiana</List>
-		<List recon_name="Diadectomorpha" recon_no="95313">diadectomorphs</List>
-		<List recon_name="Amniota" recon_no="53189">amniotes</List>
-		<List recon_name="Colosteidae" recon_no="36975">colosteids</List>
-		<List recon_name="Eutemnospondyli" recon_no="255211">temnospondyls</List>
-		<List recon_name="Nectridea" recon_no="156892">nectrideans</List>
-		<List recon_name="Microsauria" recon_no="37278">microsaurs</List>
-		<List recon_name="Adelogyrinidae" recon_no="37325">adelogyrinids</List>
-		<List recon_name="Lysorophidae" recon_no="37320">lysorophids</List>
-		<List recon_name="Aistopoda" recon_no="37251">aistopods</List>
+		<List recon_name="Limnoscelis_paludis" recon_no="113848">diadectomorphs</List>
+		<List recon_name="Archaeothyris_florensis,Archerpeton_anthracos,Barasaurus_besairiei,Echinerpeton_intermedium,Eocaptorhinus_laticeps,Haptodus_garnettensis,Hylonomus_lyelli,Mesosaurus_brasiliensis,Milleretta_rubidgei,Paleothyris_acadiana,Petrolacosaurus_kansensis,Protoclepsydrops_haplous" recon_no="122328;142232;157552;123515;134878;122358;139093;149895;148135;138002;138231;123523">amniotes</List>
+		<List recon_name="Colosteus_scutellatus,Greererpeton_burkemorani" recon_no="344231;227037">colosteids</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">temnospondyls</List>
+		<List recon_name="Ctenerpeton_remex,Urocordylus_wandesfordii" recon_no="340039;227065">nectrideans</List>
+		<List recon_name="Asaphestera_intermedia,Boii_crassidens,Brachystelechus_fritschi,Cardiocephalus_peabodyi,Cardiocephalus_sternbergi,Crinodon_limnophyes,Euryodus_dalyae,Euryodus_primus,Goniorhynchus_stovalli,Hapsidopareion_lepton,Hylerpeton_dawsoni,Hyloplesion_longicostatum,Leiocephalikon_problematicum,Llistrofus_pricei,Micraroter_erythrogeios,Microbrachis_pelikani,Odonterpeton_triangulare,Ostodolepis_brevispinatus,Pantylus_cordatus,Pariotichus_brachyops,Pelodosotis_elongatum,Ricnodon_copei,Saxonerpeton_geinitzi,Sparodus_validus,Trachystegos_megalodon,Trihecaton_howardinus,Tuditanus_punctulatus,Utaherpeton_franklini" recon_no="338119;337665;137989;137293;90715;338123;227036;120864;119360;90683;164852;340037;137994;137291;90684;227043;227046;150619;70439;136938;150625;379270;338105;338124;320816;320818;227062;227377">microsaurs</List>
+		<List recon_name="Adelogyrinus_simorhynchus,Adelospondylus_watsoni,Dolichopareias_disjectus,Palaeomolgophis_scoticus" recon_no="227001;229306;229319;320835">adelogyrinids</List>
+		<List recon_name="Lysorophus_dunkardensis,Lysorophus_tricarinatus" recon_no="320833;70395">lysorophids</List>
+		<List recon_name="Dolichosoma_emersoni,Dolichosoma_scutiferum,Lethiscus_stocki,Ophiderpeton_amphiuminum,Ophiderpeton_brownriggi,Phlegethontia_longissima" recon_no="320840;379289;229330;379334;243095;156845">aistopods</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

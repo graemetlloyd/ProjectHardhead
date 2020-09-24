@@ -62,7 +62,7 @@
 		<List recon_name="DELETE" recon_no="-1">Telmatobius</List>
 		<List recon_name="DELETE" recon_no="-1">Telmatobufo</List>
 		<List recon_name="DELETE" recon_no="-1">Thoropa</List>
-		<List recon_name="Beelzebufo" recon_no="118074">Beelzebufo</List>
+		<List recon_name="Beelzebufo_ampinga" recon_no="118075">Beelzebufo</List>
 		<List recon_name="DELETE" recon_no="-1">Afrana</List>
 		<List recon_name="DELETE" recon_no="-1">Afrixalus</List>
 		<List recon_name="DELETE" recon_no="-1">Allophryne</List>
@@ -100,7 +100,7 @@
 		<List recon_name="Thaumastosaurus" recon_no="57043">Thaumastosaurus</List>
 		<List recon_name="DELETE" recon_no="-1">Triprion</List>
 		<List recon_name="Xenopus" recon_no="37441">Xenopus</List>
-		<List recon_name="Baurubatrachus" recon_no="95401">Baurubatrachus</List>
+		<List recon_name="Baurubatrachus_pricei" recon_no="95402">Baurubatrachus</List>
 		<List recon_name="Wawelia" recon_no="37468">Wawelia</List>
 	</Taxa>
 	<Characters>

@@ -18,9 +18,9 @@
 	</Source>
 	<Taxa number="9">
 		<List recon_name="Protopterus_annectens" recon_no="321124">Protopterus_annectens</List>
-		<List recon_name="DELETE" recon_no="-1">Chaoceratodus_portezuelensis</List>
+		<List recon_name="Chaoceratodus_portezuelensis" recon_no="419245">Chaoceratodus_portezuelensis</List>
 		<List recon_name="Ceratodus_sturii" recon_no="194433">Ceratodus_sturii</List>
-		<List recon_name="DELETE" recon_no="-1">Ameghinoceratodus_iheringi</List>
+		<List recon_name="Ameghinoceratodus_iheringi" recon_no="419247">Ameghinoceratodus_iheringi</List>
 		<List recon_name="Ptychoceratodus_serratus" recon_no="194441">Ptychoceratodus_serratus</List>
 		<List recon_name="Metaceratodus_wollastoni" recon_no="321104">Metaceratodus_wollastoni</List>
 		<List recon_name="Neoceratodus_forsteri" recon_no="194486">Neoceratodus_forsteri</List>

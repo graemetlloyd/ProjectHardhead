@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Fortuny, J.</List>
 			<List>Gastou, S.</List>
 			<List>Escuillie, F.</List>
@@ -17,11 +17,11 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="20">
 		<List recon_name="Archegosaurus_decheni" recon_no="255841">Archegosaurus_decheni</List>
 		<List recon_name="Onchiodon_frossardi" recon_no="345644">Onchiodon_frossardi</List>
-		<List recon_name="Angusaurus" recon_no="58499">Angusaurus_spp</List>
+		<List recon_name="Angusaurus_dentatus,Angusaurus_succedaneus,Angusaurus_tsylmensis" recon_no="375379;375418;375376">Angusaurus_spp</List>
 		<List recon_name="Aphaneramma_rostratum" recon_no="266522">Aphaneramma_rostratum</List>
 		<List recon_name="Aphaneramma_kokeni" recon_no="251628">Aphaneramma_kokeni</List>
 		<List recon_name="Benthosuchus_sushkini" recon_no="269989">Benthosuchus_sushkini</List>

@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Germain, D.</List>
 		</Author>
 		<Year>2008</Year>
@@ -13,12 +13,12 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="12">
 		<List recon_name="Adelogyrinus_simorhynchus" recon_no="227001">Adelogyrinus</List>
 		<List recon_name="Asaphestera_intermedia" recon_no="338119">Asaphestera</List>
-		<List recon_name="Brachydectes" recon_no="227167">Brachydectes</List>
-		<List recon_name="Scincosaurus" recon_no="37269">Scincosaurus</List>
+		<List recon_name="Brachydectes_elongatus,Brachydectes_newberryi" recon_no="229311;229312">Brachydectes</List>
+		<List recon_name="Scincosaurus_crassus,Scincosaurus_spinosus" recon_no="230694;320828">Scincosaurus</List>
 		<List recon_name="Lethiscus_stocki" recon_no="229330">Lethiscus_stocki</List>
 		<List recon_name="Ophiderpeton_brownriggi,Ophiderpeton_kirktonense" recon_no="243095;243096">Ophiderpeton_brownriggi_et_kirktonense</List>
 		<List recon_name="Oestocephalus_amphiuminum" recon_no="230699">Oestocephalus_amphiuminum</List>

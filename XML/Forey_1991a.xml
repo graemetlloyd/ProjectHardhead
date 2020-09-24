@@ -15,39 +15,39 @@
 		<Editor/>
 	</Source>
 	<Taxa number="33">
-		<List recon_name="Porolepiformes" recon_no="149970">Porolepiforms</List>
-		<List recon_name="Allenypterus" recon_no="34902">Allenypterus</List>
-		<List recon_name="Axelia" recon_no="34903">Axelia</List>
-		<List recon_name="Axelrodichthys" recon_no="134537">Axelrodichtyes</List>
-		<List recon_name="Caridosuctor" recon_no="34905">Caridosuctor</List>
-		<List recon_name="Chinlea" recon_no="161891">Chinlea</List>
-		<List recon_name="Coccoderma" recon_no="34909">Coccoderma</List>
-		<List recon_name="Coelacanthus" recon_no="34911">Coelacanthus</List>
-		<List recon_name="Diplocercides" recon_no="34915">Diplocercides</List>
-		<List recon_name="Diplurus" recon_no="260052">Diplurus</List>
-		<List recon_name="Hadronector" recon_no="34925">Hadronector</List>
-		<List recon_name="Holophagus" recon_no="34928">Holophagus</List>
-		<List recon_name="Latimeria" recon_no="320869">Latimeria</List>
-		<List recon_name="Laugia" recon_no="34931">Laugia</List>
-		<List recon_name="Libys" recon_no="34932">Libys</List>
-		<List recon_name="Macropoma" recon_no="34935">Macropoma</List>
-		<List recon_name="Miguashaia" recon_no="34937">Miguashia</List>
-		<List recon_name="Macropomoides" recon_no="34936">Macropomoides</List>
-		<List recon_name="Mawsonia" recon_no="68074">Mawsonia</List>
-		<List recon_name="Piveteauia" recon_no="34945">Piveteauia</List>
-		<List recon_name="Polyosteorhynchus" recon_no="34946">Polyosteorhynchus</List>
+		<List recon_name="Glyptolepis_groenlandica,Holoptychius_nobilissimus" recon_no="417062;260041">Porolepiforms</List>
+		<List recon_name="Allenypterus_montanus" recon_no="199158">Allenypterus</List>
+		<List recon_name="Axelia_elegans,Axelia_robusta" recon_no="204787;204786">Axelia</List>
+		<List recon_name="Axelrodichthys_araripensis" recon_no="134538">Axelrodichtyes</List>
+		<List recon_name="Caridosuctor_populosum" recon_no="199153">Caridosuctor</List>
+		<List recon_name="Chinlea_sorenseni" recon_no="249590">Chinlea</List>
+		<List recon_name="Coccoderma_bavaricum,Coccoderma_gigas,Coccoderma_seuvicum,Coccoderma_substriolatum" recon_no="320898;320899;320871;320900">Coccoderma</List>
+		<List recon_name="Coelacanthus_granulatus,Coelacanthus_lunzensis,Coelacanthus_welleri" recon_no="149735;320901;320902">Coelacanthus</List>
+		<List recon_name="Diplocercides_davisi,Diplocercides_heiligenstockiensis,Diplocercides_jaekeli,Diplocercides_kayseri" recon_no="320874;226296;320873;226297">Diplocercides</List>
+		<List recon_name="Diplurus_longicaudatus,Diplurus_newarki" recon_no="320875;320876">Diplurus</List>
+		<List recon_name="Hadronector_donbairdi" recon_no="199156">Hadronector</List>
+		<List recon_name="Holophagus_gulo" recon_no="99727">Holophagus</List>
+		<List recon_name="Latimeria_chalumnae" recon_no="320877">Latimeria</List>
+		<List recon_name="Laugia_groenlandica" recon_no="205719">Laugia</List>
+		<List recon_name="Libys_polypterus" recon_no="262178">Libys</List>
+		<List recon_name="Macropoma_lewesiensis,Macropoma_precursor,Macropoma_willemoesii" recon_no="320878;320879;320907">Macropoma</List>
+		<List recon_name="Miguashaia_bureaui" recon_no="320884">Miguashia</List>
+		<List recon_name="Macropomoides_orientalis" recon_no="320908">Macropomoides</List>
+		<List recon_name="Mawsonia_gigas,Mawsonia_lavocati,Mawsonia_libyca,Mawsonia_tegamensis,Mawsonia_ubangiensis" recon_no="68075;320881;320882;193977;320883">Mawsonia</List>
+		<List recon_name="Piveteauia_madagascariensis" recon_no="200338">Piveteauia</List>
+		<List recon_name="Polyosteorhynchus_simplex" recon_no="199157">Polyosteorhynchus</List>
 		<List recon_name="Rhabdoderma_elegans" recon_no="320885">Rhabdoderma_elegans</List>
 		<List recon_name="Rhabdoderma_huxleyi" recon_no="320888">Rhabdoderma_huxleyi</List>
-		<List recon_name="Sassenia" recon_no="34951">Sassenia</List>
-		<List recon_name="Spermatodus" recon_no="137510">Spermatodus</List>
-		<List recon_name="Undina" recon_no="34958">Undina</List>
-		<List recon_name="Whiteia" recon_no="34959">Whiteia</List>
-		<List recon_name="Garnbergia" recon_no="34919">Garnbergia</List>
-		<List recon_name="Indocoelacanthus" recon_no="96962">Indocoelacanthus</List>
-		<List recon_name="Lochmocercus" recon_no="34934">Lochmocercus</List>
-		<List recon_name="Lualabaea" recon_no="260051">Lualubaea</List>
-		<List recon_name="Ticinepomis" recon_no="34957">Ticinepomis</List>
-		<List recon_name="Wimania" recon_no="34960">Wimania</List>
+		<List recon_name="Sassenia_tuberculata" recon_no="204784">Sassenia</List>
+		<List recon_name="Spermatodus_pustulosus" recon_no="137511">Spermatodus</List>
+		<List recon_name="Undina_barroviensis,Undina_cirinensis,Undina_grandis,Undina_penicillata,Undina_purbeckensis" recon_no="209407;320894;320911;99879;99880">Undina</List>
+		<List recon_name="Whiteia_africanus,Whiteia_tuberculata,Whiteia_woodwardi" recon_no="320896;276066;276065">Whiteia</List>
+		<List recon_name="Garnbergia_ommata" recon_no="259492">Garnbergia</List>
+		<List recon_name="Indocoelacanthus_robustus" recon_no="96963">Indocoelacanthus</List>
+		<List recon_name="Lochmocercus_aciculodontus" recon_no="199159">Lochmocercus</List>
+		<List recon_name="Lualabaea_henryi,Lualabaea_lerichei" recon_no="320906;320905">Lualubaea</List>
+		<List recon_name="Ticinepomis_peyeri" recon_no="260211">Ticinepomis</List>
+		<List recon_name="Wimania_multistriata,Wimania_sinuosa" recon_no="204783;204782">Wimania</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

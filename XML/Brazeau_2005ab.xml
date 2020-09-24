@@ -16,19 +16,19 @@
 	</Source>
 	<Taxa number="14">
 		<List recon_name="Kenichthys_campbelli" recon_no="377767">Kenichthys</List>
-		<List recon_name="DELETE" recon_no="-1">Gollongongia</List>
-		<List recon_name="Barameda" recon_no="224776">Barameda</List>
+		<List recon_name="Gooloogongia_loomesi" recon_no="403564">Gollongongia</List>
+		<List recon_name="Barameda_decipiens" recon_no="250699">Barameda</List>
 		<List recon_name="Strepsodus_sauroides" recon_no="245660">Strepsodus_sauroides</List>
-		<List recon_name="DELETE" recon_no="-1">Strepsodus_anculonamensis</List>
-		<List recon_name="Rhizodus" recon_no="34950">Rhizodus</List>
-		<List recon_name="Screbinodus" recon_no="224848">Screbinodus</List>
-		<List recon_name="DELETE" recon_no="-1">Letognathus</List>
-		<List recon_name="Medoevia" recon_no="224857">Medoevia</List>
+		<List recon_name="Strepsodus_anculonamensis" recon_no="403871">Strepsodus_anculonamensis</List>
+		<List recon_name="Rhizodus_hibberti" recon_no="245848">Rhizodus</List>
+		<List recon_name="Screbinodus_ornatus" recon_no="403872">Screbinodus</List>
+		<List recon_name="Letognathus_hardingi" recon_no="419242">Letognathus</List>
+		<List recon_name="Medoevia_lata" recon_no="401387">Medoevia</List>
 		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
 		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
 		<List recon_name="Ventastega_curonica" recon_no="230696">Ventastega</List>
-		<List recon_name="Cladarosymblema" recon_no="242673">Cladarosymblema</List>
-		<List recon_name="Gogonasus" recon_no="242713">Gogonasus</List>
+		<List recon_name="Cladarosymblema_narrienense" recon_no="242674">Cladarosymblema</List>
+		<List recon_name="Gogonasus_andrewsae" recon_no="242714">Gogonasus</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

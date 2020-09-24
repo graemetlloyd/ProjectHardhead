@@ -18,7 +18,7 @@
 		<List recon_name="Galeaspida" recon_no="204602">Galeaspida</List>
 		<List recon_name="Osteostraci" recon_no="117965">Osteostraci</List>
 		<List recon_name="Acanthodes" recon_no="157017">Acanthodes</List>
-		<List recon_name="Akmonistion" recon_no="248784">Akmonistion</List>
+		<List recon_name="Akmonistion_zangerli" recon_no="248785">Akmonistion</List>
 		<List recon_name="Bothriolepis" recon_no="176322">Bothriolepis</List>
 		<List recon_name="Brachyacanthus" recon_no="226265">Brachyacanthus</List>
 		<List recon_name="Brindabellaspis" recon_no="34287">Brindabellaspis</List>
@@ -41,13 +41,13 @@
 		<List recon_name="Gladiobranchus" recon_no="34874">Gladiobranchus</List>
 		<List recon_name="Hamiltonichthys" recon_no="207019">Hamiltonichthys</List>
 		<List recon_name="Homalacanthus" recon_no="226279">Homalacanthus</List>
-		<List recon_name="Howqualepis" recon_no="218882">Howqualepis</List>
+		<List recon_name="Howqualepis_rostridens" recon_no="218883">Howqualepis</List>
 		<List recon_name="Ischnacanthus" recon_no="34865">Ischnacanthus</List>
 		<List recon_name="Kathemacanthus" recon_no="34856">Kathemacanthus</List>
 		<List recon_name="Ligulalepis" recon_no="35021">Ligulalepis</List>
 		<List recon_name="Macropetalichthys" recon_no="34295">Macropetalichthys</List>
 		<List recon_name="Mesacanthus" recon_no="226283">Mesacanthus</List>
-		<List recon_name="Mimia" recon_no="35024">Mimia</List>
+		<List recon_name="Mimia_toombsi" recon_no="218914">Mimia</List>
 		<List recon_name="Obtusacanthus" recon_no="226263">Obtusacanthus</List>
 		<List recon_name="Onychodus" recon_no="34942">Onychodus</List>
 		<List recon_name="Orthacanthus" recon_no="55009">Orthacanthus</List>
@@ -58,7 +58,7 @@
 		<List recon_name="Psarolepis_romeri" recon_no="377272">Psarolepis</List>
 		<List recon_name="Pterichthyodes" recon_no="256946">Pterichthyodes</List>
 		<List recon_name="Ptomacanthus" recon_no="256947">Ptomacanthus</List>
-		<List recon_name="DELETE" recon_no="-1">Pucapampella</List>
+		<List recon_name="Pucapampella_rodrigae" recon_no="403351">Pucapampella</List>
 		<List recon_name="Rhamphodopsis" recon_no="256949">Rhamphodopsis</List>
 		<List recon_name="Tamiobatis" recon_no="34444">Tamiobatis</List>
 		<List recon_name="Tetanopsyrus" recon_no="226289">Tetanopsyrus</List>

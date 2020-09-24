@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Kissel, R. A.</List>
 			<List>Reisz, R. R.</List>
 		</Author>
@@ -14,17 +14,17 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="9">
 		<List recon_name="Lepospondyli" recon_no="137283">Lepospondyli</List>
 		<List recon_name="Amniota" recon_no="53189">Amniota</List>
-		<List recon_name="Limnoscelis" recon_no="37232">Linmoscelis</List>
+		<List recon_name="Limnoscelis_dynatis,Limnoscelis_paludis" recon_no="115315;113848">Linmoscelis</List>
 		<List recon_name="Tseajaia_campi" recon_no="120742">Tseajaia</List>
 		<List recon_name="Ambedus_pusilus" recon_no="345909">Ambedus</List>
 		<List recon_name="Orobates_pabsti" recon_no="154063">Ombates</List>
-		<List recon_name="Desmatodon" recon_no="37248">Desmatodon</List>
-		<List recon_name="Diasparactus" recon_no="157285">Diasparactus</List>
-		<List recon_name="Diadectes" recon_no="37247">Diadectes</List>
+		<List recon_name="Desmatodon_hesperis,Desmatodon_hollandi" recon_no="335335;321002">Desmatodon</List>
+		<List recon_name="Diasparactus_zenos" recon_no="157286">Diasparactus</List>
+		<List recon_name="Diadectes_absitus,Diadectes_carinatus,Diadectes_lentus,Diadectes_sanmiguelensis,Diadectes_sideropelicus,Diadectes_tenuitectes" recon_no="120883;346263;346261;138330;320982;345914">Diadectes</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

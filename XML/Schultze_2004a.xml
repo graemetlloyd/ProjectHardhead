@@ -18,27 +18,27 @@
 		</Editor>
 	</Source>
 	<Taxa number="21">
-		<List recon_name="Conchopoma" recon_no="259451">Conchopoma</List>
-		<List recon_name="Aphelodus" recon_no="133093">Aphelodus</List>
-		<List recon_name="Archaeoceratodus" recon_no="321036">Archaeoceratodus</List>
-		<List recon_name="Arganodus" recon_no="69034">Arganodus</List>
-		<List recon_name="Ariguna" recon_no="321035">Ariguna</List>
-		<List recon_name="Asiatoceratodus" recon_no="65131">Asiatoceratodus</List>
-		<List recon_name="Beltanodus" recon_no="321034">Beltanodus</List>
-		<List recon_name="Ceratodus" recon_no="54495">Ceratodus</List>
-		<List recon_name="Ferganoceratodus" recon_no="197863">Ferganoceratodus</List>
+		<List recon_name="Conchopoma_gadiforme" recon_no="259452">Conchopoma</List>
+		<List recon_name="Aphelodus_anapes" recon_no="133095">Aphelodus</List>
+		<List recon_name="Archaeoceratodus_avus" recon_no="321083">Archaeoceratodus</List>
+		<List recon_name="Arganodus_atlantis" recon_no="133890">Arganodus</List>
+		<List recon_name="Ariguna_formosa" recon_no="321067">Ariguna</List>
+		<List recon_name="Asiatoceratodus_sharovi" recon_no="194509">Asiatoceratodus</List>
+		<List recon_name="Beltanodus_ambilobensis" recon_no="321068">Beltanodus</List>
+		<List recon_name="Ceratodus_latissimus" recon_no="57672">Ceratodus</List>
+		<List recon_name="Ferganoceratodus_jurassicus" recon_no="197865">Ferganoceratodus</List>
 		<List recon_name="Gnathorhiza" recon_no="90709">Gnathorhiza</List>
-		<List recon_name="Gosfordia" recon_no="213310">Gosfordia</List>
-		<List recon_name="Lepidosiren" recon_no="256136">Lepidosiren</List>
-		<List recon_name="Megapleuron" recon_no="321059">Megapleuron</List>
-		<List recon_name="Metaceratodus" recon_no="140023">Metaceratodus</List>
-		<List recon_name="Microceratodus" recon_no="194463">Microceratodus</List>
-		<List recon_name="Mioceratodus" recon_no="321037">Mioceratodus</List>
-		<List recon_name="Namatozodia" recon_no="133096">Namatozodia</List>
-		<List recon_name="Neoceratodus" recon_no="91691">Neoceratodus</List>
-		<List recon_name="Paraceratodus" recon_no="194435">Paraceratodus</List>
-		<List recon_name="Protopterus" recon_no="91688">Protopterus</List>
-		<List recon_name="Ptychoceratodus" recon_no="65066">Ptychoceratodus</List>
+		<List recon_name="Gosfordia_truncata" recon_no="213311">Gosfordia</List>
+		<List recon_name="Lepidosiren_paradoxa" recon_no="256137">Lepidosiren</List>
+		<List recon_name="Megapleuron_rochei" recon_no="321060">Megapleuron</List>
+		<List recon_name="Metaceratodus_wollastoni" recon_no="321104">Metaceratodus</List>
+		<List recon_name="Microceratodus_angolensis" recon_no="194465">Microceratodus</List>
+		<List recon_name="Mioceratodus_gregoryi" recon_no="321115">Mioceratodus</List>
+		<List recon_name="Namatozodia_pitikanta" recon_no="133098">Namatozodia</List>
+		<List recon_name="Neoceratodus_forsteri" recon_no="194486">Neoceratodus</List>
+		<List recon_name="Paraceratodus_germaini" recon_no="194436">Paraceratodus</List>
+		<List recon_name="Protopterus_annectens" recon_no="321124">Protopterus</List>
+		<List recon_name="Ptychoceratodus_serratus" recon_no="194441">Ptychoceratodus</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

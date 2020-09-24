@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Henderson, S. A. C.</List>
 			<List>Challands, T. J.</List>
 		</Author>
@@ -14,14 +14,14 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="11">
 		<List recon_name="Diplocercides_kayseri" recon_no="226297">Diplocercides_kayseri</List>
 		<List recon_name="Chirodipterus_wildungensis" recon_no="372973">Chirodipterus_wildungensis</List>
 		<List recon_name="Dipnorhynchus_suessmilchi" recon_no="372947">Dipnorhynchus_sussmilchi</List>
 		<List recon_name="Dipterus_valenciennesi" recon_no="259292">Dipterus_valenciennesi</List>
 		<List recon_name="Rhinodipterus_kimberleyensis" recon_no="391611">Rhinodipterus_kimberleyensis</List>
-		<List recon_name="DELETE" recon_no="-1">Youngolepis_praecursor</List>
+		<List recon_name="Youngolepis_praecursor" recon_no="403358">Youngolepis_praecursor</List>
 		<List recon_name="Gogonasus_andrewsae" recon_no="242714">Gogonasus_andrewsae</List>
 		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron_foordi</List>
 		<List recon_name="Neoceratodus_forsteri" recon_no="194486">Neoceratodus_forsteri</List>

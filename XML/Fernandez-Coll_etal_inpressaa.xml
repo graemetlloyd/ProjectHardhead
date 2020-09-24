@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Fernandez-Coll, M.</List>
 			<List>Arbez, T.</List>
 			<List>Bernardini, F.</List>
@@ -16,7 +16,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="22">
 		<List recon_name="Archegosaurus_decheni" recon_no="255841">Archegosaurus_decheni</List>
 		<List recon_name="Onchiodon_frossardi" recon_no="345644">Onchiodon_frossardi</List>

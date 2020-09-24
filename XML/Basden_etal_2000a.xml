@@ -21,10 +21,10 @@
 		<List recon_name="DELETE" recon_no="-1">Norselaspis</List>
 		<List recon_name="Placodermi" recon_no="34249">Placoderms</List>
 		<List recon_name="Chondrichthyes" recon_no="34422">Chondrichthyans</List>
-		<List recon_name="Acanthodes" recon_no="157017">Acanthodes</List>
-		<List recon_name="Mimia" recon_no="35024">Mimia</List>
-		<List recon_name="Moythomasia" recon_no="35025">Moythomasia</List>
-		<List recon_name="Ligulalepis" recon_no="35021">Ligulalepis</List>
+		<List recon_name="Acanthodes_bronni,Acanthodes_sulcatus" recon_no="389680;419070">Acanthodes</List>
+		<List recon_name="Mimia_toombsi" recon_no="218914">Mimia</List>
+		<List recon_name="Moythomasia_durgaringa,Moythomasia_nitida" recon_no="378221;218915">Moythomasia</List>
+		<List recon_name="Ligulalepis_toombsi" recon_no="419517">Ligulalepis</List>
 		<List recon_name="Psarolepis_romeri" recon_no="377272">Psarolepis</List>
 		<List recon_name="Sarcopterygii" recon_no="67348">Sarcopterygians</List>
 	</Taxa>

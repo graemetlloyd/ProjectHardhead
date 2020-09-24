@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Mondejar-Fernandez, J.</List>
 		</Author>
 		<Year>in press</Year>
@@ -13,44 +13,44 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="38">
 		<List recon_name="DELETE" recon_no="-1">Ligulalepis</List>
 		<List recon_name="DELETE" recon_no="-1">Dialipina</List>
 		<List recon_name="DELETE" recon_no="-1">Cheirolepis</List>
-		<List recon_name="DELETE" recon_no="-1">Howqualepis</List>
+		<List recon_name="Howqualepis_rostridens" recon_no="218883">Howqualepis</List>
 		<List recon_name="DELETE" recon_no="-1">Mimia</List>
 		<List recon_name="DELETE" recon_no="-1">Moythomasia</List>
-		<List recon_name="DELETE" recon_no="-1">Guiyu</List>
-		<List recon_name="DELETE" recon_no="-1">Meemannia</List>
-		<List recon_name="DELETE" recon_no="-1">Psarolepis</List>
-		<List recon_name="DELETE" recon_no="-1">Achoania</List>
+		<List recon_name="Guiyu_oneiros" recon_no="144008">Guiyu</List>
+		<List recon_name="Meemania_eos" recon_no="383857">Meemannia</List>
+		<List recon_name="Psarolepis_romeri" recon_no="377272">Psarolepis</List>
+		<List recon_name="Achoania_jarvikii" recon_no="307008">Achoania</List>
 		<List recon_name="DELETE" recon_no="-1">Miguashaia</List>
 		<List recon_name="DELETE" recon_no="-1">Gavinia</List>
 		<List recon_name="DELETE" recon_no="-1">Euporosteus</List>
 		<List recon_name="DELETE" recon_no="-1">Diplocercides</List>
-		<List recon_name="DELETE" recon_no="-1">Latimeria</List>
-		<List recon_name="DELETE" recon_no="-1">Bukkanodus</List>
+		<List recon_name="Latimeria_chalumnae" recon_no="320877">Latimeria</List>
+		<List recon_name="Bukkanodus_jesseni" recon_no="250440">Bukkanodus</List>
 		<List recon_name="DELETE" recon_no="-1">Strunius</List>
-		<List recon_name="DELETE" recon_no="-1">Qingmenodus</List>
+		<List recon_name="Qingmenodus_yui" recon_no="377673">Qingmenodus</List>
 		<List recon_name="DELETE" recon_no="-1">Onychodus</List>
 		<List recon_name="DELETE" recon_no="-1">Grossius</List>
 		<List recon_name="DELETE" recon_no="-1">Styloichthys</List>
 		<List recon_name="DELETE" recon_no="-1">Porolepis</List>
 		<List recon_name="DELETE" recon_no="-1">Glyptolepis</List>
-		<List recon_name="DELETE" recon_no="-1">Powichthys</List>
-		<List recon_name="DELETE" recon_no="-1">Youngolepis</List>
-		<List recon_name="DELETE" recon_no="-1">Diabolepis</List>
-		<List recon_name="DELETE" recon_no="-1">Uranolophus</List>
-		<List recon_name="DELETE" recon_no="-1">Dipterus</List>
-		<List recon_name="DELETE" recon_no="-1">Tungsenia</List>
-		<List recon_name="DELETE" recon_no="-1">Kenichthys</List>
+		<List recon_name="Powichthys_thorsteinssoni" recon_no="401819">Powichthys</List>
+		<List recon_name="Youngolepis_praecursor" recon_no="403358">Youngolepis</List>
+		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis</List>
+		<List recon_name="Uranolophus_wyomingensis" recon_no="372944">Uranolophus</List>
+		<List recon_name="Dipterus_valenciennesi" recon_no="259292">Dipterus</List>
+		<List recon_name="Tungsenia_paradoxa" recon_no="377770">Tungsenia</List>
+		<List recon_name="Kenichthys_campbelli" recon_no="377767">Kenichthys</List>
 		<List recon_name="DELETE" recon_no="-1">Osteolepis</List>
-		<List recon_name="DELETE" recon_no="-1">Gogonasus</List>
-		<List recon_name="DELETE" recon_no="-1">Eusthenopteron</List>
-		<List recon_name="DELETE" recon_no="-1">Panderichthys</List>
+		<List recon_name="Gogonasus_andrewsae" recon_no="242714">Gogonasus</List>
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
 		<List recon_name="DELETE" recon_no="-1">Elpistostege</List>
-		<List recon_name="DELETE" recon_no="-1">Tiktaalik</List>
+		<List recon_name="Tiktaalik_roseae" recon_no="77136">Tiktaalik</List>
 		<List recon_name="DELETE" recon_no="-1">Ichthyostega</List>
 		<List recon_name="DELETE" recon_no="-1">Selenodus</List>
 	</Taxa>

@@ -15,36 +15,36 @@
 		<Editor/>
 	</Source>
 	<Taxa number="32">
-		<List recon_name="Diabolepis" recon_no="34886">Diabolepis</List>
-		<List recon_name="Dipnorhynchus" recon_no="34887">Dipnorhynchus</List>
+		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis</List>
+		<List recon_name="Dipnorhynchus_suessmilchi" recon_no="372947">Dipnorhynchus</List>
 		<List recon_name="Speonesydrion_iani" recon_no="391456">Speonesydrion</List>
-		<List recon_name="Ichnomylax" recon_no="250141">Ichnomylax</List>
+		<List recon_name="Ichnomylax_kurnai,Ichnomylax_karatajae" recon_no="377580;250142">Ichnomylax</List>
 		<List recon_name="Uranolophus_wyomingensis" recon_no="372944">Uranolophus</List>
 		<List recon_name="Tarachomylax_oepiki" recon_no="377284">Tarachomylax</List>
-		<List recon_name="DELETE" recon_no="-1">Jessenia</List>
+		<List recon_name="Jessenia_concentrica" recon_no="403363">Jessenia</List>
 		<List recon_name="Stomiahykus_thlaodus" recon_no="377496">Stomiahykus</List>
 		<List recon_name="Holodipterus_gogoensis" recon_no="377505">H_gogoensis</List>
 		<List recon_name="Robinsondipterus_longi" recon_no="377513">Robinsondipterus</List>
 		<List recon_name="Asthenorhynchus_meemanae" recon_no="377515">Asthenorhynchus</List>
-		<List recon_name="Griphognathus" recon_no="34890">Griphognathus</List>
-		<List recon_name="Chirodipterus" recon_no="34883">Chirodipterus</List>
+		<List recon_name="Griphognathus_whitei" recon_no="377507">Griphognathus</List>
+		<List recon_name="Chirodipterus_australis" recon_no="377761">Chirodipterus</List>
 		<List recon_name="Pillararhynchus_longi" recon_no="377357">Pillararhynchus</List>
 		<List recon_name="Gogodipterus_paddyensis" recon_no="377281">Gogodipterus</List>
 		<List recon_name="Adololopas_moyasmithae" recon_no="377661">Adololopas</List>
 		<List recon_name="Andreyevichthys_epitomus" recon_no="391618">Andreyevichthys</List>
 		<List recon_name="Sorbitorhynchus_deleaskitus" recon_no="377296">Sorbitorhynchus</List>
-		<List recon_name="Fleurantia" recon_no="372953">Fleurantia</List>
-		<List recon_name="Dipterus" recon_no="34888">Dipterus</List>
+		<List recon_name="Fleurantia_denticulata" recon_no="372954">Fleurantia</List>
+		<List recon_name="Dipterus_valenciennesi" recon_no="259292">Dipterus</List>
 		<List recon_name="Howidipterus_donnae" recon_no="377317">Howidipterus</List>
 		<List recon_name="Barwickia_downunda" recon_no="377319">Barwickia</List>
 		<List recon_name="Scaumenacia_curta" recon_no="372950">Scaumenacia</List>
-		<List recon_name="Sagenodus" recon_no="137509">Sagenodus</List>
-		<List recon_name="Ctenodus" recon_no="209443">Ctenodus</List>
-		<List recon_name="Neoceratodus" recon_no="91691">Neoceratodus</List>
+		<List recon_name="Sagenodus_inaequalis" recon_no="259440">Sagenodus</List>
+		<List recon_name="Ctenodus_cristatus,Ctenodus_interruptus,Ctenodus_murchisoni,Ctenodus_romeri" recon_no="210031;259437;259438;372964">Ctenodus</List>
+		<List recon_name="Neoceratodus_forsteri" recon_no="194486">Neoceratodus</List>
 		<List recon_name="Melanognathus_canadensis" recon_no="250697">Melanognathus</List>
 		<List recon_name="Soederberghia_groenlandica" recon_no="372956">Soederberghia</List>
-		<List recon_name="Conchopoma" recon_no="259451">Conchopoma</List>
-		<List recon_name="Gnathorhiza" recon_no="90709">Gnathoriza</List>
+		<List recon_name="Conchopoma_gadiforme" recon_no="259452">Conchopoma</List>
+		<List recon_name="Gnathorhiza_bothrotreta" recon_no="321057">Gnathoriza</List>
 		<List recon_name="Orlovichthys_limnatis" recon_no="391612">Orlovichthys</List>
 		<List recon_name="Harajicadipterus_youngi" recon_no="250695">Harajicadipterus</List>
 	</Taxa>

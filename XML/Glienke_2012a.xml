@@ -18,22 +18,22 @@
 		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
 		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
 		<List recon_name="Altenglanerpeton_schroederi" recon_no="340225">Altenglanerpeton</List>
-		<List recon_name="Batropetes" recon_no="37513">Batropetes</List>
+		<List recon_name="Batropetes_fritschia" recon_no="137990">Batropetes</List>
 		<List recon_name="Cardiocephalus_peabodyi" recon_no="137293">Cardiocephalus_peabodyi</List>
 		<List recon_name="Cardiocephalus_sternbergi" recon_no="90715">Cardiocephalus_sternbergi</List>
-		<List recon_name="Carrolla" recon_no="37316">Carrolla</List>
-		<List recon_name="Eocaecilia" recon_no="156676">Eocaecilia</List>
+		<List recon_name="Carrolla_craddocki" recon_no="227004">Carrolla</List>
+		<List recon_name="Eocaecilia_micropodia" recon_no="156677">Eocaecilia</List>
 		<List recon_name="Euryodus_dalyae" recon_no="227036">Euryodus_dalyae</List>
 		<List recon_name="Euryodus_primus" recon_no="120864">Euryodus_primus</List>
-		<List recon_name="Micraroter" recon_no="37302">Micraroter</List>
-		<List recon_name="Microbrachis" recon_no="37311">Microbrachis</List>
-		<List recon_name="Pantylus" recon_no="37291">Pantylus</List>
-		<List recon_name="Pelodosotis" recon_no="37304">Pelodosotis</List>
-		<List recon_name="Quasicaecilia" recon_no="227371">Quasicaecilia</List>
-		<List recon_name="Rhynchonkos" recon_no="37308">Rhynchonkos</List>
-		<List recon_name="Sparodus" recon_no="37300">Sparodus</List>
-		<List recon_name="Stegotretus" recon_no="227374">Stegotretus</List>
-		<List recon_name="Tambaroter" recon_no="207728">Tambaroter</List>
+		<List recon_name="Micraroter_erythrogeios" recon_no="90684">Micraroter</List>
+		<List recon_name="Microbrachis_pelikani" recon_no="227043">Microbrachis</List>
+		<List recon_name="Pantylus_cordatus" recon_no="70439">Pantylus</List>
+		<List recon_name="Pelodosotis_elongatum" recon_no="150625">Pelodosotis</List>
+		<List recon_name="Quasicaecilia_texana" recon_no="227373">Quasicaecilia</List>
+		<List recon_name="Rhynchonkos_stovalli" recon_no="340743">Rhynchonkos</List>
+		<List recon_name="Sparodus_validus" recon_no="338124">Sparodus</List>
+		<List recon_name="Stegotretus_agyrus" recon_no="227375">Stegotretus</List>
+		<List recon_name="Tambaroter_carrolli" recon_no="207729">Tambaroter</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

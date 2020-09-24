@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Bever, G. S.</List>
-      <List>Lyson, T. R.</List>
-      <List>Field, D. J.</List>
-      <List>Bhullar, B.-A. S.</List>
+			<List>Lyson, T. R.</List>
+			<List>Field, D. J.</List>
+			<List>Bhullar, B.-A. S.</List>
 		</Author>
 		<Year>2015</Year>
 		<Title>Evolutionary origin of the turtle skull</Title>
@@ -16,54 +16,54 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="48">
-		<List recon_name="Seymouriidae" recon_no="37219">Seymouriiadae</List>
+		<List recon_name="Rhinosauriscus_jasykovii,Seymouria_baylorensis,Seymouria_sanjuanensis" recon_no="362602;137488;93510">Seymouriiadae</List>
 		<List recon_name="Acerosodontosaurus_piveteaui" recon_no="157602">Acerosodontosaurus_piveteaui</List>
 		<List recon_name="Acleistorhinus_pteroticus" recon_no="90735">Acleistorhinus_pteroticus</List>
-		<List recon_name="Araeoscelidae" recon_no="37772">Araeoscelidae</List>
-		<List recon_name="Archosauriformes" recon_no="57091">Archosauriformes</List>
+		<List recon_name="Araeoscelis_casei,Kadaliosaurus_priscus,Petrolacosaurus_kansensis,Spinoaequalis_schultzei,Zarcasaurus_tanyderus" recon_no="138984;324121;138231;140495;324120">Araeoscelidae</List>
+		<List recon_name="Acrocanthosaurus_atokensis,Adasaurus_mongoliensis,Aetosauroides_scagliai,Aetosaurus_ferratus,Albertosaurus_lancensis,Albertosaurus_libratus,Albertosaurus_sarcophagus,Alectrosaurus_olseni,Alioramus_remotus,Alligator_mississippiensis,Allosaurus_fragilis,Angistorhinus_grandis,Anurognathus_ammoni,Archaeopteryx_lithographica,Archaeornithomimus_asiaticus,Archosaurus_rossicus,Argentinosuchus_bonapartei,Batrachognathus_volans,Belodon_plieningeri,Caenagnathus_collinsi,Caenagnathus_sternbergi,Campylognathoides_liasicus,Ceratosaurus_nasicornis,Cerritosaurus_binsfeldi,Chanaresuchus_bonapartei,Chasmatosuchus_magnus,Chasmatosuchus_rossicus,Chirostenotes_pergracilis,Coelophysis_bauri,Coelophysis_rhodesiensis,Coelurus_fragilis,Compsognathus_longipes,Crocodylus_niloticus,Ctenochasma_roemeri,Daspletosaurus_torosus,Deinocheirus_mirificus,Deinonychus_antirrhopus,Desmatosuchus_spurensis,Dilophosaurus_wetherilli,Dimorphodon_macronyx,Dorygnathus_banthensis,Dromaeosaurus_albertensis,Dromiceiomimus_brevitertius,Dromiceiomimus_samueli,Dryptosaurus_aquilunguis,Dsungaripterus_weii,Efraasia_diagnostica,Elaphrosaurus_bambergi,Elmisaurus_rarus,Erpetosuchus_granti,Erythrosuchus_africanus,Eudimorphodon_ranzii,Euparkeria_capensis,Fasolasuchus_tenax,Gallimimus_bullatus,Gallodactylus_canjuersensis,Garudimimus_brevipes,Germanodactylus_cristatus,Germanodactylus_rhamphastinus,Gnathosaurus_macrurus,Gnathosaurus_subulatus,Gualosuchus_reigi,Halticosaurus_liliensterni,Herrerasaurus_ischigualastensis,Hesperosuchus_agilis,Heterodontosaurus_tucki,Hulsanpes_perlei,Ichthyornis_dispar,Indosaurus_matleyi,Indosuchus_raptorius,Ingenia_yanshini,Lagosuchus_lilloensis,Lesothosaurus_diagnosticus,Luperosuchus_fractus,Macrophalangia_canadensis,Mandasuchus_tanyauchen,Microvenator_celer,Mystriosuchus_planirostris,Neoaetosauroides_engaeus,Nesodactylus_hesperius,Nicrosaurus_kapffi,Noripterus_complicidens,Nyctosaurus_gracilis,Nyctosaurus_lamegoi,Odontorhynchus_aculeatus,Ornithocheirus_simus,Ornithodesmus_latidens,Ornitholestes_hermanni,Ornithomimus_edmontonicus,Ornithomimus_sedens,Ornithomimus_velox,Ornithosuchus_woodwardi,Oviraptor_philoceratops,Paleorhinus_bransoni,Parapsicephalus_purdoni,Parasuchus_hislopi,Parringtonia_gracilis,Prestosuchus_chiniquensis,Procerosuchus_celer,Procompsognathus_triassicus,Proterochampsa_barrionuevoi,Proterosuchus_fergusi,Psittacosaurus_mongoliensis,Pteranodon_longiceps,Pterodactylus_antiquus,Pterodactylus_kochi,Pterodactylus_micronyx,Pterodaustro_guinazui,Rauisuchus_tiradentes,Rhamphocephalus_bucklandi,Rhamphorhynchus_muensteri,Riojasuchus_tenuisceps,Rutiodon_carolinensis,Saltoposuchus_connectens,Sarcosaurus_woodi,Saurornithoides_junior,Saurornithoides_mongoliensis,Saurornitholestes_langstoni,Saurosuchus_galilei,Scaphognathus_crassirostris,Scelidosaurus_harrisonii,Scleromochlus_taylori,Scutellosaurus_lawleri,Segisaurus_halli,Shansisuchus_shansisuchus,Sordes_pilosus,Stagonolepis_robertsoni,Stagonosuchus_nyassicus,Staurikosaurus_pricei,Stegomus_arcuatus,Struthiomimus_altus,Tarbosaurus_bataar,Thecodontosaurus_antiquus,Ticinosuchus_ferox,Troodon_formosus,Typothorax_coccinarum,Tyrannosaurus_rex,Velociraptor_mongoliensis,Venaticosuchus_rusconii" recon_no="55482;57261;157037;156403;57257;57255;56319;57253;57259;110824;52962;155543;164695;55487;57276;140596;157038;156635;64942;54545;54547;156110;54165;333704;80890;347454;162606;54561;55477;67921;52986;53007;158096;156651;57258;57246;54555;100584;57251;95810;92103;54550;66907;57272;53030;100403;64390;55481;54560;55572;163009;131614;99170;119073;57265;163716;57267;156751;156753;159476;164689;80891;56380;55000;69077;52902;67680;54877;54099;53958;57022;53206;57574;80897;54817;371874;65860;64945;66676;139629;178440;65713;161231;162919;163720;163200;135363;55484;63438;54235;57269;55573;55488;58929;143942;159217;84827;100831;100839;56382;333703;184525;52831;52932;156644;97008;164691;156857;100838;156329;95813;66677;64947;116377;57252;57262;54470;54556;119066;164694;53042;63718;67088;55543;174032;156636;119075;178332;55001;156115;57266;57254;56627;119065;54818;64940;54833;54554;269820">Archosauriformes</List>
 		<List recon_name="Australothyris_smithi" recon_no="147935">Australothyris_smithi</List>
 		<List recon_name="Barasaurus_besairiei" recon_no="157552">Barasaurus_besairiei</List>
 		<List recon_name="Bashkyroleter_mesensis" recon_no="137140">Bashkyroleter_mesensis</List>
 		<List recon_name="Bashkyroleter_bashkyricus" recon_no="137135">Bashkyroleter_bashykyricus</List>
 		<List recon_name="Belebey_vegrandis" recon_no="137776">Belebey_vegrandis</List>
-		<List recon_name="Bradysaurus" recon_no="37559">Bradysaurus_spp</List>
-		<List recon_name="Captorhinidae" recon_no="37495">Captorhinidae</List>
-		<List recon_name="Caseidae" recon_no="38913">Caseidae</List>
+		<List recon_name="Bradysaurus_baini,Bradysaurus_seeleyi" recon_no="160686;144595">Bradysaurus_spp</List>
+		<List recon_name="Captorhinus_laticeps,Captorhinus_aguti,Captorhinikos_valensis,Captorhinikos_chozaensis,Captorhinoides_valensis,Hecatogomphius_kavejevi,Kahneria_seltina,Labidosaurikos_meachami,Labidosaurus_hamatus,Moradisaurus_grandis,Protocaptorhinus_pricei,Rhiodenticulatus_heatoni,Romeria_texana,Rothianiscus_multidonta" recon_no="134970;90718;120855;120856;120860;135588;119509;119515;134918;134810;135429;135851;134834;135792">Captorhinidae</List>
+		<List recon_name="Angelosaurus_dolani,Angelosaurus_greeni,Angelosaurus_romeri,Casea_broilii,Casea_halselli,Casea_nicholsi,Casea_rutena,Caseoides_sanangeloensis,Caseopsis_agilis,Cotylorhynchus_bransoni,Cotylorhynchus_hancocki,Cotylorhynchus_romeri,Ennatosaurus_tecton,Phreatophasma_aenigmaticum" recon_no="123401;122304;120923;113850;120854;120853;122217;123414;123400;120922;122303;122218;122314;122315">Caseidae</List>
 		<List recon_name="Claudiosaurus_germaini" recon_no="138614">Claudiosaurus_germaini</List>
 		<List recon_name="Colobomycter_pholeter" recon_no="123513">Colobomycter_phloleter</List>
 		<List recon_name="Delorhynchus_cifellii" recon_no="324159">Delorhynchus_cifelli</List>
-		<List recon_name="Diadectomorpha" recon_no="95313">Diadectomorpha</List>
+		<List recon_name="Diadectes_sanmiguelensis,Limnoscelis_paludis,Tseajaia_campi" recon_no="138330;113848;120742">Diadectomorpha</List>
 		<List recon_name="Emeroleter_levis" recon_no="120745">Emeroleter_levis</List>
-		<List recon_name="Eosauropterygia" recon_no="100142">Eosauropterygia</List>
+		<List recon_name="Anarosaurus_pumilio,Corosaurus_alcovensis,Hanosaurus_hupehensis,Neusticosaurus_edwardsii,Pachypleurosaurus_edwardsi,Serpianosaurus_mirigiolensis" recon_no="375028;139789;170966;373039;373038;142015">Eosauropterygia</List>
 		<List recon_name="Eudibamus_cursoris" recon_no="137225">Eudibamus_cursoris</List>
 		<List recon_name="Eunotosaurus_africanus" recon_no="56889">Eunotosaurus_africanus</List>
 		<List recon_name="Feeserpeton_oklahomensis" recon_no="246046">Feeserpeton_oklahomensis</List>
 		<List recon_name="Hovasaurus_boulei" recon_no="324156">Hovasaurus_boulei</List>
-		<List recon_name="Kuehneosauridae" recon_no="37838">Kuehneosauridae</List>
+		<List recon_name="Cteniogenys_antiquus,Icarosaurus_siefkeri,Kuehneosaurus_latus,Kuehneosuchus_latissimus,Rhabdopelix_longispinis" recon_no="69385;156159;202965;202967;179137">Kuehneosauridae</List>
 		<List recon_name="Lanthanosuchus_watsoni" recon_no="137520">Lanthanosuchus_watsoni</List>
 		<List recon_name="Lanthanolania_ivakhnenkoi" recon_no="138329">Lanthanolania</List>
 		<List recon_name="Macroleter_poezicus" recon_no="120852">Macroleter_poezicus</List>
 		<List recon_name="Mesosaurus_tenuidens" recon_no="149291">Mesosaurus</List>
 		<List recon_name="Microleter_mckinzieorum" recon_no="204049">Microleter_mckinzieorum</List>
-		<List recon_name="Millerettidae" recon_no="37568">Millerettidae</List>
+		<List recon_name="Broomia_perplexa,Milleretta_rubidgei,Millerinoides_acutirostris,Milleropsis_pricei,Millerosaurus_ornatus" recon_no="148125;148135;121360;148139;121353">Millerettidae</List>
 		<List recon_name="Nycteroleter_ineptus" recon_no="120544">Nycteroleter_ineptus</List>
 		<List recon_name="Nyctiphruretus_acudens" recon_no="139947">Nyctiphruretus_acudens</List>
 		<List recon_name="Odontochelys_semitestacea" recon_no="137153">Odontochelys_semitestacea</List>
 		<List recon_name="Orovenator_mayorum" recon_no="64877">Orovenator_mayorum</List>
-		<List recon_name="Owenetta" recon_no="37521">Owenetta_spp</List>
+		<List recon_name="Owenetta_kitchingorum,Owenetta_rubidgei" recon_no="121092;136937">Owenetta_spp</List>
 		<List recon_name="Paleothyris_acadiana" recon_no="138002">Paleothyris_acadiana</List>
-		<List recon_name="Placodus" recon_no="36538">Placodus_spp</List>
-		<List recon_name="Procolophon" recon_no="37541">Procolophon_spp</List>
+		<List recon_name="Placodus_gigas,Placodus_inexpectatus" recon_no="95794;377228">Placodus_spp</List>
+		<List recon_name="Procolophon_trigoniceps" recon_no="56758">Procolophon_spp</List>
 		<List recon_name="Proganochelys_quenstedti" recon_no="256639">Proganochelys_quenstedti</List>
 		<List recon_name="Prolacerta_broomi" recon_no="138933">Prolacerta_broomi</List>
-		<List recon_name="Rhipaeosaurus" recon_no="37556">Rhipaeosaurus_spp</List>
-		<List recon_name="Rhynchocephalia" recon_no="54194">Rhynchocephalia</List>
-		<List recon_name="Rhynchosauria" recon_no="38205">Rhynchosauria</List>
-		<List recon_name="Scutosaurus" recon_no="37565">Scutosaurus_spp</List>
+		<List recon_name="Rhipaeosaurus_tricuspidens" recon_no="142489">Rhipaeosaurus_spp</List>
+		<List recon_name="Clevosaurus_wangi,Brachyrhinodon_taylori,Clevosaurus_hudsoni,Dianosaurus_petilus,Eilenodon_robustus,Gephyrosaurus_bridensis,Homoeosaurus_maximiliani,Kallimodon_pulchellus,Opisthias_rarus,Pelecymala_robustus,Polysphenodon_muelleri,Planocephalosaurus_robinsonae,Sapheosaurus_thiollierei,Sigmala_sigmala,Sphenodon_punctata,Toxolophosaurus_cloudi" recon_no="105006;375338;247715;105009;253353;64136;254022;374635;65782;253699;171983;253695;335538;253698;393586;136703">Rhynchocephalia</List>
+		<List recon_name="Hyperodapedon_huxleyi,Hyperodapedon_gordoni" recon_no="100723;146404">Rhynchosauria</List>
+		<List recon_name="Scutosaurus_karpinskii" recon_no="159720">Scutosaurus_spp</List>
 		<List recon_name="Sinosaurosphargis_yunguiensis" recon_no="182851">Sinosaurosphargis_yunguiensis</List>
-		<List recon_name="Squamata" recon_no="36379">Squamata</List>
+		<List recon_name="Agama_agama,Leiolepis_belliana,Celestus_crusculus,Diploglossus_millepunctatus,Elgaria_coerulea,Elgaria_multicarinata,Ophisaurus_apodus,Ophisaurus_ventralis,Chamaeleo_chameleon,Cordylus_polyzonus,Dibamus_novaeguinea,Coleonyx_variegatus,Gekko_gecko,Hemitheconyx_caudicinctus,Uroplatus_fimbriatus,Gymnophthalmus_speciosus,Heloderma_horridum,Heloderma_suspectum,Anolis_sagrei,Crotaphytus_collaris,Ctenosaura_pectinata,Dipsosaurus_dorsalis,Iguana_iguana,Morunasaurus_annularis,Plica_plica,Sceloporus_magister,Algyroides_fitzingeri,Lacerta_lepida,Lacerta_viridis,Lanthanotus_borneensis,Pygopus_lepidopodus,Corucia_zebrata,Eumeces_laticeps,Eumeces_obsoletus,Eumeces_skiltonianus,Ameiva_chrysolaema,Cnemidophorus_sexlineatus,Tupinambis_teguixin,Varanus_niloticus,Varanus_salvator,Xantusia_henshawi,Xenosaurus_grandis,Amphisbaena_alba,Amphisbaena_fuliginosa,Cylindrophis_rufus,Python_regius" recon_no="375802;376470;374955;376136;408754;137139;375953;291366;376381;408755;374211;376245;375935;374974;408757;408761;374757;374759;376205;424753;376142;376386;373787;375506;375639;408762;408775;408777;335215;374189;376790;375947;408764;408765;408766;408763;110875;356416;135845;374199;408759;373928;376126;376127;376762;408758">Squamata</List>
 		<List recon_name="Trilophosaurus_buettneri" recon_no="64922">Trilophosaurus_buettneri</List>
 		<List recon_name="Youngina_capensis" recon_no="77037">Youngina_capensis</List>
 	</Taxa>
@@ -79,7 +79,7 @@
 		<Type>Maximum Parsimony</Type>
 	</Analysis>
 	<Notes>Based on reanalysis of the original matrix.</Notes>
-	<Filename>Bever_2015a</Filename>
+	<Filename>Bever_etal_2015a</Filename>
 	<Parent/>
 	<Sibling/>
 </SourceTree>

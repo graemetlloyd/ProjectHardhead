@@ -40,14 +40,14 @@
 		<List recon_name="Chirodipterus_australis" recon_no="377761">Chirodipterus_aus</List>
 		<List recon_name="Pillararhynchus_longi" recon_no="377357">Pillararhynchus</List>
 		<List recon_name="Eoctenodus_microsoma" recon_no="377671">Eoctenodus</List>
-		<List recon_name="Holodipterus" recon_no="34892">Holodipterus</List>
+		<List recon_name="Holodipterus_gogoensis,Holodipterus_longi,Holodipterus_santacrucensis" recon_no="377505;377511;377503">Holodipterus</List>
 		<List recon_name="Archaeonectes_pertusus" recon_no="377500">Archaeonectes</List>
 		<List recon_name="Rhynchodipterus_elginensis" recon_no="391451">Rhynchodipterus</List>
 		<List recon_name="Jarvikia_arctica" recon_no="372958">Jarvikia</List>
 		<List recon_name="Soederberghia_groenlandica" recon_no="372956">Soederberghia</List>
 		<List recon_name="Oervigia_nordica" recon_no="372952">Oervigia</List>
 		<List recon_name="Nielsenia_nordica" recon_no="391449">Nielsenia</List>
-		<List recon_name="Phaneropleuron" recon_no="209233">Phaneropleuron</List>
+		<List recon_name="Phaneropleuron_andersoni" recon_no="259300">Phaneropleuron</List>
 		<List recon_name="Andreyevichthys_epitomus" recon_no="391618">Andreyevicthys</List>
 		<List recon_name="Orlovichthys_limnatis" recon_no="391612">Orlovichthys</List>
 		<List recon_name="Proceratodus" recon_no="321061">Proceratodus</List>
@@ -55,28 +55,28 @@
 		<List recon_name="Parasagenodus_sibiricus" recon_no="391444">Parasagenodus</List>
 		<List recon_name="Tranodis_castrensis" recon_no="391445">Tranodis</List>
 		<List recon_name="Straitonia_waterstoni" recon_no="391446">Straitonia</List>
-		<List recon_name="Ctenodus" recon_no="209443">Ctenodus</List>
-		<List recon_name="Sagenodus" recon_no="137509">Sagenodus</List>
-		<List recon_name="Ganopristodus" recon_no="372961">Ganopristodus</List>
-		<List recon_name="Palaeophichthys" recon_no="35070">Palaeophichthys</List>
-		<List recon_name="Megapleuron" recon_no="321059">Megapleuron</List>
-		<List recon_name="Conchopoma" recon_no="259451">Conchopoma</List>
+		<List recon_name="Ctenodus_romeri" recon_no="372964">Ctenodus</List>
+		<List recon_name="Sagenodus_inaequalis" recon_no="259440">Sagenodus</List>
+		<List recon_name="Ganopristodus_splendens" recon_no="372963">Ganopristodus</List>
+		<List recon_name="Palaeophichthys_parvulus" recon_no="372966">Palaeophichthys</List>
+		<List recon_name="Megapleuron_zangerli" recon_no="372972">Megapleuron</List>
+		<List recon_name="Conchopoma_gadiforme" recon_no="259452">Conchopoma</List>
 		<List recon_name="Gnathorhiza" recon_no="90709">Gnathorhiza</List>
-		<List recon_name="Beltanodus" recon_no="321034">Beltanodus</List>
+		<List recon_name="Beltanodus_ambilobensis" recon_no="321068">Beltanodus</List>
 		<List recon_name="Ceratodus_latissimus" recon_no="57672">Ceratodus_latiss</List>
 		<List recon_name="Ceratodus_formosus" recon_no="194438">Ceratodus_formos</List>
-		<List recon_name="Gosfordia" recon_no="213310">Gosfordia</List>
-		<List recon_name="Microceratodus" recon_no="194463">Microceratodus</List>
-		<List recon_name="Paraceratodus" recon_no="194435">Paraceratodus</List>
-		<List recon_name="Ptychoceratodus" recon_no="65066">Ptychoceratodus</List>
-		<List recon_name="Asiatoceratodus" recon_no="65131">Asiatoceratodus</List>
-		<List recon_name="Arganodus" recon_no="69034">Arganodus</List>
-		<List recon_name="Tellerodus" recon_no="194432">Tellerodus</List>
-		<List recon_name="Ferganoceratodus" recon_no="197863">Ferganoceratodus</List>
-		<List recon_name="Metaceratodus" recon_no="140023">Metaceratodus</List>
-		<List recon_name="Neoceratodus" recon_no="91691">Neoceratodus</List>
-		<List recon_name="Protopterus" recon_no="91688">Protopterus</List>
-		<List recon_name="Lepidosiren" recon_no="256136">Lepidosiren</List>
+		<List recon_name="Gosfordia_truncata" recon_no="213311">Gosfordia</List>
+		<List recon_name="Microceratodus_angolensis" recon_no="194465">Microceratodus</List>
+		<List recon_name="Paraceratodus_germaini" recon_no="194436">Paraceratodus</List>
+		<List recon_name="Ptychoceratodus_serratus" recon_no="194441">Ptychoceratodus</List>
+		<List recon_name="Asiatoceratodus_sharovi" recon_no="194509">Asiatoceratodus</List>
+		<List recon_name="Arganodus_atlantis" recon_no="133890">Arganodus</List>
+		<List recon_name="Tellerodus_sturii" recon_no="194434">Tellerodus</List>
+		<List recon_name="Ferganoceratodus_jurassicus" recon_no="197865">Ferganoceratodus</List>
+		<List recon_name="Metaceratodus_wollastoni" recon_no="321104">Metaceratodus</List>
+		<List recon_name="Neoceratodus_forsteri" recon_no="194486">Neoceratodus</List>
+		<List recon_name="Protopterus_annectens" recon_no="321124">Protopterus</List>
+		<List recon_name="Lepidosiren_paradoxa" recon_no="256137">Lepidosiren</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

@@ -15,31 +15,31 @@
 		<Editor/>
 	</Source>
 	<Taxa number="25">
-		<List recon_name="Konzhukovia" recon_no="139085">Konshukovia</List>
-		<List recon_name="Angusaurus" recon_no="58499">Angusaurus</List>
-		<List recon_name="Benthosuchus" recon_no="37087">Benthosuchus</List>
-		<List recon_name="Cherninia" recon_no="172536">Cherninia</List>
-		<List recon_name="Chomatobatrachus" recon_no="37074">Chomatobatrachus</List>
-		<List recon_name="Cyclotosaurus" recon_no="37095">Cyclotosaurus</List>
-		<List recon_name="Deltacephalus" recon_no="37076">Deltacephalus</List>
-		<List recon_name="Eryosuchus" recon_no="37097">Eryosuchus</List>
-		<List recon_name="Eocyclotosaurus" recon_no="37096">Eocyclotosaurus</List>
-		<List recon_name="Lydekkerina" recon_no="37078">Lydekkerina</List>
-		<List recon_name="Mastodonsaurus" recon_no="37108">Mastodonsaurus</List>
-		<List recon_name="Odenwaldia" recon_no="37089">Odenwaldia</List>
+		<List recon_name="Konzhukovia_tarda" recon_no="357496">Konshukovia</List>
+		<List recon_name="Angusaurus_dentatus,Angusaurus_succedaneus,Angusaurus_tsylmensis" recon_no="375379;375418;375376">Angusaurus</List>
+		<List recon_name="Benthosuchus_bystrowi,Benthosuchus_korobkovi,Benthosuchus_sushkini,Benthosuchus_uralensis" recon_no="269990;263707;269989;269992">Benthosuchus</List>
+		<List recon_name="Cherninia_denwai,Cherninia_megarhina" recon_no="269998;172537">Cherninia</List>
+		<List recon_name="Chomatobatrachus_halei" recon_no="251647">Chomatobatrachus</List>
+		<List recon_name="Cyclotosaurus_ebrachensis,Cyclotosaurus_hemprichi,Cyclotosaurus_papilio,Cyclotosaurus_posthumus,Cyclotosaurus_robustus" recon_no="57082;57083;57081;57084;57085">Cyclotosaurus</List>
+		<List recon_name="Deltacephalus_whitei" recon_no="266413">Deltacephalus</List>
+		<List recon_name="Eryosuchus_pronus,Eryosuchus_rajareddyi,Eryosuchus_tverdochlebovi" recon_no="172539;251718;169903">Eryosuchus</List>
+		<List recon_name="Eocyclotosaurus_lehmani,Eocyclotosaurus_woschmidti" recon_no="269995;269996">Eocyclotosaurus</List>
+		<List recon_name="Lydekkerina_huxleyi" recon_no="255237">Lydekkerina</List>
+		<List recon_name="Mastodonsaurus_cappelensis,Mastodonsaurus_giganteus,Mastodonsaurus_torvus" recon_no="179487;150365;169907">Mastodonsaurus</List>
+		<List recon_name="Odenwaldia_heidelbergensis" recon_no="202715">Odenwaldia</List>
 		<List recon_name="Edingerella_madagascariensis" recon_no="251497">P_madagascariensis</List>
-		<List recon_name="Paracyclotosaurus" recon_no="37099">Paracyclotosaurus</List>
-		<List recon_name="Parotosuchus" recon_no="37100">Parotosuchus</List>
-		<List recon_name="Stenotosaurus" recon_no="170672">Stenotosaurus</List>
-		<List recon_name="Tatrasuchus" recon_no="260247">Tatrasuchus</List>
-		<List recon_name="Thoosuchus" recon_no="37092">Thoosuchus</List>
-		<List recon_name="Trematosaurus" recon_no="37138">Trematosaurus</List>
-		<List recon_name="Watsonisuchus" recon_no="251273">Watsonisuchus</List>
-		<List recon_name="Wellesaurus" recon_no="37105">Wellesaurus</List>
-		<List recon_name="Wetlugasaurus" recon_no="37106">Wetlugasaurus</List>
-		<List recon_name="Rhineceps" recon_no="37068">Rhineceps</List>
-		<List recon_name="Rhinesuchus" recon_no="37070">Rhinesuchus</List>
-		<List recon_name="Uranocentrodon" recon_no="37071">Uranocentrodon</List>
+		<List recon_name="Paracyclotosaurus_crookshanki,Paracyclotosaurus_davidi" recon_no="270188;57042">Paracyclotosaurus</List>
+		<List recon_name="Parotosuchus_haughtoni,Parotosuchus_helgolandicus,Parotosuchus_komiensis,Parotosuchus_nasutus,Parotosuchus_orenburgensis,Parotosuchus_orientalis,Parotosuchus_sequester" recon_no="270190;248281;270191;270192;265669;270196;270197">Parotosuchus</List>
+		<List recon_name="Stenotosaurus_gracilis,Stenotosaurus_semiclausus,Stenotosaurus_stantonensis" recon_no="170673;170675;270200">Stenotosaurus</List>
+		<List recon_name="Tatrasuchus_kulczyckii,Tatrasuchus_wildi" recon_no="270202;270204">Tatrasuchus</List>
+		<List recon_name="Thoosuchus_yakovlevi" recon_no="362936">Thoosuchus</List>
+		<List recon_name="Trematosaurus_brauni" recon_no="248613">Trematosaurus</List>
+		<List recon_name="Watsonisuchus_aliciae,Watsonisuchus_gunganj,Watsonisuchus_magnus,Watsonisuchus_rewanensis" recon_no="251274;251275;251278;251276">Watsonisuchus</List>
+		<List recon_name="Wellesaurus_africanus,Wellesaurus_peabodyi" recon_no="270205;165269">Wellesaurus</List>
+		<List recon_name="Wetlugasaurus_angustifrons,Wetlugasaurus_groenlandicus,Wetlugasaurus_malachovi,Wetlugasaurus_samarensis" recon_no="270206;266515;270207;270208">Wetlugasaurus</List>
+		<List recon_name="Rhineceps_nyasaensis" recon_no="267022">Rhineceps</List>
+		<List recon_name="Rhinesuchus_senekalensis,Rhinesuchus_whaitsi" recon_no="266929;266926">Rhinesuchus</List>
+		<List recon_name="Uranocentrodon_senekalensis" recon_no="255236">Uranocentrodon</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

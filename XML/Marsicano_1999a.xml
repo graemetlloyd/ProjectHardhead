@@ -15,13 +15,13 @@
 		<Editor/>
 	</Source>
 	<Taxa number="7">
-		<List recon_name="Trimerorhachidae" recon_no="36985">Trimerorhachidae</List>
-		<List recon_name="Brachyopidae" recon_no="37146">Brachyopidae</List>
-		<List recon_name="Pelorocephalus" recon_no="37160">Pelorocephalus</List>
-		<List recon_name="Siderops" recon_no="37155">Siderops</List>
-		<List recon_name="Keratobrachyops" recon_no="37159">Keratobrachyops</List>
-		<List recon_name="Kuttycephalus" recon_no="251481">Kuttycephalus</List>
-		<List recon_name="Compsocerops" recon_no="251479">Compsocerops</List>
+		<List recon_name="Trimerorhachis_insignis" recon_no="90711">Trimerorhachidae</List>
+		<List recon_name="Hadrokkosaurus_bradyi,Xenobrachyops_allos" recon_no="165253;251266">Brachyopidae</List>
+		<List recon_name="Pelorocephalus_cacheutensis,Pelorocephalus_mendozensis,Pelorocephalus_tenax" recon_no="251478;251472;251476">Pelorocephalus</List>
+		<List recon_name="Siderops_kehli" recon_no="251254">Siderops</List>
+		<List recon_name="Keratobrachyops_australis" recon_no="251264">Keratobrachyops</List>
+		<List recon_name="Kuttycephalus_triangularis" recon_no="251482">Kuttycephalus</List>
+		<List recon_name="Compsocerops_cosgriffi" recon_no="251480">Compsocerops</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

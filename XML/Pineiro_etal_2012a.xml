@@ -17,22 +17,22 @@
 		<Editor/>
 	</Source>
 	<Taxa number="16">
-		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
-		<List recon_name="Archegosauridae" recon_no="37057">Archegosauridae</List>
-		<List recon_name="Peltobatrachus" recon_no="37084">Peltobatrachus</List>
-		<List recon_name="Rhinesuchidae" recon_no="37065">Rhinesuchidae</List>
-		<List recon_name="Lydekkerina" recon_no="37078">Lydekkerina</List>
-		<List recon_name="Benthosuchus" recon_no="37087">Benthosuchus</List>
-		<List recon_name="Laidleria" recon_no="37115">Laidleria</List>
-		<List recon_name="Plagiosauridae" recon_no="37169">Plagiosauridae</List>
-		<List recon_name="Arcadia" recon_no="37111">Arcadia</List>
-		<List recon_name="Watsonisuchus" recon_no="251273">Watsonisuchus</List>
-		<List recon_name="Uruyiella" recon_no="140757">Uruyiella</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Archegosaurus_decheni,Archegosaurus_dyscriton,Bashkirosaurus_tcherdyncevi,Collidosuchus_tchudinovi,Melosaurus_kamaensis,Melosaurus_uralensis,Platyoposaurus_rickardi,Platyoposaurus_stuckenbergi,Platyoposaurus_vjuschkovi,Platyoposaurus_watsoni,Prionosuchus_plummeri" recon_no="255841;345867;357483;345884;357486;357485;142451;142452;56481;142453;357484">Archegosauridae</List>
+		<List recon_name="Peltobatrachus_pustulatus" recon_no="367348">Peltobatrachus</List>
+		<List recon_name="Rhinesuchus_whaitsi" recon_no="266926">Rhinesuchidae</List>
+		<List recon_name="Eolydekkerina_magna,Lydekkerina_huxleyi" recon_no="266406;255237">Lydekkerina</List>
+		<List recon_name="Benthosuchus_sushkini" recon_no="269989">Benthosuchus</List>
+		<List recon_name="Laidleria_gracilis" recon_no="251506">Laidleria</List>
+		<List recon_name="Plagiobatrachus_australis,Plagiosternum_granulosum" recon_no="251271;252572">Plagiosauridae</List>
+		<List recon_name="Arcadia_myriadens" recon_no="251270">Arcadia</List>
+		<List recon_name="Watsonisuchus_aliciae,Watsonisuchus_gunganj,Watsonisuchus_magnus,Watsonisuchus_rewanensis" recon_no="251274;251275;251278;251276">Watsonisuchus</List>
+		<List recon_name="Uruyiella_liminea" recon_no="140814">Uruyiella</List>
 		<List recon_name="Arachana_nigra" recon_no="367352">Arachana</List>
-		<List recon_name="Pneumatostega" recon_no="37117">Pneumatostega</List>
-		<List recon_name="Sangaia" recon_no="91802">Sangaia</List>
-		<List recon_name="Bothriceps" recon_no="37151">Bothriceps</List>
-		<List recon_name="Keratobrachyops" recon_no="37159">Keratobrachyops</List>
+		<List recon_name="Pneumatostega_potamia" recon_no="251507">Pneumatostega</List>
+		<List recon_name="Sangaia_lavinai" recon_no="91804">Sangaia</List>
+		<List recon_name="Bothriceps_australis" recon_no="251454">Bothriceps</List>
+		<List recon_name="Keratobrachyops_australis" recon_no="251264">Keratobrachyops</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

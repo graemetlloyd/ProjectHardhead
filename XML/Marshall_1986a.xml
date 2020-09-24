@@ -15,30 +15,30 @@
 		<Editor/>
 	</Source>
 	<Taxa number="24">
-		<List recon_name="Dipnorhynchus" recon_no="34887">Dipnorhynchus</List>
+		<List recon_name="Dipnorhynchus_kiandrensis,Dipnorhynchus_lehmanni,Dipnorhynchus_suessmilchi" recon_no="377358;372967;372947">Dipnorhynchus</List>
 		<List recon_name="Ceratodus_sturii" recon_no="194433">Ceratodus_sturii</List>
-		<List recon_name="Ctenodus" recon_no="209443">Ctenodus</List>
+		<List recon_name="Ctenodus_cristatus,Ctenodus_interruptus,Ctenodus_romeri" recon_no="210031;259437;372964">Ctenodus</List>
 		<List recon_name="Dipterus_valenciennesi" recon_no="259292">Dipterus_valenciennesi</List>
-		<List recon_name="Gnathorhizidae" recon_no="133097">gnathorizids</List>
-		<List recon_name="Lepidosirenidae" recon_no="90708">lepidosirenids</List>
-		<List recon_name="Neoceratodus" recon_no="91691">Neoceratodus</List>
-		<List recon_name="Rhynchodipteridae" recon_no="321029">rhycnhodipterids</List>
-		<List recon_name="Sagenodus" recon_no="137509">Sagenodus</List>
+		<List recon_name="Gnathorhiza_bothrotreta,Gnathorhiza_dikeloda,Gnathorhiza_noblensis,Gnathorhiza_pusilla,Gnathorhiza_serrata,Monongahela_dunkardensis,Monongahela_stenodonta" recon_no="321057;120861;120924;321058;90710;391441;391442">gnathorizids</List>
+		<List recon_name="Lepidosiren_paradoxa,Protopterus_aethiopicus,Protopterus_amphibius,Protopterus_annectens,Protopterus_dolloi,Protopterus_protopteroides" recon_no="256137;321125;414363;321124;414362;91690">lepidosirenids</List>
+		<List recon_name="Neoceratodus_djelleh,Neoceratodus_eyrensis,Neoceratodus_forsteri,Neoceratodus_gregoryi" recon_no="391430;194498;194486;194502">Neoceratodus</List>
+		<List recon_name="Griphognathus_minutidens,Griphognathus_sculpta,Griphognathus_whitei,Rhynchodipterus_elginensis,Soederberghia_groenlandica" recon_no="377509;377508;377507;391451;372956">rhycnhodipterids</List>
+		<List recon_name="Sagenodus_inaequalis" recon_no="259440">Sagenodus</List>
 		<List recon_name="Straitonia_waterstoni" recon_no="391446">Straitonia</List>
 		<List recon_name="Uranolophus_wyomingensis" recon_no="372944">Uranolophus</List>
-		<List recon_name="Chirodipterus" recon_no="34883">Chirodipterus</List>
-		<List recon_name="Conchopoma" recon_no="259451">Conchopoma</List>
-		<List recon_name="Fleurantia" recon_no="372953">Fleurantia</List>
-		<List recon_name="Holodipterida" recon_no="250291">holodipterids</List>
+		<List recon_name="Chirodipterus_australis,Chirodipterus_onawayensis,Chirodipterus_paddyensis,Chirodipterus_wildungensis" recon_no="377761;372974;377280;372973">Chirodipterus</List>
+		<List recon_name="Conchopoma_arctatum,Conchopoma_edesi,Conchopoma_exanthematicum,Conchopoma_gadiforme" recon_no="391439;372959;391440;259452">Conchopoma</List>
+		<List recon_name="Fleurantia_denticulata" recon_no="372954">Fleurantia</List>
+		<List recon_name="Devonosteus_proteus,Holodipterus_gogoensis,Holodipterus_kiprijanowae,Holodipterus_santacrucensis" recon_no="391447;377505;377502;377503">holodipterids</List>
 		<List recon_name="Jarvikia_arctica" recon_no="372958">Jarvikia</List>
-		<List recon_name="Microceratodus" recon_no="194463">Microceratodus</List>
+		<List recon_name="Microceratodus_angolensis" recon_no="194465">Microceratodus</List>
 		<List recon_name="Oervigia_nordica" recon_no="372952">Oervigia</List>
-		<List recon_name="Paraceratodus" recon_no="194435">Paraceratodus</List>
-		<List recon_name="Phaneropleuridae" recon_no="209249">phaneropleurids</List>
-		<List recon_name="Rhinodipterus" recon_no="34896">Rhinodipterus</List>
+		<List recon_name="Paraceratodus_germaini" recon_no="194436">Paraceratodus</List>
+		<List recon_name="Pentlandia_macropterus,Phaneropleuron_andersoni,Scaumenacia_curta" recon_no="391455;259300;372950">phaneropleurids</List>
+		<List recon_name="Rhinodipterus_secans,Rhinodipterus_ulrichi" recon_no="377299;377298">Rhinodipterus</List>
 		<List recon_name="Speonesydrion_iani" recon_no="391456">Speonesydrion</List>
 		<List recon_name="Tranodis_castrensis" recon_no="391445">Tranodis</List>
-		<List recon_name="Uronemus" recon_no="209500">Uronemus</List>
+		<List recon_name="Uronemus_lobatus,Uronemus_splendens" recon_no="259435;259436">Uronemus</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

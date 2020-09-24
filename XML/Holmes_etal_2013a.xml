@@ -17,31 +17,31 @@
 		<Editor/>
 	</Source>
 	<Taxa number="27">
-		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
-		<List recon_name="Sclerocephalus" recon_no="37015">Sclerocephalus</List>
-		<List recon_name="Micromelerpeton" recon_no="37044">Micromelerpeton</List>
-		<List recon_name="Platyrhinops" recon_no="123089">Platyrhinops</List>
-		<List recon_name="Doleserpeton" recon_no="37046">Doleserpeton</List>
-		<List recon_name="Acheloma" recon_no="37048">Acheloma</List>
-		<List recon_name="Phonerpeton" recon_no="230700">Phonerpeton</List>
-		<List recon_name="Anconastes" recon_no="136411">Anconastes</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus</List>
+		<List recon_name="Micromelerpeton_credneri" recon_no="341560">Micromelerpeton</List>
+		<List recon_name="Platyrhinops_lyelli" recon_no="345482">Platyrhinops</List>
+		<List recon_name="Doleserpeton_annectens" recon_no="140536">Doleserpeton</List>
+		<List recon_name="Acheloma_cumminsi" recon_no="81713">Acheloma</List>
+		<List recon_name="Phonerpeton_pricei" recon_no="345308">Phonerpeton</List>
+		<List recon_name="Anconastes_vesperus" recon_no="136412">Anconastes</List>
 		<List recon_name="Fedexia_striegeli" recon_no="344537">Fedexia</List>
-		<List recon_name="Tambachia" recon_no="152959">Tambachia</List>
-		<List recon_name="Ecolsonia" recon_no="37028">Ecolsonia</List>
-		<List recon_name="Aspidosaurus" recon_no="37021">Aspidosaurus</List>
+		<List recon_name="Tambachia_trogallas" recon_no="152960">Tambachia</List>
+		<List recon_name="Ecolsonia_cutlerensis" recon_no="229320">Ecolsonia</List>
+		<List recon_name="Aspidosaurus_binasser" recon_no="345459">Aspidosaurus</List>
 		<List recon_name="Platyhystrix_rugosus" recon_no="345923">Platyhistrix</List>
-		<List recon_name="Dissorophus" recon_no="37027">Dissorophus</List>
+		<List recon_name="Dissorophus_multicinctus" recon_no="255227">Dissorophus</List>
 		<List recon_name="Broiliellus_texensis" recon_no="255228">B_texensis</List>
 		<List recon_name="Broiliellus_brevis" recon_no="229313">B_brevis</List>
 		<List recon_name="Broiliellus_olsoni" recon_no="136990">B_olsoni</List>
-		<List recon_name="Brevidorsum" recon_no="37023">Brevidorsum</List>
-		<List recon_name="Conjunctio" recon_no="37026">Conjunctio</List>
+		<List recon_name="Brevidorsum_profundum" recon_no="345263">Brevidorsum</List>
+		<List recon_name="Conjunctio_multidens" recon_no="330110">Conjunctio</List>
 		<List recon_name="Scapanops_neglecta" recon_no="330108">ADMIRAL</List>
 		<List recon_name="Cacops_morrisi" recon_no="175857">Cacops_M</List>
 		<List recon_name="Cacops_aspidephorus" recon_no="56737">Cacops_A</List>
 		<List recon_name="Cacops_woehri" recon_no="362803">Cacops_W</List>
-		<List recon_name="Kamacops" recon_no="37031">Kamacops</List>
-		<List recon_name="Zygosaurus" recon_no="37036">Zygosaurus</List>
+		<List recon_name="Kamacops_acervalis" recon_no="349951">Kamacops</List>
+		<List recon_name="Zygosaurus_lucius" recon_no="349952">Zygosaurus</List>
 		<List recon_name="Broiliellus_reiszi" recon_no="344543">new_taxon</List>
 		<List recon_name="Aspidosaurus_novomexicanus" recon_no="136991">RAT</List>
 	</Taxa>

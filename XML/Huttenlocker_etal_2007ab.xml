@@ -17,23 +17,23 @@
 		<Editor/>
 	</Source>
 	<Taxa number="17">
-		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
-		<List recon_name="Eryopidae" recon_no="37007">Eryopidae</List>
-		<List recon_name="Branchiosaurus" recon_no="37039">Branchiosaurus</List>
-		<List recon_name="Apateon" recon_no="37038">Apateon</List>
-		<List recon_name="Micromelerpeton" recon_no="37044">Micromelerpeton</List>
-		<List recon_name="Amphibamus" recon_no="37019">Amphibamus</List>
-		<List recon_name="Platyrhinops" recon_no="123089">Platyrhinops</List>
-		<List recon_name="Doleserpeton" recon_no="37046">Doleserpeton</List>
-		<List recon_name="Eoscopus" recon_no="123090">Eoscopus</List>
-		<List recon_name="Micropholis" recon_no="37033">Micropholis</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Eryops_megacephalus,Onchiodon_labyrinthicus" recon_no="70397;66913">Eryopidae</List>
+		<List recon_name="Branchiosaurus_dracyi,Branchiosaurus_cf_petrolei_GPIM_dash_N285N298,Branchiosaurus_cf_petrolei_GPIM_dash_N225,Branchiosaurus_cf_petrolei_GPIM_dash_N227,Branchiosaurus_cf_petrolei_GPIM_dash_N409,Branchiosaurus_cf_petrolei_GPIM_dash_N437,Branchiosaurus_cf_petrolei_GPIM_dash_N268a_plus_b,Branchiosaurus_cf_petrolei_GPIM_dash_N229,Branchiosaurus_cf_petrolei_GPIM_dash_N220,Branchiosaurus_cf_petrolei_GPIM_dash_N156,Branchiosaurus_cf_petrolei_GPIM_dash_N231,Branchiosaurus_cf_petrolei_GPIM_dash_N441a_plus_b,Branchiosaurus_cf_petrolei_GPIM_dash_N275a_plus_b,Branchiosaurus_cf_petrolei_GPIM_dash_N261,Branchiosaurus_cf_petrolei_GPIM_dash_N279,Branchiosaurus_cf_petrolei_GPIM_dash_N241,Branchiosaurus_cf_petrolei_GPIM_dash_N122a_plus_b,Branchiosaurus_cf_petrolei_GPIM_dash_PV_18671a_plus_b" recon_no="345822;37039;37039;37039;37039;37039;37039;37039;37039;37039;37039;37039;37039;37039;37039;37039;37039;37039">Branchiosaurus</List>
+		<List recon_name="Apateon_caducus,Apateon_pedestris" recon_no="345825;229308">Apateon</List>
+		<List recon_name="Micromelerpeton_credneri" recon_no="341560">Micromelerpeton</List>
+		<List recon_name="Amphibamus_grandiceps" recon_no="229305">Amphibamus</List>
+		<List recon_name="Platyrhinops_lyelli" recon_no="345482">Platyrhinops</List>
+		<List recon_name="Doleserpeton_annectens" recon_no="140536">Doleserpeton</List>
+		<List recon_name="Eoscopus_lockardi" recon_no="229322">Eoscopus</List>
+		<List recon_name="Micropholis_stowi" recon_no="255226">Micropholis</List>
 		<List recon_name="Tersomius_sp_MCZ_1415" recon_no="37035">Tersomius_sp</List>
 		<List recon_name="Tersomius_mosesi" recon_no="90714">Tersomius_mosesi</List>
-		<List recon_name="Plemmyradytes" recon_no="193398">Plemmyradytes</List>
-		<List recon_name="Ecolsonia" recon_no="37028">Ecolsonia</List>
+		<List recon_name="Plemmyradytes_shintoni" recon_no="344178">Plemmyradytes</List>
+		<List recon_name="Ecolsonia_cutlerensis" recon_no="229320">Ecolsonia</List>
 		<List recon_name="Trematops_milleri" recon_no="137365">Trematopidae</List>
-		<List recon_name="Dissorophinae" recon_no="123220">Dissorophinae</List>
-		<List recon_name="Cacopinae" recon_no="123221">Cacopinae</List>
+		<List recon_name="Broiliellus_texensis,Dissorophus_multicinctus" recon_no="255228;255227">Dissorophinae</List>
+		<List recon_name="Cacops_aspidephorus,Kamacops_acervalis" recon_no="56737;349951">Cacopinae</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

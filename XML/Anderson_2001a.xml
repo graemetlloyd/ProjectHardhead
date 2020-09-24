@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Anderson, J. S.</List>
 		</Author>
 		<Year>2001</Year>
@@ -13,7 +13,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="49">
 		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
 		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
@@ -57,7 +57,7 @@
 		<List recon_name="Diplocaulus_primus" recon_no="345303">Diplocaulus_primus</List>
 		<List recon_name="Diploceraspis_burkei" recon_no="227035">Diploceraspis</List>
 		<List recon_name="Scincosaurus_crassus" recon_no="230694">Scincosaurus</List>
-		<List recon_name="Brachydectes" recon_no="227167">Brachydectes</List>
+		<List recon_name="Brachydectes_elongatus,Brachydectes_newberryi" recon_no="229311;229312">Brachydectes</List>
 		<List recon_name="Adelogyrinus_simorhynchus" recon_no="227001">Adelogyrinus</List>
 		<List recon_name="Oestocephalus_amphiuminum" recon_no="230699">Oestocephalus</List>
 		<List recon_name="Phlegethontia_longissima" recon_no="156845">Phlegethontia</List>

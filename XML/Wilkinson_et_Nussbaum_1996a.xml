@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Wilkinson, M.</List>
 			<List>Nussbaum, R. A.</List>
 		</Author>
@@ -14,11 +14,11 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="16">
 		<List recon_name="DELETE" recon_no="-1">Ancestral_state</List>
 		<List recon_name="DELETE" recon_no="-1">Epicrionops</List>
-		<List recon_name="DELETE" recon_no="-1">Rhinatrema</List>
+		<List recon_name="Rhinatrema_bivittatum" recon_no="401234">Rhinatrema</List>
 		<List recon_name="DELETE" recon_no="-1">Ichthyophis</List>
 		<List recon_name="DELETE" recon_no="-1">Caudacaecilia</List>
 		<List recon_name="DELETE" recon_no="-1">Uraeotyphlus</List>

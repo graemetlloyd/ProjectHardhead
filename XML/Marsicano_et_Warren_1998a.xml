@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Marsicano, C. A.</List>
 			<List>Warren, A.</List>
 		</Author>
@@ -14,9 +14,9 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="12">
-		<List recon_name="Trimerorhachidae" recon_no="36985">Trimerorhachidae</List>
+		<List recon_name="Trimerorhachis_insignis,Trimerorhachis_rogersi" recon_no="90711;136359">Trimerorhachidae</List>
 		<List recon_name="Lydekkerina_huxleyi" recon_no="255237">Lydekkerina</List>
 		<List recon_name="Chomatobatrachus_halei" recon_no="251647">Chomatobatrachus</List>
 		<List recon_name="Rhytidosteus_capensis" recon_no="251509">Rhytidosteus_capensis</List>

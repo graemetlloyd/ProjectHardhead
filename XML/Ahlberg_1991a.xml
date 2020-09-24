@@ -23,8 +23,8 @@
 		<List recon_name="Osteolepiformes" recon_no="149977">Osteolepiformes</List>
 		<List recon_name="Rhizodontida" recon_no="250268">Rhizodontida</List>
 		<List recon_name="Porolepiformes" recon_no="149970">Porolepiformes</List>
-		<List recon_name="Powichthys" recon_no="34948">Powichthys</List>
-		<List recon_name="Youngolepis" recon_no="34962">Youngolepis</List>
+		<List recon_name="Powichthys_thorsteinssoni" recon_no="401819">Powichthys</List>
+		<List recon_name="Youngolepis_praecursor" recon_no="403358">Youngolepis</List>
 		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis</List>
 		<List recon_name="Dipnoi" recon_no="57668">Dipnoi</List>
 	</Taxa>

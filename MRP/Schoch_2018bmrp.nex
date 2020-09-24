@@ -1,0 +1,40 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=26 NCHAR=29 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Antarctosuchus                 00000000000000000000000000000
+Benthosuchus                   11111111111111110000000000000
+Calmasuchus                    11000000000000001000000000000
+Cherninia                      11111111110000000110000000000
+Cyclotosaurus                  10100000000000001001111100000
+Edingerella                    11111111111111100000000000000
+Eocyclotosaurus                10100000000000001001111110000
+Eryosuchus                     11111111000000000000000000000
+Kupferzellia                   11111110000000000000000000000
+Mastodonsaurus_cappelensis     10100000000000001001110001000
+Mastodonsaurus_giganteus       10100000000000001001110001000
+Odenwaldia                     11111111110000000110000000000
+Parotosuchus_haughtoni         11111111111000000100000000110
+Parotosuchus_nasutus           11111111111000000100000000100
+Parotosuchus_orenburgensis     11111111111000000100000000111
+Parotosuchus_helgolandicus     11111111111000000100000000111
+Paracyclotosaurus_crookshanki  10110000000000001001000000000
+Quasicyclotosaurus             10100000000000001001111110000
+Sclerothorax                   11111111111110000000000000000
+Stanocephalosaurus_birdi       11111000000000000000000000000
+Stanocephalosaurus_pronus      11111100000000000000000000000
+Thoosuchus                     11111111111111110000000000000
+Watsonisuchus                  11111111111100000000000000000
+Wetlugasaurus                  11111111111111000000000000000
+Xenotosuchus                   11111111100000000000000000000
+Yuanansuchus                   10100000000000001001101000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

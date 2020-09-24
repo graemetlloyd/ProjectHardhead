@@ -17,30 +17,30 @@
 	</Source>
 	<Taxa number="27">
 		<List recon_name="DELETE" recon_no="0">Outgroup</List>
-		<List recon_name="Dwinasauridae" recon_no="37144">Dvinosauridae</List>
-		<List recon_name="Tupilakosauridae" recon_no="150320">Tupilakosauridae</List>
-		<List recon_name="Rhineceps" recon_no="37068">Rhineceps</List>
-		<List recon_name="Watsonisuchus" recon_no="251273">Watsonisuchus</List>
-		<List recon_name="Rhytidosteidae" recon_no="37110">Rhytidosteidae</List>
-		<List recon_name="Brachyops" recon_no="37152">Brachyops</List>
-		<List recon_name="Bothriceps" recon_no="37151">Bothriceps</List>
-		<List recon_name="Platycepsion" recon_no="251455">Platycepsion</List>
+		<List recon_name="Dvinosaurus_primus" recon_no="56905">Dvinosauridae</List>
+		<List recon_name="Tupilakosaurus_heilmani,Kourerpeton_bradyi" recon_no="172842;120928">Tupilakosauridae</List>
+		<List recon_name="Rhineceps_nyasaensis" recon_no="267022">Rhineceps</List>
+		<List recon_name="Watsonisuchus_aliciae" recon_no="251274">Watsonisuchus</List>
+		<List recon_name="Indobrachyops_panchetensis,Bothriceps_major" recon_no="251613;113845">Rhytidosteidae</List>
+		<List recon_name="Brachyops_laticeps" recon_no="251464">Brachyops</List>
+		<List recon_name="Bothriceps_australis" recon_no="251454">Bothriceps</List>
+		<List recon_name="Platycepsion_wilkinsoni" recon_no="251456">Platycepsion</List>
 		<List recon_name="Batrachosuchus_browni" recon_no="150351">B_browni</List>
 		<List recon_name="Bathignathus_watsoni" recon_no="269982">B_watsoni</List>
-		<List recon_name="Xenobrachyops" recon_no="150352">Xenobrachyops</List>
+		<List recon_name="Xenobrachyops_allos" recon_no="251266">Xenobrachyops</List>
 		<List recon_name="Batrachosuchus_concordi" recon_no="172485">B_concordi</List>
 		<List recon_name="Batrachosuchus_henwoodi" recon_no="251459">B_henwoodi</List>
-		<List recon_name="Banksiops" recon_no="251466">Banksiops</List>
+		<List recon_name="Banksiops_townrowi" recon_no="251467">Banksiops</List>
 		<List recon_name="Vigilius_wellesi" recon_no="165309">Vigilius</List>
-		<List recon_name="Notobrachyops" recon_no="37154">Notobrachyops</List>
-		<List recon_name="Batrachosuchoides" recon_no="202555">Batrachosuchoides</List>
-		<List recon_name="Sinobrachyops" recon_no="37156">Sinobrachyops</List>
+		<List recon_name="Notobrachyops_picketti" recon_no="251463">Notobrachyops</List>
+		<List recon_name="Batrachosuchoides_lacer" recon_no="251471">Batrachosuchoides</List>
+		<List recon_name="Sinobrachyops_placenticephalus" recon_no="251468">Sinobrachyops</List>
 		<List recon_name="Keratobrachyops_australis" recon_no="251264">K_australis</List>
 		<List recon_name="Keratobrachyops_australis" recon_no="251264">Keratobrachyops</List>
-		<List recon_name="Pelorocephalus" recon_no="37160">Pelorocephalus_spp</List>
-		<List recon_name="Kuttycephalus" recon_no="251481">Kuttycephalus</List>
-		<List recon_name="Compsocerops" recon_no="251479">Compsocerops</List>
-		<List recon_name="Siderops" recon_no="37155">Siderops</List>
+		<List recon_name="Pelorocephalus_cacheutensis,Pelorocephalus_ischigualastensis,Pelorocephalus_mendozensis,Pelorocephalus_tenax" recon_no="251478;251501;251472;251476">Pelorocephalus_spp</List>
+		<List recon_name="Kuttycephalus_triangularis" recon_no="251482">Kuttycephalus</List>
+		<List recon_name="Compsocerops_cosgriffi" recon_no="251480">Compsocerops</List>
+		<List recon_name="Siderops_kehli" recon_no="251254">Siderops</List>
 		<List recon_name="Koolasuchus_cleelandi" recon_no="251484">Koolasuchus</List>
 		<List recon_name="Vanastega_plurimidens" recon_no="167338">Vanastega</List>
 	</Taxa>

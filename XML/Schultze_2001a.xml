@@ -24,7 +24,7 @@
 		<List recon_name="Barwickia_downunda" recon_no="377319">Barwickia</List>
 		<List recon_name="Chirodipterus_australis" recon_no="377761">Chirodipt_austr</List>
 		<List recon_name="Chirodipterus_onawayensis" recon_no="372974">Chirodipt_onaw</List>
-		<List recon_name="DELETE" recon_no="-1">Chirodipt_rhen</List>
+		<List recon_name="Chirodipterus_rhenanus" recon_no="403913">Chirodipt_rhen</List>
 		<List recon_name="Chirodipterus_wildungensis" recon_no="372973">Chirodipt_wild</List>
 		<List recon_name="Dipnorhynchus_cathlesae" recon_no="377353">Dipnorhynch_cath</List>
 		<List recon_name="Dipnorhynchus_kiandrensis" recon_no="377358">Dipnorhynch_kian</List>
@@ -49,14 +49,14 @@
 		<List recon_name="Iowadipterus_halli" recon_no="372971">Iowadipterus</List>
 		<List recon_name="Iranorhynchus_seyedmamii" recon_no="391461">Iranorhynchus</List>
 		<List recon_name="Jarvikia_arctica" recon_no="372958">Jarvikia</List>
-		<List recon_name="DELETE" recon_no="-1">Jessenia</List>
+		<List recon_name="Jessenia_concentrica" recon_no="403363">Jessenia</List>
 		<List recon_name="Melanognathus_canadensis" recon_no="250697">Melanognathus</List>
 		<List recon_name="Nielsenia_nordica" recon_no="391449">Nielsenia</List>
 		<List recon_name="Oervigia_nordica" recon_no="372952">Oervigia</List>
 		<List recon_name="Orlovichthys_limnatis" recon_no="391612">Orlovichthys</List>
 		<List recon_name="Palaedaphus_insignia" recon_no="259295">Palaeodaphus</List>
 		<List recon_name="Pentlandia_macropterus" recon_no="391455">Pentlandia</List>
-		<List recon_name="Phaneropleuron" recon_no="209233">Phaneropleuron</List>
+		<List recon_name="Phaneropleuron_andersoni" recon_no="259300">Phaneropleuron</List>
 		<List recon_name="Pillararhynchus_longi" recon_no="377357">Pillarhynchus</List>
 		<List recon_name="Rhinodipterus_secans" recon_no="377299">Rhinodipt_sec</List>
 		<List recon_name="Rhinodipterus_ulrichi" recon_no="377298">Rhinodipt_ulr</List>

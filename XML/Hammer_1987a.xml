@@ -16,17 +16,17 @@
 	</Source>
 	<Taxa number="12">
 		<List recon_name="DELETE" recon_no="0">Ancestor</List>
-		<List recon_name="Aphaneramma" recon_no="37125">Aphaneramma</List>
-		<List recon_name="Lyrocephalus" recon_no="251269">Lyrocephalus</List>
-		<List recon_name="Tertrema" recon_no="37136">Tertrema</List>
-		<List recon_name="Platystega" recon_no="37134">Platystega</List>
-		<List recon_name="Trematosaurus" recon_no="37138">Trematosaurus</List>
-		<List recon_name="Trematosuchus" recon_no="37139">Trematosuchus</List>
-		<List recon_name="Stoschiosaurus" recon_no="37135">Stoschiosaurus</List>
+		<List recon_name="Aphaneramma_rostratum" recon_no="266522">Aphaneramma</List>
+		<List recon_name="Lyrocephalus_euri" recon_no="266519">Lyrocephalus</List>
+		<List recon_name="Tertrema_acuta" recon_no="266624">Tertrema</List>
+		<List recon_name="Platystega_depressa" recon_no="266623">Platystega</List>
+		<List recon_name="Trematosaurus_brauni" recon_no="248613">Trematosaurus</List>
+		<List recon_name="Trematosuchus_sobeyi" recon_no="266630">Trematosuchus</List>
+		<List recon_name="Stoschiosaurus_nielseni" recon_no="266517">Stoschiosaurus</List>
 		<List recon_name="Aphaneramma_kokeni" recon_no="251628">Halobatrachus</List>
-		<List recon_name="Wantzosaurus" recon_no="37140">Wantzosaurus</List>
-		<List recon_name="Erythrobatrachus" recon_no="37126">Erythrobatrachus</List>
-		<List recon_name="Inflectosaurus" recon_no="37129">Inflectosaurus</List>
+		<List recon_name="Wantzosaurus_elongatus" recon_no="266631">Wantzosaurus</List>
+		<List recon_name="Erythrobatrachus_noonkanbahensis" recon_no="265928">Erythrobatrachus</List>
+		<List recon_name="Inflectosaurus_amplus" recon_no="266627">Inflectosaurus</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

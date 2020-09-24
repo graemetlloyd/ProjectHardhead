@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Scott, E.</List>
 		</Author>
 		<Year>2005</Year>
@@ -13,7 +13,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="74">
 		<List recon_name="DELETE" recon_no="-1">Heleophryne_purcelli</List>
 		<List recon_name="DELETE" recon_no="-1">Afrana_angolensis</List>
@@ -38,7 +38,7 @@
 		<List recon_name="DELETE" recon_no="-1">Cardioglossa_gracilis</List>
 		<List recon_name="DELETE" recon_no="-1">Chiromantis_xerampelina</List>
 		<List recon_name="DELETE" recon_no="-1">Conraua_crassipes</List>
-		<List recon_name="DELETE" recon_no="-1">Conraua_goliath</List>
+		<List recon_name="Conraua_goliath" recon_no="414374">Conraua_goliath</List>
 		<List recon_name="DELETE" recon_no="-1">Dimorphognathus_africanus</List>
 		<List recon_name="DELETE" recon_no="-1">Discodeles_bufoniformis</List>
 		<List recon_name="DELETE" recon_no="-1">Ericabatrachus_baleensis</List>

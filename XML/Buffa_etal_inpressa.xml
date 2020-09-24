@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Buffa, V.</List>
 			<List>Jalil, N.-E.</List>
 			<List>Steyer, J.-S.</List>
@@ -15,7 +15,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="15">
 		<List recon_name="Rhineceps_nyasaensis" recon_no="267022">Rhineceps_nyasaensis</List>
 		<List recon_name="Trimerorhachis_insignis" recon_no="90711">Trimerorhachis_insignis</List>

@@ -30,7 +30,7 @@
 		<List recon_name="Chirodipterus_australis" recon_no="377761">Chirodipterus_australis</List>
 		<List recon_name="Chirodipterus_onawayensis" recon_no="372974">Chirodipterus_onawwayensis</List>
 		<List recon_name="Chirodipterus_wildungensis" recon_no="372973">Chirodipterus_wildungensis</List>
-		<List recon_name="DELETE" recon_no="-1">Chirodipterus_liangchengi</List>
+		<List recon_name="Chirodipterus_liangcheni" recon_no="403914">Chirodipterus_liangchengi</List>
 		<List recon_name="Dipnorhynchus_cathlesae" recon_no="377353">Dipnorhynchus_cathlesae</List>
 		<List recon_name="Dipnorhynchus_suessmilchi" recon_no="372947">Dipnorhynchussus_smilchi</List>
 		<List recon_name="Dipnorhynchus_kiandrensis" recon_no="377358">Dipnorhynchus_kiandrensis</List>
@@ -49,7 +49,7 @@
 		<List recon_name="Ichnomylax_kurnai" recon_no="377580">Ichnomylax_kurnai</List>
 		<List recon_name="Iowadipterus_halli" recon_no="372971">Iowadipterus_halli</List>
 		<List recon_name="Jarvikia_arctica" recon_no="372958">Jarvikia_arctica</List>
-		<List recon_name="DELETE" recon_no="-1">Jessenia_concentrica</List>
+		<List recon_name="Jessenia_concentrica" recon_no="403363">Jessenia_concentrica</List>
 		<List recon_name="Melanognathus_canadensis" recon_no="250697">Melanognathus_canadensis</List>
 		<List recon_name="Nielsenia_nordica" recon_no="391449">Nielsenia_nordica</List>
 		<List recon_name="Oervigia_nordica" recon_no="372952">Oervigia_nordica</List>
@@ -76,14 +76,14 @@
 		<List recon_name="Sagenodus_inaequalis" recon_no="259440">Sagenodus_inaequalis</List>
 		<List recon_name="Straitonia_waterstoni" recon_no="391446">Straitonia_waterstoni</List>
 		<List recon_name="Tranodis_castrensis" recon_no="391445">Tranodis_castrensis</List>
-		<List recon_name="DELETE" recon_no="-1">Ctenodus_allodens</List>
+		<List recon_name="Ctenodus_allodens" recon_no="419327">Ctenodus_allodens</List>
 		<List recon_name="Xylognathus_macrustenus" recon_no="373043">Xylognathus_macrustenus</List>
 		<List recon_name="DELETE" recon_no="-1">NewTournaisianTaxon</List>
 		<List recon_name="Sinodipterus_beibei" recon_no="377286">Sinodipterus_beibei</List>
 		<List recon_name="Apatorhynchus_opistheretmus" recon_no="377524">Apatorhynchus</List>
 		<List recon_name="Erikia_jarviki" recon_no="377518">Erikia</List>
-		<List recon_name="Dipnotuberculus" recon_no="373030">Dipnotuberculus</List>
-		<List recon_name="Cathlorhynchus" recon_no="372976">Cathlorhynchus</List>
+		<List recon_name="Dipnotuberculus_gnathodus" recon_no="378416">Dipnotuberculus</List>
+		<List recon_name="Cathlorhynchus_trismodipterus,Cathlorhynchus_zengi" recon_no="376490;372977">Cathlorhynchus</List>
 		<List recon_name="Harajicadipterus_youngi" recon_no="250695">Harajicadipterus</List>
 		<List recon_name="Xeradipterus_hatcheri" recon_no="250286">Xeradipterus</List>
 		<List recon_name="Rhinodipterus_ulrichi" recon_no="377298">Rhinodipterus_ulrichi</List>
@@ -92,7 +92,7 @@
 		<List recon_name="Westollrhynchus_lehmanni" recon_no="372969">Westollrhynchus_lehmanni</List>
 		<List recon_name="Rhynchodipterus_elginensis" recon_no="391451">Rhynchodipterus_elginensis</List>
 		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
-		<List recon_name="DELETE" recon_no="-1">Celsiodon_ahlbergi</List>
+		<List recon_name="Celsiodon_ahlbergi" recon_no="403487">Celsiodon_ahlbergi</List>
 		<List recon_name="Ctenodus_interruptus" recon_no="259437">Ctenodus_interruptus</List>
 	</Taxa>
 	<Characters>

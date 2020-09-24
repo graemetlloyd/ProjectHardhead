@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Pyron, R. A.</List>
 		</Author>
 		<Year>2011</Year>
@@ -13,56 +13,56 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="49">
-		<List recon_name="Osteolepiformes" recon_no="149977">Osteolepiformes</List>
-		<List recon_name="Panderichthyidae" recon_no="227381">Panderichthyidae</List>
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Osteolepiformes</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthyidae</List>
 		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
-		<List recon_name="Ichthyostega" recon_no="36965">Ichthyostega</List>
+		<List recon_name="Ichthyostega_stensioei" recon_no="229326">Ichthyostega</List>
 		<List recon_name="Tulerpeton_curtum" recon_no="230695">Tulerpeton</List>
 		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
-		<List recon_name="Baphetidae" recon_no="227378">Baphetidae</List>
-		<List recon_name="Colosteidae" recon_no="36975">Colosteidae</List>
-		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
+		<List recon_name="Baphetes_kirkbyi,Baphetes_lintonensis,Baphetes_planiceps,Loxomma_acutirhinus,Loxomma_allmanni,Loxomma_rankini,Megalocephalus_lineolatus,Megalocephalus_pachycephalus,Spathicephalus_mirus,Spathicephalus_pereger" recon_no="229310;334977;95780;334684;334683;334703;335653;345306;332435;332981">Baphetidae</List>
+		<List recon_name="Colosteus_scutellatus,Greererpeton_burkemorani" recon_no="344231;227037">Colosteidae</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
 		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops</List>
 		<List recon_name="Ecolsonia_cutlerensis" recon_no="229320">Ecolsonia</List>
-		<List recon_name="Tersomius" recon_no="37035">Tersomius</List>
-		<List recon_name="Amphibamus" recon_no="37019">Amphibamus</List>
-		<List recon_name="Apateon" recon_no="37038">Apateon</List>
+		<List recon_name="Tersomius_texensis" recon_no="90713">Tersomius</List>
+		<List recon_name="Amphibamus_grandiceps" recon_no="229305">Amphibamus</List>
+		<List recon_name="Apateon_pedestris" recon_no="229308">Apateon</List>
 		<List recon_name="Doleserpeton_annectens" recon_no="140536">Doleserpeton</List>
 		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
-		<List recon_name="Archeria" recon_no="37196">Archeria</List>
-		<List recon_name="Gephyrostegidae" recon_no="37202">Gephyrostegidae</List>
+		<List recon_name="Archeria_crassidisca" recon_no="345353">Archeria</List>
+		<List recon_name="Bruktererpeton_fiebigi,Gephyrostegus_bohemicus" recon_no="229314;137955">Gephyrostegidae</List>
 		<List recon_name="Solenodonsaurus_janenschi" recon_no="136800">Solenodonsaurus</List>
 		<List recon_name="Kotlassia_prima" recon_no="229327">Kotlassia</List>
-		<List recon_name="Seymouria" recon_no="37223">Seymouria</List>
+		<List recon_name="Seymouria_baylorensis,Seymouria_grandis,Seymouria_sanjuanensis" recon_no="137488;346166;93510">Seymouria</List>
 		<List recon_name="Ariekanerpeton_sigalovi" recon_no="346286">Ariekanerpeton</List>
 		<List recon_name="Westlothiana_lizziae" recon_no="179032">Westlothiana</List>
-		<List recon_name="Aistopoda" recon_no="37251">Aistopoda</List>
-		<List recon_name="Adelogyrinidae" recon_no="37325">Adelogyrinidae</List>
-		<List recon_name="Nectridea" recon_no="156892">Nectridea</List>
+		<List recon_name="Dolichosoma_emersoni,Dolichosoma_scutiferum,Lethiscus_stocki,Ophiderpeton_amphiuminum,Ophiderpeton_brownriggi,Phlegethontia_longissima" recon_no="320840;379289;229330;379334;243095;156845">Aistopoda</List>
+		<List recon_name="Adelogyrinus_simorhynchus,Adelospondylus_watsoni,Dolichopareias_disjectus,Palaeomolgophis_scoticus" recon_no="227001;229306;229319;320835">Adelogyrinidae</List>
+		<List recon_name="Ctenerpeton_remex,Urocordylus_wandesfordii" recon_no="340039;227065">Nectridea</List>
 		<List recon_name="Microbrachis_pelikani" recon_no="227043">Microbrachis</List>
 		<List recon_name="Pantylus_cordatus" recon_no="70439">Pantylus</List>
 		<List recon_name="Rhynchonkos_stovalli" recon_no="340743">Rhynchonkos</List>
-		<List recon_name="Brachystelechidae" recon_no="37314">Brachystelechidae</List>
-		<List recon_name="Utaherpeton" recon_no="227376">Utaherpeton</List>
+		<List recon_name="Batropetes_fritschia,Carrolla_craddocki,Quasicaecilia_texana" recon_no="137990;227004;227373">Brachystelechidae</List>
+		<List recon_name="Utaherpeton_franklini" recon_no="227377">Utaherpeton</List>
 		<List recon_name="Asaphestera_intermedia" recon_no="338119">Asaphestera</List>
-		<List recon_name="Cardiocephalus" recon_no="37294">Cardiocephalus</List>
-		<List recon_name="Lysorophia" recon_no="37319">Lysorophia</List>
+		<List recon_name="Cardiocephalus_peabodyi,Cardiocephalus_sternbergi" recon_no="137293;90715">Cardiocephalus</List>
+		<List recon_name="Lysorophus_dunkardensis,Lysorophus_tricarinatus" recon_no="320833;70395">Lysorophia</List>
 		<List recon_name="Triadobatrachus_massinoti" recon_no="156397">Triadobatrachus</List>
 		<List recon_name="Eodiscoglossus_oxoniensis" recon_no="57535">Discoglossidae</List>
-		<List recon_name="Pipidae" recon_no="37435">Pipidae</List>
+		<List recon_name="Pipa_pipa,Xenopus_laevis" recon_no="401222;398794">Pipidae</List>
 		<List recon_name="Karaurus_sharovi" recon_no="202227">Karaurus</List>
-		<List recon_name="Hynobiidae" recon_no="37349">Hynobiidae</List>
+		<List recon_name="Hynobius_naevius,Hynobius_nebulosus" recon_no="401232;414423">Hynobiidae</List>
 		<List recon_name="Habrosaurus_dilatus" recon_no="67757">Sirenidae</List>
 		<List recon_name="Paranecturus_garbanii" recon_no="267480">Proteidae</List>
 		<List recon_name="Eocaecilia_micropodia" recon_no="156677">Eocaecilia</List>
-		<List recon_name="Rhinatrematidae" recon_no="37338">Rhinatrematidae</List>
-		<List recon_name="Ichthyophiidae" recon_no="37335">Ichthyophiidae</List>
-		<List recon_name="Limnoscelis" recon_no="37232">Limnoscelis</List>
-		<List recon_name="Diadectes" recon_no="37247">Diadectes</List>
+		<List recon_name="Epicrionops_petersi" recon_no="414419">Rhinatrematidae</List>
+		<List recon_name="Ichthyophis_glutinosus" recon_no="403576">Ichthyophiidae</List>
+		<List recon_name="Limnoscelis_paludis" recon_no="113848">Limnoscelis</List>
+		<List recon_name="Diadectes_carinatus,Diadectes_lentus" recon_no="346263;346261">Diadectes</List>
 		<List recon_name="Archaeothyris_florensis" recon_no="122328">Synapsida</List>
-		<List recon_name="Captorhinidae" recon_no="37495">Captorhinidae</List>
+		<List recon_name="Captorhinus_laticeps" recon_no="134970">Captorhinidae</List>
 		<List recon_name="Suchonosaurus_minimus" recon_no="362430">Procolophonidae</List>
 	</Taxa>
 	<Characters>

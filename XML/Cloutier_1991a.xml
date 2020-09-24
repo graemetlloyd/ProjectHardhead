@@ -35,13 +35,13 @@
 		<List recon_name="Macropoma_mantelli" recon_no="261758">MACROMA</List>
 		<List recon_name="Mawsonia_gigas" recon_no="68075">MAWSOGI</List>
 		<List recon_name="Miguashaia_bureaui" recon_no="320884">MIGUABU</List>
-		<List recon_name="DELETE" recon_no="-1">NESIDSC</List>
-		<List recon_name="DELETE" recon_no="-1">NESIDHE</List>
+		<List recon_name="Nesides_schmidti" recon_no="419329">NESIDSC</List>
+		<List recon_name="Nesides_heiligenstockiensis" recon_no="419330">NESIDHE</List>
 		<List recon_name="Polyosteorhynchus_simplex" recon_no="199157">POLYOSI</List>
 		<List recon_name="Rhabdoderma_elegans" recon_no="320885">RHABDEL</List>
 		<List recon_name="Rhabdoderma_exiguum" recon_no="320892">RHABDEX</List>
 		<List recon_name="Rhabdoderma_madagascariensis" recon_no="320890">RHABDMA</List>
-		<List recon_name="DELETE" recon_no="-1">RHABSPl</List>
+		<List recon_name="Rhabdoderma_sp_HM_V8322" recon_no="34949">RHABSPl</List>
 		<List recon_name="Synaptotylus_newelli" recon_no="321039">SYNAPNE</List>
 		<List recon_name="Ticinepomis_peyeri" recon_no="260211">TICINPE</List>
 		<List recon_name="Whiteia_tuberculata" recon_no="276066">WHITETU</List>

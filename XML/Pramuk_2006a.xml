@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Pramuk, J. B.</List>
 		</Author>
 		<Year>2006</Year>
@@ -13,7 +13,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="64">
 		<List recon_name="DELETE" recon_no="-1">Leptodactylus</List>
 		<List recon_name="DELETE" recon_no="-1">Melanophryniscus</List>
@@ -23,7 +23,7 @@
 		<List recon_name="DELETE" recon_no="-1">Truebella_skoptes</List>
 		<List recon_name="DELETE" recon_no="-1">Truebella_tothastes</List>
 		<List recon_name="Bufo_americanus" recon_no="133747">Bufo_americanus</List>
-		<List recon_name="DELETE" recon_no="-1">Bufo_alvarius</List>
+		<List recon_name="Bufo_alvarius" recon_no="415233">Bufo_alvarius</List>
 		<List recon_name="DELETE" recon_no="-1">Bufo_boreas</List>
 		<List recon_name="DELETE" recon_no="-1">Bufo_cognatus</List>
 		<List recon_name="DELETE" recon_no="-1">Bufo_debilis</List>

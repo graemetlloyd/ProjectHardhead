@@ -16,24 +16,24 @@
 		<Editor/>
 	</Source>
 	<Taxa number="18">
-		<List recon_name="Dipterus" recon_no="34888">Dipterus</List>
+		<List recon_name="Dipterus_valenciennesi" recon_no="259292">Dipterus</List>
 		<List recon_name="Rhinodipterus" recon_no="34896">Rhinodipterus</List>
 		<List recon_name="Scaumenacia_curta" recon_no="372950">Scaumenacia</List>
-		<List recon_name="Phaneropleuron" recon_no="209233">Phaneropleuron</List>
-		<List recon_name="Conchopoma" recon_no="259451">Conchopoma</List>
+		<List recon_name="Phaneropleuron_andersoni" recon_no="259300">Phaneropleuron</List>
+		<List recon_name="Conchopoma_gadiforme" recon_no="259452">Conchopoma</List>
 		<List recon_name="Delatitia_breviceps" recon_no="391463">Delatitia</List>
-		<List recon_name="Ctenodus" recon_no="209443">Ctenodus</List>
-		<List recon_name="Ganopristodus" recon_no="372961">Ganopristodus</List>
+		<List recon_name="Ctenodus_romeri" recon_no="372964">Ctenodus</List>
+		<List recon_name="Ganopristodus_splendens" recon_no="372963">Ganopristodus</List>
 		<List recon_name="Straitonia_waterstoni" recon_no="391446">Straitonia</List>
 		<List recon_name="Tranodis_castrensis" recon_no="391445">Tranodis</List>
-		<List recon_name="Sagenodus" recon_no="137509">Sagenodus</List>
-		<List recon_name="Megapleuron" recon_no="321059">Megapleuron</List>
-		<List recon_name="Palaeophichthys" recon_no="35070">Palaeophichthys</List>
+		<List recon_name="Sagenodus_copeanus,Sagenodus_periprion,Sagenodus_ohioensis,Sagenodus_serratus" recon_no="246374;321063;390857;321065">Sagenodus</List>
+		<List recon_name="Megapleuron_zangerli" recon_no="372972">Megapleuron</List>
+		<List recon_name="Palaeophichthys_parvulus" recon_no="372966">Palaeophichthys</List>
 		<List recon_name="Gnathorhiza" recon_no="90709">Gnathoriza</List>
-		<List recon_name="Paraceratodus" recon_no="194435">Paraceratodus</List>
-		<List recon_name="Ptychoceratodus" recon_no="65066">Ptychoceratodus</List>
-		<List recon_name="Neoceratodus" recon_no="91691">Neoceratodus</List>
-		<List recon_name="Lepidosiren" recon_no="256136">Lepidosiren</List>
+		<List recon_name="Paraceratodus_germaini" recon_no="194436">Paraceratodus</List>
+		<List recon_name="Ptychoceratodus_serratus" recon_no="194441">Ptychoceratodus</List>
+		<List recon_name="Neoceratodus_forsteri" recon_no="194486">Neoceratodus</List>
+		<List recon_name="Lepidosiren_paradoxa" recon_no="256137">Lepidosiren</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Gardner, J. D.</List>
 			<List>Evans, S. E.</List>
 			<List>Sigogneau-Russell, D.</List>
@@ -15,7 +15,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="11">
 		<List recon_name="DELETE" recon_no="0">Ancestor</List>
 		<List recon_name="Anoualerpeton_priscus" recon_no="244724">Anoualerpeton_priscus</List>

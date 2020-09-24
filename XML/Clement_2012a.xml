@@ -15,10 +15,10 @@
 		<Editor/>
 	</Source>
 	<Taxa number="20">
-		<List recon_name="DELETE" recon_no="-1">Youngolepis_praecursor</List>
+		<List recon_name="Youngolepis_praecursor" recon_no="403358">Youngolepis_praecursor</List>
 		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis_speratus</List>
 		<List recon_name="Chirodipterus_australis" recon_no="377761">Chirodipterus_australis</List>
-		<List recon_name="DELETE" recon_no="-1">Chirodipterus_liangchengi</List>
+		<List recon_name="Chirodipterus_liangcheni" recon_no="403914">Chirodipterus_liangchengi</List>
 		<List recon_name="Chirodipterus_wildungensis" recon_no="372973">Chirodipterus_wildungensis</List>
 		<List recon_name="Dipnorhynchus_kurikae" recon_no="391628">Dipnorhynchus_kurikae</List>
 		<List recon_name="Dipnorhynchus_suessmilchi" recon_no="372947">Dipnorhynchus_sussmilchi</List>

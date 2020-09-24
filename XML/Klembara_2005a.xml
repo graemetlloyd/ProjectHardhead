@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Klembara, J.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A new discosauriscid seymouriamorph tetrapod from the Lower Permian of Moravia, Czech Republic</Title>
+		<Journal>Acta Palaeontologica Polonica</Journal>
+		<Volume>50</Volume>
+		<Pages>25-48</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List recon_name="DELETE" recon_no="0">OUTGROUP</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega_gunnari</List>
+		<List recon_name="Archeria_crassidisca" recon_no="345353">Archeria_crassidisca</List>
+		<List recon_name="Ariekanerpeton_sigalovi" recon_no="346286">Ariekanerpeton_sigalovi</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton_woodi</List>
+		<List recon_name="Baphetes_kirkbyi" recon_no="229310">Baphetes_kirkbyi</List>
+		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus_scoticus</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton_acadianum</List>
+		<List recon_name="Diadectes_absitus" recon_no="120883">Diadectes_absitus</List>
+		<List recon_name="Discosauriscus_austriacus" recon_no="362531">Discosauriscus_austriacus</List>
+		<List recon_name="Discosauriscus_pulcherrimus" recon_no="320955">Discosauriscus_pulcherrimus</List>
+		<List recon_name="Ecolsonia_cutlerensis" recon_no="229320">Ecolsonia_cutlerensis</List>
+		<List recon_name="Eocaptorhinus_laticeps" recon_no="134878">Eocaptorhinus_laticeps</List>
+		<List recon_name="Eoherpeton_watsoni" recon_no="229321">Eoherpeton_watsoni</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops_megacephalus</List>
+		<List recon_name="Gephyrostegus_bohemicus" recon_no="137955">Gephyrostegus_bohemicus</List>
+		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greererpeton_burkemorani</List>
+		<List recon_name="Ichthyostega_stensioei" recon_no="229326">Ichthyostega_stensioei</List>
+		<List recon_name="Lethiscus_stocki" recon_no="229330">Lethiscus_stocki</List>
+		<List recon_name="Limnoscelis_paludis" recon_no="113848">Limnoscelis_paludis</List>
+		<List recon_name="Makowskia_laticephala" recon_no="346269">Makowskia_laticephala</List>
+		<List recon_name="Megalocephalus_pachycephalus" recon_no="345306">Megalocephalus_pachycephalus</List>
+		<List recon_name="Microbrachis_pelikani" recon_no="227043">Microbrachis_pelikani</List>
+		<List recon_name="Petrolacosaurus_kansensis" recon_no="138231">Petrolacosaurus_kansensis</List>
+		<List recon_name="Pholiderpeton_scutigerum" recon_no="229337">Pholiderpeton_scutigerum</List>
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus_scheelei</List>
+		<List recon_name="Sauropleura_pectinata,Sauropleura_scalaris" recon_no="230692;338169">Sauropleura_pectinata_et_scalaris</List>
+		<List recon_name="Saxonerpeton_geinitzi" recon_no="338105">Saxonerpeton_geinitzi</List>
+		<List recon_name="Seymouria_baylorensis" recon_no="137488">Seymouria_baylorensis</List>
+		<List recon_name="Seymouria_sanjuanensis" recon_no="93510">Seymouria_sanjuanensis</List>
+		<List recon_name="Tseajaia_campi" recon_no="120742">Tseajaia_campi</List>
+		<List recon_name="Utegenia_shpinari" recon_no="346161">Utegenia_shpinari</List>
+		<List recon_name="Whatcheeria_deltae" recon_no="92128">Whatcheeria_deltae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="150">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Klembara_2005a</Filename>
+	<Parent>Klembara_et_Ruta_2003a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Eltink, E.</List>
 			<List>Dias, E. V.</List>
 			<List>Dias-da-Silva, S.</List>
@@ -17,7 +17,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="21">
 		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton_acadianum</List>
 		<List recon_name="Trimerorhachis_insignis" recon_no="90711">Trimerorhachis_insignis</List>

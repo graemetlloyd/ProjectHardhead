@@ -16,7 +16,7 @@
 		<Editor/>
 	</Source>
 	<Taxa number="21">
-		<List recon_name="Ascaphus" recon_no="113808">Ascaphus</List>
+		<List recon_name="Ascaphus_truei" recon_no="401231">Ascaphus</List>
 		<List recon_name="Bombina" recon_no="113813">Bombina</List>
 		<List recon_name="Chelomophrynus" recon_no="108607">Chelomophyrnus</List>
 		<List recon_name="Cordicephalus" recon_no="37436">Cordicephalus</List>
@@ -27,7 +27,7 @@
 		<List recon_name="Pachycentrata" recon_no="135380">Pachycentrata</List>
 		<List recon_name="Palaeobatrachus" recon_no="37447">Palaeobatrachus</List>
 		<List recon_name="Pipa" recon_no="135377">Pipa</List>
-		<List recon_name="Pseudhymenochirus" recon_no="135384">Pseudhymenochirus</List>
+		<List recon_name="Pseudhymenochirus_merlini" recon_no="401228">Pseudhymenochirus</List>
 		<List recon_name="Rhinophrynus" recon_no="37444">Rhinophrynus</List>
 		<List recon_name="Saltenia" recon_no="37438">Saltenia</List>
 		<List recon_name="Shelania_laurenti" recon_no="135373">Shelania_laurenti</List>

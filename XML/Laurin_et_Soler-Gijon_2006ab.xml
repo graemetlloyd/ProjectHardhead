@@ -18,22 +18,22 @@
 	<Taxa number="18">
 		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greererpeton</List>
 		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
-		<List recon_name="Chenoprosopus" recon_no="37000">Chenoprosopus</List>
-		<List recon_name="Edops" recon_no="37005">Edops</List>
-		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
-		<List recon_name="Balanerpeton" recon_no="227174">Balanerpeton</List>
-		<List recon_name="Trimerorhachis" recon_no="36991">Trimerorhachis</List>
-		<List recon_name="Capetus" recon_no="256952">Capetus</List>
-		<List recon_name="Eryops" recon_no="37011">Eryops</List>
-		<List recon_name="Saurerpeton" recon_no="36984">Saurerpeton</List>
-		<List recon_name="Parioxys" recon_no="37052">Parioxys</List>
+		<List recon_name="Chenoprosopus_lewisi" recon_no="204063">Chenoprosopus</List>
+		<List recon_name="Edops_craigi" recon_no="252444">Edops</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton</List>
+		<List recon_name="Trimerorhachis_insignis,Trimerorhachis_sandovalensis" recon_no="90711;345366">Trimerorhachis</List>
+		<List recon_name="Capetus_palustris" recon_no="256954">Capetus</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops</List>
+		<List recon_name="Saurerpeton_obtusum" recon_no="137431">Saurerpeton</List>
+		<List recon_name="Parioxys_bolli" recon_no="345163">Parioxys</List>
 		<List recon_name="Zatrachys_serratus" recon_no="255221">Zatrachys</List>
-		<List recon_name="Eoscopus" recon_no="123090">Eoscopus</List>
-		<List recon_name="Sclerocephalus" recon_no="37015">Sclerocephalus</List>
-		<List recon_name="Iberospondylus" recon_no="260248">Iberospondylus</List>
-		<List recon_name="Tersomius" recon_no="37035">Tersomius</List>
-		<List recon_name="Ecolsonia" recon_no="37028">Ecolsonia</List>
-		<List recon_name="Dutuitosaurus" recon_no="260249">Dutuitosaurus</List>
+		<List recon_name="Eoscopus_lockardi" recon_no="229322">Eoscopus</List>
+		<List recon_name="Sclerocephalus_haeuseri,Sclerocephalus_jogischneideri" recon_no="255233;345848">Sclerocephalus</List>
+		<List recon_name="Iberospondylus_schultzei" recon_no="344739">Iberospondylus</List>
+		<List recon_name="Tersomius_texensis" recon_no="90713">Tersomius</List>
+		<List recon_name="Ecolsonia_cutlerensis" recon_no="229320">Ecolsonia</List>
+		<List recon_name="Dutuitosaurus_ouazzoui" recon_no="366396">Dutuitosaurus</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

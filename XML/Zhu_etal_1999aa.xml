@@ -17,42 +17,42 @@
 		<Editor/>
 	</Source>
 	<Taxa number="37">
-		<List recon_name="Dicksonosteus" recon_no="226309">Dicksonosteus</List>
+		<List recon_name="Dicksonosteus_arcticus" recon_no="419122">Dicksonosteus</List>
 		<List recon_name="Ctenacanthus" recon_no="34489">Ctenacanthus</List>
-		<List recon_name="Acanthodes" recon_no="157017">Acanthodes</List>
+		<List recon_name="Acanthodes_bronni,Acanthodes_sulcatus" recon_no="389680;419070">Acanthodes</List>
 		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
-		<List recon_name="Allenypterus" recon_no="34902">Allenypterus</List>
-		<List recon_name="Barameda" recon_no="224776">Barameda</List>
-		<List recon_name="Beelarongia" recon_no="226294">Beelarongia</List>
-		<List recon_name="Cheirolepis" recon_no="209435">Cheirolepis</List>
+		<List recon_name="Allenypterus_montanus" recon_no="199158">Allenypterus</List>
+		<List recon_name="Barameda_decipiens" recon_no="250699">Barameda</List>
+		<List recon_name="Beelarongia_patrichae" recon_no="401384">Beelarongia</List>
+		<List recon_name="Cheirolepis_canadensis,Cheirolepis_trailli" recon_no="218872;218871">Cheirolepis</List>
 		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
 		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis</List>
 		<List recon_name="Diplocercides_kayseri" recon_no="226297">Diplocercides_kaeseri</List>
 		<List recon_name="Diplocercides_heiligenstockiensis" recon_no="226296">D_heligenstockiensis</List>
-		<List recon_name="Dipnorhynchus" recon_no="34887">Dipnorynchus</List>
-		<List recon_name="Dipterus" recon_no="34888">Dipterus</List>
+		<List recon_name="Dipnorhynchus_kiandrensis,Dipnorhynchus_kurikae,Dipnorhynchus_suessmilchi" recon_no="377358;391628;372947">Dipnorynchus</List>
+		<List recon_name="Dipterus_valenciennesi" recon_no="259292">Dipterus</List>
 		<List recon_name="Elpistostege_watsoni" recon_no="341858">Elpistostege</List>
 		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
-		<List recon_name="Glyptolepis" recon_no="34920">Glyptolepis</List>
-		<List recon_name="Gyroptychius" recon_no="34923">Gyroptychius</List>
-		<List recon_name="Holoptychius" recon_no="149971">Holoptychius</List>
-		<List recon_name="Howqualepis" recon_no="218882">Howqualepis</List>
-		<List recon_name="Ichthyostega" recon_no="36965">Ichthyostega</List>
-		<List recon_name="Miguashaia" recon_no="34937">Miguashaia</List>
-		<List recon_name="Mimia" recon_no="35024">Mimia</List>
-		<List recon_name="Moythomasia" recon_no="35025">Moythomasia</List>
-		<List recon_name="Onychodus" recon_no="34942">Onychodus</List>
-		<List recon_name="Osteolepis" recon_no="34943">Osteolepis</List>
+		<List recon_name="Glyptolepis_groenlandica" recon_no="417062">Glyptolepis</List>
+		<List recon_name="Gyroptychius_microlepidotus" recon_no="260263">Gyroptychius</List>
+		<List recon_name="Holoptychius_flemingi,Holoptychius_giganteus,Holoptychius_nobilissimus" recon_no="260045;260042;260041">Holoptychius</List>
+		<List recon_name="Howqualepis_rostridens" recon_no="218883">Howqualepis</List>
+		<List recon_name="Ichthyostega_stensioei" recon_no="229326">Ichthyostega</List>
+		<List recon_name="Miguashaia_bureaui" recon_no="320884">Miguashaia</List>
+		<List recon_name="Mimia_toombsi" recon_no="218914">Mimia</List>
+		<List recon_name="Moythomasia_durgaringa,Moythomasia_nitida" recon_no="378221;218915">Moythomasia</List>
+		<List recon_name="Onychodus_sigmoides" recon_no="260580">Onychodus</List>
+		<List recon_name="Osteolepis_macrolepidotus,Osteolepis_panderi" recon_no="260270;416065">Osteolepis</List>
 		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
-		<List recon_name="Polypterus" recon_no="131420">Polypterus</List>
-		<List recon_name="Porolepis" recon_no="34947">Porolepis</List>
-		<List recon_name="Powichthys" recon_no="34948">Powichthys</List>
-		<List recon_name="Speonesydrion" recon_no="226305">Speonesydrion</List>
-		<List recon_name="Strepsodus" recon_no="224851">Strepsodus</List>
-		<List recon_name="Strunius" recon_no="34954">Strunius</List>
+		<List recon_name="Polypterus_bichir" recon_no="414425">Polypterus</List>
+		<List recon_name="Porolepis_brevis,Porolepis_spitbergensis" recon_no="418236;418238">Porolepis</List>
+		<List recon_name="Powichthys_thorsteinssoni" recon_no="401819">Powichthys</List>
+		<List recon_name="Speonesydrion_iani" recon_no="391456">Speonesydrion</List>
+		<List recon_name="Strepsodus_anculonamensis" recon_no="403871">Strepsodus</List>
+		<List recon_name="Strunius_rolandi,Strunius_walteri" recon_no="417158;417159">Strunius</List>
 		<List recon_name="Uranolophus_wyomingensis" recon_no="372944">Uranolophus</List>
 		<List recon_name="Ventastega_curonica" recon_no="230696">Ventastega</List>
-		<List recon_name="Youngolepis" recon_no="34962">Youngolepis</List>
+		<List recon_name="Youngolepis_praecursor" recon_no="403358">Youngolepis</List>
 		<List recon_name="Psarolepis_romeri" recon_no="377272">Psarolepis</List>
 	</Taxa>
 	<Characters>

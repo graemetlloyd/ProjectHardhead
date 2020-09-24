@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Qiao, T.</List>
 			<List>Zhu, M.</List>
 		</Author>
@@ -14,14 +14,14 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="44">
 		<List recon_name="Guiyu_oneiros" recon_no="144008">Guiyu</List>
-		<List recon_name="DELETE" recon_no="-1">Youngolepis</List>
+		<List recon_name="Youngolepis_praecursor" recon_no="403358">Youngolepis</List>
 		<List recon_name="Styloichthys_changae" recon_no="219196">Styloichthy</List>
 		<List recon_name="Kenichthys_campbelli" recon_no="377767">Kenichthys</List>
 		<List recon_name="Chirodipterus_australis" recon_no="377761">Chirodipterus_australis</List>
-		<List recon_name="DELETE" recon_no="-1">Chirodipterus_liangchengi</List>
+		<List recon_name="Chirodipterus_liangcheni" recon_no="403914">Chirodipterus_liangchengi</List>
 		<List recon_name="Chirodipterus_wildungensis" recon_no="372973">Chirodipterus_wildungensis</List>
 		<List recon_name="Dipterus_valenciennesi" recon_no="259292">Dipterus</List>
 		<List recon_name="Gogodipterus_paddyensis" recon_no="377281">Gogodipterus</List>
@@ -33,13 +33,13 @@
 		<List recon_name="Stomiahykus_thlaodus" recon_no="377496">Stomiahykus</List>
 		<List recon_name="Speonesydrion_iani" recon_no="391456">Speonesydrion</List>
 		<List recon_name="Westollrhynchus_lehmanni" recon_no="372969">Westollrhynchus</List>
-		<List recon_name="DELETE" recon_no="-1">Jessenia</List>
+		<List recon_name="Jessenia_concentrica" recon_no="403363">Jessenia</List>
 		<List recon_name="Fleurantia_denticulata" recon_no="372954">Fleurantia</List>
 		<List recon_name="Scaumenacia_curta" recon_no="372950">Scaumenacia</List>
 		<List recon_name="Howidipterus_donnae" recon_no="377317">Howidipterus</List>
 		<List recon_name="Barwickia_downunda" recon_no="377319">Barwickia</List>
 		<List recon_name="Andreyevichthys_epitomus" recon_no="391618">Andreyevichthys</List>
-		<List recon_name="Rhinodipterus" recon_no="34896">Rhinodipterus</List>
+		<List recon_name="Rhinodipterus_ulrichi" recon_no="377298">Rhinodipterus</List>
 		<List recon_name="Adelargo_schultzei" recon_no="377315">Adelargo</List>
 		<List recon_name="Ichnomylax_kurnai" recon_no="377580">Ichnomylax</List>
 		<List recon_name="Adololopas_moyasmithae" recon_no="377661">Adololopas</List>
@@ -52,8 +52,8 @@
 		<List recon_name="Amadeodipterus_kencampbelli" recon_no="377288">Amadeodipterus</List>
 		<List recon_name="Dipnorhynchus_suessmilchi" recon_no="372947">Dipnorhynchus</List>
 		<List recon_name="Erikia_jarviki" recon_no="377518">Erikia</List>
-		<List recon_name="Dipnotuberculus" recon_no="373030">Dipnotuberculus</List>
-		<List recon_name="Cathlorhynchus" recon_no="372976">Cathlorhynchus</List>
+		<List recon_name="Dipnotuberculus_gnathodus" recon_no="378416">Dipnotuberculus</List>
+		<List recon_name="Cathlorhynchus_trismodipterus,Cathlorhynchus_zengi" recon_no="376490;372977">Cathlorhynchus</List>
 		<List recon_name="Harajicadipterus_youngi" recon_no="250695">Harajicadipterus</List>
 		<List recon_name="Asthenorhynchus_meemanae" recon_no="377515">Asthenorhynchus</List>
 		<List recon_name="Xeradipterus_hatcheri" recon_no="250286">Xeradipterus</List>

@@ -17,29 +17,29 @@
 	<Taxa number="25">
 		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
 		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
-		<List recon_name="Ichthyostega" recon_no="36965">Ichthyostega</List>
+		<List recon_name="Ichthyostega_stensioei" recon_no="229326">Ichthyostega</List>
 		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
-		<List recon_name="Gephyrostegus" recon_no="37205">Gephyrostegus</List>
+		<List recon_name="Gephyrostegus_bohemicus" recon_no="137955">Gephyrostegus</List>
 		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
-		<List recon_name="Pholiderpeton" recon_no="37193">Pholiderpeton</List>
+		<List recon_name="Pholiderpeton_scutigerum" recon_no="229337">Pholiderpeton</List>
 		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greererpeton</List>
-		<List recon_name="Balanerpeton" recon_no="227174">Balanerpeton</List>
-		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
-		<List recon_name="Eucritta" recon_no="229323">Eucritta</List>
-		<List recon_name="Megalocephalus" recon_no="36972">Megalocephalus</List>
-		<List recon_name="Loxomma" recon_no="36971">Loxomma</List>
-		<List recon_name="Baphetes" recon_no="36970">Baphetes</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Eucritta_melanolimnetes" recon_no="229324">Eucritta</List>
+		<List recon_name="Megalocephalus_pachycephalus" recon_no="345306">Megalocephalus</List>
+		<List recon_name="Loxomma_acutirhinus" recon_no="334684">Loxomma</List>
+		<List recon_name="Baphetes_kirkbyi" recon_no="229310">Baphetes</List>
 		<List recon_name="Whatcheeria_deltae" recon_no="92128">Whatcheeria</List>
 		<List recon_name="Pederpes_finneyae" recon_no="179035">Pederpes</List>
-		<List recon_name="Seymouria" recon_no="37223">Seymouria</List>
+		<List recon_name="Seymouria_baylorensis,Seymouria_sanjuanensis" recon_no="137488;93510">Seymouria</List>
 		<List recon_name="Eoherpeton_watsoni" recon_no="229321">Eoherpeton</List>
-		<List recon_name="Caerorhachis" recon_no="36993">Caerorhachis</List>
+		<List recon_name="Caerorhachis_bairdi" recon_no="229315">Caerorhachis</List>
 		<List recon_name="Westlothiana_lizziae" recon_no="179032">Westlotiana</List>
 		<List recon_name="Silvanerpeton_miripedes" recon_no="243094">Silvanerpeton</List>
 		<List recon_name="Adelogyrinus_simorhynchus" recon_no="227001">Adelogyrinus</List>
-		<List recon_name="Microbrachis" recon_no="37311">Microbrachis</List>
+		<List recon_name="Microbrachis_pelikani" recon_no="227043">Microbrachis</List>
 		<List recon_name="Saxonerpeton_geinitzi" recon_no="338105">Saxonerpeton</List>
-		<List recon_name="Ptyonius" recon_no="37274">Ptyonius</List>
+		<List recon_name="Ptyonius_marshii" recon_no="340038">Ptyonius</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

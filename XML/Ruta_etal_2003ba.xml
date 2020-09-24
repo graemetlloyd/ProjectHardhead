@@ -19,11 +19,11 @@
 	<Taxa number="226">
 		<List recon_name="DELETE" recon_no="0">OUTGROUP</List>
 		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
-		<List recon_name="Acanthostomatops" recon_no="345488">Acanthostomatops</List>
+		<List recon_name="Acanthostomatops_vorax" recon_no="345489">Acanthostomatops</List>
 		<List recon_name="Acheloma" recon_no="37048">Acheloma</List>
 		<List recon_name="Acherontiscus" recon_no="37331">Acherontiscus</List>
 		<List recon_name="Acroplous" recon_no="36981">Acroplous</List>
-		<List recon_name="Actiobates" recon_no="37049">Actiobates</List>
+		<List recon_name="Actiobates_peabodyi" recon_no="344750">Actiobates</List>
 		<List recon_name="Adamanterpeton" recon_no="91481">Adamanterpeton</List>
 		<List recon_name="Adelogyrinus_simorhynchus" recon_no="227001">Adelogyrinus</List>
 		<List recon_name="Adelospondylus" recon_no="37327">Adelospondylus</List>
@@ -39,7 +39,7 @@
 		<List recon_name="Archeria" recon_no="37196">Archeria</List>
 		<List recon_name="Ariekanerpeton" recon_no="37208">Ariekanerpeton</List>
 		<List recon_name="Asaphestera" recon_no="37281">Asaphestera</List>
-		<List recon_name="Balanerpeton" recon_no="227174">Balanerpeton</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton</List>
 		<List recon_name="Banksiops" recon_no="251466">Banksiops</List>
 		<List recon_name="Baphetes" recon_no="36970">Baphetes</List>
 		<List recon_name="Batrachiderpeton" recon_no="37262">Batrachiderpeton</List>
@@ -61,8 +61,8 @@
 		<List recon_name="Captorhinus" recon_no="37497">Captorhinus</List>
 		<List recon_name="Cardiocephalus_peabodyi" recon_no="137293">Cardio_peabodyi</List>
 		<List recon_name="Cardiocephalus_sternbergi" recon_no="90715">Cardio_sternbergi</List>
-		<List recon_name="Carrolla" recon_no="37316">Carrolla</List>
-		<List recon_name="Casineria" recon_no="136421">Casineria</List>
+		<List recon_name="Carrolla_craddocki" recon_no="227004">Carrolla</List>
+		<List recon_name="Casineria_kiddi" recon_no="136422">Casineria</List>
 		<List recon_name="Celtedens_ibericus" recon_no="245182">Celted_ibericus</List>
 		<List recon_name="Cheliderpeton" recon_no="37009">Cheliderpeton</List>
 		<List recon_name="Chenoprosopus_lewisi" recon_no="204063">Chenolewisi</List>
@@ -74,12 +74,12 @@
 		<List recon_name="Coloraderpeton" recon_no="37253">Coloraderpeton</List>
 		<List recon_name="Colosteus" recon_no="36976">Colosteus</List>
 		<List recon_name="Compsocerops" recon_no="251479">Compsocerops</List>
-		<List recon_name="Cosgriffius" recon_no="165270">Cosgriffius</List>
+		<List recon_name="Cosgriffius_campi" recon_no="165271">Cosgriffius</List>
 		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
 		<List recon_name="Ctenerpeton" recon_no="37272">Ctenerpeton</List>
 		<List recon_name="Cyclotosaurus" recon_no="37095">Cyclotosaurus</List>
 		<List recon_name="Deltacephalus" recon_no="37076">Deltacephalus</List>
-		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
 		<List recon_name="Diadectes" recon_no="37247">Diadectes</List>
 		<List recon_name="Diceratosaurus" recon_no="37263">Diceratosaurus</List>
 		<List recon_name="Diplocaulus_magnicornis" recon_no="81712">Diplocau_magnicornis</List>
@@ -96,7 +96,7 @@
 		<List recon_name="Edops" recon_no="37005">Edops</List>
 		<List recon_name="Elginerpeton_pancheni" recon_no="242709">Elginerpeton</List>
 		<List recon_name="Elpistostege_watsoni" recon_no="341858">Elpistostege</List>
-		<List recon_name="Eocaecilia" recon_no="156676">Eocaecilia</List>
+		<List recon_name="Eocaecilia_micropodia" recon_no="156677">Eocaecilia</List>
 		<List recon_name="Eocaptorhinus" recon_no="37499">Eocaptorhinus</List>
 		<List recon_name="Eocyclotosaurus" recon_no="37096">Eocyclotosaurus</List>
 		<List recon_name="Eogyrinus" recon_no="37189">Eogyrinus</List>
@@ -105,11 +105,11 @@
 		<List recon_name="Eryops" recon_no="37011">Eryops</List>
 		<List recon_name="Eryosuchus" recon_no="37097">Eryosuchus</List>
 		<List recon_name="Erythrobatrachus" recon_no="37126">Erythrobatrachus</List>
-		<List recon_name="Eucritta" recon_no="229323">Eucritta</List>
-		<List recon_name="Eugyrinus" recon_no="36997">Eugyrinus</List>
+		<List recon_name="Eucritta_melanolimnetes" recon_no="229324">Eucritta</List>
+		<List recon_name="Eugyrinus_wildi" recon_no="334979">Eugyrinus</List>
 		<List recon_name="Euryodus_bonneri" recon_no="320817">Euryodus_bonneri</List>
 		<List recon_name="Euryodus_dalyae" recon_no="227036">Euryodus_dalyae</List>
-		<List recon_name="DELETE" recon_no="-1">Euryodus_peabodyi</List>
+		<List recon_name="Cardiocephalus_peabodyi" recon_no="137293">Euryodus_peabodyi</List>
 		<List recon_name="Euryodus_primus" recon_no="120864">Euryodus_primus</List>
 		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
 		<List recon_name="Gephyrostegus" recon_no="37205">Gephyrostegus</List>
@@ -117,62 +117,62 @@
 		<List recon_name="Hapsidopareion_lepton" recon_no="90683">Hapsidopareion</List>
 		<List recon_name="Hyloplesion" recon_no="37313">Hyloplesion</List>
 		<List recon_name="Hynerpeton" recon_no="295090">Hynerpeton</List>
-		<List recon_name="Iberospondylus" recon_no="260248">Iberospondylus</List>
-		<List recon_name="Ichthyostega" recon_no="36965">Ichthyostega</List>
-		<List recon_name="Inflectosaurus" recon_no="37129">Inflectosaurus</List>
+		<List recon_name="Iberospondylus_schultzei" recon_no="344739">Iberospondylus</List>
+		<List recon_name="Ichthyostega_stensioei" recon_no="229326">Ichthyostega</List>
+		<List recon_name="Inflectosaurus_amplus" recon_no="266627">Inflectosaurus</List>
 		<List recon_name="Isodectes" recon_no="36983">Isodectes</List>
 		<List recon_name="Karaurus_sharovi" recon_no="202227">Karaurus</List>
 		<List recon_name="Keraterpeton" recon_no="37266">Keraterpeton</List>
-		<List recon_name="Keratobrachyops" recon_no="37159">Keratobrachyops</List>
+		<List recon_name="Keratobrachyops_australis" recon_no="251264">Keratobrachyops</List>
 		<List recon_name="Konzhukovia" recon_no="139085">Konzhukovia</List>
 		<List recon_name="Kotlassia" recon_no="37218">Kotlassia</List>
-		<List recon_name="Kupferzellia" recon_no="179401">Kupferzellia</List>
-		<List recon_name="Kuttycephalus" recon_no="251481">Kuttycephalus</List>
-		<List recon_name="Laidleria" recon_no="37115">Laidleria</List>
-		<List recon_name="Lapillopsis" recon_no="150340">Lapillopsis</List>
+		<List recon_name="Kupferzellia_wildi" recon_no="179402">Kupferzellia</List>
+		<List recon_name="Kuttycephalus_triangularis" recon_no="251482">Kuttycephalus</List>
+		<List recon_name="Laidleria_gracilis" recon_no="251506">Laidleria</List>
+		<List recon_name="Lapillopsis_nana" recon_no="150341">Lapillopsis</List>
 		<List recon_name="Leiocephalikon" recon_no="37298">Leiocephalikon</List>
 		<List recon_name="Leptorophus" recon_no="229328">Leptorophus</List>
-		<List recon_name="Lethiscus" recon_no="37256">Lethiscus</List>
+		<List recon_name="Lethiscus_stocki" recon_no="229330">Lethiscus</List>
 		<List recon_name="Limnoscelis" recon_no="37232">Limnoscelis</List>
 		<List recon_name="Livoniana_multidentata" recon_no="341857">Livoniana</List>
-		<List recon_name="Llistrofus" recon_no="37287">Llistrofus</List>
+		<List recon_name="Llistrofus_pricei" recon_no="137291">Llistrofus</List>
 		<List recon_name="Loxomma" recon_no="36971">Loxomma</List>
 		<List recon_name="Luzocephalus" recon_no="37079">Luzocephalus</List>
 		<List recon_name="Lydekkerina" recon_no="37078">Lydekkerina</List>
 		<List recon_name="Lyrocephaliscus" recon_no="37131">Lyrocephaliscus</List>
 		<List recon_name="Mastodonsaurus" recon_no="37108">Mastodonsaurus</List>
-		<List recon_name="DELETE" recon_no="-1">Mazon_Creek_microsaur</List>
+		<List recon_name="Microsauria_indet_FMNH_PR_981" recon_no="137284">Mazon_Creek_microsaur</List>
 		<List recon_name="Megalocephalus" recon_no="36972">Megalocephalus</List>
 		<List recon_name="Melanerpeton" recon_no="260059">Melanerpeton</List>
 		<List recon_name="Metaxygnathus_denticulatus" recon_no="335531">Metaxygnathus</List>
-		<List recon_name="Micraroter" recon_no="37302">Micraroter</List>
+		<List recon_name="Micraroter_erythrogeios" recon_no="90684">Micraroter</List>
 		<List recon_name="Microbrachis" recon_no="37311">Microbrachis</List>
 		<List recon_name="Micromelerpeton" recon_no="37044">Micromelerpeton</List>
-		<List recon_name="Neldasaurus" recon_no="36989">Neldasaurus</List>
+		<List recon_name="Neldasaurus_wrightae" recon_no="229335">Neldasaurus</List>
 		<List recon_name="Obruchevichthys_gracilis" recon_no="335524">Obruchevichthys</List>
-		<List recon_name="Odenwaldia" recon_no="37089">Odenwaldia</List>
-		<List recon_name="Odonterpeton" recon_no="37318">Odonterpeton</List>
+		<List recon_name="Odenwaldia_heidelbergensis" recon_no="202715">Odenwaldia</List>
+		<List recon_name="Odonterpeton_triangulare" recon_no="227046">Odonterpeton</List>
 		<List recon_name="Oestocephalus_amphiuminum" recon_no="230699">Oestocep_amphiuminum</List>
 		<List recon_name="Oestocephalus_granulosum" recon_no="337730">Oestocep_granulosum</List>
 		<List recon_name="Onchiodon" recon_no="37013">Onchiodon</List>
 		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>
 		<List recon_name="Ophiderpeton" recon_no="37254">Ophiderpeton</List>
-		<List recon_name="Paleothyris" recon_no="37493">Paleothyris</List>
+		<List recon_name="Paleothyris_acadiana" recon_no="138002">Paleothyris</List>
 		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
 		<List recon_name="Pantylus" recon_no="37291">Pantylus</List>
 		<List recon_name="Paracyclotosaurus" recon_no="37099">Paracyclotosaurus</List>
 		<List recon_name="Pariotichus" recon_no="37299">Pariotichus</List>
 		<List recon_name="Parioxys" recon_no="37052">Parioxys</List>
-		<List recon_name="DELETE" recon_no="-1">Paroto_madagascariensis</List>
+		<List recon_name="Edingerella_madagascariensis" recon_no="251497">Paroto_madagascariensis</List>
 		<List recon_name="Parotosuchus_nasutus" recon_no="270192">Paroto_nasutus</List>
 		<List recon_name="Parotosuchus_orenburgensis" recon_no="265669">Paroto_orenburgensis</List>
 		<List recon_name="Parotosaurus_pronus" recon_no="172538">Paroto_pronus</List>
 		<List recon_name="Pederpes_finneyae" recon_no="179035">Pederpes</List>
-		<List recon_name="Pelodosotis" recon_no="37304">Pelodosotis</List>
+		<List recon_name="Pelodosotis_elongatum" recon_no="150625">Pelodosotis</List>
 		<List recon_name="Pelorocephalus" recon_no="37160">Pelorocephalus</List>
-		<List recon_name="Peltobatrachus" recon_no="37084">Peltobatrachus</List>
-		<List recon_name="Peronedon" recon_no="119361">Peronedon</List>
-		<List recon_name="Petrolacosaurus" recon_no="37771">Petrolacosaurus</List>
+		<List recon_name="Peltobatrachus_pustulatus" recon_no="367348">Peltobatrachus</List>
+		<List recon_name="Peronedon_primus" recon_no="119362">Peronedon</List>
+		<List recon_name="Petrolacosaurus_kansensis" recon_no="138231">Petrolacosaurus</List>
 		<List recon_name="Phlegethontia_linearis" recon_no="156820">Phlegeth_linearis</List>
 		<List recon_name="Phlegethontia_longissima" recon_no="156845">Phlegeth_longissima</List>
 		<List recon_name="Pholiderpeton" recon_no="37193">Pholiderpeton</List>
@@ -180,68 +180,68 @@
 		<List recon_name="Plagiosauridae" recon_no="37169">PLAGIOSAURIDAE</List>
 		<List recon_name="Platyhystrix_rugosus" recon_no="345923">Platyhistrix</List>
 		<List recon_name="Platyoposaurus" recon_no="37060">Platyoposaurus</List>
-		<List recon_name="Platyrhinops" recon_no="123089">Platyrhinops</List>
-		<List recon_name="Platystega" recon_no="37134">Platystega</List>
-		<List recon_name="Procochleosaurus" recon_no="91480">Procochleosaurus</List>
+		<List recon_name="Platyrhinops_lyelli" recon_no="345482">Platyrhinops</List>
+		<List recon_name="Platystega_depressa" recon_no="266623">Platystega</List>
+		<List recon_name="Procochleosaurus_jarrowensis" recon_no="204061">Procochleosaurus</List>
 		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
-		<List recon_name="Pseudophlegethontia" recon_no="137946">Pseudophlegethontia</List>
+		<List recon_name="Pseudophlegethontia_turnbullorum" recon_no="137947">Pseudophlegethontia</List>
 		<List recon_name="Ptyonius" recon_no="37274">Ptyonius</List>
-		<List recon_name="Quasicaecilia" recon_no="227371">Quasicaecilia</List>
-		<List recon_name="Quasicyclotosaurus" recon_no="165257">Quasicyclotosaurus</List>
+		<List recon_name="Quasicaecilia_texana" recon_no="227373">Quasicaecilia</List>
+		<List recon_name="Quasicyclotosaurus_campi" recon_no="165258">Quasicyclotosaurus</List>
 		<List recon_name="Rewanobatrachus" recon_no="251262">Rewanobatrachus</List>
-		<List recon_name="Rhineceps" recon_no="37068">Rhineceps</List>
+		<List recon_name="Rhineceps_nyasaensis" recon_no="267022">Rhineceps</List>
 		<List recon_name="Rhinesuchus" recon_no="37070">Rhinesuchus</List>
-		<List recon_name="Rhynchonkos" recon_no="37308">Rhynchonkos</List>
+		<List recon_name="Rhynchonkos_stovalli" recon_no="340743">Rhynchonkos</List>
 		<List recon_name="Rhytidosteidae" recon_no="37110">RHYTIDOSTEIDAE</List>
 		<List recon_name="Sauravus" recon_no="37268">Sauravus</List>
 		<List recon_name="Sauropleura_bairdi" recon_no="227053">Saurople_bairdi</List>
 		<List recon_name="Sauropleura_pectinata" recon_no="230692">Saurople_pectinata</List>
 		<List recon_name="Sauropleura_scalaris" recon_no="338169">Saurople_scalaris</List>
 		<List recon_name="Saxonerpeton_geinitzi" recon_no="338105">Saxonerpeton</List>
-		<List recon_name="Schoenfelderpeton" recon_no="37040">Schoenfelderpeton</List>
+		<List recon_name="Schoenfelderpeton_prescheri" recon_no="230693">Schoenfelderpeton</List>
 		<List recon_name="Scincosaurus" recon_no="37269">Scincosaurus</List>
 		<List recon_name="Sclerocephalus" recon_no="37015">Sclerocephalus</List>
 		<List recon_name="Seymouria_baylorensis" recon_no="137488">Seym_baylorensis</List>
 		<List recon_name="Seymouria_sanjuanensis" recon_no="93510">Seym_sanjuanensis</List>
-		<List recon_name="Siderops" recon_no="37155">Siderops</List>
+		<List recon_name="Siderops_kehli" recon_no="251254">Siderops</List>
 		<List recon_name="Silvanerpeton_miripedes" recon_no="243094">Silvanerpeton</List>
-		<List recon_name="Sinobrachyops" recon_no="37156">Sinobrachyops</List>
-		<List recon_name="Solenodonsaurus" recon_no="37238">Solenodonsaurus</List>
-		<List recon_name="Sparodus" recon_no="37300">Sparodus</List>
+		<List recon_name="Sinobrachyops_placenticephalus" recon_no="251468">Sinobrachyops</List>
+		<List recon_name="Solenodonsaurus_janenschi" recon_no="136800">Solenodonsaurus</List>
+		<List recon_name="Sparodus_validus" recon_no="338124">Sparodus</List>
 		<List recon_name="Stanocephalosaurus" recon_no="165247">Stanocephalosaurus</List>
 		<List recon_name="Stegops" recon_no="37055">Stegops</List>
-		<List recon_name="Stegotretus" recon_no="227374">Stegotretus</List>
+		<List recon_name="Stegotretus_agyrus" recon_no="227375">Stegotretus</List>
 		<List recon_name="Stenotosaurus" recon_no="170672">Stenotosaurus</List>
-		<List recon_name="Stoschiosaurus" recon_no="37135">Stoschiosaurus</List>
+		<List recon_name="Stoschiosaurus_nielseni" recon_no="266517">Stoschiosaurus</List>
 		<List recon_name="Thabanchuia_oomie" recon_no="242829">Tabanchuia</List>
-		<List recon_name="Tambachia" recon_no="152959">Tambachia</List>
+		<List recon_name="Tambachia_trogallas" recon_no="152960">Tambachia</List>
 		<List recon_name="Tatrasuchus" recon_no="260247">Tatrasuchus</List>
 		<List recon_name="Tersomius" recon_no="37035">Tersomius</List>
-		<List recon_name="Tertrema" recon_no="37136">Tertrema</List>
+		<List recon_name="Tertrema_acuta" recon_no="266624">Tertrema</List>
 		<List recon_name="Thoosuchus" recon_no="37092">Thoosuchus</List>
 		<List recon_name="Trematosaurus" recon_no="37138">Trematosaurus</List>
 		<List recon_name="Trematosuchus" recon_no="37139">Trematosuchus</List>
-		<List recon_name="Triadobatrachus" recon_no="37421">Triadobatrachus</List>
+		<List recon_name="Triadobatrachus_massinoti" recon_no="156397">Triadobatrachus</List>
 		<List recon_name="Trimerorhachis" recon_no="36991">Trimerorhachis</List>
-		<List recon_name="Tseajaia" recon_no="37240">Tseajaia</List>
+		<List recon_name="Tseajaia_campi" recon_no="120742">Tseajaia</List>
 		<List recon_name="Tuditanus_punctulatus" recon_no="227062">Tuditanus</List>
 		<List recon_name="Tulerpeton_curtum" recon_no="230695">Tulerpeton</List>
 		<List recon_name="Tupilakosaurus" recon_no="36321">Tupilakosaurus</List>
 		<List recon_name="Uranocentrodon" recon_no="37071">Uranocentrodon</List>
 		<List recon_name="Urocordylus" recon_no="37276">Urocordylus</List>
-		<List recon_name="Utaherpeton" recon_no="227376">Utaherpeton</List>
+		<List recon_name="Utaherpeton_franklini" recon_no="227377">Utaherpeton</List>
 		<List recon_name="Utegenia_shpinari" recon_no="346161">Utegenia</List>
-		<List recon_name="Valdotriton" recon_no="111403">Valdotriton</List>
+		<List recon_name="Valdotriton_gracilis" recon_no="111405">Valdotriton</List>
 		<List recon_name="Vanastega_plurimidens" recon_no="167338">Vanastega</List>
 		<List recon_name="Ventastega_curonica" recon_no="230696">Ventastega</List>
 		<List recon_name="Vigilius_wellesi" recon_no="165309">Vigilius</List>
-		<List recon_name="Wantzosaurus" recon_no="37140">Wantzosaurus</List>
+		<List recon_name="Wantzosaurus_elongatus" recon_no="266631">Wantzosaurus</List>
 		<List recon_name="Watsonisuchus" recon_no="251273">Watsonisuchus</List>
-		<List recon_name="Wellesaurus" recon_no="37105">Wellesaurus</List>
+		<List recon_name="Wellesaurus_africanus,Wellesaurus_peabodyi" recon_no="270205;165269">Wellesaurus</List>
 		<List recon_name="Westlothiana_lizziae" recon_no="179032">Westlothiana</List>
-		<List recon_name="Wetlugasaurus" recon_no="37106">Wetlugasaurus</List>
+		<List recon_name="Wetlugasaurus_angustifrons,Wetlugasaurus_groenlandicus,Wetlugasaurus_malachovi,Wetlugasaurus_samarensis" recon_no="270206;266515;270207;270208">Wetlugasaurus</List>
 		<List recon_name="Whatcheeria_deltae" recon_no="92128">Whatcheeria</List>
-		<List recon_name="Xenobrachyops" recon_no="150352">Xenobrachyops</List>
+		<List recon_name="Xenobrachyops_allos" recon_no="251266">Xenobrachyops</List>
 		<List recon_name="Zatrachys_serratus" recon_no="255221">Zatrachys</List>
 	</Taxa>
 	<Characters>

@@ -15,11 +15,11 @@
 		<Editor/>
 	</Source>
 	<Taxa number="5">
-		<List recon_name="Amphibamus" recon_no="37019">Amphibamus</List>
-		<List recon_name="Tersomius" recon_no="37035">Tersomius</List>
-		<List recon_name="Anconastes" recon_no="136411">Anconastes</List>
-		<List recon_name="Phonerpeton" recon_no="230700">Phonerpeton</List>
-		<List recon_name="Acheloma" recon_no="37048">Acheloma</List>
+		<List recon_name="Amphibamus_grandiceps" recon_no="37019">Amphibamus</List>
+		<List recon_name="Tersomius_texensis" recon_no="90713">Tersomius</List>
+		<List recon_name="Anconastes_vesperus" recon_no="136412">Anconastes</List>
+		<List recon_name="Phonerpeton_pricei" recon_no="345308">Phonerpeton</List>
+		<List recon_name="Acheloma_cumminsi" recon_no="81713">Acheloma</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

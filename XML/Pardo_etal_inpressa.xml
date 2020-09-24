@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Pardo, J. D.</List>
 			<List>Small, B. J.</List>
 			<List>Huttenlocker, A. K.</List>
@@ -15,7 +15,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="76">
 		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogryinus_scheelei</List>
 		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greererpeton_burkemorani</List>
@@ -76,7 +76,7 @@
 		<List recon_name="Lyrocephaliscus_euri" recon_no="266625">Lyrocephaliscus_euri</List>
 		<List recon_name="Callistomordax_kugleri" recon_no="174472">Callistomordax_kugleri</List>
 		<List recon_name="Metoposaurus_diagnosticus" recon_no="130942">Metoposaurus_diagnosticus</List>
-		<List recon_name="Parotosuchus" recon_no="37100">Parotosuchus</List>
+		<List recon_name="Parotosuchus_nasutus" recon_no="270192">Parotosuchus</List>
 		<List recon_name="Paracyclotosaurus_davidi" recon_no="57042">Paracyclotosaurus_davidi</List>
 		<List recon_name="Cyclotosaurus_robustus" recon_no="57085">Cyclotosaurus_robustus</List>
 		<List recon_name="Mastodonsaurus_giganteus" recon_no="150365">Mastodonsaurus_giganteus</List>
@@ -87,9 +87,9 @@
 		<List recon_name="Karaurus_sharovi" recon_no="202227">Karaurus_sharovi</List>
 		<List recon_name="Kokartus_honorarius" recon_no="120626">Kokartus_honorarius</List>
 		<List recon_name="Cryptobranchus_alleganiensis" recon_no="110601">Cryptobranchus_allegheniensis</List>
-		<List recon_name="DELETE" recon_no="-1">Hynobius_japonicus</List>
+		<List recon_name="Onychodactylus_japonicus" recon_no="401226">Hynobius_japonicus</List>
 		<List recon_name="Amblystoma_opacum" recon_no="231586">Ambystoma_opacum</List>
-		<List recon_name="DELETE" recon_no="-1">Xenopus_tropicalis</List>
+		<List recon_name="Silurana_tropicalis" recon_no="401224">Xenopus_tropicalis</List>
 		<List recon_name="Epicrionops_bicolor" recon_no="394219">Epicrionops_bicolor</List>
 		<List recon_name="Ichthyophis_bannanicus" recon_no="394220">Ichthyophis_bannannicus</List>
 		<List recon_name="Leptodactylus_mystacinus" recon_no="394222">Leptodactylus_mystacinus</List>

@@ -24,7 +24,7 @@
 		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
 		<List recon_name="Elginerpeton_pancheni" recon_no="242709">Elginerpeton</List>
 		<List recon_name="Obruchevichthys_gracilis" recon_no="335524">Obruchevichthys</List>
-		<List recon_name="Ichthyostega" recon_no="36965">Ichthyostega</List>
+		<List recon_name="Ichthyostega_stensioei" recon_no="229326">Ichthyostega</List>
 		<List recon_name="Ventastega_curonica" recon_no="230696">Ventastega</List>
 		<List recon_name="Metaxygnathus_denticulatus" recon_no="335531">Metaxygnathus</List>
 		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
@@ -32,21 +32,21 @@
 		<List recon_name="Tulerpeton_curtum" recon_no="230695">Tulerpeton</List>
 		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
 		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greerepeton</List>
-		<List recon_name="Megalocephalus" recon_no="36972">Megalocephalus</List>
-		<List recon_name="Pholiderpeton" recon_no="37193">Phopliderpeton</List>
-		<List recon_name="Cochleosaurus" recon_no="37001">Cochleosaurus</List>
-		<List recon_name="Phonerpeton" recon_no="230700">Phonerpeton</List>
+		<List recon_name="Megalocephalus_pachycephalus" recon_no="345306">Megalocephalus</List>
+		<List recon_name="Pholiderpeton_scutigerum" recon_no="229337">Phopliderpeton</List>
+		<List recon_name="Cochleosaurus_bohemicus,Cochleosaurus_florensis" recon_no="204052;204062">Cochleosaurus</List>
+		<List recon_name="Phonerpeton_pricei" recon_no="345308">Phonerpeton</List>
 		<List recon_name="Eoherpeton_watsoni" recon_no="229321">Eoherpeton</List>
 		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proteogyrinus</List>
-		<List recon_name="Gephyrostegus" recon_no="37205">Gephyrpstegus</List>
-		<List recon_name="Balanerpeton" recon_no="227174">Balanerpeton</List>
-		<List recon_name="Platyrhinops" recon_no="123089">Platyrhinops</List>
-		<List recon_name="Microbrachis" recon_no="37311">Microbrachis</List>
-		<List recon_name="Discosauriscus" recon_no="37209">Discosauriscus</List>
-		<List recon_name="Eocaptorhinus" recon_no="37499">Eocaptorhinus</List>
-		<List recon_name="Diploceraspis" recon_no="37265">Diploceraspis</List>
-		<List recon_name="Sauropleura" recon_no="37275">Sauropleura</List>
-		<List recon_name="Ophiacodon" recon_no="38888">Ophiacodon</List>
+		<List recon_name="Gephyrostegus_bohemicus" recon_no="137955">Gephyrpstegus</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton</List>
+		<List recon_name="Platyrhinops_lyelli" recon_no="345482">Platyrhinops</List>
+		<List recon_name="Microbrachis_pelikani" recon_no="227043">Microbrachis</List>
+		<List recon_name="Discosauriscus_austriacus" recon_no="362531">Discosauriscus</List>
+		<List recon_name="Eocaptorhinus_laticeps" recon_no="134878">Eocaptorhinus</List>
+		<List recon_name="Diploceraspis_burkei" recon_no="227035">Diploceraspis</List>
+		<List recon_name="Sauropleura_pectinata" recon_no="230692">Sauropleura</List>
+		<List recon_name="Ophiacodon_mirus" recon_no="123418">Ophiacodon</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>

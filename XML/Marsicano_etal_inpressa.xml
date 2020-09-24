@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Marsicano, C. A.</List>
 			<List>Latimer, E.</List>
 			<List>Rubidge, B.</List>
@@ -16,7 +16,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="23">
 		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops_megacephalus</List>
 		<List recon_name="Arachana_nigra" recon_no="367352">Arachana_nigra</List>

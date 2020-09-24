@@ -16,25 +16,25 @@
 		<Editor/>
 	</Source>
 	<Taxa number="26">
-		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
-		<List recon_name="Trimerorhachis" recon_no="36991">Trimerorhachis</List>
-		<List recon_name="Sclerocephalus" recon_no="37015">Sclerocephalus</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Trimerorhachis_insignis" recon_no="90711">Trimerorhachis</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus</List>
 		<List recon_name="Uranocentrodon" recon_no="37071">Uranocentrodon</List>
 		<List recon_name="Lydekkerinidae" recon_no="37072">Lydekkerinidae</List>
-		<List recon_name="Siderops" recon_no="37155">Siderops</List>
+		<List recon_name="Siderops_kehli" recon_no="251254">Siderops</List>
 		<List recon_name="Brachyops" recon_no="37152">Brachyops</List>
-		<List recon_name="Laidleria" recon_no="37115">Laidleria</List>
-		<List recon_name="Rhytidosteidae" recon_no="37110">Rhytidosteidae</List>
-		<List recon_name="Gerrothorax" recon_no="37170">Gerrothorax</List>
-		<List recon_name="Plagiosuchus" recon_no="37176">Plagiosuchus</List>
-		<List recon_name="Capitosauroidea" recon_no="255238">Capitosauroidea</List>
+		<List recon_name="Laidleria_gracilis" recon_no="251506">Laidleria</List>
+		<List recon_name="Rhytidosteus_capensis,Deltasaurus_kimberleyensis,Peltostega_erici,Trucheosaurus_major" recon_no="251509;251512;251517;251500">Rhytidosteidae</List>
+		<List recon_name="Gerrothorax_pulcherrimus" recon_no="180698">Gerrothorax</List>
+		<List recon_name="Plagiosuchus_pustuliferus" recon_no="179398">Plagiosuchus</List>
+		<List recon_name="Mastodonsaurus_giganteus" recon_no="150365">Capitosauroidea</List>
 		<List recon_name="Benthosuchus" recon_no="37087">Benthosuchus</List>
-		<List recon_name="Aphaneramma" recon_no="37125">Aphaneramma</List>
-		<List recon_name="Trematolestes" recon_no="179388">Trematolestes</List>
-		<List recon_name="Lyrocephaliscus" recon_no="37131">Lyrocephaliscus</List>
-		<List recon_name="Almasaurus" recon_no="37167">Almasaurus</List>
+		<List recon_name="Aphaneramma_rostratum" recon_no="266522">Aphaneramma</List>
+		<List recon_name="Trematolestes_hagdorni" recon_no="179389">Trematolestes</List>
+		<List recon_name="Lyrocephaliscus_euri" recon_no="266625">Lyrocephaliscus</List>
+		<List recon_name="Almasaurus_habbazi" recon_no="71421">Almasaurus</List>
 		<List recon_name="Metoposaurus" recon_no="37164">Metoposaurus</List>
-		<List recon_name="Callistomordax" recon_no="174471">Callistomordax</List>
+		<List recon_name="Callistomordax_kugleri" recon_no="174472">Callistomordax</List>
 		<List recon_name="Inflectosaurus" recon_no="37129">Inflectosaurus</List>
 		<List recon_name="Microposaurus" recon_no="37133">Microposaurus</List>
 		<List recon_name="Trematosauroidea_indet_SMNS_81772" recon_no="37123">Jordan_Taxon</List>

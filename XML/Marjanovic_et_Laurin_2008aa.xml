@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Marjanovic, D.</List>
 			<List>Laurin, M.</List>
 		</Author>
@@ -14,30 +14,30 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="23">
 		<List recon_name="Whatcheeria_deltae" recon_no="92128">Whatcheeria</List>
 		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
-		<List recon_name="Branchiosaurus" recon_no="37039">Branchiosaurus</List>
+		<List recon_name="Branchiosaurus_cf_petrolei_GPIM_dash_N285N298,Branchiosaurus_cf_petrolei_GPIM_dash_N225,Branchiosaurus_cf_petrolei_GPIM_dash_N227,Branchiosaurus_cf_petrolei_GPIM_dash_N409,Branchiosaurus_cf_petrolei_GPIM_dash_N437,Branchiosaurus_cf_petrolei_GPIM_dash_N268a_plus_b,Branchiosaurus_cf_petrolei_GPIM_dash_N229,Branchiosaurus_cf_petrolei_GPIM_dash_N220,Branchiosaurus_cf_petrolei_GPIM_dash_N156,Branchiosaurus_cf_petrolei_GPIM_dash_N231,Branchiosaurus_cf_petrolei_GPIM_dash_N441a_plus_b,Branchiosaurus_cf_petrolei_GPIM_dash_N275a_plus_b,Branchiosaurus_cf_petrolei_GPIM_dash_N261,Branchiosaurus_cf_petrolei_GPIM_dash_N279,Branchiosaurus_cf_petrolei_GPIM_dash_N241,Branchiosaurus_cf_petrolei_GPIM_dash_N122a_plus_b,Branchiosaurus_cf_petrolei_GPIM_dash_PV_18671a_plus_b" recon_no="37039;37039;37039;37039;37039;37039;37039;37039;37039;37039;37039;37039;37039;37039;37039;37039;37039">Branchiosaurus</List>
 		<List recon_name="Apateon" recon_no="37038">Apateon</List>
 		<List recon_name="Schoenfelderpeton_prescheri" recon_no="230693">Schoenfelderpeton</List>
 		<List recon_name="Anoualerpeton_priscus" recon_no="244724">Albanerpetontidae</List>
-		<List recon_name="Tuditanidae" recon_no="37280">Tuditanidae</List>
-		<List recon_name="Pantylidae" recon_no="37290">Pantylidae</List>
-		<List recon_name="Gymnarthridae" recon_no="37293">Gymnarthridae</List>
-		<List recon_name="Hapsidopareiontidae" recon_no="37285">Hapsidopareiontidae</List>
+		<List recon_name="Asaphestera_intermedia,Boii_crassidens,Crinodon_limnophyes,Tuditanus_punctulatus" recon_no="338119;337665;338123;227062">Tuditanidae</List>
+		<List recon_name="Pantylus_cordatus,Trachystegos_megalodon" recon_no="70439;320816">Pantylidae</List>
+		<List recon_name="Cardiocephalus_peabodyi,Cardiocephalus_sternbergi,Elfridia_bulbidens,Euryodus_dalyae,Euryodus_primus,Stegotretus_agyrus" recon_no="137293;90715;156879;227036;120864;227375">Gymnarthridae</List>
+		<List recon_name="Hapsidopareion_lepton,Llistrofus_pricei,Saxonerpeton_geinitzi" recon_no="90683;137291;338105">Hapsidopareiontidae</List>
 		<List recon_name="Microbrachis_pelikani" recon_no="227043">Microbrachis</List>
-		<List recon_name="Brachystelechidae" recon_no="37314">Brachystelechidae</List>
+		<List recon_name="Batropetes_fritschia,Carrolla_craddocki,Quasicaecilia_texana" recon_no="137990;227004;227373">Brachystelechidae</List>
 		<List recon_name="Rhynchonkos_stovalli" recon_no="340743">Rhynchonkos</List>
 		<List recon_name="Gymnophiona" recon_no="37332">Gymnophionomorpha</List>
-		<List recon_name="Salamandridae" recon_no="37393">Caudata</List>
-		<List recon_name="Salientia" recon_no="57094">Salientia</List>
+		<List recon_name="Caudata" recon_no="110708">Caudata</List>
+		<List recon_name="Triadobatrachus_massinoti" recon_no="156397">Salientia</List>
 		<List recon_name="Platyrhinops_lyelli" recon_no="345482">Platyrhinops</List>
 		<List recon_name="Amphibamus_grandiceps" recon_no="229305">Amphibamus</List>
 		<List recon_name="Tersomius_texensis" recon_no="90713">Tersomius</List>
 		<List recon_name="Doleserpeton_annectens" recon_no="140536">Doleserpeton</List>
 		<List recon_name="Micromelerpeton_credneri" recon_no="341560">Micromelerpeton</List>
-		<List recon_name="Brachydectes" recon_no="227167">Brachydectes</List>
+		<List recon_name="Brachydectes_newberryi" recon_no="229312">Brachydectes</List>
 		<List recon_name="Gerobatrachus_hottoni" recon_no="153288">Gerobatrachus</List>
 	</Taxa>
 	<Characters>

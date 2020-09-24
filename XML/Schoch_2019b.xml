@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <SourceTree>
 	<Source>
- 		<Author>
+		<Author>
 			<List>Schoch, R. R.</List>
 		</Author>
 		<Year>2019</Year>
@@ -13,7 +13,7 @@
 		<Publisher/>
 		<City/>
 		<Editor/>
- 	</Source>
+	</Source>
 	<Taxa number="29">
 		<List recon_name="Dendrysekos_helogenes" recon_no="336663">Dendrysekos_helogenes</List>
 		<List recon_name="Trimerorhachis_insignis" recon_no="90711">Trimerorhachis_insignis</List>
@@ -27,7 +27,7 @@
 		<List recon_name="Rhytidosteus_capensis" recon_no="251509">Rhytidosteus_capensis</List>
 		<List recon_name="Gerrothorax_pulcherrimus" recon_no="180698">Gerrothorax_pulcherrimus</List>
 		<List recon_name="Plagiosuchus_pustuliferus" recon_no="179398">Plagiosuchus_pustuliferus</List>
-		<List recon_name="DELETE" recon_no="-1">Capitosauria</List>
+		<List recon_name="Mastodonsaurus_giganteus" recon_no="150365">Capitosauria</List>
 		<List recon_name="Aphaneramma_rostratum" recon_no="266522">Aphaneramma_rostratum</List>
 		<List recon_name="Trematolestes_hagdorni" recon_no="179389">Trematolestes_hagdorni</List>
 		<List recon_name="Lyrocephaliscus_euri" recon_no="266625">Lyrocephaliscus_euri</List>

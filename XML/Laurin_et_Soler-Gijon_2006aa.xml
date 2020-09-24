@@ -16,17 +16,17 @@
 		<Editor/>
 	</Source>
 	<Taxa number="11">
-		<List recon_name="Baphetidae" recon_no="227378">Baphetidae</List>
-		<List recon_name="Colosteidae" recon_no="36975">Colosteidae</List>
-		<List recon_name="Cochleosaurus" recon_no="37001">Cochleosaurus</List>
-		<List recon_name="Chenoprosopus" recon_no="37000">Chenoprosopus</List>
-		<List recon_name="Edops" recon_no="37005">Edops</List>
-		<List recon_name="Dendrerpeton" recon_no="36995">Dendrerpeton</List>
-		<List recon_name="Balanerpeton" recon_no="227174">Balanerpeton</List>
-		<List recon_name="Trimerorhachis" recon_no="36991">Trimerorhachis</List>
-		<List recon_name="Capetus" recon_no="256952">Capetus</List>
-		<List recon_name="Sclerocephalus" recon_no="37015">Sclerocephalus</List>
-		<List recon_name="Eryops" recon_no="37011">Eryops</List>
+		<List recon_name="Baphetes_kirkbyi,Loxomma_acutirhinus,Loxomma_allmanni,Loxomma_rankini" recon_no="229310;334684;334683;334703">Baphetidae</List>
+		<List recon_name="Greererpeton_burkemorani,Pholidogaster_pisciformis" recon_no="227037;320855">Colosteidae</List>
+		<List recon_name="Cochleosaurus_florensis" recon_no="204062">Cochleosaurus</List>
+		<List recon_name="Chenoprosopus_lewisi" recon_no="204063">Chenoprosopus</List>
+		<List recon_name="Edops_craigi" recon_no="252444">Edops</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton</List>
+		<List recon_name="Trimerorhachis_insignis,Trimerorhachis_sandovalensis" recon_no="90711;345366">Trimerorhachis</List>
+		<List recon_name="Capetus_palustris" recon_no="256954">Capetus</List>
+		<List recon_name="Sclerocephalus_haeuseri,Sclerocephalus_jogischneideri" recon_no="255233;345848">Sclerocephalus</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops</List>
 	</Taxa>
 	<Characters>
 		<Molecular/>
