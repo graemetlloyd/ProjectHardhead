@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clack, J. A.</List>
+			<List>Ahlberg, P. E.</List>
+			<List>Blom, H.</List>
+			<List>Finney, S. M.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new genus of Devonian tetrapod from north-east Greenland, with new information on the lower jaw of <em>Ichthyostega</em></Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>55</Volume>
+		<Pages>73-86</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton</List>
+		<List recon_name="Baphetes_kirkbyi" recon_no="229310">Baphetes</List>
+		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrepeton</List>
+		<List recon_name="Densignathus_rowei" recon_no="256144">Densignathus</List>
+		<List recon_name="Elginerpeton_pancheni" recon_no="242709">Elginerpeton</List>
+		<List recon_name="Elpistostege_watsoni" recon_no="341858">Elpistostege</List>
+		<List recon_name="Eoherpeton_watsoni" recon_no="229321">Eoherpeton</List>
+		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greerepeton</List>
+		<List recon_name="Ichthyostega_stensioei" recon_no="229326">Ichthyostega</List>
+		<List recon_name="Metaxygnathus_denticulatus" recon_no="335531">Metaxygnathus</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
+		<List recon_name="Pederpes_finneyae" recon_no="179035">Pederpes</List>
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
+		<List recon_name="Silvanerpeton_miripedes" recon_no="243094">Silvanerpeton</List>
+		<List recon_name="Tiktaalik_roseae" recon_no="77136">Tiktaalik</List>
+		<List recon_name="Ventastega_curonica" recon_no="230696">Ventastega</List>
+		<List recon_name="Whatcheeria_deltae" recon_no="92128">Whatcheeria</List>
+		<List recon_name="Ymeria_denticulata" recon_no="256145">Ymeria</List>
+		<List recon_name="Tetrapoda_indet_ANSP_21350" recon_no="137279">ANSP_21350</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="115">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clack_etal_2012b</Filename>
+	<Parent>Callier_etal_2009a</Parent>
+	<Sibling/>
+</SourceTree>

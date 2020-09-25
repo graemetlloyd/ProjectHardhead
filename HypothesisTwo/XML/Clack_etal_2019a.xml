@@ -1,0 +1,96 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Clack, J. A.</List>
+			<List>Ruta, M.</List>
+			<List>Milner, A. R.</List>
+			<List>Marshall, J. E. A.</List>
+			<List>Smithson, T. R.</List>
+			<List>Smithson, K. Z.</List>
+		</Author>
+		<Year>2019</Year>
+		<Title><em>Acherontiscus caledoniae</em>: the earliest heterodont and durophagous tetrapod</Title>
+		<Journal>Royal Society Open Science</Journal>
+		<Volume>6</Volume>
+		<Pages>182087</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="57">
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Asaphestera_intermedia" recon_no="338119">Asaphestera</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton</List>
+		<List recon_name="Baphetes_kirkbyi" recon_no="229310">Baphetes</List>
+		<List recon_name="Diploradus_austiumensis" recon_no="348738">Diploradus</List>
+		<List recon_name="Ossirarus_kierani" recon_no="348736">Ossirarus</List>
+		<List recon_name="Caerorhachis_bairdi" recon_no="229315">Caerorhachis</List>
+		<List recon_name="Casineria_kiddi" recon_no="136422">Casineria</List>
+		<List recon_name="Colosteus_scutellatus" recon_no="344231">Colosteus</List>
+		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Doragnathus_woodi" recon_no="334443">Doragnathus</List>
+		<List recon_name="Discosauriscus_austriacus" recon_no="362531">Discosauriscus</List>
+		<List recon_name="Edops_craigi" recon_no="252444">Edops</List>
+		<List recon_name="Eoherpeton_watsoni" recon_no="229321">Eoherpeton</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops</List>
+		<List recon_name="Eucritta_melanolimnetes" recon_no="229324">Eucritta</List>
+		<List recon_name="Gephyrostegus_bohemicus,Gephyrostegus_watsoni" recon_no="137955;137954">Gephyrostegus</List>
+		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greererpeton</List>
+		<List recon_name="Hyloplesion_longicostatum" recon_no="340037">Hyloplesion</List>
+		<List recon_name="Ichthyostega_eigili,Ichthyostega_stensioei" recon_no="335600;229326">Ichthyostega</List>
+		<List recon_name="Loxomma_acutirhinus" recon_no="334684">Loxomma</List>
+		<List recon_name="Metaxygnathus_denticulatus" recon_no="335531">Metaxygnathus</List>
+		<List recon_name="Megalocephalus_pachycephalus" recon_no="345306">Megalocephalus</List>
+		<List recon_name="Microbrachis_pelikani" recon_no="227043">Microbrachis</List>
+		<List recon_name="Occidens_portlocki" recon_no="330459">Occidens</List>
+		<List recon_name="Ossinodus_pueri" recon_no="242725">Ossinodus</List>
+		<List recon_name="Paleothyris_acadiana" recon_no="138002">Paleothyris</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
+		<List recon_name="Pederpes_finneyae" recon_no="179035">Pederpes</List>
+		<List recon_name="Pholiderpeton_scutigerum" recon_no="229337">Pholiderpeton</List>
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
+		<List recon_name="Seymouria_baylorensis,Seymouria_sanjuanensis" recon_no="137488;93510">Seymouria</List>
+		<List recon_name="Sigournea_multidentata" recon_no="330701">Sigournea</List>
+		<List recon_name="Silvanerpeton_miripedes" recon_no="243094">Silvanerpeton</List>
+		<List recon_name="Tiktaalik_roseae" recon_no="77136">Tiktaalik</List>
+		<List recon_name="Tulerpeton_curtum" recon_no="230695">Tulerpeton</List>
+		<List recon_name="Ventastega_curonica" recon_no="230696">Ventastega</List>
+		<List recon_name="Westlothiana_lizziae" recon_no="179032">Westlothiana</List>
+		<List recon_name="Whatcheeria_deltae" recon_no="92128">Whatcheeria</List>
+		<List recon_name="Koilops_herma" recon_no="348734">Koilops</List>
+		<List recon_name="Ymeria_denticulata" recon_no="256145">Ymeria</List>
+		<List recon_name="Perittodus_apsconditus" recon_no="348732">Perittodus</List>
+		<List recon_name="Aytonerpeton_microps" recon_no="348740">Aytonerpeton</List>
+		<List recon_name="Acherontiscus_caledoniae" recon_no="229304">Acherontiscus</List>
+		<List recon_name="Adelogyrinus_simorhynchus" recon_no="227001">Adelogyrinus</List>
+		<List recon_name="Adelospondylus_watsoni" recon_no="229306">Adelospondylus</List>
+		<List recon_name="Dolichopareias_disjectus" recon_no="229319">Dolichopareias</List>
+		<List recon_name="Ptyonius_marshii" recon_no="340038">Ptyonius</List>
+		<List recon_name="Sauropleura_bairdi,Sauropleura_pectinata,Sauropleura_scalaris" recon_no="227053;230692;338169">Sauropleura</List>
+		<List recon_name="Urocordylus_wandesfordii" recon_no="227065">Urocordylus</List>
+		<List recon_name="Lethiscus_stocki" recon_no="229330">Lethiscus</List>
+		<List recon_name="Oestocephalus_amphiuminum" recon_no="230699">Oestocephalus</List>
+		<List recon_name="Tetrapoda_indet_MB_dot_Am_dot_1441" recon_no="137279">StLouisTetrapod</List>
+		<List recon_name="Elginerpeton_pancheni" recon_no="242709">Elginerpeton</List>
+		<List recon_name="Densignathus_rowei" recon_no="256144">Densignathus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="260">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Clack_etal_2019a</Filename>
+	<Parent>Clack_etal_2016a</Parent>
+	<Sibling/>
+</SourceTree>

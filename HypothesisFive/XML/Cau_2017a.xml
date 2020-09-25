@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cau, A.</List>
+		</Author>
+		<Year>2017</Year>
+		<Title>Specimen-level phylogenetics in paleontology using the Fossilized Birth-Death model with sampled ancestors</Title>
+		<Journal>PeerJ</Journal>
+		<Volume>5</Volume>
+		<Pages>e3055</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="53">
+		<List recon_name="DELETE" recon_no="-1">ZPAL_ABbIII2393_P_roemeri_219</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21920_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21913_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21912_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21914_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21915_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21916_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21917_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21918_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21919_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21921_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21922_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21923_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21924_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21925_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21926_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21927_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21928_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21929_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21930_107</List>
+		<List recon_name="DELETE" recon_no="-1">MGGC_21931_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD1_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD2_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD3_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD4_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD5_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD6_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD7_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD8_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD9_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD10_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD11_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD12_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD13_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD14_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD15_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD16_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD17_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD18_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD19_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD20_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD21_107</List>
+		<List recon_name="DELETE" recon_no="-1">ONM_NG_EMD22_107</List>
+		<List recon_name="DELETE" recon_no="-1">CPHNAMA_VT830_E_schultzei_97</List>
+		<List recon_name="DELETE" recon_no="-1">CPHNAMA_VT831_E_schultzei_97</List>
+		<List recon_name="DELETE" recon_no="-1">ROM_47626_L_humei_83</List>
+		<List recon_name="DELETE" recon_no="-1">ROM_47627_L_humei_83</List>
+		<List recon_name="DELETE" recon_no="-1">UFMA_1_40_454_A_tiguidiensis_97</List>
+		<List recon_name="DELETE" recon_no="-1">HGS_64_A_tiguidiensis_119</List>
+		<List recon_name="DELETE" recon_no="-1">HGN51_N_africanus_119</List>
+		<List recon_name="DELETE" recon_no="-1">HGS115_N_africanus_119</List>
+		<List recon_name="DELETE" recon_no="-1">1_13_12217_F_jurassicus_169</List>
+		<List recon_name="DELETE" recon_no="-1">MGCT_644_C_africanus_151</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="45">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cau_2017a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

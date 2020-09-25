@@ -1,0 +1,30 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=17 NCHAR=14;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Outgroup                      00000000000000
+Baphetes                      00000000000001
+Loxomma                       00000000000001
+Eucritta                      00000000000011
+Edops                         00000000001111
+Dendrerpeton                  00000000110111
+Balanerpeton                  00000000110111
+Procochleosaurus              00000001001111
+Adamanterpeton                00000011001111
+Cochleosaurus_bohemicus       00001111001111
+Cochleosaurus_florensis       00001111001111
+Chenoprosopus_milleri         00010111001111
+Chenoprosopus_lewisi          00010111001111
+Acanthostomatops              01100000010111
+Zatrachys                     01100000010111
+Trimerorhachis_sandovalensis  10100000010111
+Trimerorhachis_insignis       10100000010111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

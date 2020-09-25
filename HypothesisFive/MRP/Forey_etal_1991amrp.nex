@@ -1,0 +1,22 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=9 NCHAR=12;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Actinopterygians  000000000000
+Eusthenopteron    000000000011
+Panderichthys     000000011101
+Porolepiforms     000001111101
+Youngolepis       000011111101
+Diabolepis        011110101111
+Lungfishes        111110101111
+Coelacanths       101110101111
+Tetrapods         000100000111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

@@ -1,0 +1,33 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=18 NCHAR=17;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Cochelosaurus_bohemicus        00000000000000000
+Dendererpeton_acadianum        11000000000000000
+Trimerorhachis_insgnis         11100000000000000
+Capetus_palustris              01000000000000000
+Micropholis_stowi              11111100000000011
+Ecolsonia_cutlerensis          11111100000000011
+Acanthostomatops_vorax         11101100000000011
+Iberospondylus_schultzei       11100100000000011
+Eryops_megacephalus            11100111110000001
+Onchiodon_labyrinthicus        11100111110000001
+Onchiodon_frossardi            11100101110000001
+Sclerocephalus_bavaricus       11100100111100001
+Sclerocephalus_haeuseri        11100100111110001
+Sclerocephalus_nobilis         11100100111111001
+Sclerocephalus_jogischneideri  11100100111111001
+Cheliderpeton_latirostre       11100100110100101
+Archegosaurus_decheni          11100100110100101
+Palatinerpeton_kraetschmeri    11100100010000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

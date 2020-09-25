@@ -1,0 +1,24 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=10 NCHAR=22 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Callistomordax_kugleri       0000000000000000000000
+Panthasaurus_maleriensis     1111111111111100000000
+Metoposaurus_diagnosticus    1111111111000011111000
+Metoposaurus_krasiejowensis  1111111110000011110100
+Metoposaurus_algarvensis     1111111000100011001100
+Koskinonodon_bakeri          1110000100010000100010
+Koskinonodon_perfectus       1111100100111100000001
+Koskinonodon_howardensis     1111110100111010000001
+Apachesaurus_gregorii        1000000000000000000000
+Dutuitosaurus_ouazzoui       1101000100010000100010
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

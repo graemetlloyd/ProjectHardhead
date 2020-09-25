@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhu, M.</List>
+			<List>Yu, X.-B.</List>
+			<List>Lu, J.</List>
+			<List>Qiao, T.</List>
+			<List>Zhao, W.-J.</List>
+			<List>Jia, L.-T.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Earliest known coelacanth skull extends the range of anatomically modern coelacanths to the Early Devonian</Title>
+		<Journal>Nature Communications</Journal>
+		<Volume>3</Volume>
+		<Pages>772</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="29">
+		<List recon_name="Mimia_toombsi" recon_no="218914">Actinopterygii</List>
+		<List recon_name="Glyptolepis_groenlandica,Holoptychius_nobilissimus,Porolepis_sp_SMC_5554" recon_no="417062;260041;34947">Porolepiformes</List>
+		<List recon_name="Allenypterus_montanus" recon_no="199158">Allenypterus</List>
+		<List recon_name="Axelrodichthys_araripensis" recon_no="134538">Axelrodichthys</List>
+		<List recon_name="Caridosuctor_populosum" recon_no="199153">Caridosuctor</List>
+		<List recon_name="Chinlea_sorenseni" recon_no="249590">Chinlea</List>
+		<List recon_name="Coccoderma_bavaricum,Coccoderma_gigas,Coccoderma_seuvicum,Coccoderma_substriolatum" recon_no="320898;320899;320871;320900">Coccoderma</List>
+		<List recon_name="Coelacanthus_granulatus,Coelacanthus_lunzensis,Coelacanthus_welleri" recon_no="149735;320901;320902">Coelacanthus</List>
+		<List recon_name="Diplocercides_davisi,Diplocercides_heiligenstockiensis,Diplocercides_jaekeli,Diplocercides_kayseri" recon_no="320874;226296;320873;226297">Diplocercides</List>
+		<List recon_name="Diplurus_longicaudatus,Diplurus_newarki" recon_no="320875;320876">Diplurus</List>
+		<List recon_name="Euporosteus_eifeliensis" recon_no="320903">Euporosteus</List>
+		<List recon_name="Gavinia_syntrips" recon_no="329096">Gavinia</List>
+		<List recon_name="Garnbergia_ommata" recon_no="259492">Garnbergia</List>
+		<List recon_name="Hadronector_donbairdi" recon_no="199156">Hadronector</List>
+		<List recon_name="Holophagus_gulo" recon_no="99727">Holophagus</List>
+		<List recon_name="Holopterygius_nudus" recon_no="416166">Holopterygius</List>
+		<List recon_name="Latimeria_chalumnae" recon_no="320877">Latimeria</List>
+		<List recon_name="Laugia_groenlandica" recon_no="205719">Laugia</List>
+		<List recon_name="Libys_polypterus" recon_no="262178">Libys</List>
+		<List recon_name="Lochmocercus_aciculodontus" recon_no="199159">Lochmocercus</List>
+		<List recon_name="Macropoma_lewesiensis,Macropoma_precursor,Macropoma_willemoesii" recon_no="320878;320879;320907">Macropoma</List>
+		<List recon_name="Mawsonia_gigas,Mawsonia_lavocati,Mawsonia_libyca,Mawsonia_tegamensis,Mawsonia_ubangiensis" recon_no="68075;320881;320882;193977;320883">Mawsonia</List>
+		<List recon_name="Miguashaia_bureaui" recon_no="320884">Miguashaia</List>
+		<List recon_name="Polyosteorhynchus_simplex" recon_no="199157">Polyosteorhynchus</List>
+		<List recon_name="Rhabdoderma_alderingi,Rhabdoderma_ardrossense,Rhabdoderma_elegans,Rhabdoderma_exiguum,Rhabdoderma_huxleyi,Rhabdoderma_madagascariensis,Rhabdoderma_newelli,Rhabdoderma_tinglyense" recon_no="320889;320887;320885;320892;320888;320890;320891;320886">Rhabdoderma</List>
+		<List recon_name="Sassenia_groenlandica,Sassenia_tuberculata" recon_no="320893;204784">Sassenia</List>
+		<List recon_name="Spermatodus_pustulosus" recon_no="137511">Spermatodus</List>
+		<List recon_name="Undina_barroviensis,Undina_cirinensis,Undina_grandis,Undina_penicillata,Undina_purbeckensis" recon_no="209407;320894;320911;99879;99880">Undina</List>
+		<List recon_name="Whiteia_africanus,Whiteia_nielseni,Whiteia_tuberculata,Whiteia_woodwardi" recon_no="320896;320895;276066;276065">Whiteia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="115">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhu_etal_2012a</Filename>
+	<Parent>Friedman_et_Coates_2006a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schoch, R. R.</List>
+		</Author>
+		<Year>2008</Year>
+		<Title>A new stereospondyl from the German Middle Triassic, and the origin of the Metoposauridae</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>152</Volume>
+		<Pages>79-113</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Trimerorhachis_insignis" recon_no="90711">Trimerorhachis</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus</List>
+		<List recon_name="Rhineceps_nyasaensis,Uranocentrodon_senekalensis" recon_no="267022;255236">Rhinesuchidae</List>
+		<List recon_name="Lydekkerina_huxleyi" recon_no="255237">Lydekkerina</List>
+		<List recon_name="Siderops_kehli" recon_no="251254">Siderops</List>
+		<List recon_name="Batrachosuchus_browni,Batrachosuchus_henwoodi,Batrachosuchus_watsoni" recon_no="150351;251459;251465">Batrachosuchus</List>
+		<List recon_name="Laidleria_gracilis" recon_no="251506">Laidleria</List>
+		<List recon_name="Rhytidosteus_capensis,Deltasaurus_kimberleyensis,Peltostega_erici,Trucheosaurus_major" recon_no="251509;251512;251517;251500">Rhytidosteidae</List>
+		<List recon_name="Gerrothorax_pulcherrimus" recon_no="180698">Gerrothorax</List>
+		<List recon_name="Plagiosuchus_pustuliferus" recon_no="179398">Plagiosuchus</List>
+		<List recon_name="Mastodonsaurus_giganteus" recon_no="150365">Capitosauroidea</List>
+		<List recon_name="Aphaneramma_rostratum" recon_no="266522">Aphaneramma</List>
+		<List recon_name="Trematolestes_hagdorni" recon_no="179389">Trematolestes</List>
+		<List recon_name="Lyrocephaliscus_euri" recon_no="266625">Lyrocephaliscus</List>
+		<List recon_name="Rileymillerus_cosgriffi" recon_no="144439">Rileymillerus</List>
+		<List recon_name="Almasaurus_habbazi" recon_no="71421">Almasaurus</List>
+		<List recon_name="Dutuitosaurus_ouazzoui,Buettneria_perfecta,Metoposaurus_diagnosticus" recon_no="366396;100583;130942">Metoposauridae</List>
+		<List recon_name="Callistomordax_kugleri" recon_no="174472">Callistomordax</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="100">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schoch_2008a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

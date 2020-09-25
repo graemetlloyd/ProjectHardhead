@@ -1,0 +1,33 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=18 NCHAR=16 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Discoglossus       0000000000000000
+Pelobates          1100000000000000
+Rhinophrynus       1111000000000000
+Chelomophrynus     1111000000000000
+Palaeobatrachus    1010110000000000
+Xenopus            1010111111110000
+Silurana           1010111111110000
+Shelania_pascuali  1010111111000000
+Shelania_laurenti  1010111111101000
+Pipa               1010111100000111
+Hymenochirini      1010111100000111
+Eoxenopoides       1010111100000100
+Saltenia           1010111110000000
+Xenopus_romeri     1010111111101000
+Thoraciliacus      1010111000000000
+Vulcanobatrachus   1010111100000110
+Cordicephalus      1010100000000000
+Llankibatrachus    1010111111101000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ 	TYPESET * UNTITLED  = unord: 1-16;
+END;
+

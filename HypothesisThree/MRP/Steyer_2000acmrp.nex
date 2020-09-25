@@ -1,0 +1,19 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=6 NCHAR=5;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Dendrerpeton      00000
+Acanthostomatops  00011
+Cheliderpeton     01101
+Onchiodon         00111
+Apateon           11101
+Parotosuchus      11101
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

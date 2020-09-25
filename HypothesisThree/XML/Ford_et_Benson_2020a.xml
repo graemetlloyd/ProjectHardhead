@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ford, D. F.</List>
+			<List>Benson, R. B. J.</List>
+		</Author>
+		<Year>2020</Year>
+		<Title>The phylogeny of early amniotes and the affinities of Parareptilia and Varanopidae</Title>
+		<Journal>Nature Ecology &amp; Evolution</Journal>
+		<Volume>4</Volume>
+		<Pages>57-65</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="70">
+		<List recon_name="Gephyrostegus_bohemicus" recon_no="137955">Gephyrostegus_bohemicus</List>
+		<List recon_name="Seymouria_baylorensis,Seymouria_grandis,Seymouria_sanjuanensis" recon_no="137488;346166;93510">Seymouria_spp</List>
+		<List recon_name="Tseajaia_campi" recon_no="120742">Tseajaia_campi</List>
+		<List recon_name="Limnoscelis_paludis" recon_no="113848">Limnoscelis_paludis</List>
+		<List recon_name="Oedaleops_campi" recon_no="122198">Oedaleops_campi</List>
+		<List recon_name="Eothyris_parkeyi" recon_no="122195">Eothyris_parkeyi</List>
+		<List recon_name="Vaughnictis_smithae" recon_no="345992">Vaughnictis_smithae</List>
+		<List recon_name="Eocasea_martini" recon_no="292123">Eocasea_martini</List>
+		<List recon_name="Euromycter_rutena" recon_no="345996">Euromycter_rutena</List>
+		<List recon_name="Casea_broilii" recon_no="113850">Casea_broilii</List>
+		<List recon_name="Ennatosaurus_tecton" recon_no="122314">Ennatosaurus_tecton</List>
+		<List recon_name="Echinerpeton_intermedium" recon_no="123515">Echinerpeton_intermedium</List>
+		<List recon_name="Archaeothyris_florensis" recon_no="122328">Archaeothyris_florensis</List>
+		<List recon_name="Varanosaurus_acutirostris" recon_no="137915">Varanosaurus_acutirostris</List>
+		<List recon_name="DELETE" recon_no="-1">Ophiacodon_spp</List>
+		<List recon_name="Cutleria_wilmarthi" recon_no="138249">Cutleria_wilmarthi</List>
+		<List recon_name="Pantelosaurus_saxonicus" recon_no="138246">Pantelosaurus_saxonicus</List>
+		<List recon_name="Haptodus_garnettensis" recon_no="122358">Haptodus_garnettensis</List>
+		<List recon_name="Secodontosaurus_obtusidens" recon_no="346266">Secodontosaurus_obtusidens</List>
+		<List recon_name="DELETE" recon_no="-1">Dimetrodon_spp</List>
+		<List recon_name="Ianthasaurus_hardestiorum" recon_no="138234">Ianthasaurus_hardestiorum</List>
+		<List recon_name="Edaphosaurus_boanerges" recon_no="122352">Edaphosaurus_boanerges</List>
+		<List recon_name="Hylonomus_lyelli" recon_no="139093">Hylonomus_lyelli</List>
+		<List recon_name="Anthracodromeus_longipes" recon_no="137951">Anthracodromeus_longipes</List>
+		<List recon_name="Paleothyris_acadiana" recon_no="138002">Paleothyris_acadiana</List>
+		<List recon_name="Protorothyris_archeri" recon_no="135430">Protorothyris_archeri</List>
+		<List recon_name="Petrolacosaurus_kansensis" recon_no="138231">Petrolacosaurus_kansensis</List>
+		<List recon_name="Araeoscelis_casei,Araeoscelis_gracilis" recon_no="138984;113849">Araeoscelis_spp</List>
+		<List recon_name="Orovenator_mayorum" recon_no="64877">Orovenator_mayorum</List>
+		<List recon_name="Archaeovenator_hamiltonensis" recon_no="138746">Archaeovenator_hamiltonensis</List>
+		<List recon_name="Ascendonanus_nestleri" recon_no="371892">Ascendonanus_nestleri</List>
+		<List recon_name="Aerosaurus_wellesi" recon_no="122318">Aerosaurus_wellesi</List>
+		<List recon_name="Apsisaurus_witteri" recon_no="138856">Apsisaurus_witteri</List>
+		<List recon_name="Heleosaurus_scholtzi" recon_no="138659">Heleosaurus_scholtzi</List>
+		<List recon_name="Mesenosaurus_romeri" recon_no="141851">Mesenosaurus_romeri</List>
+		<List recon_name="Mycterosaurus_longiceps" recon_no="122319">Mycterosaurus_longiceps</List>
+		<List recon_name="Elliotsmithia_longiceps" recon_no="140622">Elliotsmithia_longiceps</List>
+		<List recon_name="Varanops_brevirostris" recon_no="419785">Varanops_brevirostris</List>
+		<List recon_name="Varanodon_agilis" recon_no="120891">Varanodon_agilis</List>
+		<List recon_name="Watongia_meieri" recon_no="141909">Watongia_meieri</List>
+		<List recon_name="Youngina_capensis" recon_no="77037">Youngina_capensis</List>
+		<List recon_name="Acerosodontosaurus_piveteaui" recon_no="157602">Acerosodontosaurus_piveteaui</List>
+		<List recon_name="Lanthanolania_ivakhnenkoi" recon_no="138329">Lanthanolania_ivakhnenkoi</List>
+		<List recon_name="Claudiosaurus_germaini" recon_no="138614">Claudiosaurus_germaini</List>
+		<List recon_name="Prolacerta_broomi" recon_no="138933">Prolacerta_broomi</List>
+		<List recon_name="Proterosuchus_alexanderi,Proterosuchus_fergusi,Proterosuchus_goweri" recon_no="347438;184525;347439">Proterosuchus_spp</List>
+		<List recon_name="Thuringothyris_mahlendorffae" recon_no="137223">Thuringothyris_mahlendorffae</List>
+		<List recon_name="Captorhinus_aguti" recon_no="90718">Captorhinus_aguti</List>
+		<List recon_name="Captorhinus_laticeps" recon_no="134970">Captorhinus_laticeps</List>
+		<List recon_name="Labidosaurikos_meachami" recon_no="119515">Labidosaurikos_meachami</List>
+		<List recon_name="Labidosaurus_hamatus" recon_no="134918">Labidosaurus_hamatus</List>
+		<List recon_name="Protocaptorhinus_pricei" recon_no="135429">Protocaptorhinus_pricei</List>
+		<List recon_name="Romeria_prima,Romeria_texana" recon_no="135432;134834">Romeria_spp</List>
+		<List recon_name="Euconcordia_cunninghami" recon_no="348715">Euconcordia_cunninghami</List>
+		<List recon_name="Reiszorhinus_olsoni" recon_no="204031">Reiszorhinus_olsoni</List>
+		<List recon_name="Eudibamus_cursoris" recon_no="137225">Eudibamus_cursoris</List>
+		<List recon_name="Mesosaurus_tenuidens" recon_no="149291">Mesosaurus_tenuidens</List>
+		<List recon_name="Stereosternum_tumidum" recon_no="148205">Stereosternum_tumidum</List>
+		<List recon_name="Erpetonyx_arsenaultorum" recon_no="324114">Erpetonyx_arsenaultorum</List>
+		<List recon_name="Belebey_vegrandis" recon_no="137776">Belebey_vegrandis</List>
+		<List recon_name="Macroleter_poezicus" recon_no="120852">Macroleter_poezicus</List>
+		<List recon_name="Milleretta_rubidgei" recon_no="148135">Milleretta_rubidgei</List>
+		<List recon_name="Acleistorhinus_pteroticus" recon_no="90735">Acleistorhinus_pteroticus</List>
+		<List recon_name="Colobomycter_pholeter" recon_no="123513">Colobomycter_pholeter</List>
+		<List recon_name="Nyctiphruretus_acudens" recon_no="139947">Nyctiphruretus_acudens</List>
+		<List recon_name="Emeroleter_levis" recon_no="120745">Emeroleter_levis</List>
+		<List recon_name="Deltavjatia_rossicus" recon_no="362422">Deltavjatia_rossicus</List>
+		<List recon_name="Procolophon_trigoniceps" recon_no="56758">Procolophon_trigoniceps</List>
+		<List recon_name="Candelaria_barbouri" recon_no="158939">Candelaria_barbouri</List>
+		<List recon_name="Owenetta_kitchingorum" recon_no="121092">Owenetta_kitchingorum</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="294">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ford_et_Benson_2020a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

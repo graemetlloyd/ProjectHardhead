@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Ruta, M.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Phylogenetic signal and character compatability in the appendicular skeleton of early tetrapods</Title>
+		<Journal>Special Papers in Palaeontology</Journal>
+		<Volume>86</Volume>
+		<Pages>31-43</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="44">
+		<List recon_name="Onychodus_jandemarrai" recon_no="419069">Onychodus</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Archeria_crassidisca" recon_no="345353">Archeria</List>
+		<List recon_name="Asaphestera_intermedia" recon_no="338119">Asaphestera</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton</List>
+		<List recon_name="Baphetes_kirkbyi" recon_no="229310">Baphetes</List>
+		<List recon_name="Barameda_decipiens" recon_no="250699">Barameda</List>
+		<List recon_name="Caerorhachis_bairdi" recon_no="229315">Caerorhachis</List>
+		<List recon_name="Tetrapoda_indet_ANSP_21350" recon_no="137279">Catskill_humerus</List>
+		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Eoherpeton_watsoni" recon_no="229321">Eoherpeton</List>
+		<List recon_name="Eucritta_melanolimnetes" recon_no="229324">Eucritta</List>
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
+		<List recon_name="Glyptolepis_groenlandica" recon_no="417062">Glyptolepis</List>
+		<List recon_name="Gogonasus_andrewsae" recon_no="242714">Gogonasus</List>
+		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greererpeton</List>
+		<List recon_name="Hynerpeton_bassetti" recon_no="295095">Hynerpeton</List>
+		<List recon_name="Ichthyostega_stensioei" recon_no="229326">Ichthyostega</List>
+		<List recon_name="Marsdenichthys_longioccipitus" recon_no="242718">Marsdenichthys</List>
+		<List recon_name="Medoevia_lata" recon_no="401387">Medoevia</List>
+		<List recon_name="Megalichthys_hibberti" recon_no="245717">Megalichthys</List>
+		<List recon_name="Ossinodus_pueri" recon_no="242725">Ossinodus</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
+		<List recon_name="Pederpes_finneyae" recon_no="179035">Pederpes</List>
+		<List recon_name="Pholiderpeton_scutigerum" recon_no="229337">Pholiderpeton</List>
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
+		<List recon_name="Ptyonius_marshii" recon_no="340038">Ptyonius</List>
+		<List recon_name="Rhizodopsis_sauroides" recon_no="419114">Rhizodopsis</List>
+		<List recon_name="Rhizodus_hibberti" recon_no="245848">Rhizodus</List>
+		<List recon_name="Sauripterus_taylori" recon_no="250270">Sauripterus</List>
+		<List recon_name="Sauropleura_pectinata,Sauropleura_scalaris" recon_no="230692;338169">Sauropleura</List>
+		<List recon_name="Saxonerpeton_geinitzi" recon_no="338105">Saxonerpeton</List>
+		<List recon_name="Scincosaurus_crassus" recon_no="230694">Scincosaurus</List>
+		<List recon_name="Silvanerpeton_miripedes" recon_no="243094">Silvanerpeton</List>
+		<List recon_name="Sterropterygion_brandei" recon_no="295104">Sterropterygion</List>
+		<List recon_name="Strepsodus_sauroides" recon_no="245660">Strepsodus</List>
+		<List recon_name="Tiktaalik_roseae" recon_no="77136">Tiktaalik</List>
+		<List recon_name="Trimerorhachis_insignis" recon_no="90711">Trimerorhachis</List>
+		<List recon_name="Tuditanus_punctulatus" recon_no="227062">Tuditanus</List>
+		<List recon_name="Tulerpeton_curtum" recon_no="230695">Tulerpeton</List>
+		<List recon_name="Urocordylus_wandesfordii" recon_no="227065">Urocordylus</List>
+		<List recon_name="Westlothiana_lizziae" recon_no="179032">Westlothiana</List>
+		<List recon_name="Whatcheeria_deltae" recon_no="92128">Whatcheeria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="157">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Ruta_2011a</Filename>
+	<Parent>Ruta_et_Coates_2007a</Parent>
+	<Sibling/>
+</SourceTree>

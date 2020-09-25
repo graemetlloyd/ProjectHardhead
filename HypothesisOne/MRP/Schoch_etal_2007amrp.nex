@@ -1,0 +1,34 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=19 NCHAR=17;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Dendrerpeton_acadianum         00000000000000000
+Balanerpeton_woodi             10000000000000000
+Dissorophidae                  11110000000000000
+Zatrachydidae                  11110000000000000
+Eryopidae                      10110000000000000
+Sclerocephalus_haeuseri        10011000000000000
+Peltobatrachus_pustulatus      10011100000000000
+Australerpeton_cosgriffi       10011110000000000
+Uranocentrodon_senekalensis    10011111000000000
+Lydekkerina_huxleyi            10011111100000000
+Laidleria_gracilis             10011111111111000
+Siderops_kehli                 10011111101111000
+Gerrothorax_pustuloglomeratus  10011111111111000
+Sclerothorax_hypselonotus      10011111100011100
+Paracyclotosaurus_davidi       10011111100011110
+Mastodonsaurus_giganteus       10011111100011110
+Benthosuchus                   10011111100001000
+Trematolestes_hagdorni         10011111100111001
+Metoposauridae                 10011111100111001
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

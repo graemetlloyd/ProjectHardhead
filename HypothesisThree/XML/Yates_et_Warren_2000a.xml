@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Yates, A. M.</List>
+			<List>Warren, A. A.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>The phylogeny of the 'higher' temnospondyls (Vertebrata: Choanata) and its implications for the monophyly and origins of the Stereospondyli</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>128</Volume>
+		<Pages>77-121</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="38">
+		<List recon_name="DELETE" recon_no="0">Ancestor</List>
+		<List recon_name="Isodectes_obtusus" recon_no="137434">Isodectes</List>
+		<List recon_name="Acroplous_vorax" recon_no="255215">Acroplous</List>
+		<List recon_name="Dvinosaurus_primus" recon_no="56905">Dvinosaurus</List>
+		<List recon_name="Tupilakosaurus_heilmani,Tupilakosaurus_wetlugensis" recon_no="172842;255216">Tupilakosaurus</List>
+		<List recon_name="Trimerorhachis_insignis,Trimerorhachis_mesops" recon_no="90711;345111">Trimerorachis</List>
+		<List recon_name="Neldasaurus_wrightae" recon_no="229335">Neldasaurus</List>
+		<List recon_name="Tersomius_mosesi,Tersomius_texensis" recon_no="90714;90713">Tersomius</List>
+		<List recon_name="Phonerpeton_pricei,Phonerpeton_sp_MCZ_2475" recon_no="345308;230700">Trematopidae</List>
+		<List recon_name="Broiliellus_brevis" recon_no="229313">Dissorophus</List>
+		<List recon_name="Eryops_megacephalus,Eryops_sp_MCZ_7765,Eryops_sp_MCZ_1793,Eryops_sp_AMNH_43149" recon_no="70397;37011;37011;37011">Eryops</List>
+		<List recon_name="Zatrachys_serratus" recon_no="255221">Zatrachydidae</List>
+		<List recon_name="Sclerocephalus_haeuseri,Sclerocephalus_jogischneideri" recon_no="255233;345848">Sclerocephalus</List>
+		<List recon_name="Cheliderpeton_latirostre" recon_no="345886">Cheliderpeton</List>
+		<List recon_name="Archegosaurus_decheni" recon_no="255841">Archegosaurus</List>
+		<List recon_name="Platyoposaurus_stuckenbergi" recon_no="142452">Platyoposaurus</List>
+		<List recon_name="Konzhukovia_vetusta" recon_no="357495">Konzhukovia</List>
+		<List recon_name="Peltobatrachus_pustulatus" recon_no="367348">Peltobatrachus</List>
+		<List recon_name="Rhineceps_nyasaensis,Rhinesuchus_whaitsi,Uranocentrodon_senekalensis" recon_no="267022;266926;255236">Rhinesuchidae</List>
+		<List recon_name="Lydekkerina_huxleyi" recon_no="255237">Lydekkerina</List>
+		<List recon_name="Luzocephalus_blomi" recon_no="266414">Luzocephalus</List>
+		<List recon_name="Lapillopsis_nana" recon_no="150341">Lapillopsis</List>
+		<List recon_name="Edingerella_madagascariensis,Warrenisuchus_aliciae,Watsonisuchus_gunganj,Watsonisuchus_rewanensis" recon_no="251497;266682;251275;251276">Capitosauridae</List>
+		<List recon_name="Mastodonsaurus_giganteus" recon_no="150365">Mastodonsaurus</List>
+		<List recon_name="Benthosuchus_sushkini" recon_no="269989">Benthosuchus</List>
+		<List recon_name="Thoosuchus_yakovlevi" recon_no="362936">Thoosuchus</List>
+		<List recon_name="Cosgriffius_campi" recon_no="165271">Trematosauridae</List>
+		<List recon_name="Almasaurus_habbazi" recon_no="71421">Almasaurus</List>
+		<List recon_name="Buettneria_perfecta" recon_no="100583">Buettneria</List>
+		<List recon_name="Laidleria_gracilis" recon_no="251506">Laidleria</List>
+		<List recon_name="Plagiosternum_granulosum" recon_no="252572">Plagiosauridae</List>
+		<List recon_name="Derwentia_warreni,Rewana_myriadens,Rewana_quadricuneata,Rhytidosteidae_indet_QM_F14490" recon_no="251504;251284;251267;37110">Rhytidosteidae</List>
+		<List recon_name="Xenobrachyops_allos" recon_no="251266">Xenobrachyops</List>
+		<List recon_name="Batrachosuchus_concordi,Batrachosuchus_henwoodi" recon_no="172485;251459">Batrachosuchus</List>
+		<List recon_name="Siderops_kehli" recon_no="251254">Siderops</List>
+		<List recon_name="Keratobrachyops_australis" recon_no="251264">Keratobrachyops</List>
+		<List recon_name="Pelorocephalus_cacheutensis,Pelorocephalus_mendozensis,Pelorocephalus_tenax" recon_no="251478;251472;251476">Pelorocephalus</List>
+		<List recon_name="Thabanchuia_oomie" recon_no="242829">Thabanchuia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="121">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Yates_et_Warren_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

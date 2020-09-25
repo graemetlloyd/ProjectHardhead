@@ -1,0 +1,100 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Maddin, H. C.</List>
+			<List>Jenkins, F. A.</List>
+			<List>Anderson, J. S.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The braincase of <em>Eocaecilia micropodia</em> (Lissamphibia, Gymnophiona) and the origin of caecilians</Title>
+		<Journal>PLoS One</Journal>
+		<Volume>7</Volume>
+		<Pages>e50743</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="64">
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Tuditanus_punctulatus" recon_no="227062">Tuditanus</List>
+		<List recon_name="Asaphestera_intermedia" recon_no="338119">Asaphestera</List>
+		<List recon_name="Hapsidopareion_lepton" recon_no="90683">Hapsidopareion</List>
+		<List recon_name="Saxonerpeton_geinitzi" recon_no="338105">Saxonerpeton</List>
+		<List recon_name="Pantylus_cordatus" recon_no="70439">Pantylus</List>
+		<List recon_name="Cardiocephalus_sternbergi" recon_no="90715">Cardiocephalus_sternbergi</List>
+		<List recon_name="Cardiocephalus_peabodyi" recon_no="137293">Cardiocephalus_peabodyi</List>
+		<List recon_name="Euryodus_primus" recon_no="120864">Euryodus_primus</List>
+		<List recon_name="Euryodus_dalyae" recon_no="227036">Euryodus_dalyae</List>
+		<List recon_name="Pelodosotis_elongatum" recon_no="150625">Pelodosotis</List>
+		<List recon_name="Micraroter_erythrogeios" recon_no="90684">Micraroter</List>
+		<List recon_name="Rhynchonkos_stovalli" recon_no="340743">Rhynchonkos</List>
+		<List recon_name="Eocaecilia_micropodia" recon_no="156677">Eocaecilia</List>
+		<List recon_name="Microbrachis_pelikani" recon_no="227043">Microbrachis</List>
+		<List recon_name="Batropetes_fritschia" recon_no="137990">Batropetes</List>
+		<List recon_name="Utaherpeton_franklini" recon_no="227377">Utaherpeton</List>
+		<List recon_name="Stegotretus_agyrus" recon_no="227375">Stegotretus</List>
+		<List recon_name="Sauropleura_scalaris" recon_no="338169">Sauropleura_scalaris</List>
+		<List recon_name="Ptyonius_marshii" recon_no="340038">Ptyonius</List>
+		<List recon_name="Urocordylus_wandesfordii" recon_no="227065">Urocordylus</List>
+		<List recon_name="Keraterpeton_galvani" recon_no="227370">Keraterpeton_galvani</List>
+		<List recon_name="Batrachiderpeton_reticulatum" recon_no="340055">Batrachiderpeton</List>
+		<List recon_name="Diceratosaurus_brevirostris" recon_no="340056">Diceratosaurus</List>
+		<List recon_name="Diplocaulus_magnicornis" recon_no="81712">Diplocaulus_magnicornis</List>
+		<List recon_name="Diploceraspis_burkei" recon_no="227035">Diploceraspis</List>
+		<List recon_name="Scincosaurus_crassus" recon_no="230694">Scincosaurus</List>
+		<List recon_name="Brachydectes_elongatus,Brachydectes_newberryi" recon_no="229311;229312">Brachydectes</List>
+		<List recon_name="Adelogyrinus_simorhynchus" recon_no="227001">Adelogyrinus</List>
+		<List recon_name="Oestocephalus_amphiuminum" recon_no="230699">Oestocephalus</List>
+		<List recon_name="Phlegethontia_longissima" recon_no="156845">Phlegethontia</List>
+		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greererpeton</List>
+		<List recon_name="Seymouria_baylorensis" recon_no="137488">Seymouria_baylorensis</List>
+		<List recon_name="Limnoscelis_paludis" recon_no="113848">Limnoscelis</List>
+		<List recon_name="Branchiosauridae" recon_no="37037">Branchiosauridae</List>
+		<List recon_name="Micromelerpetontidae" recon_no="37041">Micromelerpetontidae</List>
+		<List recon_name="Tersomius_sp_MCZ_1415" recon_no="37035">Tersomius</List>
+		<List recon_name="Ecolsonia_cutlerensis" recon_no="229320">Ecolsonia</List>
+		<List recon_name="Acheloma_cumminsi" recon_no="81713">Acheloma</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops</List>
+		<List recon_name="Doleserpeton_annectens" recon_no="140536">Doleserpeton</List>
+		<List recon_name="Salamandridae" recon_no="37393">Salamanders</List>
+		<List recon_name="Anura" recon_no="150288">frogs</List>
+		<List recon_name="Anoualerpeton_priscus" recon_no="244724">Albanerpetontidae</List>
+		<List recon_name="Micropholis_stowi" recon_no="255226">Micropholis</List>
+		<List recon_name="Eoscopus_lockardi" recon_no="229322">Eoscopus</List>
+		<List recon_name="Tambachia_trogallas" recon_no="152960">Tambachia</List>
+		<List recon_name="Triadobatrachus_massinoti" recon_no="156397">Triadobatrachus</List>
+		<List recon_name="Karaurus_sharovi" recon_no="202227">Karaurus</List>
+		<List recon_name="Gerobatrachus_hottoni" recon_no="153288">Gerobatrachus</List>
+		<List recon_name="Platyrhinops_lyelli" recon_no="345482">Platyrhinops</List>
+		<List recon_name="Amphibamus_grandiceps" recon_no="229305">Amphibamus</List>
+		<List recon_name="Rhinatrematidae" recon_no="37338">Rhinatrematidae</List>
+		<List recon_name="Ichthyophiidae" recon_no="37335">Ichthyophiidae</List>
+		<List recon_name="Scolecomorphidae" recon_no="37336">Scolecomorphidae</List>
+		<List recon_name="Herpelidae" recon_no="252783">Herpelidae</List>
+		<List recon_name="Caeciliidae" recon_no="37333">Caeciliidae</List>
+		<List recon_name="Typhlonectidae" recon_no="37337">Typhlonectidae</List>
+		<List recon_name="Dermophiidae" recon_no="252791">Dermophidae</List>
+		<List recon_name="Siphonopidae" recon_no="252790">Siphonopidae</List>
+		<List recon_name="Indotyphlidae" recon_no="252788">Indotyphlidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="308">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Maddin_etal_2012a</Filename>
+	<Parent>Anderson_etal_2008a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Fernandez-Coll, M.</List>
+			<List>Arbez, T.</List>
+			<List>Bernardini, F.</List>
+			<List>Fortuny, J.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>Cranial anatomy of the Early Triassic trematosaurine <em>Angusaurus</em> (Temnospondyli: Stereospondyli): 3D endocranial insights and phylogenetic implications</Title>
+		<Journal>Journal of Iberian Geology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="24">
+		<List recon_name="Archegosaurus_decheni" recon_no="255841">Archegosaurus_decheni</List>
+		<List recon_name="Onchiodon_frossardi" recon_no="345644">Onchiodon_frossardi</List>
+		<List recon_name="Aphaneramma_gavialimimus" recon_no="367546">Aphaneramma_gavialimimus</List>
+		<List recon_name="Aphaneramma_kokeni" recon_no="251628">Aphaneramma_kokeni</List>
+		<List recon_name="Aphaneramma_rostratum" recon_no="266522">Aphaneramma_rostratum</List>
+		<List recon_name="Benthosuchus_sushkini" recon_no="269989">Benthosuchus_sushkini</List>
+		<List recon_name="Cosgriffius_campi" recon_no="165271">Cosgriffius_campi</List>
+		<List recon_name="Edingerella_madagascariensis" recon_no="251497">Edingerella_madagascariensis</List>
+		<List recon_name="Inflectosaurus_amplus" recon_no="266627">Inflectosaurus_amplus</List>
+		<List recon_name="Lyrocephaliscus_euri" recon_no="266625">Lyrocephaliscus_euri</List>
+		<List recon_name="Microposaurus_casei" recon_no="202575">Microposaurus_casei</List>
+		<List recon_name="Platystega_depressa" recon_no="266623">Platystega_depressa</List>
+		<List recon_name="Thoosuchus_yakovlevi" recon_no="362936">Thoosuchus_yakovlevi</List>
+		<List recon_name="Tertrema_acuta" recon_no="266624">Tertrema_acuta</List>
+		<List recon_name="Trematolestes_hagdorni" recon_no="179389">Trematolestes_hagdorni</List>
+		<List recon_name="Trematosaurus_brauni" recon_no="248613">Trematosaurus_brauni</List>
+		<List recon_name="Trematosuchus_sobeyi" recon_no="266630">Trematosuchus_sobeyi</List>
+		<List recon_name="Stoschiosaurus_nielseni" recon_no="266517">Stoschiosaurus_nielseni</List>
+		<List recon_name="Syrtosuchus_samarensis" recon_no="375426">Syrtosuchus_samarensis</List>
+		<List recon_name="Wantzosaurus_elongatus" recon_no="266631">Wantzosaurus_elongatus</List>
+		<List recon_name="Angusaurus_dentatus" recon_no="375379">Angusaurus_dentatus</List>
+		<List recon_name="Angusaurus_tsylmensis" recon_no="375376">Angusaurus_tsylmensis</List>
+		<List recon_name="Angusaurus_succedaneus" recon_no="375418">Angusaurus_succedaneus</List>
+		<List recon_name="Prothoosuchus_blomi" recon_no="375432">Prothoosuchus_blomi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="69">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Fernandez-Coll_etal_inpressab</Filename>
+	<Parent>Fortuny_etal_inpressa</Parent>
+	<Sibling/>
+</SourceTree>

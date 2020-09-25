@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Liu, J.</List>
+			<List>Wang, Y.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>The first complete mastodonsauroid skull from the Triassic of China: <em>Yuanansuchus laticeps</em> gen. et sp. nov</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>25</Volume>
+		<Pages>725-728</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List recon_name="Konzhukovia_tarda" recon_no="357496">Konshukovia</List>
+		<List recon_name="Angusaurus_dentatus,Angusaurus_succedaneus,Angusaurus_tsylmensis" recon_no="375379;375418;375376">Angusaurus</List>
+		<List recon_name="Benthosuchus_bystrowi,Benthosuchus_korobkovi,Benthosuchus_sushkini,Benthosuchus_uralensis" recon_no="269990;263707;269989;269992">Benthosuchus</List>
+		<List recon_name="Cherninia_denwai,Cherninia_megarhina" recon_no="269998;172537">Cherninia</List>
+		<List recon_name="Chomatobatrachus_halei" recon_no="251647">Chomatobatrachus</List>
+		<List recon_name="Cyclotosaurus_ebrachensis,Cyclotosaurus_hemprichi,Cyclotosaurus_papilio,Cyclotosaurus_posthumus,Cyclotosaurus_robustus" recon_no="57082;57083;57081;57084;57085">Cyclotosaurus</List>
+		<List recon_name="Deltacephalus_whitei" recon_no="266413">Deltacephalus</List>
+		<List recon_name="Eryosuchus_pronus,Eryosuchus_rajareddyi,Eryosuchus_tverdochlebovi" recon_no="172539;251718;169903">Eryosuchus</List>
+		<List recon_name="Eocyclotosaurus_lehmani,Eocyclotosaurus_woschmidti" recon_no="269995;269996">Eocyclotosaurus</List>
+		<List recon_name="Lydekkerina_huxleyi" recon_no="255237">Lydekkerina</List>
+		<List recon_name="Mastodonsaurus_cappelensis,Mastodonsaurus_giganteus,Mastodonsaurus_torvus" recon_no="179487;150365;169907">Mastodonsaurus</List>
+		<List recon_name="Odenwaldia_heidelbergensis" recon_no="202715">Odenwaldia</List>
+		<List recon_name="Edingerella_madagascariensis" recon_no="251497">P_madagascariensis</List>
+		<List recon_name="Paracyclotosaurus_crookshanki,Paracyclotosaurus_davidi" recon_no="270188;57042">Paracyclotosaurus</List>
+		<List recon_name="Parotosuchus_haughtoni,Parotosuchus_helgolandicus,Parotosuchus_komiensis,Parotosuchus_nasutus,Parotosuchus_orenburgensis,Parotosuchus_orientalis,Parotosuchus_sequester" recon_no="270190;248281;270191;270192;265669;270196;270197">Parotosuchus</List>
+		<List recon_name="Stenotosaurus_gracilis,Stenotosaurus_semiclausus,Stenotosaurus_stantonensis" recon_no="170673;170675;270200">Stenotosaurus</List>
+		<List recon_name="Tatrasuchus_kulczyckii,Tatrasuchus_wildi" recon_no="270202;270204">Tatrasuchus</List>
+		<List recon_name="Thoosuchus_yakovlevi" recon_no="362936">Thoosuchus</List>
+		<List recon_name="Trematosaurus_brauni" recon_no="248613">Trematosaurus</List>
+		<List recon_name="Watsonisuchus_aliciae,Watsonisuchus_gunganj,Watsonisuchus_magnus,Watsonisuchus_rewanensis" recon_no="251274;251275;251278;251276">Watsonisuchus</List>
+		<List recon_name="Wellesaurus_africanus,Wellesaurus_peabodyi" recon_no="270205;165269">Wellesaurus</List>
+		<List recon_name="Wetlugasaurus_angustifrons,Wetlugasaurus_groenlandicus,Wetlugasaurus_malachovi,Wetlugasaurus_samarensis" recon_no="270206;266515;270207;270208">Wetlugasaurus</List>
+		<List recon_name="Rhineceps_nyasaensis" recon_no="267022">Rhineceps</List>
+		<List recon_name="Rhinesuchus_senekalensis,Rhinesuchus_whaitsi" recon_no="266929;266926">Rhinesuchus</List>
+		<List recon_name="Uranocentrodon_senekalensis" recon_no="255236">Uranocentrodon</List>
+		<List recon_name="Yuanansuchus_laticeps" recon_no="170523">Yuanansuchus</List>
+		<List recon_name="Quasicyclotosaurus_campi" recon_no="165258">Quasicyclotosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="47">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Liu_et_Wang_2005a</Filename>
+	<Parent>Damiani_2001a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gardner, J. D.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>Monophyly and affinities of albanerpetontid amphibians (Temnospondyli; Lissamphibia)</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>131</Volume>
+		<Pages>309-352</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Apateon_caducus,Apateon_pedestris" recon_no="345825;229308">Apateon</List>
+		<List recon_name="Doleserpeton_annectens" recon_no="140536">Doleserpeton</List>
+		<List recon_name="Dermophis_mexicanus,Epicrionops_petersi,Ichthyophis_glutinosus" recon_no="414547;414419;403576">Apoda</List>
+		<List recon_name="Eocaecilia_micropodia" recon_no="156677">Eocaecilia</List>
+		<List recon_name="Cryptobranchus_alleganiensis,Hynobius_boulengeri,Hynobius_naevius,Hynobius_retardatus,Onychodactylus_japonicus" recon_no="110601;414627;401232;414548;401226">Urodela</List>
+		<List recon_name="Karaurus_sharovi,Kokartus_honorarius" recon_no="202227;120626">Karauridae</List>
+		<List recon_name="Ascaphus_truei,Leiopelma_hochstetteri,Notobatrachus_degiustoi,Vieraella_herbstii" recon_no="401231;409508;156510;156518">Anura</List>
+		<List recon_name="Triadobatrachus_massinoti" recon_no="156397">Triadobatrachus</List>
+		<List recon_name="Albanerpeton_inexpectatum" recon_no="114402">Albanerpeton</List>
+		<List recon_name="Celtedens_ibericus" recon_no="245182">Celtedens</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="59">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gardner_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

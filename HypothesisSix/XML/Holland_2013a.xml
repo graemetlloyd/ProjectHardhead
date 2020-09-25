@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Holland, T.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>Pectoral girdle and fin anatomy of <em>Gogonasus andrewsae</em> Long, 1985: implications for tetrapodomorph limb evolution</Title>
+		<Journal>Journal of Morphology</Journal>
+		<Volume>274</Volume>
+		<Pages>147-164</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List recon_name="Glyptolepis_groenlandica" recon_no="417062">Glyptolepis</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Barameda_decipiens" recon_no="250699">Barameda</List>
+		<List recon_name="Beelarongia_patrichae" recon_no="401384">Beelarongia</List>
+		<List recon_name="Cabonnichthys_burnsi" recon_no="242668">Cabonnichthys</List>
+		<List recon_name="Canowindra_grossi" recon_no="242671">Canowindra</List>
+		<List recon_name="Cladarosymblema_narrienense" recon_no="242674">Cladarosymblema</List>
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
+		<List recon_name="Gogonasus_andrewsae" recon_no="242714">Gogonasus</List>
+		<List recon_name="Gooloogongia_loomesi" recon_no="403564">Gooloogongia</List>
+		<List recon_name="Ichthyostega_stensioei" recon_no="229326">Ichthyostega</List>
+		<List recon_name="Mandageria_fairfaxi" recon_no="242721">Mandageria</List>
+		<List recon_name="Medoevia_lata" recon_no="401387">Medoevia</List>
+		<List recon_name="Megalichthys_hibberti" recon_no="245717">Megalichthys</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
+		<List recon_name="Porolepis_brevis,Porolepis_spitbergensis" recon_no="418236;418238">Porolepis</List>
+		<List recon_name="Rhizodopsis_sauroides" recon_no="419114">Rhizodopsis</List>
+		<List recon_name="Sterropterygion_brandei" recon_no="295104">Sterropterygion</List>
+		<List recon_name="Tiktaalik_roseae" recon_no="77136">Tiktaalik</List>
+		<List recon_name="Tristichopterus_alatus" recon_no="242841">Tristichopterus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="81">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Holland_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

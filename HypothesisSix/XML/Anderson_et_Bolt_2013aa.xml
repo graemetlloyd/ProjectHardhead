@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Anderson, J. S.</List>
+			<List>Bolt, J. R.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>New information on amphibamids (Tetrapoda, Temnospondyli) from Richards Spur (Fort Sill), Oklahoma</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>33</Volume>
+		<Pages>553-567</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="20">
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus</List>
+		<List recon_name="Eryops_megacephalus,Onchiodon_labyrinthicus" recon_no="70397;66913">Eryopidae</List>
+		<List recon_name="Micromelerpeton_credneri" recon_no="341560">Micromelerpeton</List>
+		<List recon_name="Ecolsonia_cutlerensis" recon_no="229320">Ecolsonia</List>
+		<List recon_name="Trematops_milleri" recon_no="137365">Trematopidae</List>
+		<List recon_name="Broiliellus_texensis,Dissorophus_multicinctus" recon_no="255228;255227">Dissorophinae</List>
+		<List recon_name="Cacops_aspidephorus,Kamacops_acervalis" recon_no="56737;349951">Cacopinae</List>
+		<List recon_name="Amphibamus_grandiceps" recon_no="229305">Amphibamus</List>
+		<List recon_name="Platyrhinops_lyelli" recon_no="345482">Platyrhinops</List>
+		<List recon_name="Doleserpeton_annectens" recon_no="140536">Doleserpeton</List>
+		<List recon_name="Eoscopus_lockardi" recon_no="229322">Eoscopus</List>
+		<List recon_name="Micropholis_stowi" recon_no="255226">Micropholis</List>
+		<List recon_name="Tersomius_sp_MCZ_1415" recon_no="37035">Tersomius</List>
+		<List recon_name="Pasawioops_mayi" recon_no="152839">Pasawioops</List>
+		<List recon_name="Plemmyradytes_shintoni" recon_no="344178">Plemmyradytes</List>
+		<List recon_name="Georgenthalia_clavinasica" recon_no="123084">Georgenthalia</List>
+		<List recon_name="Gerobatrachus_hottoni" recon_no="153288">Gerobatrachus</List>
+		<List recon_name="Rubeostratilia_texensis" recon_no="193400">Rubeostratilia</List>
+		<List recon_name="Tersomius_dolesensis" recon_no="344740">T_dolesensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="66">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Anderson_et_Bolt_2013aa</Filename>
+	<Parent>Bourget_et_Anderson_2011a</Parent>
+	<Sibling/>
+</SourceTree>

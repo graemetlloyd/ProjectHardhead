@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Warren, A.</List>
+			<List>Rozefelds, A. C.</List>
+			<List>Bull, S.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Tupilakosaur-like vertebrae in <em>Bothriceps australis</em>, an Australian brachyopid stereospondyl</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>31</Volume>
+		<Pages>738-753</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="22">
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops</List>
+		<List recon_name="Acroplous_vorax" recon_no="255215">Acroplous</List>
+		<List recon_name="Isodectes_obtusus" recon_no="137434">Isodectes</List>
+		<List recon_name="Trimerorhachis_insignis,Trimerorhachis_sandovalensis" recon_no="90711;345366">Trimerorhachis</List>
+		<List recon_name="Dvinosaurus_primus" recon_no="56905">Dvinosaurus</List>
+		<List recon_name="Tupilakosaurus_heilmani" recon_no="172842">Tupilakosaurus</List>
+		<List recon_name="Thabanchuia_oomie" recon_no="242829">Thabanchuia</List>
+		<List recon_name="Neldasaurus_wrightae" recon_no="229335">Neldasaurus</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus</List>
+		<List recon_name="Lydekkerina_huxleyi" recon_no="255237">Lydekkerina</List>
+		<List recon_name="Rhineceps_nyasaensis" recon_no="267022">Rhineceps</List>
+		<List recon_name="Watsonisuchus_aliciae" recon_no="251274">Watsonisuchus</List>
+		<List recon_name="Derwentia_warreni" recon_no="251504">Derwentia</List>
+		<List recon_name="Bothriceps_australis" recon_no="251454">Bothriceps</List>
+		<List recon_name="Keratobrachyops_australis" recon_no="251264">Keratobrachyops</List>
+		<List recon_name="Xenobrachyops_allos" recon_no="251266">Xenobrachyops</List>
+		<List recon_name="Banksiops_townrowi" recon_no="251467">Banksiops</List>
+		<List recon_name="Batrachosuchus_browni,Batrachosuchus_watsoni" recon_no="150351;251465">Batrachosuchus</List>
+		<List recon_name="Vigilius_wellesi" recon_no="165309">Vigilius</List>
+		<List recon_name="Vanastega_plurimidens" recon_no="167338">Vanastega</List>
+		<List recon_name="Pelorocephalus_cacheutensis,Pelorocephalus_ischigualastensis,Pelorocephalus_mendozensis,Pelorocephalus_tenax" recon_no="251478;251501;251472;251476">Pelorocephalus</List>
+		<List recon_name="Siderops_kehli" recon_no="251254">Siderops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="60">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Warren_etal_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

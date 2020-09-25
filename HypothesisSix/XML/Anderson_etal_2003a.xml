@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Anderson, J. S.</List>
+			<List>Carroll, R. L.</List>
+			<List>Rowe, T. B.</List>
+		</Author>
+		<Year>2003</Year>
+		<Title>New information on <em>Lethiscus stocki</em> (Tetrapoda: Lepospondyli: Aistopoda) from high-resolution computed tomography and a phylogenetic analysis of Aistopoda</Title>
+		<Journal>Canadian Journal of Earth Sciences</Journal>
+		<Volume>40</Volume>
+		<Pages>1071-1083</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="11">
+		<List recon_name="Adelogyrinus_simorhynchus" recon_no="227001">Adelogyrinus</List>
+		<List recon_name="Asaphestera_intermedia" recon_no="338119">Asaphestera</List>
+		<List recon_name="Brachydectes_elongatus,Brachydectes_newberryi" recon_no="229311;229312">Brachydectes</List>
+		<List recon_name="Scincosaurus_crassus,Scincosaurus_spinosus" recon_no="230694;320828">Scincosaurus</List>
+		<List recon_name="Lethiscus_stocki" recon_no="229330">Lethiscus_stocki</List>
+		<List recon_name="Ophiderpeton_brownriggi,Ophiderpeton_kirktonense" recon_no="243095;243096">Ophiderpeton_brownriggi_et_kirktonense</List>
+		<List recon_name="Oestocephalus_amphiuminum" recon_no="230699">Oestocephalus_amphiuminum</List>
+		<List recon_name="Phlegethontia_longissima" recon_no="156845">Phlegethontia_longissima</List>
+		<List recon_name="Phlegethontia_linearis" recon_no="156820">Phlegethontia_linearis</List>
+		<List recon_name="Pseudophlegethontia_turnbullorum" recon_no="137947">Pseudophlegethontia_turnbullorum</List>
+		<List recon_name="Coloraderpeton_brilli" recon_no="320839">Coloraderpeton_brilli</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="27">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Anderson_etal_2003a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

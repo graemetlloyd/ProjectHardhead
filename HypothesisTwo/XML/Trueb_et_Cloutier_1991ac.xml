@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Trueb, L.</List>
+			<List>Cloutier, R.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>A phylogenetic investigation of the inter- and intrarelationsips of the Lissamphibia (Amphibia: Temnospondyli)</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>223-313</Pages>
+		<Booktitle>Origins of Major Groups of Tetrapods: Controversies and Consensus</Booktitle>
+		<Publisher>Cornell University Press</Publisher>
+		<City>Ithaca</City>
+		<Editor>
+			<List>Schultze, H.-P.</List>
+			<List>Trueb, L.</List>
+		</Editor>
+	</Source>
+	<Taxa number="22">
+		<List recon_name="Edops_craigi" recon_no="252444">Edops</List>
+		<List recon_name="Actiobates_peabodyi" recon_no="344750">Actiobates</List>
+		<List recon_name="Albanerpeton_arthridion,Albanerpeton_galaktion,Albanerpeton_inexpectatum,Albanerpeton_nexuosus" recon_no="114401;114403;114402;67753">Albanerpeton</List>
+		<List recon_name="Amphibamus_grandiceps,Platyrhinops_lyelli" recon_no="229305;345482">Amphibamus</List>
+		<List recon_name="Ascaphus_truei" recon_no="401231">Anura</List>
+		<List recon_name="Apateon_pedestris" recon_no="229308">Apateon</List>
+		<List recon_name="Branchiosaurus_salamandroides" recon_no="255222">Branchiosaurus</List>
+		<List recon_name="Broiliellus_brevis,Broiliellus_sp_FM_PR_892,Broiliellus_sp_FM_UR_351,Broiliellus_texensis" recon_no="229313;37024;37024;255228">Broiliellus</List>
+		<List recon_name="Batrachuperus_mustersi,Cryptobranchus_alleganiensis,Hynobius_leechii,Hynobius_nebulosus,Salamandrella_keyseringli" recon_no="414421;110601;414422;414423;414424">Caudata</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Dissorophus_augustus,Dissorophus_multicinctus" recon_no="344540;255227">Dissorophus</List>
+		<List recon_name="Doleserpeton_annectens" recon_no="140536">Doleserpeton</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops</List>
+		<List recon_name="Epicrionops_petersi,Ichthyophis_glutinosus" recon_no="414419;403576">Apoda</List>
+		<List recon_name="Karaurus_sharovi" recon_no="202227">Karaurus</List>
+		<List recon_name="Leptorophus_tener" recon_no="341668">Leptorophus</List>
+		<List recon_name="Branchierpeton_amblystomum" recon_no="345310">Micromelerpeton</List>
+		<List recon_name="Schoenfelderpeton_prescheri" recon_no="230693">Schoenfelderpeton</List>
+		<List recon_name="Tersomius_mosesi" recon_no="90714">Tersomius</List>
+		<List recon_name="Trematops_milleri" recon_no="137365">Trematops</List>
+		<List recon_name="Triadobatrachus_massinoti" recon_no="156397">Triadobatrachus</List>
+		<List recon_name="Trimerorhachis_insignis" recon_no="90711">Trimerorhachis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="58">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Trueb_et_Cloutier_1991ac</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

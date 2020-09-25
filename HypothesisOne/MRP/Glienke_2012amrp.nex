@@ -1,0 +1,32 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=19 NCHAR=18;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Proterogyrinus             000000000000000000
+Acanthostega               000000000000000001
+Altenglanerpeton           000000000001111111
+Batropetes                 000000000110111111
+Cardiocephalus_peabodyi    000000111000001111
+Cardiocephalus_sternbergi  000000111000001111
+Carrolla                   000001000010111111
+Eocaecilia                 000010000000011111
+Euryodus_dalyae            000100011000001111
+Euryodus_primus            000100011000001111
+Micraroter                 001000001000001111
+Microbrachis               000000000000000011
+Pantylus                   010000000000000111
+Pelodosotis                001000001000001111
+Quasicaecilia              000001000110111111
+Rhynchonkos                000010000000011111
+Sparodus                   110000000000000111
+Stegotretus                110000000000000111
+Tambaroter                 000000000001111111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

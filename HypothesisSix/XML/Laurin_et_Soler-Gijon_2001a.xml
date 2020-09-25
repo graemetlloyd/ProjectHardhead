@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Laurin, M.</List>
+			<List>Soler-Gijon, R.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>The oldest stegocephalian from the Iberian Peninsula: evidence that temnospondyls were euryhaline</Title>
+		<Journal>Comptes Rendus de L'Academie des Sciences Serie III, Sciences de la vie</Journal>
+		<Volume>324</Volume>
+		<Pages>495-501</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greererpeton</List>
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
+		<List recon_name="Chenoprosopus_milleri" recon_no="139020">Chenoprosopus</List>
+		<List recon_name="Edops_craigi" recon_no="252444">Edops</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton</List>
+		<List recon_name="Trimerorhachis_insignis" recon_no="90711">Trimerorhachis</List>
+		<List recon_name="Capetus_palustris" recon_no="256954">Capetus</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops</List>
+		<List recon_name="Saurerpeton_obtusum" recon_no="137431">Saurerpeton</List>
+		<List recon_name="Parioxys_ferricolus" recon_no="345270">Paryoxys</List>
+		<List recon_name="Zatrachys_serratus" recon_no="255221">Zatrachys</List>
+		<List recon_name="Eoscopus_lockardi" recon_no="229322">Eoscopus</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus</List>
+		<List recon_name="Iberospondylus_schultzei" recon_no="344739">Iberospondylus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Laurin_et_Soler-Gijon_2001a</Filename>
+	<Parent>Holmes_etal_1998a</Parent>
+	<Sibling/>
+</SourceTree>

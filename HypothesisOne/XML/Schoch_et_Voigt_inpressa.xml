@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schoch, R. R.</List>
+			<List>Voigt, S.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title>A dvinosaurian temnospondyl from the Carboniferous-Permian boundary of Germany sheds light on dvinosaurian phylogeny and distribution</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops</List>
+		<List recon_name="Trimerorhachis_insignis" recon_no="90711">Trimerorhachis</List>
+		<List recon_name="Neldasaurus_wrightae" recon_no="229335">Neldasaurus</List>
+		<List recon_name="Isodectes_obtusus" recon_no="137434">Isodectes</List>
+		<List recon_name="Acroplous_vorax" recon_no="255215">Acroplous</List>
+		<List recon_name="Dvinosaurus_primus" recon_no="56905">Dvinosaurus</List>
+		<List recon_name="Slaugenhopia_texensis" recon_no="349879">Slaugenhopia</List>
+		<List recon_name="Tupilakosaurus_wetlugensis" recon_no="255216">Tupilakosaurus</List>
+		<List recon_name="Thabanchuia_oomie" recon_no="242829">Thabanchuia</List>
+		<List recon_name="Archegosaurus_decheni" recon_no="255841">Archegosaurus</List>
+		<List recon_name="Erpetosaurus_radiatus" recon_no="345370">Erpetosaurus</List>
+		<List recon_name="Trypanognathus_remigiusbergensis" recon_no="400653">Trypanognathus</List>
+		<List recon_name="Timonya_anneae" recon_no="345832">Timonya</List>
+		<List recon_name="Procuhy_nazariensis" recon_no="345834">Procuhy</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="87">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schoch_et_Voigt_inpressa</Filename>
+	<Parent>Schoch_2018a</Parent>
+	<Sibling/>
+</SourceTree>

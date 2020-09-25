@@ -1,0 +1,25 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=12 NCHAR=11;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Onychodus       00000000000
+Glyptolepis     00000000001
+Barameda        00000000011
+Marsdenichthys  00000001111
+Eusthenopteron  00000010111
+Medoevia        00001111111
+Megalichthys    00000111111
+Gogonasus       00011111111
+Panderichthys   00111111111
+Tiktaalik       01111111111
+Acanthostega    11111111111
+Ichthyostega    11111111111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

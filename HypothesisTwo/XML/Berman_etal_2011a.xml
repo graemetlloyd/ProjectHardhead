@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Berman, D. S.</List>
+			<List>Henrici, A. C.</List>
+			<List>Martens, T.</List>
+			<List>Sumida, S. S.</List>
+			<List>Anderson, J. S.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title><em>Rotaryus gothae</em>, a new tetrapod (Temnospondyli: Dissorophoidea) from the Lower Permian of Central Germany</Title>
+		<Journal>Annals of Carnegie Museum</Journal>
+		<Volume>80</Volume>
+		<Pages>49-65</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="17">
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Amphibamus_grandiceps" recon_no="229305">Amphibamus</List>
+		<List recon_name="Doleserpeton_annectens" recon_no="140536">Doleserpeton</List>
+		<List recon_name="Eoscopus_lockardi" recon_no="229322">Eoscopus</List>
+		<List recon_name="Micropholis_stowi" recon_no="255226">Micropholis</List>
+		<List recon_name="Tersomius_sp_MCZ_1415" recon_no="37035">Tersomius</List>
+		<List recon_name="Anconastes_vesperus" recon_no="136412">Anconastes</List>
+		<List recon_name="Tambachia_trogallas" recon_no="152960">Tambachia</List>
+		<List recon_name="Phonerpeton_pricei,Phonerpeton_whitei" recon_no="345308;345162">Phonerpeton</List>
+		<List recon_name="Acheloma_cumminsi" recon_no="81713">Acheloma</List>
+		<List recon_name="Fedexia_striegeli" recon_no="344537">Fedexia</List>
+		<List recon_name="Rotaryus_gothae" recon_no="221859">Rotaryus</List>
+		<List recon_name="Ecolsonia_cutlerensis" recon_no="229320">Ecolsonia</List>
+		<List recon_name="Dissorophus_multicinctus" recon_no="255227">Dissorophus</List>
+		<List recon_name="Broiliellus_texensis" recon_no="255228">Broiliellus</List>
+		<List recon_name="Aspidosaurus_binasser,Aspidosaurus_chiton" recon_no="345459;345458">Aspidosaurus</List>
+		<List recon_name="Cacops_morrisi" recon_no="175857">Cacops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="33">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Berman_etal_2011a</Filename>
+	<Parent>Berman_etal_2010a</Parent>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,122 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lloyd, G. T.</List>
+			<List>Wang, S. C.</List>
+			<List>Brusatte, S. L.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Identifying heterogeneity in rates of morphological evolution: discrete character change in the evolution of lungfish (Sarcopterygii; Dipnoi)</Title>
+		<Journal>Evolution</Journal>
+		<Volume>66</Volume>
+		<Pages>330-348</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="86">
+		<List recon_name="Psarolepis_romeri" recon_no="377272">Psarolepis_romeri</List>
+		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis_speratus</List>
+		<List recon_name="Adololopas_moyasmithae" recon_no="377661">Adololopas_moyasmithae</List>
+		<List recon_name="Adelargo_schultzei" recon_no="377315">Adelargo_schultzei</List>
+		<List recon_name="Amadeodipterus_kencampbelli" recon_no="377288">Amadeodipterus_kencampbelli</List>
+		<List recon_name="Andreyevichthys_epitomus" recon_no="391618">Andreyevichthys_epitomus</List>
+		<List recon_name="Archaeonectes_pertusus" recon_no="377500">Archaeonectes_pertusus</List>
+		<List recon_name="Asthenorhynchus_meemanae" recon_no="377515">Asthenorhynchus_meemannae</List>
+		<List recon_name="Barwickia_downunda" recon_no="377319">Barwickia_downunda</List>
+		<List recon_name="Chirodipterus_australis" recon_no="377761">Chirodipterus_australis</List>
+		<List recon_name="Chirodipterus_onawayensis" recon_no="372974">Chirodipterus_onawwayensis</List>
+		<List recon_name="Chirodipterus_rhenanus" recon_no="403913">Chirodipterus_rhenanus</List>
+		<List recon_name="Chirodipterus_wildungensis" recon_no="372973">Chirodipterus_wildungensis</List>
+		<List recon_name="Dipnorhynchus_cathlesae" recon_no="377353">Dipnorhynch_cathlesae</List>
+		<List recon_name="Dipnorhynchus_suessmilchi" recon_no="372947">Dipnorhynchus_sussmilchi</List>
+		<List recon_name="Dipnorhynchus_kiandrensis" recon_no="377358">Dipnorhynchus_kiandrensis</List>
+		<List recon_name="Dipnorhynchus_kurikae" recon_no="391628">Dipnorhynchus_kurikae</List>
+		<List recon_name="Dipterus_cf_valenciennesi_SMNH_P_4827" recon_no="34888">Dipterus_cf_valenciennesi</List>
+		<List recon_name="Dipterus_valenciennesi" recon_no="259292">Dipterus_valenciennesi</List>
+		<List recon_name="Eoctenodus_microsoma" recon_no="377671">Eoctenodus_microsoma</List>
+		<List recon_name="Fleurantia_denticulata" recon_no="372954">Fleurantia_denticulata</List>
+		<List recon_name="Gogodipterus_paddyensis" recon_no="377281">Gogodipterus_paddyensis</List>
+		<List recon_name="Griphognathus_minutidens" recon_no="377509">Griphognathus_minutidens</List>
+		<List recon_name="Griphognathus_sculpta" recon_no="377508">Griphognathus_sculpta</List>
+		<List recon_name="Griphognathus_whitei" recon_no="377507">Griphognathus_whitei</List>
+		<List recon_name="Grossipterus_crassus" recon_no="118058">Grossipterus_crassus</List>
+		<List recon_name="Holodipterus_elderae" recon_no="377506">Holodipterus_elderae</List>
+		<List recon_name="Holodipterus_gogoensis" recon_no="377505">Holodipterus_gogoensis</List>
+		<List recon_name="Holodipterus_santacrucensis" recon_no="377503">Holodipterus_santacrucensis</List>
+		<List recon_name="Howidipterus_donnae" recon_no="377317">Howidipterus_donnae</List>
+		<List recon_name="Ichnomylax_kurnai" recon_no="377580">Ichnomylax_kurnai</List>
+		<List recon_name="Iowadipterus_halli" recon_no="372971">Iowadipterus_halli</List>
+		<List recon_name="Jarvikia_arctica" recon_no="372958">Jarvikia_arctica</List>
+		<List recon_name="Jessenia_concentrica" recon_no="403363">Jessenia_concentrica</List>
+		<List recon_name="Melanognathus_canadensis" recon_no="250697">Melanognathus_canadensis</List>
+		<List recon_name="Nielsenia_nordica" recon_no="391449">Nielsenia_nordica</List>
+		<List recon_name="Oervigia_nordica" recon_no="372952">Oervigia_nordica</List>
+		<List recon_name="Orlovichthys_limnatis" recon_no="391612">Orlovichthys_limnatis</List>
+		<List recon_name="Palaedaphus_insignia" recon_no="259295">Palaeodaphus_insignis</List>
+		<List recon_name="Pentlandia_macropterus" recon_no="391455">Pentlandia_macroptera</List>
+		<List recon_name="Phaneropleuron_andersoni" recon_no="259300">Phaneropleuron_andersoni</List>
+		<List recon_name="Pillararhynchus_longi" recon_no="377357">Pillararhynchus_longi</List>
+		<List recon_name="Rhinodipterus_secans" recon_no="377299">Rhinodipterus_secans</List>
+		<List recon_name="Rhinodipterus_ulrichi" recon_no="377298">Rhinodipterus_ulrichi</List>
+		<List recon_name="Rhynchodipterus_elginensis" recon_no="391451">Rhynchodipterus_elginensis</List>
+		<List recon_name="Robinsondipterus_longi" recon_no="377513">Robinsondipterus_longi</List>
+		<List recon_name="Scaumenacia_curta" recon_no="372950">Scaumenacia_curta</List>
+		<List recon_name="Soederberghia_groenlandica" recon_no="372956">Soederberghia_groenlandica</List>
+		<List recon_name="Sorbitorhynchus_deleaskitus" recon_no="377296">Sorbitorhynchus_deleaskitus</List>
+		<List recon_name="Speonesydrion_iani" recon_no="391456">Speonesydrion_iani</List>
+		<List recon_name="Stomiahykus_thlaodus" recon_no="377496">Stomiahykus_thlaodus</List>
+		<List recon_name="Sunwapta_grandiceps" recon_no="377495">Sunwapta_grandiceps</List>
+		<List recon_name="Tarachomylax_oepiki" recon_no="377284">Tarachomylax_oepiki</List>
+		<List recon_name="Uranolophus_wyomingensis" recon_no="372944">Uranolophus_wyomingensis</List>
+		<List recon_name="Westollrhynchus_lehmanni" recon_no="372969">Westollrhynchus_lehmanni</List>
+		<List recon_name="Aphelodus_anapes" recon_no="133095">Aphelodus_anapes</List>
+		<List recon_name="Archaeoceratodus_avus" recon_no="321083">Archaeoceratodus_avus</List>
+		<List recon_name="Arganodus_atlantis" recon_no="133890">Arganodus_atlantis</List>
+		<List recon_name="Ariguna_formosa" recon_no="321067">Ariguna_formosa</List>
+		<List recon_name="Asiatoceratodus_sharovi" recon_no="194509">Asiatoceratodus_sharovi</List>
+		<List recon_name="Beltanodus_ambilobensis" recon_no="321068">Beltanodus_ambilobensis</List>
+		<List recon_name="Ceratodus_formosus" recon_no="194438">Ceratodus_formosa</List>
+		<List recon_name="Ceratodus_latissimus" recon_no="57672">Ceratodus_latissimus</List>
+		<List recon_name="Conchopoma_gadiforme" recon_no="259452">Conchopoma_gadiforme</List>
+		<List recon_name="Ctenodus_romeri" recon_no="372964">Ctenodus_romeri</List>
+		<List recon_name="Delatitia_breviceps" recon_no="391463">Delatitia_breviceps</List>
+		<List recon_name="Ferganoceratodus_jurassicus" recon_no="197865">Ferganoceratodus_jurassicus</List>
+		<List recon_name="Ganopristodus_splendens" recon_no="372963">Ganopristodus_splendens</List>
+		<List recon_name="Gnathorhiza_serrata" recon_no="90710">Gnathorhiza_serrata</List>
+		<List recon_name="Gosfordia_truncata" recon_no="213311">Gosfordia_truncata</List>
+		<List recon_name="Lepidosiren_paradoxa" recon_no="256137">Lepidosiren_paradoxa</List>
+		<List recon_name="Megapleuron_zangerli" recon_no="372972">Megapleuron_zangerli</List>
+		<List recon_name="Metaceratodus_wollastoni" recon_no="321104">Metaceratodus_wollastoni</List>
+		<List recon_name="Microceratodus_angolensis" recon_no="194465">Microceratodus_angolensis</List>
+		<List recon_name="Mioceratodus_gregoryi" recon_no="321115">Mioceratodus_gregoryi</List>
+		<List recon_name="Namatozodia_pitikanta" recon_no="133098">Namatozodia_pitikanta</List>
+		<List recon_name="Neoceratodus_forsteri" recon_no="194486">Neoceratodus_forsteri</List>
+		<List recon_name="Palaeophichthys_parvulus" recon_no="372966">Palaeophichthys_parvulus</List>
+		<List recon_name="Paraceratodus_germaini" recon_no="194436">Paraceratodus_germaini</List>
+		<List recon_name="Parasagenodus_sibiricus" recon_no="391444">Parasagenodus_sibiricus</List>
+		<List recon_name="Protopterus_annectens" recon_no="321124">Protopterus_annectens</List>
+		<List recon_name="Ptychoceratodus_serratus" recon_no="194441">Ptychoceratodus_serratus</List>
+		<List recon_name="Sagenodus_inaequalis" recon_no="259440">Sagenodus_inaequalis</List>
+		<List recon_name="Straitonia_waterstoni" recon_no="391446">Straitonia_waterstoni</List>
+		<List recon_name="Tellerodus_sturii" recon_no="194434">Tellerodus_sturi</List>
+		<List recon_name="Tranodis_castrensis" recon_no="391445">Tranodis_castrensis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="91">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lloyd_etal_2012a</Filename>
+	<Parent>Schultze_et_Marshall_1993a</Parent>
+	<Sibling/>
+</SourceTree>

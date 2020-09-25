@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cloutier, R.</List>
+			<List>Clement, A. M.</List>
+			<List>Lee, M. S. Y.</List>
+			<List>Noel, R.</List>
+			<List>Bechard, I.</List>
+			<List>Roy, V.</List>
+			<List>Long, J. A.</List>
+		</Author>
+		<Year>in press</Year>
+		<Title><em>Elpistostege</em> and the origin of the vertebrate hand</Title>
+		<Journal>Nature</Journal>
+		<Volume/>
+		<Pages/>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="42">
+		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis</List>
+		<List recon_name="Youngolepis_praecursor" recon_no="403358">Youngolepis</List>
+		<List recon_name="Powichthys_thorsteinssoni" recon_no="401819">Powichthys</List>
+		<List recon_name="DELETE" recon_no="-1">Porolepis</List>
+		<List recon_name="DELETE" recon_no="-1">Glyptolepis</List>
+		<List recon_name="Tungsenia_paradoxa" recon_no="377770">Tungsenia</List>
+		<List recon_name="Kenichthys_campbelli" recon_no="377767">Kenichthys</List>
+		<List recon_name="Gooloogongia_loomesi" recon_no="403564">Gooloogongia</List>
+		<List recon_name="Sauripterus_taylori" recon_no="250270">Sauripterus</List>
+		<List recon_name="Barameda_decipiens,Barameda_mitchelli" recon_no="250699;250700">Barameda</List>
+		<List recon_name="Screbinodus_ornatus" recon_no="403872">Screbinodus</List>
+		<List recon_name="DELETE" recon_no="-1">Rhizodus</List>
+		<List recon_name="Strepsodus_sauroides" recon_no="245660">Strepsodus</List>
+		<List recon_name="Gyroptychius_microlepidotus" recon_no="260263">Gyroptychius</List>
+		<List recon_name="Osteolepis_macrolepidotus,Osteolepis_panderi" recon_no="260270;416065">Osteolepis</List>
+		<List recon_name="Gogonasus_andrewsae" recon_no="242714">Gogonasus</List>
+		<List recon_name="Medoevia_lata" recon_no="401387">Medoevia</List>
+		<List recon_name="Cladarosymblema_narrienense" recon_no="242674">Cladarosymblema</List>
+		<List recon_name="DELETE" recon_no="-1">Megalichthys</List>
+		<List recon_name="Ectosteorhachis_nitidus" recon_no="90695">Ectosteorhachis</List>
+		<List recon_name="Beelarongia_patrichae" recon_no="401384">Beelarongia</List>
+		<List recon_name="Canowindra_grossi" recon_no="242671">Canowindra</List>
+		<List recon_name="Koharalepis_jarviki" recon_no="401822">Koharalepis</List>
+		<List recon_name="Marsdenichthys_longioccipitus" recon_no="242718">Marsdenichthys</List>
+		<List recon_name="Spodichthys_buetleri" recon_no="242826">Spodichthys</List>
+		<List recon_name="Tristichopterus_alatus" recon_no="242841">Tristichopterus</List>
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
+		<List recon_name="Jarvikina_wenjukowi" recon_no="416097">Jarvikina</List>
+		<List recon_name="Platycephalichthys_bischoffi,Platycephalichthys_skuenicus" recon_no="242815;242817">Platycephalichthys</List>
+		<List recon_name="Cabonnichthys_burnsi" recon_no="242668">Cabonnichthys</List>
+		<List recon_name="Mandageria_fairfaxi" recon_no="242721">Mandageria</List>
+		<List recon_name="Eusthenodon_wangsjoi" recon_no="242711">Eusthenodon</List>
+		<List recon_name="Hongyu_chowi" recon_no="401464">Hongyu</List>
+		<List recon_name="Bruehnopteron_murphyi" recon_no="419360">Bruehnopteron</List>
+		<List recon_name="Tinirau_clackae" recon_no="242676">Tinirau</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
+		<List recon_name="Elpistostege_watsoni" recon_no="341858">Elpistostege</List>
+		<List recon_name="Tiktaalik_roseae" recon_no="77136">Tiktaalik</List>
+		<List recon_name="Ventastega_curonica" recon_no="230696">Ventastega</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Ichthyostega_stensioei" recon_no="229326">Ichthyostega</List>
+		<List recon_name="Tulerpeton_curtum" recon_no="230695">Tulerpeton</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="202">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cloutier_etal_inpressa</Filename>
+	<Parent>Zhu_etal_2017a</Parent>
+	<Sibling/>
+</SourceTree>

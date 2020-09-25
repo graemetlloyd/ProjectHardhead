@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cloutier, R.</List>
+			<List>Ahlberg, P. E.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>Morphology, characters, and the interrelationships of basal sarcopterygians</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>445-479</Pages>
+		<Booktitle>Interrelationships of Fishes</Booktitle>
+		<Publisher>Academic Press</Publisher>
+		<City>San Diego</City>
+		<Editor>
+			<List>Stiassny, M. L. J.</List>
+			<List>Parenti, L. R.</List>
+			<List>Johnson, G. D.</List>
+		</Editor>
+	</Source>
+	<Taxa number="34">
+		<List recon_name="DELETE" recon_no="0">Outgroup</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Allenypterus_montanus" recon_no="199158">Allenypterus</List>
+		<List recon_name="Barameda_decipiens" recon_no="250699">Barmda</List>
+		<List recon_name="Beelarongia_patrichae" recon_no="401384">Beelarongia</List>
+		<List recon_name="Cheirolepis_canadensis" recon_no="218872">Cheirolcpis</List>
+		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
+		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis</List>
+		<List recon_name="Diplocercides_kayseri" recon_no="226297">Diploccrcides_kacseri</List>
+		<List recon_name="Diplocercides_heiligenstockiensis" recon_no="226296">D_heiligenstockicnsis</List>
+		<List recon_name="Dipnorhynchus_kiandrensis,Dipnorhynchus_kurikae,Dipnorhynchus_suessmilchi" recon_no="377358;391628;372947">Dipnorhynchus</List>
+		<List recon_name="Dipterus_valenciennesi" recon_no="259292">Dipterus</List>
+		<List recon_name="Elpistostege_watsoni" recon_no="341858">Elpistostege</List>
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenoptcron</List>
+		<List recon_name="Glyptolepis_groenlandica" recon_no="417062">Glyptolepis</List>
+		<List recon_name="Gyroptychius_microlepidotus" recon_no="260263">Gyroptychius</List>
+		<List recon_name="Holoptychius_flemingi,Holoptychius_giganteus,Holoptychius_nobilissimus" recon_no="260045;260042;260041">Holoptychius</List>
+		<List recon_name="Howqualepis_rostridens" recon_no="218883">Howqualepis</List>
+		<List recon_name="Ichthyostega_stensioei" recon_no="229326">Ichthyostega</List>
+		<List recon_name="Miguashaia_bureaui" recon_no="320884">Miguashaia</List>
+		<List recon_name="Mimia_toombsi" recon_no="218914">Mimia</List>
+		<List recon_name="Moythomasia_durgaringa,Moythomasia_nitida" recon_no="378221;218915">Moythomasia</List>
+		<List recon_name="Onychodus_sigmoides" recon_no="260580">Onychodus</List>
+		<List recon_name="Osteolepis_macrolepidotus,Osteolepis_panderi" recon_no="260270;416065">Osteolepis</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
+		<List recon_name="Polypterus_bichir" recon_no="414425">Polypterus</List>
+		<List recon_name="Porolepis_brevis,Porolepis_spitbergensis" recon_no="418236;418238">Porolepis</List>
+		<List recon_name="Powichthys_thorsteinssoni" recon_no="401819">Powichthys</List>
+		<List recon_name="Speonesydrion_iani" recon_no="391456">Speonesydrion</List>
+		<List recon_name="Strepsodus_anculonamensis" recon_no="403871">Strepsodus</List>
+		<List recon_name="Strunius_rolandi,Strunius_walteri" recon_no="417158;417159">Strunius</List>
+		<List recon_name="Uranolophus_wyomingensis" recon_no="372944">Uranolophus</List>
+		<List recon_name="Ventastega_curonica" recon_no="230696">Ventastega</List>
+		<List recon_name="Youngolepis_praecursor" recon_no="403358">Youngolepis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="140">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cloutier_et_Ahlberg_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,28 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=15 NCHAR=15;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Dendrerpeton_acadianum     000000000000000
+Sclerocephalus_haeuseri    000000000000011
+Eryopidae                  000000000000011
+Micromelerpeton_credneri   000000000001101
+Amphibamus_grandiceps      000011111111101
+Platyrhinops_lyelli        000000111111101
+Doleserpeton_annectens     000011111111101
+Eoscopus_lockardi          000000001111101
+Micropholis_stowi          000100000011101
+Tersomius_sp               000100000011101
+Ecolsonia_cutlerensis      011000000000101
+Trematopidae               001000000000101
+Dissorophinae              111000000000101
+Cacopinae                  111000000000101
+Georgenthalia_clavinasica  000001010111101
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

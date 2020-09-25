@@ -1,0 +1,106 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schoch, R. R.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>The evolution of major temnospondyl clades: an inclusive phylogenetic analysis</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>11</Volume>
+		<Pages>673-705</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="72">
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus_scheelei</List>
+		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greererpeton_burkemorani</List>
+		<List recon_name="Edops_craigi" recon_no="252444">Edops_craigi</List>
+		<List recon_name="Adamanterpeton_ohioensis" recon_no="204060">Adamaterpeton_ohioensis</List>
+		<List recon_name="Cochleosaurus_bohemicus" recon_no="204052">Cocchleosaurus_bohemicus</List>
+		<List recon_name="Nigerpeton_ricqlesi" recon_no="91477">Nigerpeton_ricqlesi</List>
+		<List recon_name="Chenoprosopus_milleri" recon_no="139020">Chenoprosopus_milleri</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton_acadianum</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton_woodi</List>
+		<List recon_name="Trimerorhachis_insignis" recon_no="90711">Trimerorhachis_insignis</List>
+		<List recon_name="Neldasaurus_wrightae" recon_no="229335">Neldasaurus_wrightae</List>
+		<List recon_name="Isodectes_obtusus" recon_no="137434">Isodectes_obtusus</List>
+		<List recon_name="Acroplous_vorax" recon_no="255215">Acroplous_vorax</List>
+		<List recon_name="Dvinosaurus_primus" recon_no="56905">Dvinosaurus_primus</List>
+		<List recon_name="Thabanchuia_oomie" recon_no="242829">Thabanchuia_oomie</List>
+		<List recon_name="Tupilakosaurus_wetlugensis" recon_no="255216">Tupilakosaurus_wetlugensis</List>
+		<List recon_name="Capetus_palustris" recon_no="256954">Capetus_palustris</List>
+		<List recon_name="Iberospondylus_schultzei" recon_no="344739">Iberospondylus_schultzei</List>
+		<List recon_name="Acanthostomatops_vorax" recon_no="345489">Acanthostomatops_vorax</List>
+		<List recon_name="Zatrachys_serratus" recon_no="255221">Zatrachys_serratus</List>
+		<List recon_name="Micromelerpeton_credneri" recon_no="341560">Micromelerpeton_credneri</List>
+		<List recon_name="Limnogyrinus_elegans" recon_no="345309">Limnogyrinus_elegans</List>
+		<List recon_name="Branchierpeton_amblystomum" recon_no="345310">Branchierpeton_amblystomum</List>
+		<List recon_name="Branchiosaurus_salamandroides" recon_no="255222">Branchiosaurus_salamandroides</List>
+		<List recon_name="Apateon_pedestris" recon_no="229308">Apateon_pedestris</List>
+		<List recon_name="Micropholis_stowi" recon_no="255226">Microphoils_stowi</List>
+		<List recon_name="Platyrhinops_lyelli" recon_no="345482">Platyrhinops_lyelli</List>
+		<List recon_name="Amphibamus_grandiceps" recon_no="229305">Amphibamus_grandiceps</List>
+		<List recon_name="Doleserpeton_annectens" recon_no="140536">Doleserpeton_annectens</List>
+		<List recon_name="Gerobatrachus_hottoni" recon_no="153288">Gerobatrachus_hottoni</List>
+		<List recon_name="Dissorophus_multicinctus" recon_no="255227">Dissorophus_multicinctus</List>
+		<List recon_name="Cacops_aspidephorus,Cacops_morrisi" recon_no="56737;175857">Cacops_aspidephorus_slash_morrisi</List>
+		<List recon_name="Broiliellus_texensis" recon_no="255228">Broiliellus_texensis</List>
+		<List recon_name="Acheloma_cumminsi" recon_no="81713">Acheloma_cumminsi</List>
+		<List recon_name="Phonerpeton_pricei" recon_no="345308">Phonerpeton_pricei</List>
+		<List recon_name="Ecolsonia_cutlerensis" recon_no="229320">Ecolsonia_cutlerensis</List>
+		<List recon_name="Onchiodon_labyrinthicus" recon_no="66913">Onchiodon_labyrinthicus</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops_megacephalus</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus_haeuseri</List>
+		<List recon_name="Glanochthon_latirostris" recon_no="345978">Glanochthon_latirostris</List>
+		<List recon_name="Archegosaurus_decheni" recon_no="255841">Archegosaurus_decheni</List>
+		<List recon_name="Platyoposaurus_stuckenbergi" recon_no="142452">Platyoposaurus_stuckenbergi</List>
+		<List recon_name="Australerpeton_cosgriffi" recon_no="255235">Australerpeton_cosgriffi</List>
+		<List recon_name="Lapillopsis_nana" recon_no="150341">Lapillopsis_nana</List>
+		<List recon_name="Peltobatrachus_pustulatus" recon_no="367348">Peltobatrachus_pustulatus</List>
+		<List recon_name="Rhineceps_nyasaensis" recon_no="267022">Rhineceps_nyasaensis</List>
+		<List recon_name="Uranocentrodon_senekalensis" recon_no="255236">Uranocentrodon_senekalensis</List>
+		<List recon_name="Broomistega_putterilli" recon_no="266423">Broomistega_putterilli</List>
+		<List recon_name="Lydekkerina_huxleyi" recon_no="255237">Lydekkerina_huxleyi</List>
+		<List recon_name="Chomatobatrachus_halei" recon_no="251647">Chomatobatrachus_halei</List>
+		<List recon_name="Sangaia_lavinai" recon_no="91804">Sangaia_lavina</List>
+		<List recon_name="Peltostega_erici" recon_no="251517">Peltostega_erici</List>
+		<List recon_name="Laidleria_gracilis" recon_no="251506">Laidleria_gracilis</List>
+		<List recon_name="Siderops_kehli" recon_no="251254">Siderops_kehli</List>
+		<List recon_name="Batrachosuchus_watsoni" recon_no="251465">Batrachosuchus_watsoni</List>
+		<List recon_name="Plagiosuchus_pustuliferus" recon_no="179398">Plagiosuchus_pustuliferus</List>
+		<List recon_name="Gerrothorax_pulcherrimus" recon_no="180698">Gerrothorax_pulcherrimus</List>
+		<List recon_name="Edingerella_madagascariensis" recon_no="251497">Edingerella_madagascariensis</List>
+		<List recon_name="Watsonisuchus_gunganj" recon_no="251275">Watsonisuchus_gunganj</List>
+		<List recon_name="Benthosuchus_sushkini" recon_no="269989">Benthosuchus_sushkini</List>
+		<List recon_name="Trematosaurus_brauni" recon_no="248613">Trematosaurus_brauni</List>
+		<List recon_name="Trematolestes_hagdorni" recon_no="179389">Trematolestes_hagdorni</List>
+		<List recon_name="Lyrocephaliscus_euri" recon_no="266625">Lyrocephaliscus_euri</List>
+		<List recon_name="Callistomordax_kugleri" recon_no="174472">Callistomordax_kugleri</List>
+		<List recon_name="Metoposaurus_diagnosticus" recon_no="130942">Metoposaurus_diagnosticus</List>
+		<List recon_name="Wetlugasaurus_angustifrons" recon_no="270206">Wetlugasaurus_angustifrons</List>
+		<List recon_name="Parotosuchus_nasutus" recon_no="270192">Parotosuchus_nasutus</List>
+		<List recon_name="Eryosuchus_garjainovi" recon_no="169905">Eryosuchus_garjainovi</List>
+		<List recon_name="Paracyclotosaurus_davidi" recon_no="57042">Paracyclotosaurus_davidi</List>
+		<List recon_name="Eocyclotosaurus_wellesi" recon_no="165254">Eocyclotosaurus_wellesi</List>
+		<List recon_name="Cyclotosaurus_robustus" recon_no="57085">Cyclotosaurus_robustus</List>
+		<List recon_name="Mastodonsaurus_giganteus" recon_no="150365">Mastodonsaurus_giganteus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="212">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schoch_2013a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

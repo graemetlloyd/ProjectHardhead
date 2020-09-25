@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Laurin, M.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>The importance of global parsimony and historical bias in understanding tetrapod evoltution. Part I. Systematics, middle ear evolution and jaw suspension</Title>
+		<Journal>Annales des Sciences Naturelles</Journal>
+		<Volume>1</Volume>
+		<Pages>1-42</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="43">
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">osteolepiformes</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">panderichthyidae</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">acanthostega</List>
+		<List recon_name="Ichthyostega_stensioei" recon_no="229326">ichthyostega</List>
+		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">crassigyrinus</List>
+		<List recon_name="Baphetes_kirkbyi,Baphetes_lintonensis,Baphetes_planiceps,Loxomma_acutirhinus,Loxomma_allmanni,Loxomma_rankini,Megalocephalus_lineolatus,Megalocephalus_pachycephalus,Spathicephalus_mirus,Spathicephalus_pereger" recon_no="229310;334977;95780;334684;334683;334703;335653;345306;332435;332981">loxommatidae</List>
+		<List recon_name="Colosteus_scutellatus,Greererpeton_burkemorani" recon_no="344231;227037">colosteidae</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">dendrerpeton</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">eryops</List>
+		<List recon_name="Ecolsonia_cutlerensis" recon_no="229320">ecolsonia</List>
+		<List recon_name="Tersomius_texensis" recon_no="90713">tersomius</List>
+		<List recon_name="Amphibamus_grandiceps" recon_no="229305">amphibamus</List>
+		<List recon_name="Apateon_pedestris" recon_no="229308">apateon</List>
+		<List recon_name="Doleserpeton_annectens" recon_no="140536">doleserpeton</List>
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">proterogyrinus</List>
+		<List recon_name="Archeria_crassidisca" recon_no="345353">archeria</List>
+		<List recon_name="Bruktererpeton_fiebigi,Gephyrostegus_bohemicus" recon_no="229314;137955">gephyrostegidae</List>
+		<List recon_name="Kotlassia_prima" recon_no="229327">kotlassia</List>
+		<List recon_name="Seymouria_baylorensis,Seymouria_grandis,Seymouria_sanjuanensis" recon_no="137488;346166;93510">seymouria</List>
+		<List recon_name="Ariekanerpeton_sigalovi" recon_no="346286">ariekanerpeton</List>
+		<List recon_name="Westlothiana_lizziae" recon_no="179032">westlothiana</List>
+		<List recon_name="Dolichosoma_emersoni,Dolichosoma_scutiferum,Lethiscus_stocki,Ophiderpeton_amphiuminum,Ophiderpeton_brownriggi,Phlegethontia_longissima" recon_no="320840;379289;229330;379334;243095;156845">aistopoda</List>
+		<List recon_name="Adelogyrinus_simorhynchus,Adelospondylus_watsoni,Dolichopareias_disjectus,Palaeomolgophis_scoticus" recon_no="227001;229306;229319;320835">adelogyrinidae</List>
+		<List recon_name="Ctenerpeton_remex,Urocordylus_wandesfordii" recon_no="340039;227065">nectridea</List>
+		<List recon_name="Pantylus_cordatus" recon_no="70439">pantylus</List>
+		<List recon_name="Rhynchonkos_stovalli" recon_no="340743">rhynchonkos</List>
+		<List recon_name="Batropetes_fritschia,Carrolla_craddocki,Quasicaecilia_texana" recon_no="137990;227004;227373">brachystelechida</List>
+		<List recon_name="Lysorophus_dunkardensis,Lysorophus_tricarinatus" recon_no="320833;70395">lysorophia</List>
+		<List recon_name="Triadobatrachus_massinoti" recon_no="156397">triadobatrachus</List>
+		<List recon_name="Alytes_obstetricans" recon_no="387461">discoglossidae</List>
+		<List recon_name="Pipa_pipa,Xenopus_laevis" recon_no="401222;398794">pipidae</List>
+		<List recon_name="Karaurus_sharovi" recon_no="202227">karaurus</List>
+		<List recon_name="Hynobius_naevius,Hynobius_nebulosus" recon_no="401232;414423">hynobiidae</List>
+		<List recon_name="Pseudobranchus_striatus,Siren_lacertina" recon_no="393962;110834">sirenidae</List>
+		<List recon_name="Necturus_maculosus" recon_no="376115">proteidae</List>
+		<List recon_name="Eocaecilia_micropodia" recon_no="156677">eocaecilia</List>
+		<List recon_name="Epicrionops_petersi" recon_no="414419">rhinatrematidae</List>
+		<List recon_name="Ichthyophis_glutinosus" recon_no="403576">ichthyophiidae</List>
+		<List recon_name="Limnoscelis_paludis" recon_no="113848">limnoscelis</List>
+		<List recon_name="Diadectes_carinatus,Diadectes_lentus" recon_no="346263;346261">diadectes</List>
+		<List recon_name="Archaeothyris_florensis" recon_no="122328">synapsida</List>
+		<List recon_name="Captorhinus_laticeps" recon_no="134970">captorhinidae</List>
+		<List recon_name="Suchonosaurus_minimus" recon_no="362430">procolophonidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="155">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Laurin_1998a</Filename>
+	<Parent>Laurin_et_Reisz_1997a</Parent>
+	<Sibling/>
+</SourceTree>

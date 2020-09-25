@@ -1,0 +1,42 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=27 NCHAR=25;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Rhinesuchidae                  0000000000000000000000000
+Benthosuchus_sushkini          1111000000000000000000000
+Cherninia_denwai               0011111111000000000000000
+Cyclotosaurus_robustus         0011011111111110000000000
+Edingerella_madagascarensis    0111000000000000000000000
+Eocyclotosaurus_lehmani        0011011111000111111111000
+Eryosuchus_harjainovi          0011011111000010000000000
+Kupferzellia_wildi             0011011111111110000000000
+Lydekkerina_huxleyi            0001000000000000000000000
+Mastodonsaurus_cappelensis     0011011111000110011111100
+Mastodonsaurus_giganteus       0011011111000110011111100
+Odenwaldia_heidelbergensis     0011111111000000000000000
+Parotosuchus_haughtoni         0011001111000000000000011
+Parotosuchus_nasutus           0011001111000000000000001
+Parotosuchus_orenburgensis     0011001111000000000000011
+Paracyclotosaurus_crookshanki  0011011111000110001111000
+Procyclotosaurus_stantonensis  0011011111000110000111000
+Quasicyclotosaurus_campi       0011011111000111111111000
+Sclerothorax_hypselonotus      0011000011000000000000000
+Stanocephalosaurus_birdi       0011011111000110000011000
+Stanocephalosaurus_pronus      0011011111000110000001000
+Thoosuchus_yakovlevi           1111000000000000000000000
+Watsonisuchus_rewanensis       0011000111000000000000000
+Wetlugasaurus_angustifrons     0011000001000000000000000
+Xenotosuchus_africanus         0011011111001110000000000
+Yuanansuchus_laticeps          0011011111000110111111000
+Stenotosaurus_semiclausus      0011011111011110000000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

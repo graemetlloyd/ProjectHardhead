@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dias-da-Silva, S.</List>
+			<List>Sengupta, D. P.</List>
+			<List>Cabreira, S. F.</List>
+			<List>Da Silva, L. R.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>The presence of <em>Cosmoceratops</em> (Brachyopoidea: Chigutisauridae) (Late Triassic) in southern Brazil with comments on chigutisaurid palaeobiogeography</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>55</Volume>
+		<Pages>163-172</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List recon_name="DELETE" recon_no="0">outgroup</List>
+		<List recon_name="Dvinosaurus_primus" recon_no="56905">Dvinosauridae</List>
+		<List recon_name="Tupilakosaurus_heilmani,Kourerpeton_bradyi" recon_no="172842;120928">Tupilakosauridae</List>
+		<List recon_name="Rhineceps_nyasaensis" recon_no="267022">Rhineceps</List>
+		<List recon_name="Watsonisuchus_aliciae" recon_no="251274">Watsonisuchus</List>
+		<List recon_name="Indobrachyops_panchetensis,Bothriceps_major" recon_no="251613;113845">Rhytidosteidae</List>
+		<List recon_name="Brachyops_laticeps" recon_no="251464">Brachyops</List>
+		<List recon_name="Bothriceps_australis" recon_no="251454">Bothriceps</List>
+		<List recon_name="Platycepsion_wilkinsoni" recon_no="251456">Platycepsion</List>
+		<List recon_name="Batrachosuchus_browni" recon_no="150351">Batrachosuchus_browni</List>
+		<List recon_name="Batrachosuchus_watsoni" recon_no="251465">Batrachosuchus_watsoni</List>
+		<List recon_name="Xenobrachyops_allos" recon_no="251266">Xenobrachyops</List>
+		<List recon_name="Batrachosuchus_concordi" recon_no="172485">Batrachosuchus_concordi</List>
+		<List recon_name="Batrachosuchus_henwoodi" recon_no="251459">Batrachosuchus_henwoodi</List>
+		<List recon_name="Banksiops_townrowi" recon_no="251467">Banksiops</List>
+		<List recon_name="Hadrokkosaurus_bradyi" recon_no="165253">Hadrokkosaurus</List>
+		<List recon_name="Notobrachyops_picketti" recon_no="251463">Notobrachyops</List>
+		<List recon_name="Batrachosuchoides_lacer" recon_no="251471">Batrachosuchoides</List>
+		<List recon_name="Sinobrachyops_placenticephalus" recon_no="251468">Sinobrachyops</List>
+		<List recon_name="Keratobrachyops_australis" recon_no="251264">Keratobrachyops_australis</List>
+		<List recon_name="Keratobrachyops_australis" recon_no="251264">Keratobrachyops_sp</List>
+		<List recon_name="Pelorocephalus_cacheutensis,Pelorocephalus_ischigualastensis,Pelorocephalus_mendozensis,Pelorocephalus_tenax" recon_no="251478;251501;251472;251476">Pelorocephalus_spp</List>
+		<List recon_name="Kuttycephalus_triangularis" recon_no="251482">Kuttycephalus</List>
+		<List recon_name="Compsocerops_cosgriffi" recon_no="251480">Compsocerops_cosgriffi</List>
+		<List recon_name="Siderops_kehli" recon_no="251254">Siderops</List>
+		<List recon_name="Koolasuchus_cleelandi" recon_no="251484">Koolasuchus</List>
+		<List recon_name="Compsocerops_sp_ULBRA_PVT_059a_et_059b_et_060_to_062" recon_no="251479">Compsocerops_sp_ULBRA_PVT_059a_et_059b_et_060_to_062</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="61">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dias-da-Silva_etal_2012a</Filename>
+	<Parent>Warren_et_Marsicano_2000a</Parent>
+	<Sibling/>
+</SourceTree>

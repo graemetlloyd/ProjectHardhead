@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Baez, A. M.</List>
+			<List>Pugener, L. A.</List>
+		</Author>
+		<Year>1998</Year>
+		<Title>A new Paleogene pipid frog from northwestern Patagonia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>18</Volume>
+		<Pages>511-524</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="14">
+		<List recon_name="Discoglossus" recon_no="37427">Discoglossus</List>
+		<List recon_name="Pelobates" recon_no="37453">Pelobates</List>
+		<List recon_name="Rhinophrynus" recon_no="37444">Rhinophrynus</List>
+		<List recon_name="Chelomophrynus" recon_no="108607">Chelomophrynus</List>
+		<List recon_name="Palaeobatrachus" recon_no="37447">Palaeobatrachus</List>
+		<List recon_name="Xenopus_laevis" recon_no="398794">Xenopus</List>
+		<List recon_name="Silurana" recon_no="108551">Silurana</List>
+		<List recon_name="Shelania_pascuali" recon_no="135372">Shelania_pascuali</List>
+		<List recon_name="Pipa" recon_no="135377">Pipa</List>
+		<List recon_name="Eoxenopoides" recon_no="37437">Eoxenopoides</List>
+		<List recon_name="Hymenochirini" recon_no="135382">Hymenochirini</List>
+		<List recon_name="Saltenia" recon_no="37438">Saltenia</List>
+		<List recon_name="Xenopus_romeri" recon_no="113803">Xenopus_romeri</List>
+		<List recon_name="Shelania_laurenti" recon_no="135373">Shelania_laurenti</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="47">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Baez_et_Pugener_1998a</Filename>
+	<Parent>Baez_et_Trueb_1997a</Parent>
+	<Sibling/>
+</SourceTree>

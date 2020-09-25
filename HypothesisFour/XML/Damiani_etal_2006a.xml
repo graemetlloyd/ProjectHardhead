@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Damiani, R.</List>
+			<List>Sidor, C. A.</List>
+			<List>Steyer, S.</List>
+			<List>Smith, R. M. H.</List>
+			<List>Larsson, H. C. E.</List>
+			<List>Maga, A.</List>
+			<List>Ide, O.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>The vertebrate fauna of the Upper Permian of Niger. V. The primitive temnospondyl <em>Saharastega moradiensis</em></Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>26</Volume>
+		<Pages>559-572</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="15">
+		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greererpeton</List>
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
+		<List recon_name="Chenoprosopus_milleri" recon_no="139020">Chenoprosopus</List>
+		<List recon_name="Edops_craigi" recon_no="252444">Edops</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton</List>
+		<List recon_name="Trimerorhachis_insignis" recon_no="90711">Trimerorhachis</List>
+		<List recon_name="Capetus_palustris" recon_no="256954">Capetus</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops</List>
+		<List recon_name="Isodectes_obtusus" recon_no="137434">Isodectes</List>
+		<List recon_name="Parioxys_ferricolus" recon_no="345270">Paryoxis</List>
+		<List recon_name="Zatrachys_serratus" recon_no="255221">Zatrachys</List>
+		<List recon_name="Eoscopus_lockardi" recon_no="229322">Eoscopus</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus</List>
+		<List recon_name="Saharastega_moradiensis" recon_no="91479">Saharastega</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Damiani_etal_2006a</Filename>
+	<Parent>Holmes_etal_1998a</Parent>
+	<Sibling/>
+</SourceTree>

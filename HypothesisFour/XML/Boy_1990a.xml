@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Boy, J. A.</List>
+		</Author>
+		<Year>1990</Year>
+		<Title>On some representatives of the Eryopoidea (Amphibia: Temnospondyli) from the European Rotliegend (?uppermost Carboniferous - Permian) 3. <em>Onchiodon</em></Title>
+		<Journal>Palaontologische Zeitschrift</Journal>
+		<Volume>64</Volume>
+		<Pages>287-312</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List recon_name="Neldasaurus_wrightae,Trimerorhachis_insignis" recon_no="229335;90711">Trimerorhachoidea</List>
+		<List recon_name="Branchiosaurus_salamandroides,Dissorophus_multicinctus,Doleserpeton_annectens,Micromelerpeton_credneri,Perryella_olsoni,Trematops_milleri" recon_no="255222;255227;140536;341560;242727;137365">Dissorophoidea</List>
+		<List recon_name="Edops_craigi" recon_no="252444">Edops</List>
+		<List recon_name="Acanthostomatops_vorax,Dasyceps_bucklandi,Dasyceps_microphthalmus,Zatrachys_serratus" recon_no="345489;333240;345491;255221">Zatrachydidae</List>
+		<List recon_name="Parioxys_ferricolus" recon_no="345270">Parioxys</List>
+		<List recon_name="Onchiodon_labyrinthicus" recon_no="66913">Onchiodon</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops</List>
+		<List recon_name="Chenoprosopus_milleri" recon_no="139020">Chenoprosopus</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus</List>
+		<List recon_name="Archegosaurus_decheni" recon_no="255841">Archegosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="37">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Boy_1990a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

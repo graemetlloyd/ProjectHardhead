@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Yates, A. M.</List>
+		</Author>
+		<Year>1999</Year>
+		<Title>The Lapillopsidae: a new family of small temnospondyls from the Early Triassic of Australia</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>19</Volume>
+		<Pages>302-320</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List recon_name="DELETE" recon_no="0">ancestor</List>
+		<List recon_name="Broiliellus_brevis,Phonerpeton_pricei,Phonerpeton_sp_MCZ_2475,Tersomius_mosesi,Tersomius_texensis" recon_no="229313;345308;230700;90714;90713">Dissorophoidea</List>
+		<List recon_name="Eryops_megacephalus,Eryops_sp_MCZ_7765,Eryops_sp_MCZ_1793,Eryops_sp_AMNH_43149" recon_no="70397;37011;37011;37011">Eryopidae</List>
+		<List recon_name="Acroplous_vorax,Dvinosaurus_primus,Isodectes_obtusus,Neldasaurus_wrightae,Thabanchuia_oomie,Trimerorhachis_insignis,Trimerorhachis_mesops,Tupilakosaurus_heilmani,Tupilakosaurus_wetlugensis" recon_no="255215;56905;137434;229335;242829;90711;345111;172842;255216">Dvinosauria</List>
+		<List recon_name="Archegosaurus_decheni,Platyoposaurus_stuckenbergi" recon_no="255841;142452">Archegosauroidea</List>
+		<List recon_name="Peltobatrachus_pustulatus" recon_no="367348">Peltobatrachus</List>
+		<List recon_name="Lapillopsis_nana" recon_no="150341">Lapillopsis</List>
+		<List recon_name="Rotaurisaurus_contundo" recon_no="251290">Rotaurisaurus</List>
+		<List recon_name="Rhineceps_nyasaensis,Rhinesuchus_whaitsi,Uranocentrodon_senekalensis" recon_no="267022;266926;255236">Rhinesuchidae</List>
+		<List recon_name="Lydekkerina_huxleyi" recon_no="255237">Lydekkerinidae</List>
+		<List recon_name="Benthosuchus_sushkini,Edingerella_madagascariensis,Mastodonsaurus_giganteus,Warrenisuchus_aliciae,Watsonisuchus_gunganj,Watsonisuchus_rewanensis" recon_no="269989;251497;150365;266682;251275;251276">Capitosauroidea</List>
+		<List recon_name="Almasaurus_habbazi,Batrachosuchus_concordi,Batrachosuchus_henwoodi,Buettneria_perfecta,Cosgriffius_campi,Derwentia_warreni,Keratobrachyops_australis,Laidleria_gracilis,Luzocephalus_blomi,Pelorocephalus_cacheutensis,Pelorocephalus_mendozensis,Pelorocephalus_tenax,Plagiosternum_granulosum,Rewana_myriadens,Rewana_quadricuneata,Rhytidosteidae_indet_QM_F14490,Siderops_kehli,Thoosuchus_yakovlevi,Xenobrachyops_allos" recon_no="71421;172485;251459;100583;165271;251504;251264;251506;266414;251478;251472;251476;252572;251284;251267;37110;251254;362936;251266">Trematosauria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="68">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Yates_1999a</Filename>
+	<Parent>Yates_et_Warren_2000a</Parent>
+	<Sibling/>
+</SourceTree>

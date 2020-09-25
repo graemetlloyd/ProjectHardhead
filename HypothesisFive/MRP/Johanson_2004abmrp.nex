@@ -1,0 +1,23 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=10 NCHAR=8;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Glyptolepis     00000000
+Gooloogongia    00000011
+Aztecia         00011111
+Sauripterus     00001111
+Barameda        00110111
+Rhizodus        01110111
+Screbinodus     01110111
+Strepsodus      01110111
+Medoevia        10000001
+Eusthenopteron  10000001
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

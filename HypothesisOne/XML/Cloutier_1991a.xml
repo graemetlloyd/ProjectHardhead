@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cloutier, R.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title>Patterns, trends, and rates of evolution within the Actinistia</Title>
+		<Journal>Environmental Biology of Fishes</Journal>
+		<Volume>32</Volume>
+		<Pages>23-58</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="32">
+		<List recon_name="DELETE" recon_no="0">Outgroup</List>
+		<List recon_name="Alcoveria_brevis" recon_no="276631">ALCOVBR</List>
+		<List recon_name="Allenypterus_montanus" recon_no="199158">ALLENMO</List>
+		<List recon_name="Axelia_robusta" recon_no="204786">AXELIRO</List>
+		<List recon_name="Axelrodichthys_araripensis" recon_no="134538">AXELRAR</List>
+		<List recon_name="Caridosuctor_populosum" recon_no="199153">CARIDPO</List>
+		<List recon_name="Chinlea_sorenseni" recon_no="249590">CHINLSO</List>
+		<List recon_name="Coelacanthus_granulatus" recon_no="149735">COELAGR</List>
+		<List recon_name="Diplocercides_kayseri" recon_no="226297">DIPLOKA</List>
+		<List recon_name="Diplurus_longicaudatus" recon_no="320875">DIPLULO</List>
+		<List recon_name="Diplurus_newarki" recon_no="320876">DIPLUNE</List>
+		<List recon_name="Garnbergia_ommata" recon_no="259492">GARNBOM</List>
+		<List recon_name="Hadronector_donbairdi" recon_no="199156">HADRODO</List>
+		<List recon_name="Undina_penicillata" recon_no="99879">HOLOPPE</List>
+		<List recon_name="Latimeria_chalumnae" recon_no="320877">LATIMCH</List>
+		<List recon_name="Laugia_groenlandica" recon_no="205719">LAUGIGR</List>
+		<List recon_name="Lochmocercus_aciculodontus" recon_no="199159">LOCHMAC</List>
+		<List recon_name="Macropoma_mantelli" recon_no="261758">MACROMA</List>
+		<List recon_name="Mawsonia_gigas" recon_no="68075">MAWSOGI</List>
+		<List recon_name="Miguashaia_bureaui" recon_no="320884">MIGUABU</List>
+		<List recon_name="Nesides_schmidti" recon_no="419329">NESIDSC</List>
+		<List recon_name="Nesides_heiligenstockiensis" recon_no="419330">NESIDHE</List>
+		<List recon_name="Polyosteorhynchus_simplex" recon_no="199157">POLYOSI</List>
+		<List recon_name="Rhabdoderma_elegans" recon_no="320885">RHABDEL</List>
+		<List recon_name="Rhabdoderma_exiguum" recon_no="320892">RHABDEX</List>
+		<List recon_name="Rhabdoderma_madagascariensis" recon_no="320890">RHABDMA</List>
+		<List recon_name="Rhabdoderma_sp_HM_V8322" recon_no="34949">RHABSPl</List>
+		<List recon_name="Synaptotylus_newelli" recon_no="321039">SYNAPNE</List>
+		<List recon_name="Ticinepomis_peyeri" recon_no="260211">TICINPE</List>
+		<List recon_name="Whiteia_tuberculata" recon_no="276066">WHITETU</List>
+		<List recon_name="Whiteia_woodwardi" recon_no="276065">WHITEWO</List>
+		<List recon_name="Wimania_sinuosa" recon_no="204782">WIMANSI</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="75">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cloutier_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

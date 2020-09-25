@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Polley, B. P.</List>
+			<List>Reisz, R. R.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>A new Lower Permian trematopid (Temnospondyli: Dissorophoidea) from Richards Spur, Oklahoma</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>161</Volume>
+		<Pages>789-815</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="12">
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus_haeuseri</List>
+		<List recon_name="Acheloma_cumminsi" recon_no="81713">Acheloma_cumminsi</List>
+		<List recon_name="Acheloma_dunni" recon_no="180406">Acheloma_dunni</List>
+		<List recon_name="Actiobates_peabodyi" recon_no="344750">Actiobates_peabodyi</List>
+		<List recon_name="Anconastes_vesperus" recon_no="136412">Anconastes_vesperus</List>
+		<List recon_name="Cacops_morrisi" recon_no="175857">Cacops_morrisi</List>
+		<List recon_name="Ecolsonia_cutlerensis" recon_no="229320">Ecolsonia_cutlerensis</List>
+		<List recon_name="Eoscopus_lockardi" recon_no="229322">Eoscopus_lockardi</List>
+		<List recon_name="Micromelerpeton_credneri" recon_no="341560">Micromelerpeton_credneri</List>
+		<List recon_name="Micropholis_stowi" recon_no="255226">Micropholis_stowi</List>
+		<List recon_name="Phonerpeton_pricei" recon_no="345308">Phonerpeton_pricei</List>
+		<List recon_name="Tambachia_trogallas" recon_no="152960">Tambachia_trogallas</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="53">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Polley_et_Reisz_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

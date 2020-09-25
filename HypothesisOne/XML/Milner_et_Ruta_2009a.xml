@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Milner, A. C.</List>
+			<List>Ruta, M.</List>
+		</Author>
+		<Year>2009</Year>
+		<Title>A revision of <em>Scincosaurus</em> (Tetrapoda, Nectridea) from the Moscovian of Nyrany, Czech Republic, and the phylogeny and interrelationships of nectrideans</Title>
+		<Journal>Special Papers in Palaeontology</Journal>
+		<Volume>81</Volume>
+		<Pages>71-89</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List recon_name="Eucritta_melanolimnetes" recon_no="229324">Eucritta_melanolimnetes</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton_woodi</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton_acadianum</List>
+		<List recon_name="Lethiscus_stocki" recon_no="229330">Lethiscus_stocki</List>
+		<List recon_name="Microbrachis_pelikani" recon_no="227043">Microbrachis_pelikani</List>
+		<List recon_name="Ophiderpeton_brownriggi" recon_no="243095">Ophiderpeton_brownriggi_plus_O_kirktonense</List>
+		<List recon_name="Phlegethontia_linearis" recon_no="156820">Phlegethontia_linearis_plus_P_longissima</List>
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus_scheelei</List>
+		<List recon_name="Batrachiderpeton_reticulatum" recon_no="340055">Batrachiderpeton_reticulatum</List>
+		<List recon_name="Crossotelos_annulatus" recon_no="137515">Crossotelos_annulatus</List>
+		<List recon_name="Ctenerpeton_remex" recon_no="340039">Ctenerpeton_remex</List>
+		<List recon_name="Diceratosaurus_brevirostris" recon_no="340056">Diceratosaurus_brevirostris</List>
+		<List recon_name="Diplocaulus_magnicornis" recon_no="81712">Diplocaulus_magnicornis</List>
+		<List recon_name="Diploceraspis_burkei" recon_no="227035">Diploceraspis_burkei</List>
+		<List recon_name="Scincosaurus_crassus" recon_no="230694">Scincosaurus_crassus</List>
+		<List recon_name="Keraterpeton_galvani" recon_no="227370">Keraterpeton_galvani</List>
+		<List recon_name="Ptyonius_marshii" recon_no="340038">Ptyonius_marshii</List>
+		<List recon_name="Sauropleura_pectinata,Sauropleura_scalaris" recon_no="230692;338169">Sauropleura_pectinata_plus_S_scalaris</List>
+		<List recon_name="Urocordylus_wandesfordii" recon_no="227065">Urocordylus_wandesfordii</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="173">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Milner_et_Ruta_2009a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

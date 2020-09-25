@@ -1,0 +1,44 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=29 NCHAR=27 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Dendrysekos_helogenes        000000000000000000000000000
+Trimerorhachis_insignis      100000000000000000000000000
+Sclerocephalus_haeuseri      110000000000000000000000000
+Uranocentrodon_senekalensis  111000000000000000000000000
+Lydekkerina_huxleyi          111110000000000000000000000
+Luzocephalus_blomi           111110000000000000000000000
+Siderops_kehli               111101111000000000000000000
+Batrachosuchus_watsoni       111101111000000000000000000
+Laidleria_gracilis           111101110100000000000000000
+Rhytidosteus_capensis        111101100000000000000000000
+Gerrothorax_pulcherrimus     111101110110000000000000000
+Plagiosuchus_pustuliferus    111101110110000000000000000
+Capitosauria                 111101000001000000000000000
+Aphaneramma_rostratum        111101000001111111111000000
+Trematolestes_hagdorni       111101000001111110000100000
+Lyrocephaliscus_euri         111101000001111100000010000
+Rileymillerus_cosgriffi      111101000001111100000011100
+Almasaurus_habbazi           111101000001111100000011100
+Metoposaurus_diagnosticus    111101000001111100000011010
+Callistomordax_kugleri       111101000001111100000011010
+Benthosuchus_sushkini        111101000001100000000000000
+Thoosuchus_yakovlevi         111101000001110000000000000
+Angusaurus_dentatus          111101000001111000000000000
+Trematosaurus_brauni         111101000001111111100000001
+Trematosuchus_sobeyi         111101000001111111100000001
+Tertrema_acuta               111101000001111111110000000
+Platystega_depressa          111101000001111111000000000
+Tertremoides_ambilobensis    111101000001111110000100000
+Wantzosaurus_elongatus       111101000001111111111000000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ 	TYPESET * UNTITLED  = unord: 1-27;
+END;
+

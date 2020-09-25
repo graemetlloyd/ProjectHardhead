@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Trueb, L.</List>
+			<List>Ross, C. F.</List>
+			<List>Smith, R.</List>
+		</Author>
+		<Year>2005</Year>
+		<Title>A new pipoid anuran from the Late Cretaceous of South Africa</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>25</Volume>
+		<Pages>533-547</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List recon_name="Discoglossus_sardus" recon_no="401244">Discoglossus</List>
+		<List recon_name="Pelobates_fuscus" recon_no="401236">Pelobates</List>
+		<List recon_name="Rhinophrynus_dorsalis" recon_no="108650">Rhinophrynus</List>
+		<List recon_name="Chelomophrynus_bayi" recon_no="108608">Chelomophrynus</List>
+		<List recon_name="Palaeobatrachus_sp_KUVP_124971A_et_124971B_et_124972A_et_124975A_et_124975B_et_124976A_et_124976B" recon_no="37447">Palaeobatrachus</List>
+		<List recon_name="Xenopus_muelleri" recon_no="401229">Xenopus</List>
+		<List recon_name="Silurana_epitropicalis" recon_no="401230">Silurana</List>
+		<List recon_name="Shelania_pascuali" recon_no="135372">Shelania_pascuali</List>
+		<List recon_name="Shelania_laurenti" recon_no="135373">Shelania_laurenti</List>
+		<List recon_name="Pipa_parva" recon_no="401235">Pipa</List>
+		<List recon_name="Hymenochirus_curtipes" recon_no="401245">Hymenochirini</List>
+		<List recon_name="Eoxenopoides_reuningi" recon_no="156614">Eoxenopoides</List>
+		<List recon_name="Saltenia_ibanezi" recon_no="156615">Saltenia</List>
+		<List recon_name="Xenopus_romeri" recon_no="113803">Xenopus_romeri</List>
+		<List recon_name="Thoraciliacus_rostriceps" recon_no="135485">Thoraciliacus</List>
+		<List recon_name="Vulcanobatrachus_mandelai" recon_no="68502">Vulcanobatrachus</List>
+		<List recon_name="Cordicephalus_gracilis" recon_no="135486">Cordicephalus</List>
+		<List recon_name="Llankibatrachus_truebae" recon_no="135386">Llankibatrachus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="49">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Trueb_etal_2005a</Filename>
+	<Parent>Baez_et_Pugener_2003a</Parent>
+	<Sibling/>
+</SourceTree>

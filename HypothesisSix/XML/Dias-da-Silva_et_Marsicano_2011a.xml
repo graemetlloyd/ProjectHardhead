@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Dias-da-Silva, S.</List>
+			<List>Marsicano, C.</List>
+		</Author>
+		<Year>2011</Year>
+		<Title>Phylogenetic reappraisal of Rhytidosteidae (Stereospondyli: Trematosauria), temnospondyl amphibians from the Permian and Triassic</Title>
+		<Journal>Journal of Systematic Palaeontology</Journal>
+		<Volume>9</Volume>
+		<Pages>305-325</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="28">
+		<List recon_name="Benthosuchus_bystrowi,Benthosuchus_korobkovi,Benthosuchus_sushkini,Benthosuchus_uralensis" recon_no="269990;263707;269989;269992">Benthosuchus</List>
+		<List recon_name="Watsonisuchus_aliciae,Watsonisuchus_gunganj,Watsonisuchus_magnus,Watsonisuchus_rewanensis" recon_no="251274;251275;251278;251276">Watsonisuchus</List>
+		<List recon_name="Rhineceps_nyasaensis" recon_no="267022">Rhineceps</List>
+		<List recon_name="Australerpeton_cosgriffi" recon_no="255235">Australerpeton</List>
+		<List recon_name="Peltobatrachus_pustulatus" recon_no="367348">Peltobatrachus</List>
+		<List recon_name="Xenobrachyops_allos" recon_no="251266">Xenobrachyops</List>
+		<List recon_name="Bothriceps_australis" recon_no="251454">Bothriceps</List>
+		<List recon_name="Keratobrachyops_australis" recon_no="251264">Keratobrachyops</List>
+		<List recon_name="Lapillopsis_nana" recon_no="150341">Lapillopsis</List>
+		<List recon_name="Trematosaurus_brauni" recon_no="248613">Trematosaurus</List>
+		<List recon_name="Lydekkerina_huxleyi" recon_no="255237">Lydekkerina</List>
+		<List recon_name="Luzocephalus_blomi" recon_no="266414">Luzocephalus</List>
+		<List recon_name="Chomatobatrachus_halei" recon_no="251647">Chomatobatrachus</List>
+		<List recon_name="Laidleria_gracilis" recon_no="251506">Laidleria</List>
+		<List recon_name="Uruyiella_liminea" recon_no="140814">Uruyiella</List>
+		<List recon_name="Rhytidosteus_capensis" recon_no="251509">Rhytidosteus</List>
+		<List recon_name="Boreopelta_vavilovi" recon_no="251511">Boreopelta</List>
+		<List recon_name="Deltasaurus_kimberleyensis" recon_no="251512">Deltasaurus</List>
+		<List recon_name="Arcadia_myriadens" recon_no="251270">Arcadia</List>
+		<List recon_name="Peltostega_erici" recon_no="251517">Peltostega</List>
+		<List recon_name="Pneumatostega_potamia" recon_no="251507">Pneumatostega</List>
+		<List recon_name="Derwentia_warreni" recon_no="251504">Derwentia</List>
+		<List recon_name="Nanolania_anatopretia" recon_no="251286">Nanolania</List>
+		<List recon_name="Sangaia_lavinai" recon_no="91804">Sangaia</List>
+		<List recon_name="Mahavisaurus_dentatus" recon_no="251514">Mahavisaurus</List>
+		<List recon_name="Indobrachyops_panchetensis" recon_no="251613">Indobrachyops</List>
+		<List recon_name="Trucheosaurus_major" recon_no="251500">Trucheosaurus</List>
+		<List recon_name="Rewana_quadricuneata" recon_no="251267">Rewana</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="87">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Dias-da-Silva_et_Marsicano_2011a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

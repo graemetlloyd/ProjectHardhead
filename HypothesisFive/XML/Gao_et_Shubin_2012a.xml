@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Gao, K.-Q.</List>
+			<List>Shubin, N. H.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>Late Jurassic salamandroid from western Liaoning, China</Title>
+		<Journal>Proceedings of the National Academy of Sciences, USA</Journal>
+		<Volume>109</Volume>
+		<Pages>5767-5772</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="27">
+		<List recon_name="Karaurus_sharovi" recon_no="202227">Karaurus</List>
+		<List recon_name="Cryptobranchus_alleganiensis" recon_no="110601">Cryptobranchus</List>
+		<List recon_name="Andrias_japonicus" recon_no="191095">Andrias</List>
+		<List recon_name="Hynobius_formosanus,Hynobius_leechii,Hynobius_retardatus" recon_no="415415;414422;414548">Hynobius</List>
+		<List recon_name="Onychodactylus_japonicus" recon_no="401226">Onychodactylus</List>
+		<List recon_name="Plethodon_cinereus,Plethodon_glutinosus" recon_no="415331;53088">Plethodon</List>
+		<List recon_name="Desmognathus_aeneus,Desmognathus_auriculatus,Desmognathus_fuscus,Desmognathus_monticola,Desmognathus_ochrophaeus,Desmognathus_quadramaculatus,Desmognathus_wrighti" recon_no="415307;415308;393918;415311;133745;415316;415319">Desmognathus</List>
+		<List recon_name="Amphiuma_means,Amphiuma_tridactylum" recon_no="135023;135025">Amphiuma</List>
+		<List recon_name="Proamphiuma_cretacea" recon_no="67755">Proamphiuma</List>
+		<List recon_name="Rhyacotriton_olympicus" recon_no="393909">Rhyacotriton</List>
+		<List recon_name="Siren_lacertina" recon_no="110834">Siren</List>
+		<List recon_name="Pseudobranchus_striatus" recon_no="393962">Pseudobranchus</List>
+		<List recon_name="Habrosaurus_dilatus,Habrosaurus_prodilatus" recon_no="67757;246223">Habrosaurus</List>
+		<List recon_name="Necturus_maculosus" recon_no="376115">Necturus</List>
+		<List recon_name="Proteus_anguinus" recon_no="376111">Proteus</List>
+		<List recon_name="Salamandra_salamandra" recon_no="393926">Salamandra</List>
+		<List recon_name="Taricha_torosa" recon_no="393949">Taricha</List>
+		<List recon_name="Tylototriton_kweichowensis,Tylototriton_taliangensis" recon_no="415286;415292">Tylototriton</List>
+		<List recon_name="Dicamptodon_ensatus" recon_no="393904">Dicamptodon</List>
+		<List recon_name="Ambystoma_gracile,Ambystoma_tigrinum" recon_no="415267;110837">Ambystoma</List>
+		<List recon_name="Valdotriton_gracilis" recon_no="111405">Valdotriton</List>
+		<List recon_name="Jeholotriton_paradoxus" recon_no="134851">Jeholotriton</List>
+		<List recon_name="Liaoxitriton_zhongjiani" recon_no="156375">Liaoxitriton</List>
+		<List recon_name="Pangerpeton_sinensis" recon_no="176036">Pangerpeton</List>
+		<List recon_name="Chunerpeton_tianyiensis" recon_no="137502">Chunerpeton</List>
+		<List recon_name="Beiyanerpeton_jianpingensis" recon_no="242132">Beiyanerpeton</List>
+		<List recon_name="Iridotriton_hechti" recon_no="118174">Iridotriton</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="105">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Gao_et_Shubin_2012a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

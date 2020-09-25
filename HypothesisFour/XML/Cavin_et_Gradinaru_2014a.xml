@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Cavin, L.</List>
+			<List>Gradinaru, E.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title><em>Dobrogeria aegyssensis</em>, a new early Spathian (Early Triassic) coelacanth from North Dobrogea (Romania)</Title>
+		<Journal>Acta Geologica Polonica</Journal>
+		<Volume>64</Volume>
+		<Pages>161-187</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="42">
+		<List recon_name="Mimia_toombsi" recon_no="218914">Actinopterygians</List>
+		<List recon_name="Glyptolepis_groenlandica,Holoptychius_nobilissimus,Porolepis_sp_SMC_5554" recon_no="417062;260041;34947">Porolepiforms</List>
+		<List recon_name="Diplocercides_davisi,Diplocercides_heiligenstockiensis,Diplocercides_jaekeli,Diplocercides_kayseri" recon_no="320874;226296;320873;226297">Diplocercides</List>
+		<List recon_name="Rhabdoderma_alderingi,Rhabdoderma_ardrossense,Rhabdoderma_elegans,Rhabdoderma_exiguum,Rhabdoderma_huxleyi,Rhabdoderma_madagascariensis,Rhabdoderma_newelli,Rhabdoderma_tinglyense" recon_no="320889;320887;320885;320892;320888;320890;320891;320886">Rhabdoderma</List>
+		<List recon_name="Caridosuctor_populosum" recon_no="199153">Caridosuctor</List>
+		<List recon_name="Hadronector_donbairdi" recon_no="199156">Hadronector</List>
+		<List recon_name="Rebellatrix_divaricerca" recon_no="233790">Rebellatrix</List>
+		<List recon_name="Polyosteorhynchus_simplex" recon_no="199157">Polyosteorhynchus</List>
+		<List recon_name="Allenypterus_montanus" recon_no="199158">Allenypterus</List>
+		<List recon_name="Lochmocercus_aciculodontus" recon_no="199159">Lochmocercus</List>
+		<List recon_name="Coelacanthus_granulatus,Coelacanthus_lunzensis,Coelacanthus_welleri" recon_no="149735;320901;320902">Coelacanthus</List>
+		<List recon_name="Spermatodus_pustulosus" recon_no="137511">Spermatodus</List>
+		<List recon_name="Whiteia_africanus,Whiteia_nielseni,Whiteia_tuberculata,Whiteia_woodwardi" recon_no="320896;320895;276066;276065">Whiteia</List>
+		<List recon_name="Laugia_groenlandica" recon_no="205719">Laugia</List>
+		<List recon_name="Sassenia_groenlandica,Sassenia_tuberculata" recon_no="320893;204784">Sassenia</List>
+		<List recon_name="Chinlea_sorenseni" recon_no="249590">Chinlea</List>
+		<List recon_name="Diplurus_longicaudatus,Diplurus_newarki" recon_no="320875;320876">Diplurus</List>
+		<List recon_name="Holophagus_gulo" recon_no="99727">Holophagus</List>
+		<List recon_name="Undina_barroviensis,Undina_cirinensis,Undina_grandis,Undina_penicillata,Undina_purbeckensis" recon_no="209407;320894;320911;99879;99880">Undina</List>
+		<List recon_name="Coccoderma_bavaricum,Coccoderma_gigas,Coccoderma_seuvicum,Coccoderma_substriolatum" recon_no="320898;320899;320871;320900">Coccoderma</List>
+		<List recon_name="Libys_polypterus" recon_no="262178">Libys</List>
+		<List recon_name="Mawsonia_gigas,Mawsonia_lavocati,Mawsonia_libyca,Mawsonia_tegamensis,Mawsonia_ubangiensis" recon_no="68075;320881;320882;193977;320883">Mawsonia</List>
+		<List recon_name="Macropoma_lewesiensis,Macropoma_precursor,Macropoma_willemoesii" recon_no="320878;320879;320907">Macropoma</List>
+		<List recon_name="Latimeria_chalumnae" recon_no="320877">Lotimeria</List>
+		<List recon_name="Miguashaia_bureaui" recon_no="320884">Miguashaia</List>
+		<List recon_name="Axelrodichthys_araripensis" recon_no="134538">Axelrodichthys</List>
+		<List recon_name="Holopterygius_nudus" recon_no="416166">Holopterygius</List>
+		<List recon_name="Garnbergia_ommata" recon_no="259492">Garnbergia</List>
+		<List recon_name="Parnaibaia_maranhaoensis" recon_no="202302">Parnaibaia</List>
+		<List recon_name="Swenzia_latimerae" recon_no="321270">Swenzia</List>
+		<List recon_name="Guizhoucoelacanthus_guanlingensis" recon_no="204122">Guizhoucoelacanthus</List>
+		<List recon_name="Piveteauia_madagascariensis" recon_no="200338">Plveteauia</List>
+		<List recon_name="Euporosteus_eifeliensis" recon_no="320903">Euporosteus</List>
+		<List recon_name="Axelia_elegans,Axelia_robusta" recon_no="204787;204786">Axelia</List>
+		<List recon_name="Wimania_multistriata,Wimania_sinuosa" recon_no="204783;204782">Wimania</List>
+		<List recon_name="Ticinepomis_peyeri" recon_no="260211">Ticinepomis</List>
+		<List recon_name="Megalocoelacanthus_dobiei" recon_no="142486">Megalocoelacanthus</List>
+		<List recon_name="Luopingcoelacanthus_eurylacrimalis" recon_no="260172">Luopingcoelacanthus</List>
+		<List recon_name="Yunnancoelacanthus_acrotuberculatus" recon_no="260174">Yunnancoelacanthus</List>
+		<List recon_name="Indocoelacanthus_robustus" recon_no="96963">Indocoelacanthus</List>
+		<List recon_name="Lualabaea_henryi,Lualabaea_lerichei" recon_no="320906;320905">Lualabea</List>
+		<List recon_name="Dobrogeria_aegyssensis" recon_no="304511">Dobrogeria</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="110">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Cavin_et_Gradinaru_2014a</Filename>
+	<Parent>Forey_1998aa</Parent>
+	<Sibling/>
+</SourceTree>

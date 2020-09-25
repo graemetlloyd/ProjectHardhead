@@ -1,0 +1,23 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=10 NCHAR=9;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Eusthenopteron   000000000
+Panderichthys    000000001
+Elpistostege     000000011
+Livoniana        000000011
+Obruchevichthys  000111111
+Elginerpeton     000011111
+Ventastega       011100111
+Metaxygnathus    001101111
+Acanthostega     111100111
+Ichthyostega     111100111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

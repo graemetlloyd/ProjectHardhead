@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Chakravorti, S.</List>
+			<List>Sengupta, D. P.</List>
+		</Author>
+		<Year>2019</Year>
+		<Title>Taxonomy, morphometry and morphospace of cranial bones of <em>Panthasaurus</em> gen. nov. <em>maleriensis</em> from the Late Triassic of India</Title>
+		<Journal>Journal of Iberian Geology</Journal>
+		<Volume>45</Volume>
+		<Pages>317-340</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="10">
+		<List recon_name="Callistomordax_kugleri" recon_no="174472">Callistomordax_kugleri</List>
+		<List recon_name="Panthasaurus_maleriensis" recon_no="389252">Panthasaurus_maleriensis</List>
+		<List recon_name="Metoposaurus_diagnosticus" recon_no="130942">Metoposaurus_diagnosticus</List>
+		<List recon_name="Metoposaurus_diagnosticus_krasiejowensis" recon_no="130944">Metoposaurus_krasiejowensis</List>
+		<List recon_name="Metoposaurus_algarvensis" recon_no="317464">Metoposaurus_algarvensis</List>
+		<List recon_name="Metoposaurus_bakeri" recon_no="159205">Koskinonodon_bakeri</List>
+		<List recon_name="Koskinonodon_perfectus" recon_no="174684">Koskinonodon_perfectus</List>
+		<List recon_name="Buettneria_howardensis" recon_no="159202">Koskinonodon_howardensis</List>
+		<List recon_name="Apachesaurus_gregorii" recon_no="69036">Apachesaurus_gregorii</List>
+		<List recon_name="Dutuitosaurus_ouazzoui" recon_no="366396">Dutuitosaurus_ouazzoui</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="61">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Chakravorti_et_Sengupta_2019a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Forey, P. L.</List>
+		</Author>
+		<Year>1991</Year>
+		<Title><em>Latimeria chalumnae</em> and its pedigree</Title>
+		<Journal>Environmental Biology of Fishes</Journal>
+		<Volume>32</Volume>
+		<Pages>75-97</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="33">
+		<List recon_name="Glyptolepis_groenlandica,Holoptychius_nobilissimus" recon_no="417062;260041">Porolepiforms</List>
+		<List recon_name="Allenypterus_montanus" recon_no="199158">Allenypterus</List>
+		<List recon_name="Axelia_elegans,Axelia_robusta" recon_no="204787;204786">Axelia</List>
+		<List recon_name="Axelrodichthys_araripensis" recon_no="134538">Axelrodichtyes</List>
+		<List recon_name="Caridosuctor_populosum" recon_no="199153">Caridosuctor</List>
+		<List recon_name="Chinlea_sorenseni" recon_no="249590">Chinlea</List>
+		<List recon_name="Coccoderma_bavaricum,Coccoderma_gigas,Coccoderma_seuvicum,Coccoderma_substriolatum" recon_no="320898;320899;320871;320900">Coccoderma</List>
+		<List recon_name="Coelacanthus_granulatus,Coelacanthus_lunzensis,Coelacanthus_welleri" recon_no="149735;320901;320902">Coelacanthus</List>
+		<List recon_name="Diplocercides_davisi,Diplocercides_heiligenstockiensis,Diplocercides_jaekeli,Diplocercides_kayseri" recon_no="320874;226296;320873;226297">Diplocercides</List>
+		<List recon_name="Diplurus_longicaudatus,Diplurus_newarki" recon_no="320875;320876">Diplurus</List>
+		<List recon_name="Hadronector_donbairdi" recon_no="199156">Hadronector</List>
+		<List recon_name="Holophagus_gulo" recon_no="99727">Holophagus</List>
+		<List recon_name="Latimeria_chalumnae" recon_no="320877">Latimeria</List>
+		<List recon_name="Laugia_groenlandica" recon_no="205719">Laugia</List>
+		<List recon_name="Libys_polypterus" recon_no="262178">Libys</List>
+		<List recon_name="Macropoma_lewesiensis,Macropoma_precursor,Macropoma_willemoesii" recon_no="320878;320879;320907">Macropoma</List>
+		<List recon_name="Miguashaia_bureaui" recon_no="320884">Miguashia</List>
+		<List recon_name="Macropomoides_orientalis" recon_no="320908">Macropomoides</List>
+		<List recon_name="Mawsonia_gigas,Mawsonia_lavocati,Mawsonia_libyca,Mawsonia_tegamensis,Mawsonia_ubangiensis" recon_no="68075;320881;320882;193977;320883">Mawsonia</List>
+		<List recon_name="Piveteauia_madagascariensis" recon_no="200338">Piveteauia</List>
+		<List recon_name="Polyosteorhynchus_simplex" recon_no="199157">Polyosteorhynchus</List>
+		<List recon_name="Rhabdoderma_elegans" recon_no="320885">Rhabdoderma_elegans</List>
+		<List recon_name="Rhabdoderma_huxleyi" recon_no="320888">Rhabdoderma_huxleyi</List>
+		<List recon_name="Sassenia_tuberculata" recon_no="204784">Sassenia</List>
+		<List recon_name="Spermatodus_pustulosus" recon_no="137511">Spermatodus</List>
+		<List recon_name="Undina_barroviensis,Undina_cirinensis,Undina_grandis,Undina_penicillata,Undina_purbeckensis" recon_no="209407;320894;320911;99879;99880">Undina</List>
+		<List recon_name="Whiteia_africanus,Whiteia_tuberculata,Whiteia_woodwardi" recon_no="320896;276066;276065">Whiteia</List>
+		<List recon_name="Garnbergia_ommata" recon_no="259492">Garnbergia</List>
+		<List recon_name="Indocoelacanthus_robustus" recon_no="96963">Indocoelacanthus</List>
+		<List recon_name="Lochmocercus_aciculodontus" recon_no="199159">Lochmocercus</List>
+		<List recon_name="Lualabaea_henryi,Lualabaea_lerichei" recon_no="320906;320905">Lualubaea</List>
+		<List recon_name="Ticinepomis_peyeri" recon_no="260211">Ticinepomis</List>
+		<List recon_name="Wimania_multistriata,Wimania_sinuosa" recon_no="204783;204782">Wimania</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Forey_1991a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

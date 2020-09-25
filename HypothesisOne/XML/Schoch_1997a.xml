@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schoch, R. R.</List>
+		</Author>
+		<Year>1997</Year>
+		<Title>Cranial anatomy of the Permian temnospondyl amphibian <em>Zatrachys serratus</em> Cope 1878, and the phylogenetic position of the Zatrachydidae</Title>
+		<Journal>Neues Jahrbuch fur Geologie und Palaontologie, Abhandlungen</Journal>
+		<Volume>206</Volume>
+		<Pages>223-248</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="4">
+		<List recon_name="Cheliderpeton_latirostre,Sclerocephalus_haeuseri" recon_no="345886;255233">Actinodontidae</List>
+		<List recon_name="Micromelerpeton_credneri,Tersomius_texensis" recon_no="341560;90713">Dissorophoidea</List>
+		<List recon_name="Acanthostomatops_vorax,Zatrachys_serratus" recon_no="345489;255221">Zatrachydidae</List>
+		<List recon_name="Eryops_megacephalus,Onchiodon_labyrinthicus" recon_no="70397;66913">Eryopidae</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="18">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schoch_1997a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

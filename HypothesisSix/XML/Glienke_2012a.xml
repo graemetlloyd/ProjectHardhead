@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Glienke, S.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new &quot;microsaur&quot; (Amphibia; Lepospondyli) from the Rotliegend of the Saar-Palatinate region (Carboniferous/Permian transition; West Germany)</Title>
+		<Journal>Palaontologische Zeitschrift</Journal>
+		<Volume>86</Volume>
+		<Pages>297-311</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proterogyrinus</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Altenglanerpeton_schroederi" recon_no="340225">Altenglanerpeton</List>
+		<List recon_name="Batropetes_fritschia" recon_no="137990">Batropetes</List>
+		<List recon_name="Cardiocephalus_peabodyi" recon_no="137293">Cardiocephalus_peabodyi</List>
+		<List recon_name="Cardiocephalus_sternbergi" recon_no="90715">Cardiocephalus_sternbergi</List>
+		<List recon_name="Carrolla_craddocki" recon_no="227004">Carrolla</List>
+		<List recon_name="Eocaecilia_micropodia" recon_no="156677">Eocaecilia</List>
+		<List recon_name="Euryodus_dalyae" recon_no="227036">Euryodus_dalyae</List>
+		<List recon_name="Euryodus_primus" recon_no="120864">Euryodus_primus</List>
+		<List recon_name="Micraroter_erythrogeios" recon_no="90684">Micraroter</List>
+		<List recon_name="Microbrachis_pelikani" recon_no="227043">Microbrachis</List>
+		<List recon_name="Pantylus_cordatus" recon_no="70439">Pantylus</List>
+		<List recon_name="Pelodosotis_elongatum" recon_no="150625">Pelodosotis</List>
+		<List recon_name="Quasicaecilia_texana" recon_no="227373">Quasicaecilia</List>
+		<List recon_name="Rhynchonkos_stovalli" recon_no="340743">Rhynchonkos</List>
+		<List recon_name="Sparodus_validus" recon_no="338124">Sparodus</List>
+		<List recon_name="Stegotretus_agyrus" recon_no="227375">Stegotretus</List>
+		<List recon_name="Tambaroter_carrolli" recon_no="207729">Tambaroter</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="152">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Glienke_2012a</Filename>
+	<Parent>Anderson_2007a</Parent>
+	<Sibling/>
+</SourceTree>

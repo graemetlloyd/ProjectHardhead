@@ -1,0 +1,37 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=22 NCHAR=21;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Dendrerpeton             000000000000000000000
+Trimerorhachis           110000000000000000000
+Sclerocephalus           010000000000000000000
+Uranocentrodon           111100000000000000000
+Lydekkerina              111100000000000000000
+Siderops                 110111111000000000000
+Batrachosuchus           110111111000000000000
+Laidleria                110101111100000000000
+Rhytidosteidae           110100111000000000000
+Gerrothorax              110101111110000000000
+Plagiosuchus             110101111110000000000
+Capitosauroidea          110100001000000000001
+Aphaneramma              110100011001100000001
+Trematolestes            110100011001100000001
+Lyrocephaliscus          110100011000110000001
+Rileymillerus            110100011000111110001
+Almasaurus               110100011000110110001
+Metoposaurus             110100011000110011001
+Callistomordax           110100011000110011001
+Inflectosaurus_amplus    110100011000111110101
+Microposaurus_casei      110100011000111110111
+Jordan_taxon_SMNS_81772  110100011000111110111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

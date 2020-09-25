@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schoch, R. R.</List>
+		</Author>
+		<Year>2000</Year>
+		<Title>The origin and intrarelationships of Triassic capitosaurid amphibians</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>43</Volume>
+		<Pages>705-727</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus</List>
+		<List recon_name="Uranocentrodon_senekalensis" recon_no="255236">Uranocentrodon</List>
+		<List recon_name="Wetlugasaurus_angustifrons,Wetlugasaurus_samarensis" recon_no="270206;270208">Wetlugasaurus</List>
+		<List recon_name="Benthosuchus_sushkini,Benthosuchus_uralensis" recon_no="269989;269992">Benthosuchus</List>
+		<List recon_name="Thoosuchus_yakovlevi" recon_no="362936">Thoosuchus</List>
+		<List recon_name="Trematosaurus_brauni" recon_no="248613">Trematosaurus</List>
+		<List recon_name="Edingerella_madagascariensis" recon_no="251497">Parotosuchus_madagascariensis</List>
+		<List recon_name="Parotosuchus_nasutus" recon_no="270192">Parotosuchus_nasutus</List>
+		<List recon_name="Parotosuchus_orenburgensis" recon_no="265669">Parotosuchus_orenburgensis</List>
+		<List recon_name="Mastodonsaurus_giganteus,Mastodonsaurus_torvus" recon_no="150365;169907">Mastodonsaurus</List>
+		<List recon_name="Eryosuchus_garjainovi,Eryosuchus_tverdochlebovi" recon_no="169905;169903">Eryosuchus</List>
+		<List recon_name="Wellesaurus_peabodyi" recon_no="165269">Wellesaurus</List>
+		<List recon_name="Stanocephalosaurus_pronus" recon_no="251492">Parotosuchus_pronus</List>
+		<List recon_name="Kupferzellia_wildi" recon_no="179402">Kupferzellia</List>
+		<List recon_name="Eocyclotosaurus_woschmidti" recon_no="269996">Eocyclotosaurus</List>
+		<List recon_name="Quasicyclotosaurus_campi" recon_no="165258">Quasicyclotosaurus</List>
+		<List recon_name="Cyclotosaurus_mordax,Cyclotosaurus_posthumus,Cyclotosaurus_robustus" recon_no="57080;57084;57085">Cyclotosaurus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="71">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schoch_2000a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Trueb, L.</List>
+			<List>Baez, A. M.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>Revision of the Early Cretaceous <em>Cordicephalus</em> from Israel and an assessment of its relationships among pipoid frogs</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>26</Volume>
+		<Pages>44-59</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="21">
+		<List recon_name="Ascaphus_truei" recon_no="401231">Ascaphus</List>
+		<List recon_name="Bombina" recon_no="113813">Bombina</List>
+		<List recon_name="Chelomophrynus" recon_no="108607">Chelomophyrnus</List>
+		<List recon_name="Cordicephalus" recon_no="37436">Cordicephalus</List>
+		<List recon_name="Discoglossus" recon_no="37427">Discoglossus</List>
+		<List recon_name="Eoxenopoides" recon_no="37437">Eoxenopoides</List>
+		<List recon_name="Hymenochirus" recon_no="135383">Hymenochirus</List>
+		<List recon_name="Llankibatrachus" recon_no="135385">Llankibatrachus</List>
+		<List recon_name="Pachycentrata" recon_no="135380">Pachycentrata</List>
+		<List recon_name="Palaeobatrachus" recon_no="37447">Palaeobatrachus</List>
+		<List recon_name="Pipa" recon_no="135377">Pipa</List>
+		<List recon_name="Pseudhymenochirus_merlini" recon_no="401228">Pseudhymenochirus</List>
+		<List recon_name="Rhinophrynus" recon_no="37444">Rhinophrynus</List>
+		<List recon_name="Saltenia" recon_no="37438">Saltenia</List>
+		<List recon_name="Shelania_laurenti" recon_no="135373">Shelania_laurenti</List>
+		<List recon_name="Shelania_pascuali" recon_no="135372">Shelania_pascuali</List>
+		<List recon_name="Silurana" recon_no="108551">Silurana</List>
+		<List recon_name="Singidella" recon_no="135375">Singidella</List>
+		<List recon_name="Thoraciliacus" recon_no="37440">Thoraciliacus</List>
+		<List recon_name="Xenopus_laevis" recon_no="398794">Xenopus</List>
+		<List recon_name="Xenopus_romeri" recon_no="113803">Xenopus_romeri</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Trueb_et_Baez_2006a</Filename>
+	<Parent>Baez_et_Pugener_2003a</Parent>
+	<Sibling/>
+</SourceTree>

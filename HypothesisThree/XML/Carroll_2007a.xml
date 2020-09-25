@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Carroll, R. L.</List>
+		</Author>
+		<Year>2007</Year>
+		<Title>The Palaeozoic ancestry of salamanders, frogs and caecilians</Title>
+		<Journal>Zoological Journal of the Linnean Society</Journal>
+		<Volume>150</Volume>
+		<Pages>1-140</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="23">
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Ossinodus_pueri,Pederpes_finneyae,Whatcheeria_deltae" recon_no="242725;179035;92128">Whatcheeridae</List>
+		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
+		<List recon_name="Ariekanerpeton_sigalovi,Discosauriscus_austriacus,Discosauriscus_pulcherrimus,Eoherpeton_watsoni,Gephyrostegus_bohemicus,Proterogyrinus_scheelei" recon_no="346286;362531;320955;229321;137955;137378">Anthracosauroidea</List>
+		<List recon_name="Baphetes_kirkbyi,Eucritta_melanolimnetes,Kyrinion_martilli" recon_no="229310;229324;335217">Baphetidae</List>
+		<List recon_name="Caerorhachis_bairdi" recon_no="229315">Caerorhachis</List>
+		<List recon_name="Colosteus_scutellatus,Greererpeton_burkemorani,Pholidogaster_pisciformis" recon_no="344231;227037;320855">Colosteidae</List>
+		<List recon_name="Balanerpeton_woodi,Dendrerpeton_acadianum" recon_no="227178;164775">Basal_temnospondyls</List>
+		<List recon_name="Apateon_caducus,Apateon_dracyi,Apateon_gracilis,Branchiosaurus_darrahi,Branchiosaurus_salamandroides,Branchiosaurus_sp_YPM_802" recon_no="345825;345823;362797;345646;255222;37039">Branchiosauridae</List>
+		<List recon_name="Amphibamus_grandiceps,Doleserpeton_annectens" recon_no="229305;140536">Amphibamidae</List>
+		<List recon_name="Rhynchonkos_stovalli" recon_no="340743">Rhynchonkos</List>
+		<List recon_name="Acherontiscus_caledoniae" recon_no="229304">Acherontiscus</List>
+		<List recon_name="Lethiscus_stocki" recon_no="229330">Aistopoda</List>
+		<List recon_name="Adelogyrinus_simorhynchus,Adelospondylus_watsoni,Dolichopareias_disjectus,Palaeomolgophis_scoticus" recon_no="227001;229306;229319;320835">Adelospondyli</List>
+		<List recon_name="Brachydectes_elongatus,Brachydectes_newberryi" recon_no="229311;229312">Lysorophia</List>
+		<List recon_name="Utaherpeton_franklini" recon_no="227377">Microsauria</List>
+		<List recon_name="Arizonerpeton_wellsi,Ctenerpeton_remex,Diplocaulus_brevirostris,Diplocaulus_magnicornis,Diplocaulus_minimus,Diplocaulus_parvus,Diplocaulus_recurvatus,Diplocaulus_salamandroides,Diploceraspis_burkei,Keraterpeton_galvani,Keraterpeton_longtoni,Ptyonius_olisthmonaias,Sauravus_cambrayi,Sauravus_costei,Scincosaurus_crassus,Scincosaurus_spinosus,Urocordylus_scalaris,Urocordylus_wandesfordii" recon_no="156896;340039;142470;81712;147909;320826;120886;70396;227035;227370;320825;156895;320830;320829;230694;320828;227056;227065">Nectridea</List>
+		<List recon_name="Hylonomus_lyelli,Paleothyris_acadiana" recon_no="139093;138002">Early_amniotes</List>
+		<List recon_name="Albanerpeton_inexpectatum,Celtedens_ibericus" recon_no="114402;245182">Albanerpetontidae</List>
+		<List recon_name="Chunerpeton_tianyiensis,Jeholotriton_paradoxus,Karaurus_sharovi,Valdotriton_gracilis" recon_no="137502;134851;202227;111405">Urodela</List>
+		<List recon_name="Czatkobatrachus_polonicus,Triadobatrachus_massinoti" recon_no="57093;156397">Triadobatrachidae</List>
+		<List recon_name="Eodiscoglossus_santonjae,Notobatrachus_degiustoi,Palaeobatrachus_grandipes,Prosalirus_bitis,Vieraella_herbstii" recon_no="57536;156510;409534;156391;156518">Anura</List>
+		<List recon_name="Eocaecilia_micropodia" recon_no="156677">Caecilia</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="118">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Carroll_2007a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

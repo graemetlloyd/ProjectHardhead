@@ -1,0 +1,27 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=12 NCHAR=12;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Adelogyrinus                            000000000000
+Asaphestera                             110000000101
+Brachydectes                            011000000011
+Scincosaurus                            011000000101
+Lethiscus_stocki                        110100000010
+Ophiderpeton_brownriggi_et_kirktonense  110110000010
+Oestocephalus_amphiuminum               110111100010
+Phlegethontia_longissima                110110111010
+Phlegethontia_linearis                  110110111010
+Pseudophlegethontia_turnbullorum        110110101010
+Coloraderpeton_brilli                   110111100010
+Montcellian_aistopod                    110110111010
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

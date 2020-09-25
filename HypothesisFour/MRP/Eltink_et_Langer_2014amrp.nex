@@ -1,0 +1,40 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=25 NCHAR=24;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Dendrerpeton_acadianum       000000000000000000000000
+Trematopidae                 111000000000000000000000
+Dissorophidae                111000000000000000000000
+Eryops_megacephalus          011000000000000000000000
+Trimerorhachis_spp           001100000000000000000000
+Sclerocephalus_haueseri      001110000000000000000000
+Archegosaurus_decheni        001111100000000000000000
+Platyoposaurus_stuchenbergi  001111100000000000000000
+Triphosuchus                 001110111100000000000000
+Melosaurus_spp               001110100100000000000000
+Konzhukovia_vetusta          001110111100000000000000
+Peltobatrachus_pustulatus    001110101110000000000000
+Arachana_nigra               001110101111111000000000
+Australerpeton_cosgriffi     001110101110001000000000
+Rhineceps_nyasaensis         001110101110011110000000
+Rhinesuchus_broomianus       001110101110011010000000
+Uranocentrodon_senekalensis  001110101110011110000000
+Lydekkerina_huxleyi          001110101111111000000001
+Eryosuchus_pronus            001110101110111001111001
+Mastodonsaurus_giganterus    001110101110111001111001
+Benthosuchus_sushikini       001110101110111000111001
+Trematosauridae              001110101110111000011001
+Koskinonodon_perfectus       001110101110111000001111
+Rhytidosteidae               001110101110111000001011
+Pelorocephalus_spp           001110101110111000001111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Schultze, H.-P.</List>
+		</Author>
+		<Year>2004</Year>
+		<Title>Mesozoic sarcopterygians</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>463-492</Pages>
+		<Booktitle>Mesozoic Fishes 3 - Systematics, Paleoenvironments and Biodiversity</Booktitle>
+		<Publisher>Verlag Dr. Friedrich Pfeil</Publisher>
+		<City>Munchen</City>
+		<Editor>
+			<List>Arratia, G.</List>
+			<List>Tintori, A.</List>
+		</Editor>
+	</Source>
+	<Taxa number="21">
+		<List recon_name="Conchopoma_gadiforme" recon_no="259452">Conchopoma</List>
+		<List recon_name="Aphelodus_anapes" recon_no="133095">Aphelodus</List>
+		<List recon_name="Archaeoceratodus_avus" recon_no="321083">Archaeoceratodus</List>
+		<List recon_name="Arganodus_atlantis" recon_no="133890">Arganodus</List>
+		<List recon_name="Ariguna_formosa" recon_no="321067">Ariguna</List>
+		<List recon_name="Asiatoceratodus_sharovi" recon_no="194509">Asiatoceratodus</List>
+		<List recon_name="Beltanodus_ambilobensis" recon_no="321068">Beltanodus</List>
+		<List recon_name="Ceratodus_latissimus" recon_no="57672">Ceratodus</List>
+		<List recon_name="Ferganoceratodus_jurassicus" recon_no="197865">Ferganoceratodus</List>
+		<List recon_name="Gnathorhiza" recon_no="90709">Gnathorhiza</List>
+		<List recon_name="Gosfordia_truncata" recon_no="213311">Gosfordia</List>
+		<List recon_name="Lepidosiren_paradoxa" recon_no="256137">Lepidosiren</List>
+		<List recon_name="Megapleuron_rochei" recon_no="321060">Megapleuron</List>
+		<List recon_name="Metaceratodus_wollastoni" recon_no="321104">Metaceratodus</List>
+		<List recon_name="Microceratodus_angolensis" recon_no="194465">Microceratodus</List>
+		<List recon_name="Mioceratodus_gregoryi" recon_no="321115">Mioceratodus</List>
+		<List recon_name="Namatozodia_pitikanta" recon_no="133098">Namatozodia</List>
+		<List recon_name="Neoceratodus_forsteri" recon_no="194486">Neoceratodus</List>
+		<List recon_name="Paraceratodus_germaini" recon_no="194436">Paraceratodus</List>
+		<List recon_name="Protopterus_annectens" recon_no="321124">Protopterus</List>
+		<List recon_name="Ptychoceratodus_serratus" recon_no="194441">Ptychoceratodus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="56">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Schultze_2004a</Filename>
+	<Parent>Schultze_2001a</Parent>
+	<Sibling/>
+</SourceTree>

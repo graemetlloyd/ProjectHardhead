@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Klembara, J.</List>
+			<List>Steyer, J. S.</List>
+		</Author>
+		<Year>2012</Year>
+		<Title>A new species of <em>Sclerocephalus</em> (Temnospondyli: Stereospondylomorpha) from the Early Permian of the Boskovice Basin (Czech Republic)</Title>
+		<Journal>Journal of Paleontology</Journal>
+		<Volume>86</Volume>
+		<Pages>302-310</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="19">
+		<List recon_name="Cochleosaurus_bohemicus" recon_no="204052">Cochelosaurus_bohemicus</List>
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendererpeton_acadianum</List>
+		<List recon_name="Trimerorhachis_insignis" recon_no="90711">Trimerorhachis_insgnis</List>
+		<List recon_name="Capetus_palustris" recon_no="256954">Capetus_palustris</List>
+		<List recon_name="Micropholis_stowi" recon_no="255226">Micropholis_stowi</List>
+		<List recon_name="Ecolsonia_cutlerensis" recon_no="229320">Ecolsonia_cutlerensis</List>
+		<List recon_name="Acanthostomatops_vorax" recon_no="345489">Acanthostomatops_vorax</List>
+		<List recon_name="Iberospondylus_schultzei" recon_no="344739">Iberospondylus_schultzei</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops_megacephalus</List>
+		<List recon_name="Onchiodon_labyrinthicus" recon_no="66913">Onchiodon_labyrinthicus</List>
+		<List recon_name="Onchiodon_frossardi" recon_no="345644">Onchiodon_frossardi</List>
+		<List recon_name="Sclerocephalus_bavaricus" recon_no="345852">Sclerocephalus_bavaricus</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus_haeuseri</List>
+		<List recon_name="Sclerocephalus_nobilis" recon_no="345860">Sclerocephalus_nobilis</List>
+		<List recon_name="Sclerocephalus_jogischneideri" recon_no="345848">Sclerocephalus_jogischneideri</List>
+		<List recon_name="Cheliderpeton_latirostre" recon_no="345886">Cheliderpeton_latirostre</List>
+		<List recon_name="Archegosaurus_decheni" recon_no="255841">Archegosaurus_decheni</List>
+		<List recon_name="Palatinerpeton_kraetschmeri" recon_no="344538">Palatinerpeton_kraetschmeri</List>
+		<List recon_name="Sclerocephalus_stambergi" recon_no="367544">Sclerocephalus_stambergi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="54">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Klembara_et_Steyer_2012a</Filename>
+	<Parent>Schoch_et_Witzmann_2009b</Parent>
+	<Sibling/>
+</SourceTree>

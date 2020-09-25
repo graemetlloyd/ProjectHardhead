@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Eltink, E.</List>
+			<List>Langer, M. C.</List>
+		</Author>
+		<Year>2014</Year>
+		<Title>A new specimen of the temnospondyl <em>Australerpeton cosgriffi</em> from the late Permian of Brazil (Rio do Rasto Formation, Parana Basin): comparative anatomy and phylogenetic relationships</Title>
+		<Journal>Journal of Vertebrate Paleontology</Journal>
+		<Volume>34</Volume>
+		<Pages>524-538</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="25">
+		<List recon_name="Dendrerpeton_acadianum" recon_no="164775">Dendrerpeton_acadianum</List>
+		<List recon_name="Anconastes_vesperus,Phonerpeton_pricei" recon_no="136412;345308">Trematopidae</List>
+		<List recon_name="Dissorophus_multicinctus" recon_no="255227">Dissorophidae</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops_megacephalus</List>
+		<List recon_name="Trimerorhachis_insignis,Trimerorhachis_mesops,Trimerorhachis_sandovalensis" recon_no="90711;345111;345366">Trimerorhachis_spp</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus_haueseri</List>
+		<List recon_name="Archegosaurus_decheni" recon_no="255841">Archegosaurus_decheni</List>
+		<List recon_name="Platyoposaurus_stuckenbergi" recon_no="142452">Platyoposaurus_stuchenbergi</List>
+		<List recon_name="Tryphosuchus_kinelensis,Tryphosuchus_paucidens" recon_no="56483;357498">Triphosuchus</List>
+		<List recon_name="Melosaurus_kamaensis,Melosaurus_sp_PIN_2255_slash_6,Melosaurus_sp_PIN_157_slash_139,Melosaurus_sp_PIN_271_slash_100,Melosaurus_sp_PIN_271_slash_14" recon_no="357486;37063;37063;37063;37063">Melosaurus_spp</List>
+		<List recon_name="Konzhukovia_vetusta" recon_no="357495">Konzhukovia_vetusta</List>
+		<List recon_name="Peltobatrachus_pustulatus" recon_no="367348">Peltobatrachus_pustulatus</List>
+		<List recon_name="Arachana_nigra" recon_no="367352">Arachana_nigra</List>
+		<List recon_name="Australerpeton_cosgriffi" recon_no="255235">Australerpeton_cosgriffi</List>
+		<List recon_name="Rhineceps_nyasaensis" recon_no="267022">Rhineceps_nyasaensis</List>
+		<List recon_name="Rhinesuchus_broomianus" recon_no="267026">Rhinesuchus_broomianus</List>
+		<List recon_name="Uranocentrodon_senekalensis" recon_no="255236">Uranocentrodon_senekalensis</List>
+		<List recon_name="Lydekkerina_huxleyi" recon_no="255237">Lydekkerina_huxleyi</List>
+		<List recon_name="Eryosuchus_pronus" recon_no="172539">Eryosuchus_pronus</List>
+		<List recon_name="Mastodonsaurus_giganteus" recon_no="150365">Mastodonsaurus_giganterus</List>
+		<List recon_name="Benthosuchus_sushkini" recon_no="269989">Benthosuchus_sushikini</List>
+		<List recon_name="Hyperokynodon_keuperinus,Lyrocephaliscus_euri,Trematolestes_hagdorni,Trematosaurus_brauni" recon_no="180129;266625;179389;248613">Trematosauridae</List>
+		<List recon_name="Koskinonodon_perfectus" recon_no="174684">Koskinonodon_perfectus</List>
+		<List recon_name="Arcadia_myriadens,Peltostega_cf_erici_MNHN_SVT_350,Pneumatostega_potamia" recon_no="251270;37116;251507">Rhytidosteidae</List>
+		<List recon_name="Pelorocephalus_cacheutensis,Pelorocephalus_mendozensis,Pelorocephalus_tenax" recon_no="251478;251472;251476">Pelorocephalus_spp</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="133">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Eltink_et_Langer_2014a</Filename>
+	<Parent>Yates_et_Warren_2000a</Parent>
+	<Sibling/>
+</SourceTree>

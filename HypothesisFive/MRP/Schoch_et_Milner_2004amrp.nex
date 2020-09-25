@@ -1,0 +1,23 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=8 NCHAR=7;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+
+MATRIX
+
+Acanthostega  0000000
+Brachydectes  1110000
+Batropetes    0110000
+Dendrerpeton  0010000
+Doleserpeton  1111110
+Gymnophonia   1110011
+Caudata       1110111
+Salientia     1111110
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;
+

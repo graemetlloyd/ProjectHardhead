@@ -1,0 +1,26 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=11 NCHAR=8 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Diplocercides_kayseri         00000000
+Chirodipterus_wildungensis    11111100
+Dipnorhynchus_sussmilchi      11110000
+Dipterus_valenciennesi        11111000
+Rhinodipterus_kimberleyensis  11111110
+Youngolepis_praecursor        11100000
+Gogonasus_andrewsae           11000001
+Eusthenopteron_foordi         11000001
+Neoceratodus_forsteri         11111110
+Qingmenodus                   10000000
+Chirodipterus_australis       11111000
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ 	TYPESET * UNTITLED  = unord: 1-8;
+END;
+

@@ -1,0 +1,25 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=12 NCHAR=14;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Archegosaurus                   00000000000000
+Eryops                          00000000000001
+Benthosuchus                    00000000001111
+Eryosuchus                      00000000010111
+Mastodonsaurus                  00000000000011
+Parotosuchus                    00000011111111
+Watsonisuchus_aliciae           01111101111111
+Watsonisuchus_gunganj           10001101111111
+Watsonisuchus_madagascariensis  00111101111111
+Watsonisuchus_magnus            01111101111111
+Watsonisuchus_rewanensis        10011101111111
+Wetlugasaurus                   00000110111111
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

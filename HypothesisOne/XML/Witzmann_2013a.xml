@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Witzmann, F.</List>
+		</Author>
+		<Year>2013</Year>
+		<Title>The stratigraphically oldest eryopoid temnospondyl from the Permo-Carboniferous Saar-Nahe Basin, Germany</Title>
+		<Journal>Palaontologische Zeitschrift</Journal>
+		<Volume>87</Volume>
+		<Pages>259-267</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton_woodi</List>
+		<List recon_name="Cochleosaurus_bohemicus" recon_no="204052">Cochleosaurus_bohemicus</List>
+		<List recon_name="Micropholis_stowi" recon_no="255226">Micropholis_stowi</List>
+		<List recon_name="Acanthostomatops_vorax" recon_no="345489">Acanthostomatops_vorax</List>
+		<List recon_name="Iberospondylus_schultzei" recon_no="344739">Iberospondylus_schultzei</List>
+		<List recon_name="Eryops_megacephalus" recon_no="70397">Eryops_megacephalus</List>
+		<List recon_name="Onchiodon_labyrinthicus" recon_no="66913">Onchiodon_labyrinthicus</List>
+		<List recon_name="Eryopiformes_indet_POL_dash_F_2012_dash_001" recon_no="255229">Remigiusberg_mandible</List>
+		<List recon_name="Sclerocephalus_haeuseri" recon_no="255233">Sclerocephalus_haeuseri</List>
+		<List recon_name="Glanochthon_angusta" recon_no="255231">Glanochthon_angusta</List>
+		<List recon_name="Intasuchus_silvicola" recon_no="142538">Intasuchus_silvicola</List>
+		<List recon_name="Archegosaurus_decheni" recon_no="255841">Archegosaurus_decheni</List>
+		<List recon_name="Platyoposaurus_stuckenbergi" recon_no="142452">Platyoposaurus_stuckenbergi</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="59">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Witzmann_2013a</Filename>
+	<Parent>Schoch_et_Witzmann_2009a</Parent>
+	<Sibling/>
+</SourceTree>

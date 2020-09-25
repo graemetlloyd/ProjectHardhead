@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Damiani, R. J.</List>
+			<List>Warren, A.</List>
+		</Author>
+		<Year>1996</Year>
+		<Title>A new look at members of the superfamily Brachyopoidea (Amphibia, Temnospondyli) from the Early Triassic of Queensland and a preliminary analysis of brachyopoid relationships</Title>
+		<Journal>Alcheringa</Journal>
+		<Volume>20</Volume>
+		<Pages>277-300</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="13">
+		<List recon_name="Dvinosaurus_primus" recon_no="56905">Dvinosaurus</List>
+		<List recon_name="Siderops_kehli" recon_no="251254">Siderops</List>
+		<List recon_name="Keratobrachyops_australis" recon_no="251264">Keratobrachyops</List>
+		<List recon_name="Compsocerops_cosgriffi" recon_no="251480">Compsocerops</List>
+		<List recon_name="Kuttycephalus_triangularis" recon_no="251482">Kuttycephalus</List>
+		<List recon_name="Pelorocephalus_cacheutensis,Pelorocephalus_mendozensis,Pelorocephalus_tenax" recon_no="251478;251472;251476">Pelorocephalus</List>
+		<List recon_name="Batrachosuchus_browni,Batrachosuchus_concordi,Batrachosuchus_watsoni" recon_no="150351;172485;251465">Batrachosuchus</List>
+		<List recon_name="Blinasaurus_henwoodi,Blinasaurus_townrowi" recon_no="251458;251460">Blinasaurus</List>
+		<List recon_name="Bothriceps_australis" recon_no="251454">Bothriceps</List>
+		<List recon_name="Brachyops_laticeps" recon_no="251464">Brachyops</List>
+		<List recon_name="Hadrokkosaurus_bradyi" recon_no="165253">Hadrokkosaurus</List>
+		<List recon_name="Sinobrachyops_placenticephalus" recon_no="251468">Sinobrachyops</List>
+		<List recon_name="Xenobrachyops_allos" recon_no="251266">Xenobrachyops</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="15">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Damiani_et_Warren_1996a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

@@ -1,0 +1,23 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=9 NCHAR=8 ;
+	FORMAT DATATYPE=STANDARD SYMBOLS=" 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Psarolepis    00000000
+Youngolepis   10000000
+Powichthys    11000000
+Nasogaluakus  11110000
+Glytpolepis   11111000
+Holoptychius  11111110
+Laccognathus  11111111
+Porolepis     11100000
+Quebecius     11111101
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+ END;
+

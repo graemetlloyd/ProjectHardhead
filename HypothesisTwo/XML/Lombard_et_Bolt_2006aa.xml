@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Lombard, R. E.</List>
+			<List>Bolt, J. R.</List>
+		</Author>
+		<Year>2006</Year>
+		<Title>The mandible of <em>Whatcheeria deltae</em>, an early tetrapod from the late Mississippian of Iowa</Title>
+		<Journal/>
+		<Volume/>
+		<Pages>21-52</Pages>
+		<Booktitle>Amniote Paleobiology: Perspectives on the Evolution of Mammals, Birds, and Reptiles</Booktitle>
+		<Publisher>Chicago University Press</Publisher>
+		<City>Chicago</City>
+		<Editor>
+			<List>Carrano, M. T.</List>
+			<List>Gaudin, T. J.</List>
+			<List>Blob, R. W.</List>
+			<List>Wible, J. R.</List>
+		</Editor>
+	</Source>
+	<Taxa number="26">
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
+		<List recon_name="Elginerpeton_pancheni" recon_no="242709">Elginerpeton</List>
+		<List recon_name="Obruchevichthys_gracilis" recon_no="335524">Obruchevichthys</List>
+		<List recon_name="Ichthyostega_stensioei" recon_no="229326">Ichthyostega</List>
+		<List recon_name="Ventastega_curonica" recon_no="230696">Ventastega</List>
+		<List recon_name="Metaxygnathus_denticulatus" recon_no="335531">Metaxygnathus</List>
+		<List recon_name="Acanthostega_gunnari" recon_no="227000">Acanthostega</List>
+		<List recon_name="Whatcheeria_deltae" recon_no="92128">Whatcheeria</List>
+		<List recon_name="Tulerpeton_curtum" recon_no="230695">Tulerpeton</List>
+		<List recon_name="Crassigyrinus_scoticus" recon_no="229317">Crassigyrinus</List>
+		<List recon_name="Greererpeton_burkemorani" recon_no="227037">Greerepeton</List>
+		<List recon_name="Megalocephalus_pachycephalus" recon_no="345306">Megalocephalus</List>
+		<List recon_name="Pholiderpeton_scutigerum" recon_no="229337">Phopliderpeton</List>
+		<List recon_name="Cochleosaurus_bohemicus,Cochleosaurus_florensis" recon_no="204052;204062">Cochleosaurus</List>
+		<List recon_name="Phonerpeton_pricei" recon_no="345308">Phonerpeton</List>
+		<List recon_name="Eoherpeton_watsoni" recon_no="229321">Eoherpeton</List>
+		<List recon_name="Proterogyrinus_scheelei" recon_no="137378">Proteogyrinus</List>
+		<List recon_name="Gephyrostegus_bohemicus" recon_no="137955">Gephyrpstegus</List>
+		<List recon_name="Balanerpeton_woodi" recon_no="227178">Balanerpeton</List>
+		<List recon_name="Platyrhinops_lyelli" recon_no="345482">Platyrhinops</List>
+		<List recon_name="Microbrachis_pelikani" recon_no="227043">Microbrachis</List>
+		<List recon_name="Discosauriscus_austriacus" recon_no="362531">Discosauriscus</List>
+		<List recon_name="Eocaptorhinus_laticeps" recon_no="134878">Eocaptorhinus</List>
+		<List recon_name="Diploceraspis_burkei" recon_no="227035">Diploceraspis</List>
+		<List recon_name="Sauropleura_pectinata" recon_no="230692">Sauropleura</List>
+		<List recon_name="Ophiacodon_mirus" recon_no="123418">Ophiacodon</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="50">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Lombard_et_Bolt_2006aa</Filename>
+	<Parent>Ahlberg_et_Clack_1998a</Parent>
+	<Sibling/>
+</SourceTree>

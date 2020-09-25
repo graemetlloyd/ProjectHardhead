@@ -1,0 +1,24 @@
+#NEXUS
+
+BEGIN DATA;
+	DIMENSIONS  NTAX=11 NCHAR=9;
+	FORMAT SYMBOLS= " 0 1" MISSING=? GAP=- ;
+MATRIX
+
+Ptyonius          000000000
+Sauropleura       000000011
+Urocordylus       000000011
+Scincosaurus      000000101
+Keraterpeton      000001101
+Diceratosaurus    000011101
+Batrachiderpeton  000111101
+Diplocaulus       011111101
+D_minimus         111111101
+Diploceraspis     111111101
+Peronedon         001111101
+;
+END;
+
+BEGIN ASSUMPTIONS;
+	OPTIONS  DEFTYPE=unord PolyTcount=MINSTEPS ;
+END;

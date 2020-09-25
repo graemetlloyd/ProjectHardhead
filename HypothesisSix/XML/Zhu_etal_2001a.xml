@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Zhu, M.</List>
+			<List>Yu, X.-B.</List>
+			<List>Ahlberg, P. E.</List>
+		</Author>
+		<Year>2001</Year>
+		<Title>A primitive sarcopterygian fish with an eyestalk</Title>
+		<Journal>Nature</Journal>
+		<Volume>410</Volume>
+		<Pages>82-84</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="26">
+		<List recon_name="Acanthodes_bronni,Acanthodes_sulcatus" recon_no="389680;419070">Acanthodes</List>
+		<List recon_name="Achoania_jarvikii" recon_no="307008">Achoania</List>
+		<List recon_name="Osteichthyes_indet_AMF101607" recon_no="218963">AMF101607</List>
+		<List recon_name="Cheirolepis_canadensis,Cheirolepis_trailli" recon_no="218872;218871">Cheirolepis</List>
+		<List recon_name="Ctenacanthus" recon_no="34489">Ctenacanthus</List>
+		<List recon_name="Diabolepis_speratus" recon_no="372941">Diabolepis</List>
+		<List recon_name="Dicksonosteus_arcticus" recon_no="419122">Dicksonosteus</List>
+		<List recon_name="Diplocercides_davisi,Diplocercides_heiligenstockiensis,Diplocercides_jaekeli,Diplocercides_kayseri" recon_no="320874;226296;320873;226297">Diplocercides</List>
+		<List recon_name="Dipnorhynchus_suessmilchi" recon_no="372947">Dipnorhynchus</List>
+		<List recon_name="Dipterus_valenciennesi" recon_no="259292">Dipterus</List>
+		<List recon_name="Eusthenopteron_foordi" recon_no="229325">Eusthenopteron</List>
+		<List recon_name="Glyptolepis_groenlandica" recon_no="417062">Glyptolepis</List>
+		<List recon_name="Ichthyostega_stensioei" recon_no="229326">Ichthyostega</List>
+		<List recon_name="Kenichthys_campbelli" recon_no="377767">Kenichthys</List>
+		<List recon_name="Miguashaia_bureaui,Miguashaia_grossi" recon_no="320884;250035">Miguashaia</List>
+		<List recon_name="Mimia_toombsi" recon_no="218914">Mimia</List>
+		<List recon_name="Moythomasia_durgaringa,Moythomasia_nitida" recon_no="378221;218915">Moythomasia</List>
+		<List recon_name="Onychodus_sigmoides" recon_no="260580">Onychodus</List>
+		<List recon_name="Osteolepis_macrolepidotus,Osteolepis_panderi" recon_no="260270;416065">Osteolepis</List>
+		<List recon_name="Panderichthys_rhombolepis" recon_no="229336">Panderichthys</List>
+		<List recon_name="Porolepis_brevis,Porolepis_spitbergensis" recon_no="418236;418238">Porolepis</List>
+		<List recon_name="Powichthys_thorsteinssoni" recon_no="401819">Powichthys</List>
+		<List recon_name="Psarolepis_romeri" recon_no="377272">Psarolepis</List>
+		<List recon_name="Speonesydrion_iani" recon_no="391456">Speonesydrion</List>
+		<List recon_name="Uranolophus_wyomingensis" recon_no="372944">Uranolophus</List>
+		<List recon_name="Youngolepis_praecursor" recon_no="403358">Youngolepis</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="158">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Zhu_etal_2001a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>

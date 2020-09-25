@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<SourceTree>
+	<Source>
+		<Author>
+			<List>Steyer, J. S.</List>
+		</Author>
+		<Year>2002</Year>
+		<Title>The first articulated trematosaur 'amphibian' from the Lower Triassic of Madagascar: implications for the phylogeny of the group</Title>
+		<Journal>Palaeontology</Journal>
+		<Volume>45</Volume>
+		<Pages>771-793</Pages>
+		<Booktitle/>
+		<Publisher/>
+		<City/>
+		<Editor/>
+	</Source>
+	<Taxa number="18">
+		<List recon_name="Onchiodon_frossardi" recon_no="345644">Onchiodon</List>
+		<List recon_name="Almasaurus_habbazi" recon_no="71421">Almasaurus</List>
+		<List recon_name="Aphaneramma_kokeni,Aphaneramma_rostratum" recon_no="251628;266522">Aphaneramma</List>
+		<List recon_name="Archegosaurus_decheni" recon_no="255841">Archegosaurus</List>
+		<List recon_name="Benthosuchus_sushkini" recon_no="269989">Benthosuchus</List>
+		<List recon_name="Cosgriffius_campi" recon_no="165271">Cosgriffus</List>
+		<List recon_name="Dutuitosaurus_ouazzoui" recon_no="366396">Dutuitosaurus</List>
+		<List recon_name="Erythrobatrachus_noonkanbahensis" recon_no="265928">Erythrobatrachus</List>
+		<List recon_name="Inflectosaurus_amplus" recon_no="266627">Inflectosaurus</List>
+		<List recon_name="Luzocephalus_blomi" recon_no="266414">Luzocephalus</List>
+		<List recon_name="Lyrocephaliscus_euri" recon_no="266625">Lyrocephaliscus</List>
+		<List recon_name="Platystega_depressa" recon_no="266623">Platystega</List>
+		<List recon_name="Stoschiosaurus_nielseni" recon_no="266517">Stoschiosaurus</List>
+		<List recon_name="Tertrema_acuta" recon_no="266624">Tertrema</List>
+		<List recon_name="Trematosaurus_brauni" recon_no="248613">Trematosaurus</List>
+		<List recon_name="Trematosuchus_sobeyi" recon_no="266630">Trematosuchus</List>
+		<List recon_name="Wantzosaurus_elongatus" recon_no="266631">Wantzosaurus</List>
+		<List recon_name="Watsonisuchus_aliciae,Watsonisuchus_gunganj,Watsonisuchus_magnus,Watsonisuchus_rewanensis" recon_no="251274;251275;251278;251276">Watsonisuchus</List>
+	</Taxa>
+	<Characters>
+		<Molecular/>
+		<Morphological number="69">
+			<Type>Osteology</Type>
+		</Morphological>
+		<Behavioural/>
+		<Other/>
+	</Characters>
+	<Analysis>
+		<Type>Maximum Parsimony</Type>
+	</Analysis>
+	<Notes>Based on reanalysis of the original matrix.</Notes>
+	<Filename>Steyer_2002a</Filename>
+	<Parent/>
+	<Sibling/>
+</SourceTree>
