@@ -100,33 +100,47 @@ HypothesisFiveMRP <- Tree2MRP(TriphyleticLissamphibiaAnuriAndCaudataInsideTemnos
 HypothesisSixMRP <- Tree2MRP(TriphyleticLissamphibiaAnuriAndCaudataInsideTemnospondyliGymnophionaInsideLepospondyliCrownLissamphibiaParaphyleticWithRespectToAmniota)
 
 # Update outgroup from allzero to a real tetrapod taxon (Westlothiana_lizziae):
-rownames(HypothesisOneMRP$Matrix_1$Matrix) <- gsub("allzero", "Westlothiana_lizziae", rownames(HypothesisOneMRP$Matrix_1$Matrix))
-rownames(HypothesisTwoMRP$Matrix_1$Matrix) <- gsub("allzero", "Westlothiana_lizziae", rownames(HypothesisTwoMRP$Matrix_1$Matrix))
-rownames(HypothesisThreeMRP$Matrix_1$Matrix) <- gsub("allzero", "Westlothiana_lizziae", rownames(HypothesisThreeMRP$Matrix_1$Matrix))
-rownames(HypothesisFourMRP$Matrix_1$Matrix) <- gsub("allzero", "Westlothiana_lizziae", rownames(HypothesisFourMRP$Matrix_1$Matrix))
-rownames(HypothesisFiveMRP$Matrix_1$Matrix) <- gsub("allzero", "Westlothiana_lizziae", rownames(HypothesisFiveMRP$Matrix_1$Matrix))
-rownames(HypothesisSixMRP$Matrix_1$Matrix) <- gsub("allzero", "Westlothiana_lizziae", rownames(HypothesisSixMRP$Matrix_1$Matrix))
+rownames(HypothesisOneMRP$matrix_1$matrix) <- gsub("allzero", "Westlothiana_lizziae", rownames(HypothesisOneMRP$matrix_1$matrix))
+rownames(HypothesisTwoMRP$matrix_1$matrix) <- gsub("allzero", "Westlothiana_lizziae", rownames(HypothesisTwoMRP$matrix_1$matrix))
+rownames(HypothesisThreeMRP$matrix_1$matrix) <- gsub("allzero", "Westlothiana_lizziae", rownames(HypothesisThreeMRP$matrix_1$matrix))
+rownames(HypothesisFourMRP$matrix_1$matrix) <- gsub("allzero", "Westlothiana_lizziae", rownames(HypothesisFourMRP$matrix_1$matrix))
+rownames(HypothesisFiveMRP$matrix_1$matrix) <- gsub("allzero", "Westlothiana_lizziae", rownames(HypothesisFiveMRP$matrix_1$matrix))
+rownames(HypothesisSixMRP$matrix_1$matrix) <- gsub("allzero", "Westlothiana_lizziae", rownames(HypothesisSixMRP$matrix_1$matrix))
 
 # Get vector of indeterminate OTUs:
-IndeterminateOTUs <- rownames(Amphibia$FullMRPMatrix$Matrix_1$Matrix)[unlist(lapply(as.list(rownames(Amphibia$FullMRPMatrix$Matrix_1$Matrix)), function(x) length(strsplit(x, "_")[[1]]))) > 2]
+IndeterminateOTUs <- rownames(Amphibia$FullMRPMatrix$matrix_1$matrix)[unlist(lapply(as.list(rownames(Amphibia$FullMRPMatrix$matrix_1$matrix)), function(x) length(strsplit(x, "_")[[1]]))) > 2]
 
 # Get vector of OTUs with subgenera in them:
-SubgeneraOTUs <- setdiff(unique(c(rownames(HypothesisOneMRP$Matrix_1$Matrix), rownames(HypothesisTwoMRP$Matrix_1$Matrix), rownames(HypothesisThreeMRP$Matrix_1$Matrix), rownames(HypothesisFourMRP$Matrix_1$Matrix), rownames(HypothesisFiveMRP$Matrix_1$Matrix), rownames(HypothesisSixMRP$Matrix_1$Matrix))), IndeterminateOTUs)[unlist(lapply(as.list(setdiff(rownames(HypothesisOneMRP$Matrix_1$Matrix), IndeterminateOTUs)), function(x) nchar(gsub("[:a-z:]|_", "", x)))) > 1]
+SubgeneraOTUs <- setdiff(unique(c(rownames(HypothesisOneMRP$matrix_1$matrix), rownames(HypothesisTwoMRP$matrix_1$matrix), rownames(HypothesisThreeMRP$matrix_1$matrix), rownames(HypothesisFourMRP$matrix_1$matrix), rownames(HypothesisFiveMRP$matrix_1$matrix), rownames(HypothesisSixMRP$matrix_1$matrix))), IndeterminateOTUs)[unlist(lapply(as.list(setdiff(rownames(HypothesisOneMRP$matrix_1$matrix), IndeterminateOTUs)), function(x) nchar(gsub("[:a-z:]|_", "", x)))) > 1]
 
 # Get correctly formatted version of subgenus names:
 FormattedSubgeneraOTUNames <- unlist(lapply(as.list(SubgeneraOTUs), function(x) {SplitName <- strsplit(x, "")[[1]]; SubgenusPosition <- grep("[:A-Z:]", SplitName)[2]; SplitName[SubgenusPosition] <- paste("_(", SplitName[SubgenusPosition], sep = ""); SpeciesPosition <- which(SplitName == "_"); SplitName[SpeciesPosition] <- ")_"; paste(SplitName, collapse = "")}))
 
 # Get vector of all other (regular) OTUs:
-RegularOTUs <- sort(setdiff(unique(c(rownames(HypothesisOneMRP$Matrix_1$Matrix), rownames(HypothesisTwoMRP$Matrix_1$Matrix), rownames(HypothesisThreeMRP$Matrix_1$Matrix), rownames(HypothesisFourMRP$Matrix_1$Matrix), rownames(HypothesisFiveMRP$Matrix_1$Matrix), rownames(HypothesisSixMRP$Matrix_1$Matrix))), c(IndeterminateOTUs, SubgeneraOTUs)))
+RegularOTUs <- sort(setdiff(unique(c(rownames(HypothesisOneMRP$matrix_1$matrix), rownames(HypothesisTwoMRP$matrix_1$matrix), rownames(HypothesisThreeMRP$matrix_1$matrix), rownames(HypothesisFourMRP$matrix_1$matrix), rownames(HypothesisFiveMRP$matrix_1$matrix), rownames(HypothesisSixMRP$matrix_1$matrix))), c(IndeterminateOTUs, SubgeneraOTUs)))
 
 # Build matrix of all taxonomic reconciliation from XML:
 AllXML <- do.call(rbind, lapply(as.list(InclusiveDataList), function(x) metatree::ReadMetatreeXML(paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""))$SourceTree$Taxa$TagContents))
+
+# While there are multi-taxon reconciliations in the list:
+while(length(grep(",", AllXML[, "recon_name"])) > 0) {
+  
+  # Take first one:
+  TopMultiReconciliation <- grep(",", AllXML[, "recon_name"])[1]
+  
+  # Split apart and add to end:
+  AllXML <- rbind(AllXML, cbind(strsplit(AllXML[TopMultiReconciliation, "recon_name"], ",")[[1]], strsplit(AllXML[TopMultiReconciliation, "recon_no"], ";")[[1]], AllXML[TopMultiReconciliation, "ListValue"]))
+  
+  # Remove multiple version:
+  AllXML <- AllXML[-TopMultiReconciliation, ]
+  
+}
 
 # Get vector of recon numbers for OTU names:
 IndeterminateOTUReconNumbers <- AllXML[match(IndeterminateOTUs, AllXML[, "recon_name"]), "recon_no"]
 
 # Perform a database query to get the recon numbers for the non-indeterminate taxa:
-DatabaseQuery <- PaleobiologyDBTaxaQuerier("1", c(RegularOTUs, FormattedSubgeneraOTUNames))
+DatabaseQuery <- PaleobiologyDBTaxaQuerier("1", gsub("_", " ", c(RegularOTUs, FormattedSubgeneraOTUNames)))
 
 # Build recon table to draw from in building constraint tree XMLs:
 ReconTable <- cbind(c(RegularOTUs, SubgeneraOTUs, IndeterminateOTUs), c(unlist(lapply(apply(DatabaseQuery[, 1:2], 1, as.list), function(x) {x <- gsub("txn:|var:", "", unlist(x)); unname(x[!is.na(x)][1])})), IndeterminateOTUReconNumbers), c(RegularOTUs, FormattedSubgeneraOTUNames, IndeterminateOTUs))
@@ -163,31 +177,31 @@ EmptyXML$SourceTree$Sibling <- list(NULL)
 HypothesisOneXML <- HypothesisTwoXML <- HypothesisThreeXML <- HypothesisFourXML <- HypothesisFiveXML <- HypothesisSixXML <- EmptyXML
 
 # Build XMLs for every hypothesis:
-HypothesisOneXML$SourceTree$Taxa <- list(TagContents = matrix(as.vector(ReconTable[match(rownames(HypothesisOneMRP$Matrix_1$Matrix), ReconTable[, "OTUName"]), c("ReconName", "ReconNumber", "OTUName")]), ncol = 3, byrow = FALSE, dimnames = list(c(), c("recon_name", "recon_no", "ListValue"))), TagSupplement = matrix(c("number", as.character(nrow(HypothesisOneMRP$Matrix_1$Matrix))), nrow = 1, ncol = 2, dimnames = list(c(), c("Measure", "Value"))))
-HypothesisTwoXML$SourceTree$Taxa <- list(TagContents = matrix(as.vector(ReconTable[match(rownames(HypothesisTwoMRP$Matrix_1$Matrix), ReconTable[, "OTUName"]), c("ReconName", "ReconNumber", "OTUName")]), ncol = 3, byrow = FALSE, dimnames = list(c(), c("recon_name", "recon_no", "ListValue"))), TagSupplement = matrix(c("number", as.character(nrow(HypothesisTwoMRP$Matrix_1$Matrix))), nrow = 1, ncol = 2, dimnames = list(c(), c("Measure", "Value"))))
-HypothesisThreeXML$SourceTree$Taxa <- list(TagContents = matrix(as.vector(ReconTable[match(rownames(HypothesisThreeMRP$Matrix_1$Matrix), ReconTable[, "OTUName"]), c("ReconName", "ReconNumber", "OTUName")]), ncol = 3, byrow = FALSE, dimnames = list(c(), c("recon_name", "recon_no", "ListValue"))), TagSupplement = matrix(c("number", as.character(nrow(HypothesisThreeMRP$Matrix_1$Matrix))), nrow = 1, ncol = 2, dimnames = list(c(), c("Measure", "Value"))))
-HypothesisFourXML$SourceTree$Taxa <- list(TagContents = matrix(as.vector(ReconTable[match(rownames(HypothesisFourMRP$Matrix_1$Matrix), ReconTable[, "OTUName"]), c("ReconName", "ReconNumber", "OTUName")]), ncol = 3, byrow = FALSE, dimnames = list(c(), c("recon_name", "recon_no", "ListValue"))), TagSupplement = matrix(c("number", as.character(nrow(HypothesisFourMRP$Matrix_1$Matrix))), nrow = 1, ncol = 2, dimnames = list(c(), c("Measure", "Value"))))
-HypothesisFiveXML$SourceTree$Taxa <- list(TagContents = matrix(as.vector(ReconTable[match(rownames(HypothesisFiveMRP$Matrix_1$Matrix), ReconTable[, "OTUName"]), c("ReconName", "ReconNumber", "OTUName")]), ncol = 3, byrow = FALSE, dimnames = list(c(), c("recon_name", "recon_no", "ListValue"))), TagSupplement = matrix(c("number", as.character(nrow(HypothesisFiveMRP$Matrix_1$Matrix))), nrow = 1, ncol = 2, dimnames = list(c(), c("Measure", "Value"))))
-HypothesisSixXML$SourceTree$Taxa <- list(TagContents = matrix(as.vector(ReconTable[match(rownames(HypothesisSixMRP$Matrix_1$Matrix), ReconTable[, "OTUName"]), c("ReconName", "ReconNumber", "OTUName")]), ncol = 3, byrow = FALSE, dimnames = list(c(), c("recon_name", "recon_no", "ListValue"))), TagSupplement = matrix(c("number", as.character(nrow(HypothesisSixMRP$Matrix_1$Matrix))), nrow = 1, ncol = 2, dimnames = list(c(), c("Measure", "Value"))))
+HypothesisOneXML$SourceTree$Taxa <- list(TagContents = matrix(as.vector(ReconTable[match(rownames(HypothesisOneMRP$matrix_1$matrix), ReconTable[, "OTUName"]), c("ReconName", "ReconNumber", "OTUName")]), ncol = 3, byrow = FALSE, dimnames = list(c(), c("recon_name", "recon_no", "ListValue"))), TagSupplement = matrix(c("number", as.character(nrow(HypothesisOneMRP$matrix_1$matrix))), nrow = 1, ncol = 2, dimnames = list(c(), c("Measure", "Value"))))
+HypothesisTwoXML$SourceTree$Taxa <- list(TagContents = matrix(as.vector(ReconTable[match(rownames(HypothesisTwoMRP$matrix_1$matrix), ReconTable[, "OTUName"]), c("ReconName", "ReconNumber", "OTUName")]), ncol = 3, byrow = FALSE, dimnames = list(c(), c("recon_name", "recon_no", "ListValue"))), TagSupplement = matrix(c("number", as.character(nrow(HypothesisTwoMRP$matrix_1$matrix))), nrow = 1, ncol = 2, dimnames = list(c(), c("Measure", "Value"))))
+HypothesisThreeXML$SourceTree$Taxa <- list(TagContents = matrix(as.vector(ReconTable[match(rownames(HypothesisThreeMRP$matrix_1$matrix), ReconTable[, "OTUName"]), c("ReconName", "ReconNumber", "OTUName")]), ncol = 3, byrow = FALSE, dimnames = list(c(), c("recon_name", "recon_no", "ListValue"))), TagSupplement = matrix(c("number", as.character(nrow(HypothesisThreeMRP$matrix_1$matrix))), nrow = 1, ncol = 2, dimnames = list(c(), c("Measure", "Value"))))
+HypothesisFourXML$SourceTree$Taxa <- list(TagContents = matrix(as.vector(ReconTable[match(rownames(HypothesisFourMRP$matrix_1$matrix), ReconTable[, "OTUName"]), c("ReconName", "ReconNumber", "OTUName")]), ncol = 3, byrow = FALSE, dimnames = list(c(), c("recon_name", "recon_no", "ListValue"))), TagSupplement = matrix(c("number", as.character(nrow(HypothesisFourMRP$matrix_1$matrix))), nrow = 1, ncol = 2, dimnames = list(c(), c("Measure", "Value"))))
+HypothesisFiveXML$SourceTree$Taxa <- list(TagContents = matrix(as.vector(ReconTable[match(rownames(HypothesisFiveMRP$matrix_1$matrix), ReconTable[, "OTUName"]), c("ReconName", "ReconNumber", "OTUName")]), ncol = 3, byrow = FALSE, dimnames = list(c(), c("recon_name", "recon_no", "ListValue"))), TagSupplement = matrix(c("number", as.character(nrow(HypothesisFiveMRP$matrix_1$matrix))), nrow = 1, ncol = 2, dimnames = list(c(), c("Measure", "Value"))))
+HypothesisSixXML$SourceTree$Taxa <- list(TagContents = matrix(as.vector(ReconTable[match(rownames(HypothesisSixMRP$matrix_1$matrix), ReconTable[, "OTUName"]), c("ReconName", "ReconNumber", "OTUName")]), ncol = 3, byrow = FALSE, dimnames = list(c(), c("recon_name", "recon_no", "ListValue"))), TagSupplement = matrix(c("number", as.character(nrow(HypothesisSixMRP$matrix_1$matrix))), nrow = 1, ncol = 2, dimnames = list(c(), c("Measure", "Value"))))
 
 # Update character number in XMLs:
-HypothesisOneXML$SourceTree$Characters$Other$TagSupplement[, "Value"] <- as.character(ncol(HypothesisOneMRP$Matrix_1$Matrix))
-HypothesisTwoXML$SourceTree$Characters$Other$TagSupplement[, "Value"] <- as.character(ncol(HypothesisTwoMRP$Matrix_1$Matrix))
-HypothesisThreeXML$SourceTree$Characters$Other$TagSupplement[, "Value"] <- as.character(ncol(HypothesisThreeMRP$Matrix_1$Matrix))
-HypothesisFourXML$SourceTree$Characters$Other$TagSupplement[, "Value"] <- as.character(ncol(HypothesisFourMRP$Matrix_1$Matrix))
-HypothesisFiveXML$SourceTree$Characters$Other$TagSupplement[, "Value"] <- as.character(ncol(HypothesisFiveMRP$Matrix_1$Matrix))
-HypothesisSixXML$SourceTree$Characters$Other$TagSupplement[, "Value"] <- as.character(ncol(HypothesisSixMRP$Matrix_1$Matrix))
+HypothesisOneXML$SourceTree$Characters$Other$TagSupplement[, "Value"] <- as.character(ncol(HypothesisOneMRP$matrix_1$matrix))
+HypothesisTwoXML$SourceTree$Characters$Other$TagSupplement[, "Value"] <- as.character(ncol(HypothesisTwoMRP$matrix_1$matrix))
+HypothesisThreeXML$SourceTree$Characters$Other$TagSupplement[, "Value"] <- as.character(ncol(HypothesisThreeMRP$matrix_1$matrix))
+HypothesisFourXML$SourceTree$Characters$Other$TagSupplement[, "Value"] <- as.character(ncol(HypothesisFourMRP$matrix_1$matrix))
+HypothesisFiveXML$SourceTree$Characters$Other$TagSupplement[, "Value"] <- as.character(ncol(HypothesisFiveMRP$matrix_1$matrix))
+HypothesisSixXML$SourceTree$Characters$Other$TagSupplement[, "Value"] <- as.character(ncol(HypothesisSixMRP$matrix_1$matrix))
 
 # Update file names in XMLs:
 HypothesisOneXML$SourceTree$Filename <- HypothesisTwoXML$SourceTree$Filename <- HypothesisThreeXML$SourceTree$Filename <- HypothesisFourXML$SourceTree$Filename <- HypothesisFiveXML$SourceTree$Filename <- HypothesisSixXML$SourceTree$Filename <- list(TagContents = paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), TagSupplements = list(NULL))
 
 # Create copies of XML files to each hypothesis folder:
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/XML/", x, ".xml", sep = "")))
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/XML/", x, ".xml", sep = "")))
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/XML/", x, ".xml", sep = "")))
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/XML/", x, ".xml", sep = "")))
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/XML/", x, ".xml", sep = "")))
-x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to =  paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/XML/", x, ".xml", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/XML/", x, ".xml", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/XML/", x, ".xml", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/XML/", x, ".xml", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/XML/", x, ".xml", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/XML/", x, ".xml", sep = "")))
+x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/XML/", x, ".xml", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/XML/", x, ".xml", sep = "")))
 
 # Create copies of MRP files to each hypothesis folder:
 x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/MRP/", x, "mrp.nex", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MRP/", x, "mrp.nex", sep = "")))
@@ -198,12 +212,12 @@ x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Do
 x <- lapply(as.list(InclusiveDataList), function(x) file.copy(from = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/MRP/", x, "mrp.nex", sep = ""), to = paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MRP/", x, "mrp.nex", sep = "")))
 
 # Write out constraint MRPs:
-Claddis::WriteMorphNexus(HypothesisOneMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
-Claddis::WriteMorphNexus(HypothesisTwoMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
-Claddis::WriteMorphNexus(HypothesisThreeMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
-Claddis::WriteMorphNexus(HypothesisFourMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
-Claddis::WriteMorphNexus(HypothesisFiveMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
-Claddis::WriteMorphNexus(HypothesisSixMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
+Claddis::write_nexus_matrix(HypothesisOneMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
+Claddis::write_nexus_matrix(HypothesisTwoMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
+Claddis::write_nexus_matrix(HypothesisThreeMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
+Claddis::write_nexus_matrix(HypothesisFourMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
+Claddis::write_nexus_matrix(HypothesisFiveMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
+Claddis::write_nexus_matrix(HypothesisSixMRP, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MRP/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), "mrp.nex", sep = ""))
 
 # Write out XML files for each hypthesis:
 metatree::WriteMetatreeXML(HypothesisOneXML, paste("~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/XML/", paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""), ".xml", sep = ""))
@@ -222,36 +236,36 @@ HypothesisFive <- metatree::Metatree(MRPDirectory = "~/Documents/Publications/in
 HypothesisSix <- metatree::Metatree(MRPDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MRP", XMLDirectory = "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/XML", TargetClade = "Tetrapoda", InclusiveDataList = c(), ExclusiveDataList = ExclusiveDataList, MissingSpecies = "exclude", RelativeWeights = c(0, 100, 10, 1), WeightCombination = "sum", ReportContradictionsToScreen = FALSE, BackboneConstraint = paste("Constraint_", strsplit(as.character(Sys.Date()), split = "-")[[1]][1], "a", sep = ""))
 
 # Write out full matrix as NEXUS:
-Claddis::WriteMorphNexus(HypothesisOne$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/TetrapodaFull.nex")
-Claddis::WriteMorphNexus(HypothesisTwo$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/TetrapodaFull.nex")
-Claddis::WriteMorphNexus(HypothesisThree$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/TetrapodaFull.nex")
-Claddis::WriteMorphNexus(HypothesisFour$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/TetrapodaFull.nex")
-Claddis::WriteMorphNexus(HypothesisFive$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/TetrapodaFull.nex")
-Claddis::WriteMorphNexus(HypothesisSix$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/TetrapodaFull.nex")
+Claddis::write_nexus_matrix(HypothesisOne$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/TetrapodaFull.nex")
+Claddis::write_nexus_matrix(HypothesisTwo$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/TetrapodaFull.nex")
+Claddis::write_nexus_matrix(HypothesisThree$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/TetrapodaFull.nex")
+Claddis::write_nexus_matrix(HypothesisFour$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/TetrapodaFull.nex")
+Claddis::write_nexus_matrix(HypothesisFive$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/TetrapodaFull.nex")
+Claddis::write_nexus_matrix(HypothesisSix$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/TetrapodaFull.nex")
 
 # Write out full matrix as TNT:
-Claddis::WriteMorphTNT(HypothesisOne$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/TetrapodaFull.tnt")
-Claddis::WriteMorphTNT(HypothesisTwo$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/TetrapodaFull.tnt")
-Claddis::WriteMorphTNT(HypothesisThree$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/TetrapodaFull.tnt")
-Claddis::WriteMorphTNT(HypothesisFour$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/TetrapodaFull.tnt")
-Claddis::WriteMorphTNT(HypothesisFive$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/TetrapodaFull.tnt")
-Claddis::WriteMorphTNT(HypothesisSix$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/TetrapodaFull.tnt")
+Claddis::write_tnt_matrix(HypothesisOne$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/TetrapodaFull.tnt")
+Claddis::write_tnt_matrix(HypothesisTwo$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/TetrapodaFull.tnt")
+Claddis::write_tnt_matrix(HypothesisThree$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/TetrapodaFull.tnt")
+Claddis::write_tnt_matrix(HypothesisFour$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/TetrapodaFull.tnt")
+Claddis::write_tnt_matrix(HypothesisFive$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/TetrapodaFull.tnt")
+Claddis::write_tnt_matrix(HypothesisSix$FullMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/TetrapodaFull.tnt")
 
 # Write out STR matrix as NEXUS:
-Claddis::WriteMorphNexus(HypothesisOne$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/TetrapodaSTR.nex")
-Claddis::WriteMorphNexus(HypothesisTwo$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/TetrapodaSTR.nex")
-Claddis::WriteMorphNexus(HypothesisThree$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/TetrapodaSTR.nex")
-Claddis::WriteMorphNexus(HypothesisFour$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/TetrapodaSTR.nex")
-Claddis::WriteMorphNexus(HypothesisFive$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/TetrapodaSTR.nex")
-Claddis::WriteMorphNexus(HypothesisSix$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/TetrapodaSTR.nex")
+Claddis::write_nexus_matrix(HypothesisOne$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/TetrapodaSTR.nex")
+Claddis::write_nexus_matrix(HypothesisTwo$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/TetrapodaSTR.nex")
+Claddis::write_nexus_matrix(HypothesisThree$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/TetrapodaSTR.nex")
+Claddis::write_nexus_matrix(HypothesisFour$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/TetrapodaSTR.nex")
+Claddis::write_nexus_matrix(HypothesisFive$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/TetrapodaSTR.nex")
+Claddis::write_nexus_matrix(HypothesisSix$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/TetrapodaSTR.nex")
 
 # Write out STR matrix as TNT:
-Claddis::WriteMorphTNT(HypothesisOne$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/TetrapodaSTR.tnt")
-Claddis::WriteMorphTNT(HypothesisTwo$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/TetrapodaSTR.tnt")
-Claddis::WriteMorphTNT(HypothesisThree$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/TetrapodaSTR.tnt")
-Claddis::WriteMorphTNT(HypothesisFour$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/TetrapodaSTR.tnt")
-Claddis::WriteMorphTNT(HypothesisFive$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/TetrapodaSTR.tnt")
-Claddis::WriteMorphTNT(HypothesisSix$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/TetrapodaSTR.tnt")
+Claddis::write_tnt_matrix(HypothesisOne$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/TetrapodaSTR.tnt")
+Claddis::write_tnt_matrix(HypothesisTwo$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisTwo/MetatreeFiles/TetrapodaSTR.tnt")
+Claddis::write_tnt_matrix(HypothesisThree$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisThree/MetatreeFiles/TetrapodaSTR.tnt")
+Claddis::write_tnt_matrix(HypothesisFour$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFour/MetatreeFiles/TetrapodaSTR.tnt")
+Claddis::write_tnt_matrix(HypothesisFive$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisFive/MetatreeFiles/TetrapodaSTR.tnt")
+Claddis::write_tnt_matrix(HypothesisSix$STRMRPMatrix, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/TetrapodaSTR.tnt")
 
 # Write out taxonomy trees:
 ape::write.tree(HypothesisOne$TaxonomyTree, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisOne/MetatreeFiles/Taxonomy.tre")
@@ -286,12 +300,12 @@ write(HypothesisFive$CurrentVeilYear, "~/Documents/Publications/in prep/Temnospo
 write(HypothesisSix$CurrentVeilYear, "~/Documents/Publications/in prep/Temnospondyl Supertree 2 - Dan/ProjectHardhead/HypothesisSix/MetatreeFiles/VeilYear.txt")
 
 # Write out STR matrix as TNT:
-Claddis::WriteMorphTNT(HypothesisOne$STRMRPMatrix, "~/HypothesisOneSTR.tnt", add.analysis.block = FALSE)
-Claddis::WriteMorphTNT(HypothesisTwo$STRMRPMatrix, "~/HypothesisTwoSTR.tnt", add.analysis.block = FALSE)
-Claddis::WriteMorphTNT(HypothesisThree$STRMRPMatrix, "~/HypothesisThreeSTR.tnt", add.analysis.block = FALSE)
-Claddis::WriteMorphTNT(HypothesisFour$STRMRPMatrix, "~/HypothesisFourSTR.tnt", add.analysis.block = FALSE)
-Claddis::WriteMorphTNT(HypothesisFive$STRMRPMatrix, "~/HypothesisFiveSTR.tnt", add.analysis.block = FALSE)
-Claddis::WriteMorphTNT(HypothesisSix$STRMRPMatrix, "~/HypothesisSixSTR.tnt", add.analysis.block = FALSE)
+Claddis::write_tnt_matrix(HypothesisOne$STRMRPMatrix, "~/HypothesisOneSTR.tnt", add_analysis_block = FALSE)
+Claddis::write_tnt_matrix(HypothesisTwo$STRMRPMatrix, "~/HypothesisTwoSTR.tnt", add_analysis_block = FALSE)
+Claddis::write_tnt_matrix(HypothesisThree$STRMRPMatrix, "~/HypothesisThreeSTR.tnt", add_analysis_block = FALSE)
+Claddis::write_tnt_matrix(HypothesisFour$STRMRPMatrix, "~/HypothesisFourSTR.tnt", add_analysis_block = FALSE)
+Claddis::write_tnt_matrix(HypothesisFive$STRMRPMatrix, "~/HypothesisFiveSTR.tnt", add_analysis_block = FALSE)
+Claddis::write_tnt_matrix(HypothesisSix$STRMRPMatrix, "~/HypothesisSixSTR.tnt", add_analysis_block = FALSE)
 
 # Read in raw text of TNT files:
 HypothesisOneSTR <- readLines("~/HypothesisOneSTR.tnt")
@@ -316,4 +330,3 @@ write(HypothesisThreeSTR, "~/HypothesisThreeSTR.tnt")
 write(HypothesisFourSTR, "~/HypothesisFourSTR.tnt")
 write(HypothesisFiveSTR, "~/HypothesisFiveSTR.tnt")
 write(HypothesisSixSTR, "~/HypothesisSixSTR.tnt")
-
